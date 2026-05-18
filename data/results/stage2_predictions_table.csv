@@ -1,0 +1,1872 @@
+dossier_id,email_id,field,ground_truth,Regex_pred,Regex_exact,BERT_pred,BERT_exact,GPT-5.5 v3 (vision)_pred,GPT-5.5 v3 (vision)_exact
+108997013,email_182,FROM,BS/A L/DGB/DBE/A FD BGD < @mindef.nl>,BS/A L/DGB/DBE/A FD BGD < @mindef.nl>,Y,BS/A L/DGB/DBE/A FD BGD,N,BS/A L/DGB/DBE/A FD BGD < @mindef.nl>,Y
+108997013,email_182,TO,=--- BS/AL/DGB/DMLVD/OST < @mindef.nl>,=--- BS/AL/DGB/DMLVD/OST < @mindef.nl>,Y,—,N,=--- BS/AL/DGB/DMLVD/OST < @mindef.nl>,Y
+108997013,email_182,CC,BS/A L/DGB/DBE/A FD B&I < @mindef.nl>,BS/A L/DGB/DBE/A FD B&I < @mindef.nl>,Y,—,N,BS/A L/DGB/DBE/A FD B&I < @mindef.nl>,Y
+108997013,email_182,DATE,maandag 18 november 2024 16:55,maandag 18 november 2024 16:55,Y,maandag 18 november 2024 16:55,Y,maandag 18 november 2024 16:55,Y
+108997013,email_182,SUBJECT,Beoordelen Kamerbrief,Beoordelen Kamerbrief,Y,—,N,Beoordelen Kamerbrief,Y
+108997013,email_182,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_5,FROM,BS/ AL/DGB/DBE/A FD BGD,BS/ AL/DGB/DBE/A FD BGD,Y,BS/ AL/DGB/DBE/A FD BG,N,BS/ AL/DGB/DBE/A FD BGD,Y
+108997013,email_5,TO,"< ,@mindef.nl>","< ,@mindef.nl>",Y,—,N,"< ,@mindef.nl>",Y
+108997013,email_5,CC,"....:::::===----.
+<l @mindef.nl>; BS/AL/HBSG/BSG < @mindef.nl>;
+.....:==___;_-
+< @mindef . n 1> ; @mindef.nl>;
+< @mindef.nl>; @mindef.nl>;
+< mindef.nl>; BS/AL/DJZ/CI. NTRH < @mindef.nl>;
+BS/AL/HBSG/BSG < @mindef.nl>","....:::::===----.
+<l @mindef.nl>; BS/AL/HBSG/BSG < @mindef.nl>;
+.....:==___;_-
+< @mindef . n 1> ; @mindef.nl>;
+< @mindef.nl>; @mindef.nl>;
+< mindef.nl>; BS/AL/DJZ/CI. NTRH < @mindef.nl>;
+BS/AL/HBSG/BSG < @mindef.nl>",Y,—,N,"....:::::===----.
+<l @mindef.nl>; BS/AL/HBSG/BSG < @mindef.nl>;
+.....:==___;_-
+< @mindef . n 1> ; @mindef.nl>;
+< @mindef.nl>; @mindef.nl>;
+< mindef.nl>; BS/AL/DJZ/CI. NTRH < @mindef.nl>;
+BS/AL/HBSG/BSG < @mindef.nl>",Y
+108997013,email_5,DATE,dinsdag 10 december 2024 20:14,dinsdag 10 december 2024 20:14,Y,dinsdag 10 december 2024 20:14,Y,dinsdag 10 december 2024 20:14,Y
+108997013,email_5,SUBJECT,RE: Knoops brief -reactie op derde,RE: Knoops brief -reactie op derde,Y,—,N,RE: Knoops brief -reactie op derde,Y
+108997013,email_5,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_48,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_48,TO,"< ___ @mindef.nl> | _____ -- B5/AL/DGB/DBE/AFD BGD <_' _____, .,..,@--'-'-m=in..:.;:d=e""'-"".f. : ....:.:.ln>",< ___ @mindef.nl>,N,—,N,< ___ @mindef.nl>,N
+108997013,email_48,CC,—,—,Y,—,Y,—,Y
+108997013,email_48,DATE,woensdag 4 december 2024 08:03 | woensdag 4 december 2024 08:02,woensdag 4 december 2024 08:03,N,woensdag 4 december 2024 08:03 | woensdag 4 december 2024 08:02,Y,woensdag 4 december 2024 08:03,N
+108997013,email_48,SUBJECT,RE: Russische casus | Russische casus,RE: Russische casus,N,—,N,RE: Russische casus,N
+108997013,email_48,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_103,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+108997013,email_103,TO,"< @mindef.nl>; BS/A L/DJZ/CI. NTRH < @mindef.nl>;
+BS/AL/DGB/KAB < @mindef.nl>",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+108997013,email_103,CC,"@mindef.nl>; ____ - BS/ AL/DGB/KAB
+< mindef.nl>; < J@mindef.nl>;
+<. mindef.nl>",5.1.2.e,N,—,N,5.1.2.e,N
+108997013,email_103,DATE,dinsdag 26 november 2024 16:34,vrijdag 30 augustus 2024 10:17,N,vrijdag 30 augustus 2024 10:17,N,vrijdag 30 augustus 2024 10:17,N
+108997013,email_103,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Plaatsingen BBA Dordrecht,N,—,N,Plaatsingen BBA Dordrecht,N
+108997013,email_103,ATTACHMENT,—,Instroomplan BBA naar 60 - versie 2.docx,N,—,Y,Instroomplan BBA naar 60 - versie 2.docx,N
+108997013,email_198,FROM,BS/A L/DGB/DBE/A FD BGD,BS/A L/DGB/DBE/A FD BGD,Y,BS/A L/DGB/DBE/A FD BG,N,BS/A L/DGB/DBE/A FD BGD,Y
+108997013,email_198,TO,BS/AL/DJZ/CI. NTRH < @mindef.nl>,BS/AL/DJZ/CI. NTRH < @mindef.nl>,Y,BS/AL/DJZ/CI. NTRH < @mindef.nl>,Y,BS/AL/DJZ/CI. NTRH < @mindef.nl>,Y
+108997013,email_198,CC,—,—,Y,—,Y,—,Y
+108997013,email_198,DATE,donderdag 14 november 2024 14:49,donderdag 14 november 2024 14:49,Y,donderdag 14 november 2024 14:49,Y,donderdag 14 november 2024 14:49,Y
+108997013,email_198,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_198,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_253,FROM,________ BS/AL/DGB/DBE/AFD BGD <_. _____1~ ®~m=in~d=e~f.n=I>,________ BS/AL/DGB/DBE/AFD BGD <_. _____1~ ®~m=in~d=e~f.n=I>,Y,—,N,________ BS/AL/DGB/DBE/AFD BGD <_. _____1~ ®~m=in~d=e~f.n=I>,Y
+108997013,email_253,TO,"BS/ AL/DGB/DB E/EMCB <.__, ____•~ ®~m~ni~d~e~f.n~I>; BS/ A L/DG B/DB E/ AF D
+B&I~--=== mindef.nl>
+CC; BS/AL/DGB/DBE/AFD <, @mindef.nl>",—,N,"BS/ AL/DGB/DB E/EMCB <.__, ____•~ ®~m~ni~d~e~f.n~I>; BS/ A L/DG B/DB E/ AF D
+B&I~--=== mindef.nl>
+CC; BS/AL/DGB/DBE/AFD <, @mindef.nl>",Y,"BS/ AL/DGB/DB E/EMCB <.__, ____•~ ®~m~ni~d~e~f.n~I>; BS/ A L/DG B/DB E/ AF D
+B&I~--=== mindef.nl>",N
+108997013,email_253,CC,—,—,Y,—,Y,"BS/AL/DGB/DBE/AFD <, @mindef.nl>",N
+108997013,email_253,DATE,donderdag 7 november 202416:00,donderdag 7 november 202416:00,Y,donderdag 7 november 202416:00,Y,donderdag 7 november 202416:00,Y
+108997013,email_253,SUBJECT,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_253,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_250,FROM,BS/AL/DGB/DBE/EMCB < mindef.nl>,BS/AL/DGB/DBE/EMCB < mindef.nl>,Y,BS/AL/DGB/DBE/EMCB < mindef.nl>,Y,BS/AL/DGB/DBE/EMCB < mindef.nl>,Y
+108997013,email_250,TO,"BS/AL/DGB/DBE/AFD BGD < ____ @mindef.nl>;
+BS/AL/DGB/DBE/AFD B&I < @mindef.nl>","BS/AL/DGB/DBE/AFD BGD < ____ @mindef.nl>;
+BS/AL/DGB/DBE/AFD B&I < @mindef.nl>",Y,"BS/AL/DGB/DBE/AFD BGD < ____ @mindef.nl>;
+BS/AL/DGB/DBE/AFD B&I < @mindef.nl>",Y,"BS/AL/DGB/DBE/AFD BGD < ____ @mindef.nl>;
+BS/AL/DGB/DBE/AFD B&I < @mindef.nl>",Y
+108997013,email_250,CC,_______ 85/AL/DGB/DBE/AFD ___ < @mindef.nl>,_______ 85/AL/DGB/DBE/AFD ___ < @mindef.nl>,Y,—,N,_______ 85/AL/DGB/DBE/AFD ___ < @mindef.nl>,Y
+108997013,email_250,DATE,maandag 11 november 202412:22,maandag 11 november 202412:22,Y,maandag 11 november 202412:22,Y,maandag 11 november 202412:22,Y
+108997013,email_250,SUBJECT,Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_250,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_9,FROM,BS/AL/DGB/DBE/AFD B&I < @mindef.nl>,5.1.2e @belastingdienst.nl,N,—,N,5.1.2e @belastingdienst.nl,N
+108997013,email_9,TO,__ BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,"@belas~t_ni~d_ie_n_s_tn._l~-----~@belastingdienst.nl];
+5.1.2e dienst.nl 5.1.2e dienst.nl];I s.1.2e l(DB&T/AV)D 5.1.2e l@minfin.nl]",N,—,N,"@belas~t_ni~d_ie_n_s_tn._l~-----~@belastingdienst.nl];
+5.1.2e dienst.nl 5.1.2e dienst.nl];I s.1.2e l(DB&T/AV)D 5.1.2e l@minfin.nl]",N
+108997013,email_9,CC,—,5.1.2e @belastingdienstn 1 @belast1ngd1enst.nl],N,—,Y,5.1.2e @belastingdienstn 1 @belast1ngd1enst.nl],N
+108997013,email_9,DATE,dinsdag 10 december 2024 20:04,Mon 6/16/2025 11 :58:36 AM,N,Mon 6/16/2025 11,N,Mon 6/16/2025 11 :58:36 AM,N
+108997013,email_9,SUBJECT,RE: Knoops brief -reactie op derde,Doorst.: Re: Actiepunten n.a.v. koepeloverleg 10 juni,N,—,N,Doorst.: Re: Actiepunten n.a.v. koepeloverleg 10 juni,N
+108997013,email_9,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_276,FROM,BS/AL/DGB/DBE/AFD BGD <_ ___ !@mindef.nl> | < @mindef.nl>,BS/AL/DGB/DBE/AFD BGD <_ ___ !@mindef.nl>,N,BS/AL/DGB/DBE/AFD BGD <_ ___ !@mindef.nl>,N,BS/AL/DGB/DBE/AFD BGD <_ ___ !@mindef.nl>,N
+108997013,email_276,TO,"BS/AL/DJZ/Clust. INT< @mindef.nl>; BS/A L/DJZ/CI. NTRH
+< @mindef.nl> | BS/AL/DGB/KAB mindef.nl>; BS/A L/DG B/KAB
+< @mindef.nl>","BS/AL/DJZ/Clust. INT< @mindef.nl>; BS/A L/DJZ/CI. NTRH
+< @mindef.nl>",N,—,N,"BS/AL/DJZ/Clust. INT< @mindef.nl>; BS/A L/DJZ/CI. NTRH
+< @mindef.nl>",N
+108997013,email_276,CC,"BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+====----=®=m:--:i-n:~d=e':--'""nf.~l>; BS/AL/DIR DCO/DCO < @mindef_.nl>_;
+< @mindefnl>; < @mindef.nl>;
+;;;;
+@mindef.nl>; BS/AL/DGB/KAB <q .@mindef.nl>;
+BS/AL/DGB/PROJ 0GB < @mindef.nl>","BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+====----=®=m:--:i-n:~d=e':--'""nf.~l>; BS/AL/DIR DCO/DCO < @mindef_.nl>_;
+< @mindefnl>; < @mindef.nl>;
+;;;;
+@mindef.nl>; BS/AL/DGB/KAB <q .@mindef.nl>;
+BS/AL/DGB/PROJ 0GB < @mindef.nl>
+Onderwerp; 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten
+Hoi
+Zoals net besproken. Bijgevoegd Kamerverzoek 'afschrift reactie brief Verklaring Geen Bezwaar
+Ruslandspecialisten' hebben wij zojuist ontvangen.
+De commissie verzoekt uiterlijk donderdag 28 november een schriftelijke, geanonimiseerde reactie te geven.
+Graag de conceptreactie uiterlijk 21 november aanbieden bij Bureau Stukkenstroom en Parlementaire
+aangelegenheden.
+Dank alvast en groeten,
+Docnr 105",N,—,N,—,N
+108997013,email_276,DATE,donderdag 7 november 202415:32 | donderdag 7 november 202415:27,donderdag 7 november 202415:32,N,donderdag 7 november 202415:32 | donderdag 7 november 202415:27,Y,donderdag 7 november 202415:32,N
+108997013,email_276,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten | 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,N,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,N
+108997013,email_276,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_50,FROM,BS/ AL/DGB/DBE/ AFD BGD,BS/ AL/DGB/DBE/ AFD BGD,Y,BS/ AL/DGB/DBE/ AFD BG,N,BS/ AL/DGB/DBE/ AFD BGD,Y
+108997013,email_50,TO,< @mindef.nl>,< @mindef.nl>,Y,—,N,< @mindef.nl>,Y
+108997013,email_50,CC,—,—,Y,—,Y,—,Y
+108997013,email_50,DATE,dinsdag 3 december 202414:45,dinsdag 3 december 202414:45,Y,dinsdag 3 december 202414:45,Y,dinsdag 3 december 202414:45,Y
+108997013,email_50,SUBJECT,RE: Opmerkingen PDGB Verzoek TK inzake brief van een derde inzake VGB,RE: Opmerkingen PDGB Verzoek TK inzake brief van een derde inzake VGB,Y,—,N,RE: Opmerkingen PDGB Verzoek TK inzake brief van een derde inzake VGB,Y
+108997013,email_50,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_95,FROM,BS/A L/DGB/KAB < @mindef.nl>,BS/A L/DGB/KAB < @mindef.nl>,Y,BS/A L/DGB/KAB < @mindef.nl>,Y,BS/A L/DGB/KAB < @mindef.nl>,Y
+108997013,email_95,TO,"BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DGB/DBE/A FD
+< @mindef.nl>; BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+<
+BS/AL/DGB/DBE/AFD B&l","BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DGB/DBE/A FD
+< @mindef.nl>; BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+<
+BS/AL/DGB/DBE/AFD B&l",Y,"BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DGB/DBE/A FD
+< @mindef.nl>; BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+<
+BS/AL/DGB/DBE/AFD B&l",Y,"BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DGB/DBE/A FD
+< @mindef.nl>; BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+<
+BS/AL/DGB/DBE/AFD B&l",Y
+108997013,email_95,CC,—,—,Y,—,Y,—,Y
+108997013,email_95,DATE,woensdag 27 november 2024 10:57,woensdag 27 november 2024 10:57,Y,woensdag 27 november 2024 10:57,Y,woensdag 27 november 2024 10:57,Y
+108997013,email_95,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_95,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_78,FROM,BS/AL/DGB/DBE/AFD BGD,—,N,—,N,—,N
+108997013,email_78,TO,"@mindef.nl>;
+<l
+<) indef.nl>;
+--
+BS/AL/DGB/HDP/STRAT POL < mindef.nl>;
+@mindef.nl>;
+@mindef.nl>
+-
+;
+= ====:-::_"""""":::"""".B""""S.""/"" A:::L-:/-D""-I=R-- :
+D
+::
+CO/DCO
+<
+JA L/DIR DCO/DCO ==-=-indef -=-=--t:-= ~~
+ab < __o ..cr==== ,
+BS/A L/DJZ/CI. TRI-I def.nl>;
+BS/AL/DGB/DSK/lGO C @mindef.nl>","1 5.1.2e !(ENER) ; 1 5.1.2e 1 (ENER)
+Sut>Ject: Implementatie artikel 15bis, 4de lid onderdeel e (toegang tot buitengerechtelijke geschilbeslechting)
+[uë),
+Bestel 5.1.2e
+Kan ik JUiiie nog een vraag stellen over de implementatie van artikel 15bis, 4"""" lid, onderdeel e; toegang tot buitengerechtelijke geschilbeslechting?
+4. De lidstaten zorgen ervoor dat actieve afnemers die deelnemen aan energiedelen:
+e. in geval van conflicten over een overeenkomst voor energiedelen, overeenkomstig artikel 26 toegang hebben tot buitengerechtelijke
+geschillenbeslechting met andere deelnemers aan de overeenkomst voor energiedelen;
+Deze bepaling is best wel een uitdaging voor ons.
+In Neder1and zijn alle (vergunninghoudende) energieleveranciers lid van de geschillencommissie energie. Energie - De Geschillencommissie Deze
+geschilcommissie is bekend en handelt alle klachten van eindafnemers over energie af.
+Voorwaarde voor deze geschillencommissie is dat de partij waarover de klacht gaat lid is van de brancheorganisaties Energie Nederland
+(leveranciers) of Netbeheer Nederland (systeembeheerders). Ook moeten ze een KvK-registratie hebben en een rechtspersoon zijn. De kosten
+voor het indienen van een klacht zijn voor de afnemer beperkt (¤52). Voor een leverancier of systeembeheerder zijn de kosten om lid te zijn van de
+geschillencommissie echter hoog (afhankelijk van de omzet van ¤1500 tot ¤4900 ex BTW per jaar, alleen al voor de registratie, met daarnaast nog
+een bedrag per klacht). De geschillencommissie leent zich hiermee minder voor klachten tussen burgers of kleine bedrijven die energie met elkaar
+delen. Vraag is of je van eindafnemers kan verwachten dat zij zich aansluiten bij een geschilcommissie. De Nationale Ombudsman behandelt
+alleen klachten tegen de overheid en de ACM richt zich ook op bedrijven ligt om die reden minder voor de hand voor het beslechten van geschillen
+tussen burgers.
+en zit niet te wachten op het beslechten van geschillen tussen burgers.
+Vraag is hoe andere landen hiermee omgaan? Is het bijvoorbeeld denkbaar om de drempels van het vierde lid, onderdeel c (10,8 kW voor
+huishoudens en 50 kW voor appartementen, of de verhoging van het einde van het vierde lid) als ondergrens voor toegang tot geschilbeslechting te
+hanteren? Hoe kunnen wij dit praktisch invullen.
+Met vriendelijke groet,
+J
+1 5.1.28
+Ministerie van Klimaat en Groene Groei
+Directie Ener iemarkt
+Tel: s.1.2e
+5.1.2e
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. lf you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for dam age of any kind resulting trom the
+risks inherent in the electronic transmission of messa ges.
+2
+0028",N,—,N,1 5.1.2e !(ENER) ; 1 5.1.2e 1 (ENER),N
+108997013,email_78,CC,"S/AL/DGB/KAB < @mindef.nl>;
+B SI AL/DGB/DBE/ @mindef.nl>;
+@mindef.nl>;
+---------
+BS/ AL/DGB/KAB < @mindef.nl>; BS/ AL/DGB/KAB
+1
+< @mindef.nl>; BS/A L/DGB/DBE/EMCB
+< @mindef.nl>; BS/AL/DGB/DBE/AFD B&I
+@mindef.nl>; BS/ AL/DGB/DBE/ AFD BGD
+< @mindef.nl>",—,N,—,N,—,N
+108997013,email_78,DATE,vrijdag 15 november 2024 10:34,"Thursday, September 5, 2024 3:52 PM",N,"Thursday, September 5, 2024 3:52 PM",N,"Thursday, September 5, 2024 3:52 PM",N
+108997013,email_78,SUBJECT,FW: 2024 1 J 07 KV afsch1iJt reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,—,N,—,N,"Implementatie artikel 15bis, 4de lid onderdeel e (toegang tot buitengerechtelijke geschilbeslechting)",N
+108997013,email_78,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_217,FROM,_____ .__ _ BS/ AL/DGB/DBE/ AFD BGD < @mindef.nl>,_____ .__ _ BS/ AL/DGB/DBE/ AFD BGD < @mindef.nl>,Y,—,N,_____ .__ _ BS/ AL/DGB/DBE/ AFD BGD < @mindef.nl>,Y
+108997013,email_217,TO,"~=~---:'. BS/AL/DGB/DBE/EMCB < @mindef.nl>; ____ BS/AL/DGB/DBE/AFD
+B&I .::, mindef.nl>","~=~---:'. BS/AL/DGB/DBE/EMCB < @mindef.nl>; ____ BS/AL/DGB/DBE/AFD
+B&I .::, mindef.nl>",Y,—,N,"~=~---:'. BS/AL/DGB/DBE/EMCB < @mindef.nl>; ____ BS/AL/DGB/DBE/AFD
+B&I .::, mindef.nl>",Y
+108997013,email_217,CC,______ BS/AL/DGB/DBE/AFD ___ < mindef.nl>,______ BS/AL/DGB/DBE/AFD ___ < mindef.nl>,Y,—,N,______ BS/AL/DGB/DBE/AFD ___ < mindef.nl>,Y
+108997013,email_217,DATE,donderdag 7 november 2024 16:00,donderdag 7 november 2024 16:00,Y,donderdag 7 november 2024 16:00,Y,donderdag 7 november 2024 16:00,Y
+108997013,email_217,SUBJECT,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_217,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_132,FROM,"Il BS/AL/DGB/DBE/AFD BGD""","Il BS/AL/DGB/DBE/AFD BGD""",Y,"Il BS/AL/DGB/DBE/AFD BGD""",Y,"Il BS/AL/DGB/DBE/AFD BGD""",Y
+108997013,email_132,TO,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>","BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y,—,N,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y
+108997013,email_132,CC,—,—,Y,—,Y,—,Y
+108997013,email_132,DATE,"Fri, 24 Jan 2025 14:35:00 +0100","Fri, 24 Jan 2025 14:35:00 +0100",Y,"Fri, 24 Jan 2025 14:35:00 +01",N,"Fri, 24 Jan 2025 14:35:00 +0100",Y
+108997013,email_132,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_132,ATTACHMENT,20241120_reactie Tweede Kamerbrief derde inzake Verklaring van Geen Bezwaar (003).docx,20241120_reactie Tweede Kamerbrief derde inzake Verklaring van Geen Bezwaar (003).docx,Y,—,N,20241120_reactie Tweede Kamerbrief derde inzake Verklaring van Geen Bezwaar (003).docx,Y
+108997013,email_166,FROM,"BS/AL/DGB/DBE/AFD BGD""","BS/AL/DGB/DBE/AFD BGD""",Y,"BS/AL/DGB/DBE/AFD BGD""",Y,"BS/AL/DGB/DBE/AFD BGD""",Y
+108997013,email_166,TO,""" BS/AL/DIR DCO/DCO"" ""i. @mindef.nl>",""" BS/AL/DIR DCO/DCO"" ""i. @mindef.nl>",Y,—,N,""" BS/AL/DIR DCO/DCO"" ""i. @mindef.nl>",Y
+108997013,email_166,CC,—,—,Y,—,Y,—,Y
+108997013,email_166,DATE,"Fri, 24 Jan 2025 14:38:01 +0100","Fri, 24 Jan 2025 14:38:01 +0100",Y,"Fri, 24 Jan 2025 14:38:01 +01",N,"Fri, 24 Jan 2025 14:38:01 +0100",Y
+108997013,email_166,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_166,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_278,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_278,TO,"BS/AL/DGB/DBE/EMCB <- -- @mindef.nl>; BS/ AL/DGB/DBE/A FD
+B&I <l, @mindef.nl>","BS/AL/DGB/DBE/EMCB <- -- @mindef.nl>; BS/ AL/DGB/DBE/A FD
+B&I <l, @mindef.nl>",Y,"BS/AL/DGB/DBE/EMCB <- -- @mindef.nl>; BS/ AL/DGB/DBE/A FD
+B&I <l, @mindef.nl>",Y,"BS/AL/DGB/DBE/EMCB <- -- @mindef.nl>; BS/ AL/DGB/DBE/A FD
+B&I <l, @mindef.nl>",Y
+108997013,email_278,CC,BS/AL/DGB/DBE/AFD < @mindef.nl>,BS/AL/DGB/DBE/AFD < @mindef.nl>,Y,—,N,BS/AL/DGB/DBE/AFD < @mindef.nl>,Y
+108997013,email_278,DATE,donderdag 7 november 202416:00,donderdag 7 november 202416:00,Y,donderdag 7 november 202416:00,Y,donderdag 7 november 202416:00,Y
+108997013,email_278,SUBJECT,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,Fwd: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_278,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_252,FROM,"""_ _____ IIII BS/AL/DGB/DBE/EMCB"" • __ @mindef.nl>","""_ _____ IIII BS/AL/DGB/DBE/EMCB"" • __ @mindef.nl>",Y,—,N,"""_ _____ IIII BS/AL/DGB/DBE/EMCB"" • __ @mindef.nl>",Y
+108997013,email_252,TO,""" BS/A L/DGB/DBE/AFD BGD11 <l1 @mindef.nl>, 11
+BS/AL/DGB/DBE/ AFD B&I"" _jillmindef.nl>",""" BS/A L/DGB/DBE/AFD BGD11 <l1 @mindef.nl>, 11
+BS/AL/DGB/DBE/ AFD B&I"" _jillmindef.nl>",Y,"BS/A L/DGB/DBE/AFD BGD11 <l1 @mindef.nl>, 11
+BS/AL/DGB/DBE/ AFD B&I"" _jillmindef.nl>",N,""" BS/A L/DGB/DBE/AFD BGD11 <l1 @mindef.nl>, 11
+BS/AL/DGB/DBE/ AFD B&I"" _jillmindef.nl>",Y
+108997013,email_252,CC,""" BS/AL/DGB/DBE/AFD ___"" @mindef.nl>",""" BS/AL/DGB/DBE/AFD ___"" @mindef.nl>",Y,—,N,""" BS/AL/DGB/DBE/AFD ___"" @mindef.nl>",Y
+108997013,email_252,DATE,zondag 10 november 2024 om 15:15:58,zondag 10 november 2024 om 15:15:58,Y,zondag 10 november 2024 om 15:15:58,Y,zondag 10 november 2024 om 15:15:58,Y
+108997013,email_252,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_252,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_115,FROM,BS/AL/DGB/DBE/AFD BGD,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,N,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,N,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,N
+108997013,email_115,TO,"<[ @mindef.nl>; BS/ AL/DJZ/CI. NTRH < @mindef.nl>;
+C
+BS/AL/DGB/KAB @mindef.nl>","5.1.2e ei enhuis.nl>
+.C..=~C=--=:...J...__~_5._1._2e~~-1-....1..-~-----==e=i: i,;:e;.;n..:.h:..;.u;:;;.i;.;s:;.·;.:n..:.l;.>_...1;...L___ _s_. 1_.2~e ~...J..._L__~-=;;..==e=n:....:.;h:...:..u=i=s.:..:....n.:..l:.>; 1 s.1.2e 1,
+s.1.2e s.1.2e ) minezk.nl>; s.1.2e ) .=""-'--'.:.:....:...:=k.nl>
+L___ __",N,—,N,5.1.2e ei enhuis.nl>,N
+108997013,email_115,CC,"BS/ AL/DGB/KAB < @mindef.nl>; BS/ AL/DGB/KAB
+-=-::---
+< @mindef.nl>; < @mindef.nl>;
+< @mindef.nl>",—,N,—,N,"...J...__~_5._1._2e~~-1-....1..-~-----==e=i: i,;:e;.;n..:.h:..;.u;:;;.i;.;s:;.·;.:n..:.l;.>_...1;...L___ _s_. 1_.2~e ~...J..._L__~-=;;..==e=n:....:.;h:...:..u=i=s.:..:....n.:..l:.>; 1 s.1.2e 1,
+s.1.2e s.1.2e ) minezk.nl>; s.1.2e ) .= ""-'--'.:.:....:...:=k.nl>
+L___ __",N
+108997013,email_115,DATE,dinsdag 26 november 2024 16:34,"Dinsdag, 11 November, 2025 15:01",N,"Dinsdag | , 11 November, 2025 15:01",N,"Dinsdag, 11 November, 2025 15:01",N
+108997013,email_115,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: Wetsvoorstel Energie delen,N,—,N,RE: Wetsvoorstel Energie delen,N
+108997013,email_115,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_246,FROM,BS/ AL/DGB/KAB,BS/ AL/DGB/KAB,Y,BS/ AL/DGB/K,N,BS/ AL/DGB/KAB,Y
+108997013,email_246,TO,==-..... BS/Al/DGB/DBE/AFD BGD < @mindef.nl>,==-..... BS/Al/DGB/DBE/AFD BGD < @mindef.nl>,Y,—,N,==-..... BS/Al/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_246,CC,"==___;._..:;......;=- BS/ AL/DGB/KAB < @mindef.nl>;
+@mindef.nl>","==___;._..:;......;=- BS/ AL/DGB/KAB < @mindef.nl>;
+@mindef.nl>",Y,—,N,"==___;._..:;......;=- BS/ AL/DGB/KAB < @mindef.nl>;
+@mindef.nl>",Y
+108997013,email_246,DATE,donderdag 7 november 2024 15:37,donderdag 7 november 2024 15:37,Y,donderdag 7 november 2024 15:37,Y,donderdag 7 november 2024 15:37,Y
+108997013,email_246,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_246,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_204,FROM,BS/A L/DGB/DBE/A FD BGD,BS/A L/DGB/DBE/A FD BGD,Y,BS/A L/DGB/DBE/A FD BG,N,BS/A L/DGB/DBE/A FD BGD,Y
+108997013,email_204,TO,BS/AL/DJZ/CI. NTRH < @mindef.nl>,BS/AL/DJZ/CI. NTRH < @mindef.nl>,Y,BS/AL/DJZ/CI. NTRH < @mindef.nl>,Y,BS/AL/DJZ/CI. NTRH < @mindef.nl>,Y
+108997013,email_204,CC,—,—,Y,—,Y,—,Y
+108997013,email_204,DATE,donderdag 14 november 2024 14:36,donderdag 14 november 2024 14:36,Y,donderdag 14 november 2024 14:36,Y,donderdag 14 november 2024 14:36,Y
+108997013,email_204,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_204,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_123,FROM,".,__ ____ - BS/ AL/DGB/DBE/ AFD BGD <-.ï_ _____ ___..@_,_m_i_nd_e_f_nl>",".,__ ____ - BS/ AL/DGB/DBE/ AFD BGD <-.ï_ _____ ___..@_,_m_i_nd_e_f_nl>",Y,—,N,".,__ ____ - BS/ AL/DGB/DBE/ AFD BGD <-.ï_ _____ ___..@_,_m_i_nd_e_f_nl>",Y
+108997013,email_123,TO,".il
+@mindef.nl>;
+......... =---___,;;;=======---~
+BS/AL/DGB/HDP/STRAT POL < @mindef.nl>;
+@mindef. nl >;
+-====~
+@mindef.nl
+/ AL/DIR DCO/DCO --====--.-.~ == =
+'
+ab mm .n >;
+BS/A L/DJZ/Cl. TrR H q mindef.nl>; ------
+BS/AL/DGB/DSK/lGO CYBER mindef.nl>",".il
+@mindef.nl>;
+......... =---___,;;;=======---~
+BS/AL/DGB/HDP/STRAT POL < @mindef.nl>;
+@mindef. nl >;
+-====~
+@mindef.nl
+/ AL/DIR DCO/DCO --====--.-.~ == =
+'
+ab mm .n >;
+BS/A L/DJZ/Cl. TrR H q mindef.nl>; ------
+BS/AL/DGB/DSK/lGO CYBER mindef.nl>",Y,—,N,".il
+@mindef.nl>;
+......... =---___,;;;=======---~
+BS/AL/DGB/HDP/STRAT POL < @mindef.nl>;
+@mindef. nl >;
+-====~
+@mindef.nl
+/ AL/DIR DCO/DCO --====--.-.~ == =
+'
+ab mm .n >;
+BS/A L/DJZ/Cl. TrR H q mindef.nl>; ------
+BS/AL/DGB/DSK/lGO CYBER mindef.nl>",Y
+108997013,email_123,CC,"BS/ AL/DGB/KAB
+- BS/AL/DGB/DBE/AFD ___ @mindef.nl>;
+@mindef.nl>;
+BS/AL/DGB/KAB < ====;'@::,e=m~in;;;;-d;::;;e;;;;f;;;.;;n~J>; ES/AL/DGB/KAB
+@mfodef.nl>; BS/AL/DGB/DBE/EMCB
+1111
+mindef.nl>; BS/AL/DGB/DBE/AFD B&I
+< ,@mindef.nl>~;:::::====::::::.::==--- - BS/AL/DGB/DBE/AFD BGD
+<i @mindef.nl>","BS/ AL/DGB/KAB
+- BS/AL/DGB/DBE/AFD ___ @mindef.nl>;
+@mindef.nl>;
+BS/AL/DGB/KAB < ====;'@::,e=m~in;;;;-d;::;;e;;;;f;;;.;;n~J>; ES/AL/DGB/KAB
+@mfodef.nl>; BS/AL/DGB/DBE/EMCB
+1111
+mindef.nl>; BS/AL/DGB/DBE/AFD B&I
+< ,@mindef.nl>~;:::::====::::::.::==--- - BS/AL/DGB/DBE/AFD BGD
+<i @mindef.nl>
+Onderwe.-p: RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten
+Urgentie: Hoog
+Goedemorgen,
+In bijlage is de met MIVD en DJZ afgestemde Tweede Kamerbrief gevoegd, evenals de concept
+beslisnota.
+Ik zal deze ook in X-post ter parafering doorzetten.
+Indien mogelijk zou ik willen vragen of de parafering vandaag, maar uiterlijk morgenochtend zou
+kunnen plaatsvinden i.v.m. de termijn voor de beantwoording die binnenkort afloopt.
+Bij voorbaat dank hiervoor.
+M.vr.gr.",N,—,N,"BS/ AL/DGB/KAB
+- BS/AL/DGB/DBE/AFD ___ @mindef.nl>;
+@mindef.nl>;
+BS/AL/DGB/KAB < ====;'@::,e=m~in;;;;-d;::;;e;;;;f;;;.;;n~J>; ES/AL/DGB/KAB
+@mfodef.nl>; BS/AL/DGB/DBE/EMCB
+1111
+mindef.nl>; BS/AL/DGB/DBE/AFD B&I
+< ,@mindef.nl>~;:::::====::::::.::==--- - BS/AL/DGB/DBE/AFD BGD
+<i @mindef.nl>",Y
+108997013,email_123,DATE,woensdag 20 november 2024 11 :31,woensdag 20 november 2024 11 :31,Y,woensdag 20 november 2024 11 :31,Y,woensdag 20 november 2024 11 :31,Y
+108997013,email_123,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,—,N,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_123,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_144,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_144,TO,< mindef.nl>,< mindef.nl>,Y,< mindef.nl>,Y,< mindef.nl>,Y
+108997013,email_144,CC,—,—,Y,—,Y,—,Y
+108997013,email_144,DATE,woensdag 20 november 202411:51,woensdag 20 november 202411:51,Y,woensdag 20 november 202411:51,Y,woensdag 20 november 202411:51,Y
+108997013,email_144,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_144,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_61,FROM,"---- -- BS/AL/DGB/DBE/AFD BGD""","---- -- BS/AL/DGB/DBE/AFD BGD""",Y,—,N,"---- -- BS/AL/DGB/DBE/AFD BGD""",Y
+108997013,email_61,TO,""" BS/AL/DIR DCO/DCO"" -q_ @mindef.nl>
+11111",""" BS/AL/DIR DCO/DCO"" -q_ @mindef.nl>
+11111",Y,—,N,""" BS/AL/DIR DCO/DCO"" -q_ @mindef.nl>",N
+108997013,email_61,CC,—,—,Y,—,Y,—,Y
+108997013,email_61,DATE,"Fri, 24 Jan 2025 14:30:50 +0100","Fri, 24 Jan 2025 14:30:50 +0100",Y,"Fri, 24 Jan 2025 14:30:50 +01",N,"Fri, 24 Jan 2025 14:30:50 +0100",Y
+108997013,email_61,SUBJECT,FW: Opmerkingen Verzoek TK inzake brief van een derde inzake VGB,FW: Opmerkingen Verzoek TK inzake brief van een derde inzake VGB,Y,—,N,FW: Opmerkingen Verzoek TK inzake brief van een derde inzake VGB,Y
+108997013,email_61,ATTACHMENT,"3. reactie verzoek reactie brief derde inzake Verklaring van Geen Bezwaar.pdf, 2. beslisnota reactie","3. reactie verzoek reactie brief derde inzake Verklaring van Geen Bezwaar.pdf, 2. beslisnota reactie",Y,—,N,"3. reactie verzoek reactie brief derde inzake Verklaring van Geen Bezwaar.pdf | 2. beslisnota reactie
+Tweede Kamerbrief inzake brief derde VGB i.r.t. Russische banden.pdf | 2023 06 26 Beantwoording BWP SV CDA over
+wervingscampagne Defensie.docx | 2023 11 09 SV Krul (CDA} over het artikel Russische familie, Dan wordt een baan bij defensie
+heel lastig.docx | 20241121_beslisnota reactie Tweede Kamerbrief inzake brief derde VGB i.r.t. Russische banden.docx | 20241121_reactie verzoek reactie brief derde inzake Verklaring van Geen Bezwaar.TC.docx | 20241121_reactie verzoek reactie
+brief derde inzake Verklaring van Geen Bezwaar.schoon.docx",N
+108997013,email_1,FROM,85/A L/DGB/KAB,85/A L/DGB/KAB,Y,85/A L/DGB/K,N,85/A L/DGB/KAB,Y
+108997013,email_1,TO,==~ BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,==~ BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,—,N,==~ BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_1,CC,"BS/ AL/DGB/KAB < @mindef.nl>;
+< @mindef.nl>","BS/ AL/DGB/KAB < @mindef.nl>;
+< @mindef.nl>",Y,—,N,BS/ AL/DGB/KAB < @mindef.nl> | < @mindef.nl>,N
+108997013,email_1,DATE,donderdag 7 november 2024 15:37,donderdag 7 november 2024 15:37,Y,donderdag 7 november 2024 15:37,Y,donderdag 7 november 2024 15:37,Y
+108997013,email_1,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_1,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_156,FROM,"BS/AL/DGB/DBE/AFD BGD""","BS/AL/DGB/DBE/AFD BGD""",Y,"BS/AL/DGB/DBE/AFD BGD""",Y,"BS/AL/DGB/DBE/AFD BGD""",Y
+108997013,email_156,TO,""" BS/AL/DIR DCO/DCO"" -q_ @mindef.nl>",""" BS/AL/DIR DCO/DCO"" -q_ @mindef.nl>",Y,—,N,""" BS/AL/DIR DCO/DCO"" -q_ @mindef.nl>",Y
+108997013,email_156,CC,—,—,Y,—,Y,—,Y
+108997013,email_156,DATE,"Fri, 24 Jan 2025 14:37:39 +0100","Fri, 24 Jan 2025 14:37:39 +0100",Y,"Fri, 24 Jan 2025 14:37:39 +01",N,"Fri, 24 Jan 2025 14:37:39 +0100",Y
+108997013,email_156,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_156,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_274,FROM,--BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,--BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,—,N,--BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_274,TO,"=--- BS/AL/DJZ/CI. NTRH < @mindef.nl>; BS/AL/DJZ/Clust. INT
+< @mindef.nl>","=--- BS/AL/DJZ/CI. NTRH < @mindef.nl>; BS/AL/DJZ/Clust. INT
+< @mindef.nl>",Y,—,N,"=--- BS/AL/DJZ/CI. NTRH < @mindef.nl>; BS/AL/DJZ/Clust. INT
+< @mindef.nl>",Y
+108997013,email_274,CC,—,—,Y,—,Y,—,Y
+108997013,email_274,DATE,donderdag 7 november 2024 21:02,donderdag 7 november 2024 21:02,Y,donderdag 7 november 2024 21:02,Y,donderdag 7 november 2024 21:02,Y
+108997013,email_274,SUBJECT,Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_274,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_79,FROM,<l @mindef.nl>,—,N,—,N,<l @mindef.nl>,Y
+108997013,email_79,TO,"__ BS/A L/DGB/KAB < @mindef.nl>;
+BS/A L/DGB/KAB < @mindef.nl>","__ BS/A L/DGB/KAB < @mindef.nl>;
+BS/A L/DGB/KAB < @mindef.nl>",Y,"__ BS/A L/DGB/KAB < @mindef.nl>;
+BS/A L/DGB/KAB < @mindef.nl>",Y,"__ BS/A L/DGB/KAB < @mindef.nl>;
+BS/A L/DGB/KAB < @mindef.nl>",Y
+108997013,email_79,CC,"---~~- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+<; @mindef.nl>; BS/AL/DIR
+DCO/DCO < ti mindef.nl>;
+------=-------;;;= @ mindef.nl>; @mindef.nl>;
+@mindef.nl>; @mindef.nl>;
+BS/AL/DGB!KAB < @mindef.nl>; -----~ BS/ AL/DGB/PROJ DGB
+< @mindef.nl>","---~~- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+<; @mindef.nl>; BS/AL/DIR
+DCO/DCO < ti mindef.nl>;
+------=-------;;;= @ mindef.nl>; @mindef.nl>;
+@mindef.nl>; @mindef.nl>;
+BS/AL/DGB!KAB < @mindef.nl>; -----~ BS/ AL/DGB/PROJ DGB
+< @mindef.nl>",Y,—,N,"---~~- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+<; @mindef.nl>; BS/AL/DIR
+DCO/DCO < ti mindef.nl>;
+------=-------;;;= @ mindef.nl>; @mindef.nl>;
+@mindef.nl>; @mindef.nl>;
+BS/AL/DGB!KAB < @mindef.nl>; -----~ BS/ AL/DGB/PROJ DGB
+< @mindef.nl>",Y
+108997013,email_79,DATE,donderdag 7 november 2024 15:27,donderdag 7 november 2024 15:27,Y,donderdag 7 november 2024 15:27,Y,donderdag 7 november 2024 15:27,Y
+108997013,email_79,SUBJECT,2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_79,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_194,FROM,@mindef.nl>,@mindef.nl>,Y,@mindef.nl>,Y,@mindef.nl>,Y
+108997013,email_194,TO,"BS/AL/DGB/DBE/AFD BGD < @mindef.nl;;,; BS/AL/DJZ/CI. NTRH
+< @mindef.nl>","BS/AL/DGB/DBE/AFD BGD < @mindef.nl;;,; BS/AL/DJZ/CI. NTRH
+< @mindef.nl>",Y,"BS/AL/DGB/DBE/AFD BGD < @mindef.nl;;,; BS/AL/DJZ/CI. NTRH
+< @mindef.nl>",Y,"BS/AL/DGB/DBE/AFD BGD < @mindef.nl;;,; BS/AL/DJZ/CI. NTRH
+< @mindef.nl>",Y
+108997013,email_194,CC,BS/ AL/H BSG/BSG @mindef.nl>,BS/ AL/H BSG/BSG @mindef.nl>,Y,—,N,BS/ AL/H BSG/BSG @mindef.nl>,Y
+108997013,email_194,DATE,donderdag 14 november 2024 14:36,donderdag 14 november 2024 14:36,Y,donderdag 14 november 2024 14:36,Y,donderdag 14 november 2024 14:36,Y
+108997013,email_194,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rus landspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rus landspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rus landspecialisten,Y
+108997013,email_194,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_227,FROM,"Il BS/AL/DGB/DBE/AFD BGD""","Il BS/AL/DGB/DBE/AFD BGD""",Y,"Il BS/AL/DGB/DBE/AFD BGD""",Y,"Il BS/AL/DGB/DBE/AFD BGD""",Y
+108997013,email_227,TO,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>","BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y
+108997013,email_227,CC,—,—,Y,—,Y,—,Y
+108997013,email_227,DATE,"Fri, 24 Jan 2025 14:41:51 +0100","Fri, 24 Jan 2025 14:41:51 +0100",Y,"Fri, 24 Jan 2025 14:41:51 +01",N,"Fri, 24 Jan 2025 14:41:51 +0100",Y
+108997013,email_227,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_227,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_273,FROM,"Il BS/AL/DGB/DBE/AFD BGD""","Il BS/AL/DGB/DBE/AFD BGD""",Y,"Il BS/AL/DGB/DBE/AFD BGD""",Y,"Il BS/AL/DGB/DBE/AFD BGD""",Y
+108997013,email_273,TO,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>","BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",Y
+108997013,email_273,CC,—,—,Y,—,Y,—,Y
+108997013,email_273,DATE,"Fri, 24 Jan 2025 14:43:48 +0100","Fri, 24 Jan 2025 14:43:48 +0100",Y,"Fri, 24 Jan 2025 14:43:48 +01",N,"Fri, 24 Jan 2025 14:43:48 +0100",Y
+108997013,email_273,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_273,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_223,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,"BS/AL/DGB/DBE/AFD BGD < @mindef.nl>
+-",N,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_223,TO,< @mindef.nl>,< @mindef.nl>,Y,—,N,< @mindef.nl>,Y
+108997013,email_223,CC,BS/AL/DGB/DBE/AFD B&I < @mindef.nl>,BS/AL/DGB/DBE/AFD B&I < @mindef.nl>,Y,—,N,BS/AL/DGB/DBE/AFD B&I < @mindef.nl>,Y
+108997013,email_223,DATE,maandag 11 november 2024 10:11,maandag 11 november 2024 10:11,Y,maandag 11 november 2024 10:11,Y,maandag 11 november 2024 10:11,Y
+108997013,email_223,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_223,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_208,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_208,TO,"____ <-~----- l@mindef.nl>; BS/A L/DJZ/CI. NTRH
+< mindef.nl>","____ <-~----- l@mindef.nl>; BS/A L/DJZ/CI. NTRH
+< mindef.nl>",Y,—,N,"____ <-~----- l@mindef.nl>; BS/A L/DJZ/CI. NTRH
+< mindef.nl>",Y
+108997013,email_208,CC,BS/AL/HBSG/BSG mindef.nl>,BS/AL/HBSG/BSG mindef.nl>,Y,—,N,BS/AL/HBSG/BSG mindef.nl>,Y
+108997013,email_208,DATE,donderdag 14 november 2024 14:02,donderdag 14 november 2024 14:02,Y,donderdag 14 november 2024 14:02,Y,donderdag 14 november 2024 14:02,Y
+108997013,email_208,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_208,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_6,FROM,__ BS/ AL/DGB/DBE/ AFD BGD,—,N,—,N,'-------~,N
+108997013,email_6,TO,mindef.nl>,I 5.1.2e 1,N,—,N,I 5.1.2e 1,N
+108997013,email_6,CC,"-=~==--..._
+<
+< BS/A L/DJZ/CI. NTRH <
+- BS/Al/HBSG/BSG <.___ ___
+..:-...:.;===",—,N,—,N,—,N
+108997013,email_6,DATE,dinsdag 10 december 2024 20:11,woensdag 3 juli 2024 16:17,N,woensdag 3 juli 2024 16:17,N,woensdag 3 juli 2024 16:17,N
+108997013,email_6,SUBJECT,RE: Knoops brief -reactie op derde,RE: Allocatie -reconciliatie - Vlaanderen,N,—,N,RE: Allocatie -reconciliatie - Vlaanderen,N
+108997013,email_6,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_148,FROM,"< ,@mindef.nl>","< ,@mindef.nl>",Y,—,N,"< ,@mindef.nl>",Y
+108997013,email_148,TO,"BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DG B/KAB
+< @mindef.nl>
+CC; BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+< @mindef.nl>; BS/AL/DIR DCO/DCO < @mindef.nl>;
+< @mindef.nl>; < @mindef.nl>; < @mindef.nl>;
+< @mindef.nl>; BS/AL/DGB/KAB @mindef.nl>;
+BS/AL/DGB/PROJ DGB < @mindef.nl>","BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DG B/KAB
+< @mindef.nl>
+CC; BS/AL/DGB/DBE/AFD BGD < @mindef.nl>;
+< @mindef.nl>; BS/AL/DIR DCO/DCO < @mindef.nl>;
+< @mindef.nl>; < @mindef.nl>; < @mindef.nl>;
+< @mindef.nl>; BS/AL/DGB/KAB @mindef.nl>;
+BS/AL/DGB/PROJ DGB < @mindef.nl>",Y,"BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DG B/KAB
+< @mindef.nl>",N,"BS/AL/DGB/KAB < @mindef.nl>; BS/A L/DG B/KAB
+< @mindef.nl>",N
+108997013,email_148,CC,—,—,Y,—,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl> | < @mindef.nl> | BS/AL/DIR DCO/DCO < @mindef.nl> | < @mindef.nl> | < @mindef.nl> | < @mindef.nl> | < @mindef.nl> | BS/AL/DGB/KAB @mindef.nl> | BS/AL/DGB/PROJ DGB < @mindef.nl>,N
+108997013,email_148,DATE,donderdag 7 november 2024 15:27,donderdag 7 november 2024 15:27,Y,donderdag 7 november 2024 15:27,Y,donderdag 7 november 2024 15:27,Y
+108997013,email_148,SUBJECT,2024 11 07 KVafschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten,2024 11 07 KVafschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten,Y,—,N,2024 11 07 KVafschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten,Y
+108997013,email_148,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_249,FROM,BS/AL/DGB/DBE/AFO BGD,BS/AL/DGB/DBE/AFO BGD,Y,BS/AL/DGB/DBE/AFO BG,N,BS/AL/DGB/DBE/AFO BGD,Y
+108997013,email_249,TO,"== BS/AL/DGB/DBE/EMCB < __ @mindef.nl>; BS/ A L/DG B/DB E/ AF D
+B&I <i __ @mindef.nl>","== BS/AL/DGB/DBE/EMCB < __ @mindef.nl>; BS/ A L/DG B/DB E/ AF D
+B&I <i __ @mindef.nl>",Y,—,N,"== BS/AL/DGB/DBE/EMCB < __ @mindef.nl>; BS/ A L/DG B/DB E/ AF D
+B&I <i __ @mindef.nl>",Y
+108997013,email_249,CC,85/AL/DGB/DBE/AFD < @mindef.nl>,85/AL/DGB/DBE/AFD < @mindef.nl>,Y,—,N,85/AL/DGB/DBE/AFD < @mindef.nl>,Y
+108997013,email_249,DATE,maandag 11 november 2024 12:55,maandag 11 november 2024 12:55,Y,maandag 11 november 2024 12:55,Y,maandag 11 november 2024 12:55,Y
+108997013,email_249,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_249,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_263,FROM,BS/ AL/DGB/DBE/A FD BGD,BS/ AL/DGB/DBE/A FD BGD,Y,BS/ AL/DGB/DBE/A FD BG,N,BS/ AL/DGB/DBE/A FD BGD,Y
+108997013,email_263,TO,BS/AL/DGB/DBE/AFD B&I @mindef.nl>,BS/AL/DGB/DBE/AFD B&I @mindef.nl>,Y,BS/AL/DGB/DBE/AFD B&I @mindef.nl>,Y,BS/AL/DGB/DBE/AFD B&I @mindef.nl>,Y
+108997013,email_263,CC,—,—,Y,—,Y,—,Y
+108997013,email_263,DATE,maandag 11 november 202410:07,maandag 11 november 202410:07,Y,maandag 11 november 202410:07,Y,maandag 11 november 202410:07,Y
+108997013,email_263,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_263,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_185,FROM,""" BS/AL/DGB/DBE/AFD BGD"" 1 ___ @mindef.nl>",""" BS/AL/DGB/DBE/AFD BGD"" 1 ___ @mindef.nl>",Y,"BS/AL/DGB/DBE/AFD BGD"" 1 ___ @mindef.nl>",N,""" BS/AL/DGB/DBE/AFD BGD"" 1 ___ @mindef.nl>",Y
+108997013,email_185,TO,""" BS/A L/DGB/DBE/ AFD B&I"" < @mindef.nl>",""" BS/A L/DGB/DBE/ AFD B&I"" < @mindef.nl>",Y,—,N,""" BS/A L/DGB/DBE/ AFD B&I"" < @mindef.nl>",Y
+108997013,email_185,CC,—,—,Y,—,Y,—,Y
+108997013,email_185,DATE,maandag 18 november 2024 om 19:25:31,maandag 18 november 2024 om 19:25:31,Y,maandag 18 november 2024 om 19:25:31,Y,maandag 18 november 2024 om 19:25:31,Y
+108997013,email_185,SUBJECT,Re: Beslisnota brief derde inzake VGB en Russische banden,Re: Beslisnota brief derde inzake VGB en Russische banden,Y,—,N,Re: Beslisnota brief derde inzake VGB en Russische banden,Y
+108997013,email_185,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_240,FROM,____ BS/A L/DGB/KAB,____ BS/A L/DGB/KAB,Y,____ BS/A L/DGB/K,N,____ BS/A L/DGB/KAB,Y
+108997013,email_240,TO,==~---.:. BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,==~---.:. BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,—,N,==~---.:. BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_240,CC,"B5/AL/DGB/KAB < @mindef.nl>;
+< _@mindef.nl>","B5/AL/DGB/KAB < @mindef.nl>;
+< _@mindef.nl>",Y,—,N,B5/AL/DGB/KAB < @mindef.nl> | < _@mindef.nl>,N
+108997013,email_240,DATE,donderdag 7 november 2024 15:37,donderdag 7 november 2024 15:37,Y,donderdag 7 november 2024 15:37,Y,donderdag 7 november 2024 15:37,Y
+108997013,email_240,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_240,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_244,FROM,BS/AL/DGB/DBE/AFD BGD < ___ @mindef.nl>,BS/AL/DGB/DBE/AFD BGD < ___ @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < ___ @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < ___ @mindef.nl>,Y
+108997013,email_244,TO,< !@mindef.nl>,< !@mindef.nl>,Y,—,N,< !@mindef.nl>,Y
+108997013,email_244,CC,"BS/AL/DGB/DBE/AFD B&I < __,@mindef.nl>","BS/AL/DGB/DBE/AFD B&I < __,@mindef.nl>",Y,—,N,"BS/AL/DGB/DBE/AFD B&I < __,@mindef.nl>",Y
+108997013,email_244,DATE,maandag 11 november 2024 10:11,maandag 11 november 2024 10:11,Y,maandag 11 november 2024 10:11,Y,maandag 11 november 2024 10:11,Y
+108997013,email_244,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_244,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_199,FROM,"BS/AL/DJZ/CI. NTRH < """"""']@mindef.nl>","BS/AL/DJZ/CI. NTRH < """"""']@mindef.nl>",Y,"BS/AL/DJZ/CI. NTRH < """"""']@mindef.nl>",Y,"BS/AL/DJZ/CI. NTRH < """"""']@mindef.nl>",Y
+108997013,email_199,TO,"BS/AL/DGB/DBE/AFD BGD < ,@mindef.nl>","BS/AL/DGB/DBE/AFD BGD < ,@mindef.nl>",Y,BS/AL/DGB/DBE/AFD BGD,N,"BS/AL/DGB/DBE/AFD BGD < ,@mindef.nl>",Y
+108997013,email_199,CC,—,—,Y,—,Y,—,Y
+108997013,email_199,DATE,donderdag 14 november 2024 14:45,donderdag 14 november 2024 14:45,Y,donderdag 14 november 2024 14:45,Y,donderdag 14 november 2024 14:45,Y
+108997013,email_199,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_199,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_65,FROM,"Il BS/AL/DGB/DBE/AFD BGD""",5.1.2e I NVDE 5.1.2e l@nvde.nl>,N,5.1.2e I NVDE 5.1.2e l@nvde.nl>,N,5.1.2e I NVDE 5.1.2e l@nvde.nl>,N
+108997013,email_65,TO,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>","s.1.2e 5.1.2e 5.1.2e @> reenchoice.nl>; 5.1.2e
+5.1.2e a em.nl>; 5.1.2e 5.1.28 stedin.net>; ~------~ minezk.nl>",N,"s.1.2e 5.1.2e 5.1.2e @> reenchoice.nl>; 5.1.2e
+5.1.2e a em.nl>; 5.1.2e 5.1.28 stedin.net>; ~------~ minezk.nl>",N,"s.1.2e 5.1.2e 5.1.2e @> reenchoice.nl>; 5.1.2e
+5.1.2e a em.nl>; 5.1.2e 5.1.28 stedin.net>; ~------~ minezk.nl>",N
+108997013,email_65,CC,—,—,Y,—,Y,—,Y
+108997013,email_65,DATE,"Fri, 24 Jan 2025 14:31:02 +0100",woensdag 5 juni 2024 14:49,N,woensdag 5 juni 2024 14:49,N,woensdag 5 juni 2024 14:49,N
+108997013,email_65,SUBJECT,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: Energie delen,N,—,N,RE: Energie delen,N
+108997013,email_65,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_34,FROM,""" "" )?ymindef.nl>",®12¢ @mindef.nl>,N,—,N,®12¢ @mindef.nl>,N
+108997013,email_34,TO,""" BS/AL/DGB/DBE/AFD BGD"" < ,@mindef.nl>","S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",N,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e",N,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",N
+108997013,email_34,CC,""" "" < ~ mindef.nl>, "" Il <) ....,@mindef.nl>",—,N,—,N,—,N
+108997013,email_34,DATE,donderdag 5 december 2024 om 16:52:54,dinsdag 13 mei 2025 13:43,N,dinsdag 13 mei 2025 13:43 | woensdag 14 mei 2025 09:00-12:00,N,dinsdag 13 mei 2025 13:43,N
+108997013,email_34,SUBJECT,RE: Knoops brief en reactie,6e overleg bouw 2e radar toren Herwijnen,N,—,N,6e overleg bouw 2e radar toren Herwijnen,N
+108997013,email_34,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_120,FROM,__ BS/ AL/DGB/KAB @mindef.nl>,__ BS/ AL/DGB/KAB @mindef.nl>,Y,__ BS/ AL/DGB/KAB @mindef.nl>,Y,__ BS/ AL/DGB/KAB @mindef.nl>,Y
+108997013,email_120,TO,-==----== BS/A L/DGB/DBE/ AFD BGD,-==----== BS/A L/DGB/DBE/ AFD BGD,Y,"BS/A L/DGB/DBE/ AFD BGD
+CC",N,-==----== BS/A L/DGB/DBE/ AFD BGD,Y
+108997013,email_120,CC,"BS/AL/DGB/KAB -::c @mindef.nl>; ,
+BS/AL/DGB/KAB @mindef.nl>; @mindef.nl>;
+BS/AL/DJZ/Cl. NTRH @mindef.nl>","BS/AL/DGB/KAB -::c @mindef.nl>; ,
+BS/AL/DGB/KAB @mindef.nl>; @mindef.nl>;
+BS/AL/DJZ/Cl. NTRH @mindef.nl>",Y,—,N,BS/AL/DGB/KAB -::c @mindef.nl> | BS/AL/DGB/KAB @mindef.nl> | @mindef.nl> | BS/AL/DJZ/Cl. NTRH @mindef.nl>,N
+108997013,email_120,DATE,vrijdag 22 november2024 13:18,vrijdag 22 november2024 13:18,Y,vrijdag 22 november2024 13:18,Y,vrijdag 22 november2024 13:18,Y
+108997013,email_120,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_120,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_190,FROM,"BS/AL/DGB/DBE/AFD BGD"" | BS/ AL/DGB/DBE/ AFD BGD < @mindef.nl>","BS/AL/DGB/DBE/AFD BGD""",N,"BS/AL/DGB/DBE/AFD BGD""",N,"BS/AL/DGB/DBE/AFD BGD""",N
+108997013,email_190,TO,"11 BS/Al/DIR DCO/DCO"" < @mindef.nl> | BS/AL/DGB/DBE/AFD B&I < @mindef.nl>
+==;;........","11 BS/Al/DIR DCO/DCO"" < @mindef.nl>",N,"11 BS/Al/DIR DCO/DCO"" < @mindef.nl>",N,"11 BS/Al/DIR DCO/DCO"" < @mindef.nl>",N
+108997013,email_190,CC,"BS/AL/DGB/DBE/EMCB < @mindef.nl>; ----~- BS/AL/DGB/DBE/AFD
+< @mindef.nl>","BS/AL/DGB/DBE/EMCB < @mindef.nl>; ----~- BS/AL/DGB/DBE/AFD
+< @mindef.nl>
+-Onderwerp: Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten
+Beslisnota maak ik nog en zal het opnemen.
+Gr.",N,—,N,—,N
+108997013,email_190,DATE,"Fri, 24 Jan 2025 14:40:15 +0100 | vrijdag 15 november 2024 08:34","Fri, 24 Jan 2025 14:40:15 +0100",N,"Fri, 24 Jan 2025 14:40:15 +01 | vrijdag 15 november 2024 08:34",N,"Fri, 24 Jan 2025 14:40:15 +0100",N
+108997013,email_190,SUBJECT,"FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten | Re: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten
+Beslisnota maak ik nog en zal het opnemen.
+Gr.",FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,N,—,N,FW: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,N
+108997013,email_190,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_42,FROM,"BS/AL/DGB/DBE/AFD BGD""",5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,N
+108997013,email_42,TO,"11 BS/AL/DIR DCO/DCO"" < @mindef.nl>",5.1.2e ) (VDI/M&A),N,—,N,5.1.2e ) (VDI/M&A),N
+108997013,email_42,CC,—,"5.1.2e ) (VDI/M&A) minfin.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e minfin.nl>",N,—,Y,5.1.2e ) (VDI/M&A) minfin.nl> | 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl> | 5.1.2e 5.1.2e minezk.nl> | 5.1.2e ) (VDI/M&A) 5.1.2e minfin.nl>,N
+108997013,email_42,DATE,"Fri, 24 Jan 2025 14:27:35 +0100",maandag 8 juli 2024 11:0~8_ __,N,maandag 8 juli 2024 11:0~8_,N,maandag 8 juli 2024 11:0~8_ __,N
+108997013,email_42,SUBJECT,FW: Russische casus,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N
+108997013,email_42,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_221,FROM,BS/A L/DGB/DBE/A FD BGD,BS/A L/DGB/DBE/A FD BGD,Y,BS/A L/DGB/DBE/A FD BG,N,BS/A L/DGB/DBE/A FD BGD,Y
+108997013,email_221,TO,___ < @mindef.nl>; < @mindef.nl>,___ < @mindef.nl>; < @mindef.nl>,Y,—,N,___ < @mindef.nl>; < @mindef.nl>,Y
+108997013,email_221,CC,BS/AL/DGB/DBE/AFD B&I < @mindef.nl>,BS/AL/DGB/DBE/AFD B&I < @mindef.nl>,Y,—,N,BS/AL/DGB/DBE/AFD B&I < @mindef.nl>,Y
+108997013,email_221,DATE,dinsdag 12 november 202419:22,dinsdag 12 november 202419:22,Y,dinsdag 12 november 202419:22,Y,dinsdag 12 november 202419:22,Y
+108997013,email_221,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_221,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_243,FROM,< @mindef.nl>,< @mindef.nl>,Y,—,N,< @mindef.nl>,Y
+108997013,email_243,TO,=-~- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>; < @mindef.nl>,=-~- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>; < @mindef.nl>,Y,—,N,=-~- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>; < @mindef.nl>,Y
+108997013,email_243,CC,BS/ AL/DGB/DBE/A FD B&I < @mindef.nl>,BS/ AL/DGB/DBE/A FD B&I < @mindef.nl>,Y,—,N,BS/ AL/DGB/DBE/A FD B&I < @mindef.nl>,Y
+108997013,email_243,DATE,maandag 11 november 2024 13:10,maandag 11 november 2024 13:10,Y,maandag 11 november 2024 13:10,Y,maandag 11 november 2024 13:10,Y
+108997013,email_243,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_243,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_32,FROM,"Il BS/AL/DGB/DBE/AFD BGD""",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+108997013,email_32,TO,"BS/AL/DIR DCO/DCO"" <;'. @mindef.nl>",—,N,—,N,—,N
+108997013,email_32,CC,—,—,Y,—,Y,—,Y
+108997013,email_32,DATE,"Fri, 24 Jan 2025 14:27:05 +0100",woensdag 3 juli 2024 09:25,N,woensdag 3 juli 2024 09:25 | do 4-7-2024 14:00,N,woensdag 3 juli 2024 09:25,N
+108997013,email_32,SUBJECT,FW: Knoops brief en reactie,stavaza wachttijden verlof/BBA/PP 3-7-2024,N,—,N,stavaza wachttijden verlof/BBA/PP 3-7-2024,N
+108997013,email_32,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_73,FROM,"11 BS/AL/DGB/DBE/AFDBGD"" < mindef.nl>",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+108997013,email_73,TO,""" BS/A L/DGB/KAB"" < --@mindef.nl>",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+108997013,email_73,CC,""" BS/A L/DGB/KAB 11 @mindef.nl>, ""
+BS/AL/DGB/KAB"" ,@mindef.nl>, 11 ""
+BS/AL/DJZ/CI. NTRH"" < @mindef.nl>,
+@mindef.nl>
+Il --",—,N,—,N,—,N
+108997013,email_73,DATE,vrijdag 22 november 2024 om 13:27:31 -,dinsdag 13 augustus 2024 15:40,N,dinsdag 13 augustus 2024 15:40,N,dinsdag 13 augustus 2024 15:40,N
+108997013,email_73,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: Probleembeschrijving BBA.docx,N,—,N,RE: Probleembeschrijving BBA.docx,N
+108997013,email_73,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_82,FROM,BS/Al/DGB/DBE/AFD BGD < @mindef.nl>,512,N,—,N,512,N
+108997013,email_82,TO,"_____ < mindef.nl>; _____ BS/ AL/DJZ/Cl. NTRH < @mindef.nl>; -------
+BS/AL/DGB/KAB < @mindef.nl>",' 12e @mindef.nl' <512¢ mindef.nl>; 5428 <s12e @rijksoverheid.nl>,N,—,N,' 12e @mindef.nl' <512¢ mindef.nl>; 5428 <s12e @rijksoverheid.nl>,N
+108997013,email_82,CC,"BS/AL/DGB/KAB <' @mindef.nl>; BS/ AL/DGB/KAB
+<___ @mindef.nl>; < @mindef.nl>;
+< mindef.nl>",5126 @bam.com; S428 </ba2e) @rijksoverheid.nl>,N,—,N,5126 @bam.com | S428 </ba2e) @rijksoverheid.nl>,N
+108997013,email_82,DATE,woensdag 27 november 2024 08:36,maandag 14 juli 2025 17:19,N,maandag 14 juli 2025 17:19,N,maandag 14 juli 2025 17:19,N
+108997013,email_82,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,N,—,N,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,N
+108997013,email_82,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_196,FROM,< mindef.nl>,< mindef.nl>,Y,—,N,< mindef.nl>,Y
+108997013,email_196,TO,"BS/AL/DGB/KAB < @mindef.nl>; lil BS/A L/DG B/KAB
+BS/AL/DGB/DBE/AFD BGD <' indef.nl>;
+< @mindef.nl>; BS/AL/DIR 0CO/DCO <• @mindef.nl
+:-======......;=-
+< ==-------,,=-------·@~ m_i~n= d~ ef ~.n ~I >; mindef. nl ____ <~_..=:---:""~ ~--=----~
+< =-- def.nl>; 85/AL/DGB/KAB <
+BS/AL/DGB/PROJ DGB < @mindef.nl>","BS/AL/DGB/KAB < @mindef.nl>; lil BS/A L/DG B/KAB
+BS/AL/DGB/DBE/AFD BGD <' indef.nl>;
+< @mindef.nl>; BS/AL/DIR 0CO/DCO <• @mindef.nl
+:-======......;=-
+< ==-------,,=-------·@~ m_i~n= d~ ef ~.n ~I >; mindef. nl ____ <~_..=:---:""~ ~--=----~
+< =-- def.nl>; 85/AL/DGB/KAB <
+BS/AL/DGB/PROJ DGB < @mindef.nl>",Y,"BS/AL/DGB/KAB < @mindef.nl>; lil BS/A L/DG B/KAB
+BS/AL/DGB/DBE/AFD BGD <' indef.nl>;
+< @mindef.nl>; BS/AL/DIR 0CO/DCO <• @mindef.nl
+:-======......;=-
+< ==-------,,=-------·@~ m_i~n= d~ ef ~.n ~I >; mindef. nl ____ <~_..=:---:""~ ~--=----~
+< =-- def.nl>; 85/AL/DGB/KAB <
+BS/AL/DGB/PROJ DGB < @mindef.nl>",Y,"BS/AL/DGB/KAB < @mindef.nl>; lil BS/A L/DG B/KAB
+BS/AL/DGB/DBE/AFD BGD <' indef.nl>;
+< @mindef.nl>; BS/AL/DIR 0CO/DCO <• @mindef.nl
+:-======......;=-
+< ==-------,,=-------·@~ m_i~n= d~ ef ~.n ~I >; mindef. nl ____ <~_..=:---:""~ ~--=----~
+< =-- def.nl>; 85/AL/DGB/KAB <
+BS/AL/DGB/PROJ DGB < @mindef.nl>",Y
+108997013,email_196,CC,—,—,Y,—,Y,—,Y
+108997013,email_196,DATE,donderdag 7 november 2024 15:27,donderdag 7 november 2024 15:27,Y,donderdag 7 november 2024 15:27,Y,donderdag 7 november 2024 15:27,Y
+108997013,email_196,SUBJECT,2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten,2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten,Y,—,N,2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Rusland specialisten,Y
+108997013,email_196,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_211,FROM,BS/ AL/DGB/DBE/ AFD BGD,BS/ AL/DGB/DBE/ AFD BGD,Y,BS/ AL/DGB/DBE/ AFD BG,N,BS/ AL/DGB/DBE/ AFD BGD,Y
+108997013,email_211,TO,"BS/AL/DGB/DBE/EMCB < @mindef.nl>; BS/ AL/DGB/DBE/ AFD
+@mindef.nl>
+BS/ AL/DGB/DBE/ AFD < @mindef.nl>",—,N,"BS/AL/DGB/DBE/EMCB < @mindef.nl>; BS/ AL/DGB/DBE/ AFD
+@mindef.nl>
+BS/ AL/DGB/DBE/ AFD < @mindef.nl>",Y,"BS/AL/DGB/DBE/EMCB < @mindef.nl>; BS/ AL/DGB/DBE/ AFD
+@mindef.nl>",N
+108997013,email_211,CC,—,—,Y,—,Y,BS/ AL/DGB/DBE/ AFD < @mindef.nl>,N
+108997013,email_211,DATE,dinsdag 12 november 2024 20:56,dinsdag 12 november 2024 20:56,Y,dinsdag 12 november 2024 20:56,Y,dinsdag 12 november 2024 20:56,Y
+108997013,email_211,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_211,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_222,FROM,< @mindef.nl>,< @mindef.nl>,Y,—,N,< @mindef.nl>,Y
+108997013,email_222,TO,=--- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>; - <. @mindef.nl>,=--- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>; - <. @mindef.nl>,Y,—,N,=--- BS/AL/DGB/DBE/AFD BGD < @mindef.nl>; - <. @mindef.nl>,Y
+108997013,email_222,CC,BS/AL/DGB/DBE/AFD B&I < __J@mindef.nl>,BS/AL/DGB/DBE/AFD B&I < __J@mindef.nl>,Y,—,N,BS/AL/DGB/DBE/AFD B&I < __J@mindef.nl>,Y
+108997013,email_222,DATE,maandag 11 november 2024 13:10,maandag 11 november 2024 13:10,Y,maandag 11 november 2024 13:10,Y,maandag 11 november 2024 13:10,Y
+108997013,email_222,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_222,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_259,FROM,BS/AL/DGB/KAB @mindef.nl>,BS/AL/DGB/KAB @mindef.nl>,Y,BS/AL/DGB/KAB @mindef.nl>,Y,BS/AL/DGB/KAB @mindef.nl>,Y
+108997013,email_259,TO,==::::;-;:::= BS/AL/DGB/DBE/AFD BGD <·,==::::;-;:::= BS/AL/DGB/DBE/AFD BGD <·,Y,—,N,==::::;-;:::= BS/AL/DGB/DBE/AFD BGD <·,Y
+108997013,email_259,CC,"- 85/AL/DGB/KAB<~;:;=:::::::--~- ==---- BS/ Al/DGB/DBE/ AFD
+< @mindef.nl>;
+--==-- ---- ----=-===-=---
+< @mindef.nl>; BS/AL/DGB/DBE < @mindef.nl>;
+@mindef.nl>","- 85/AL/DGB/KAB<~;:;=:::::::--~- ==---- BS/ Al/DGB/DBE/ AFD
+< @mindef.nl>;
+--==-- ---- ----=-===-=---
+< @mindef.nl>; BS/AL/DGB/DBE < @mindef.nl>;
+@mindef.nl>",Y,—,N,"- 85/AL/DGB/KAB<~;:;=:::::::--~- ==---- BS/ Al/DGB/DBE/ AFD
+< @mindef.nl>;
+--==-- ---- ----=-===-=---
+< @mindef.nl>; BS/AL/DGB/DBE < @mindef.nl>;
+@mindef.nl>",Y
+108997013,email_259,DATE,maandag 11 november 202410:02,maandag 11 november 202410:02,Y,maandag 11 november 202410:02,Y,maandag 11 november 202410:02,Y
+108997013,email_259,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialfsten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialfsten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialfsten,Y
+108997013,email_259,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_151,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,Y
+108997013,email_151,TO,BS/ AL/DIR DCO/DCO < @mindef.nl>,BS/ AL/DIR DCO/DCO < @mindef.nl>,Y,BS/ AL/DIR DCO/DCO < @mindef.nl>,Y,BS/ AL/DIR DCO/DCO < @mindef.nl>,Y
+108997013,email_151,CC,—,—,Y,—,Y,—,Y
+108997013,email_151,DATE,woensdag 20 november 2024 11:38,woensdag 20 november 2024 11:38,Y,woensdag 20 november 2024 11:38,Y,woensdag 20 november 2024 11:38,Y
+108997013,email_151,SUBJECT,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y,—,N,RE: 2024 11 07 KV afschrift reactie brief Verklaring Geen Bezwaar Ruslandspecialisten,Y
+108997013,email_151,ATTACHMENT,—,—,Y,—,Y,—,Y
+108997013,email_45,FROM,BS/AL/DGB/DBE/AFD BGD < @mindef.nl>,1 5.1.2e Il (VDI/M&A) 4 5.1.2e l@minfin.nl>,N,1 5.1.2e Il,N,1 5.1.2e Il (VDI/M&A) 4 5.1.2e l@minfin.nl>,N
+108997013,email_45,TO,< ___ @mindef.nl>,"5.1.2e 5.1.2e ) 5.1.2e L__ __ s_. 1_.2~e_ __J Li__~_;=.:.:.:.:.:.:.:::.=.:,:.;,.:--~",N,"5.1.2e 5.1.2e ) 5.1.2e L__ __ s_. 1_.2~e_ __J Li__~_;=.:.:.:.:.:.:.:::.=.:,:.;,.:--~
+CC: 5.1.2e",N,"5.1.2e 5.1.2e ) 5.1.2e L__ __ s_. 1_.2~e_ __J Li__~_;=.:.:.:.:.:.:.:::.=.:,:.;,.:--~",N
+108997013,email_45,CC,—,"5.1.2e ) (VDI/M&A) minfin.nl>;~ -----~ minfin.nl>;
+5.1.2e ) (VDI/M&A) < minfin.nl>",N,—,Y,5.1.2e ) (VDI/M&A) minfin.nl> | ~ -----~ minfin.nl> | 5.1.2e ) (VDI/M&A) < minfin.nl>,N
+108997013,email_45,DATE,woensdag 4 december 2024 15:10,dinsdag 11 juni 202419:56,N,dinsdag 11 juni 202419:56,N,dinsdag 11 juni 202419:56,N
+108997013,email_45,SUBJECT,RE: Russische casus,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N
+108997013,email_45,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_43,FROM,512 <512¢€ @nvwa.nl> 512i,512 <512¢€ @nvwa.nl> 512i,Y,512 <512¢€ @nvwa.nl> 512i,Y,512 <512¢€ @nvwa.nl> 512i,Y
+125051652,email_43,TO,512i < 812i @nvwa.nl>,512i < 812i @nvwa.nl>,Y,512i < 812i @nvwa.nl>,Y,512i < 812i @nvwa.nl>,Y
+125051652,email_43,CC,"542i < 512 @NVWA.nl>; 512i
+
+< 512i @nvwa.nl>","542i < 512 @NVWA.nl>; 512i
+
+< 512i @nvwa.nl>",Y,—,N,"542i < 512 @NVWA.nl> | 512i
+
+< 512i @nvwa.nl>",N
+125051652,email_43,DATE,dinsdag 8 april 2025 16:04,dinsdag 8 april 2025 16:04,Y,dinsdag 8 april 2025 16:04,Y,dinsdag 8 april 2025 16:04,Y
+125051652,email_43,SUBJECT,"25M0429 GFL 2025-010025500 Ste Site - Listeria monocytogenes - Zalmfilet Stte  Stte
+
+(arte sue 5.1.4.0 site)",25M0429 GFL 2025-010025500 Ste Site - Listeria monocytogenes - Zalmfilet Stte  Stte,N,—,N,"25M0429 GFL 2025-010025500 Ste Site - Listeria monocytogenes - Zalmfilet Stte  Stte
+
+(arte sue 5.1.4.0 site)",Y
+125051652,email_43,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_22,FROM,#2 @nvwa.nl <542i @nvwa.nl>,5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+125051652,email_22,TO,512i < 512i @NVWA.nI>,—,N,—,N,—,N
+125051652,email_22,CC,—,—,Y,—,Y,—,Y
+125051652,email_22,DATE,dinsdag 8 april 2025 15:43,woensdag 19 juni 2024 10:25,N,woensdag 19 juni 2024 10:25,N,woensdag 19 juni 2024 10:25,N
+125051652,email_22,SUBJECT,melding gfl 2025-010025500 van Ste site (ette site Zalmfilet Stte S14 Microbiologisch,stavaza wachttijden verlof/BBA/PP 19-6-2024,N,—,N,stavaza wachttijden verlof/BBA/PP 19-6-2024,N
+125051652,email_22,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_76,FROM,"S12e <Bize @nvwa.nl> Namens*""*) 0",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+125051652,email_76,TO,512i | < 542i @NVWA.nl>,_5.1.2.e,N,_5.1.2.e,N,_5.1.2.e,N
+125051652,email_76,CC,—,—,Y,—,Y,—,Y
+125051652,email_76,DATE,woensdag 9 april 2025 17:06,dinsdag 13 augustus 2024 15:06,N,"dinsdag 13 augustus 2024 15:06
+4",N,dinsdag 13 augustus 2024 15:06,N
+125051652,email_76,SUBJECT,FW: 25M0429 GFL 2025-010025478 Site jiu Site stre) - Listeria monocytogenes 10 kve per 25 g - Ste,Probleembeschrijving BBA.docx,N,—,N,Probleembeschrijving BBA.docx,N
+125051652,email_76,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_108,FROM,s12i <12 @nvwa.nl>,I 5.1.2e s.1.2e,N,I 5.1.2e s.1.2e,N,I 5.1.2e s.1.2e,N
+125051652,email_108,TO,512i <512i @NVWA.nl>,"5.1.2e NVDE' 5.1.2e nvde.nl>; s 1.2e 5.1.2e 5.1.2e l@greenchoice.nl>; ~l_ _s._ 1_.2_e_ ~
+5.1.2e (a)a em .nl>;
+l,__ _ ___ ..1_....1__ __~ ~--1,;,,,,.;...,;;;,~..:.:..;.;a.a",N,"5.1.2e NVDE' 5.1.2e nvde.nl>; s 1.2e 5.1.2e 5.1.2e l@greenchoice.nl>; ~l_ _s._ 1_.2_e_ ~
+5.1.2e (a)a em .nl>;
+l,__ _ ___ ..1_....1__ __~ ~--1,;,,,,.;...,;;;,~..:.:..;.;a.a
+CC: L__s_.1_._2e_ _.i =-""""-ho=lla::.:.n.:.:d::.:sc::o..:.:la:.:.r..:. .n:""""I; ~------~ minezk.nl>",N,"5.1.2e NVDE' 5.1.2e nvde.nl>; s 1.2e 5.1.2e 5.1.2e l@greenchoice.nl>; ~l_ _s._ 1_.2_e_ ~
+5.1.2e (a)a em .nl>;
+l,__ _ ___ ..1_....1__ __~ ~--1,;,,,,.;...,;;;,~..:.:..;.;a.a",N
+125051652,email_108,CC,—,"L__s_.1_._2e_ _.i =-""""-ho=lla::.:.n.:.:d::.:sc::o..:.:la:.:.r..:. .n:""""I; ~------~ minezk.nl>",N,—,Y,"L__s_.1_._2e_ _.i =-""""-ho=lla::.:.n.:.:d::.:sc::o..:.:la:.:.r..:. .n:""""I | ~------~ minezk.nl>",N
+125051652,email_108,DATE,maandag 5 mei 2025 13:46,donderdag 4 juli 202417:18,N,donderdag 4 juli 202417:18,N,donderdag 4 juli 202417:18,N
+125051652,email_108,SUBJECT,FW: Your flag for follow-up regarding the RASFF food alert notification: 2025.26 14 #756990 has been closed,RE: Voorbereidend materiaal overleg vrijdag,N,—,N,RE: Voorbereidend materiaal overleg vrijdag,N
+125051652,email_108,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_81,FROM,22 ; <542i @NVWA.nl>,22 ; <542i @NVWA.nl>,Y,22 ; <542i @NVWA.nl>,Y,22 ; <542i @NVWA.nl>,Y
+125051652,email_81,TO,542i 5 <512i @nvwa.nl>,542i 5 <512i @nvwa.nl>,Y,—,N,542i 5 <512i @nvwa.nl>,Y
+125051652,email_81,CC,B <a @NVWA.nl>,B <a @NVWA.nl>,Y,—,N,B <a @NVWA.nl>,Y
+125051652,email_81,DATE,woensdag 9 april 2025 13:34,woensdag 9 april 2025 13:34,Y,woensdag 9 april 2025 13:34,Y,woensdag 9 april 2025 13:34,Y
+125051652,email_81,SUBJECT,FW: 25M0429 GFL 2025-010025478 Stte me Stte  Stte - Listeria monocytogenes 10 kve per 25 g - Stte,FW: 25M0429 GFL 2025-010025478 Stte me Stte  Stte - Listeria monocytogenes 10 kve per 25 g - Stte,Y,—,N,"FW: 25M0429 GFL 2025-010025478 Stte me Stte  Stte - Listeria monocytogenes 10 kve per 25 g - Stte
+(Etre )",N
+125051652,email_81,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_41,FROM,#12! detzi @NVWA.nl>,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,N,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,N,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,N
+125051652,email_41,TO,E22 <Er @nvwa.nl>,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,N
+125051652,email_41,CC,242i < 512i @NVWA.nl>,"5.1.2e ) (VDI/M&A) 5.1.2e m infin. nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A} 5.1.2e minfin.nl>",N,—,N,5.1.2e ) (VDI/M&A) 5.1.2e m infin. nl> | 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl> | 5.1.2e 5.1.2e minezk.nl> | 5.1.2e ) (VDI/M&A} 5.1.2e minfin.nl>,N
+125051652,email_41,DATE,"woensdag, 9 april 2025 om 09:22",dinsdag 9 juli 2024 13:33,N,dinsdag 9 juli 2024 13:33,N,dinsdag 9 juli 2024 13:33,N
+125051652,email_41,SUBJECT,"25M0429 GFL 2025-010025500 tte Site __ - Listeria monocytogenes - Zalmfilet stre
+kle (in site 5.11.6 kle )",RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N
+125051652,email_41,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_18,FROM,512 <512e @nvwa.nl> 612i,5.1.2e ),N,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N,5.1.2e ),N
+125051652,email_18,TO,5121 < 512i @NVWA.nl>,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N,—,N,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N
+125051652,email_18,CC,—,—,Y,—,Y,—,Y
+125051652,email_18,DATE,woensdag 9 april 2025 09:30,Thur 11/13/2025 1 :06:54 PM,N,Thur 11/13/2025 1 :06:54 PM,N,Thur 11/13/2025 1 :06:54 PM,N
+125051652,email_18,SUBJECT,"FW: 25M0429 GFL 2025-010025500 5t1e site lotte sie - Listeria monocytogenes - Zalmfilet Stte
+Ste (S116 sue SAAC site)",—,N,—,N,Fw: W19.25.00218/IV - Advies,N
+125051652,email_18,ATTACHMENT,—,—,Y,—,Y,Advies W19.25.00218.docx,N
+125051652,email_12,FROM,|§421 @nvwa.nl < 512i nvwa.nl>,1 5.1.2e I s.1.2e 1),N,1 5.1.2e I s.1.2e 1),N,1 5.1.2e I s.1.2e 1),N
+125051652,email_12,TO,5121 612) 5121 612) 5.1.24 <512i @NVWA.nl>,5.1.2e 5.1.2e 5.1.2e 5.1.2e ),N,—,N,5.1.2e 5.1.2e 5.1.2e 5.1.2e ),N
+125051652,email_12,CC,—,5.1.2e 5.1.2e ),N,—,Y,5.1.2e 5.1.2e ),N
+125051652,email_12,DATE,dinsdag 8 april 2025 15:43,maanda 17 november 2025 09:11,N,maanda 17 november 2025 09:11,N,maanda 17 november 2025 09:11,N
+125051652,email_12,SUBJECT,"melding gfl 2025-010025500 van 511< sive sate lms Zalmfilet Stte (Site Microbiologisch
+
+verontreiniging",redactionele opmerkingen bij advies over Wijziging van de Energiewet ter implementatie van het EM D,N,—,N,"redactionele opmerkingen bij advies over Wijziging van de Energiewet ter implementatie van het EM D
+pakket",N
+125051652,email_12,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_31,FROM,512i traceren <§12! @NVWA.nl>,I 5.1.2e l(FM/FS),N,I 5.1.2e l(FM/FS),N,I 5.1.2e l(FM/FS),N
+125051652,email_31,TO,"°""! <542i @nvwa.nl>","1 5.1.2e (BJZ/JZ)
+1",N,1 5.1.2e,N,1 5.1.2e (BJZ/JZ),N
+125051652,email_31,CC,2 . <542i @NVWA.nl>,—,N,—,N,—,N
+125051652,email_31,DATE,"woensdag, 9 april 2025 om 09:22",maandag 13 maart 2017 11:07,N,maandag 13 maart 2017 11:07,N,maandag 13 maart 2017 11:07,N
+125051652,email_31,SUBJECT,"25M0429 GFL 2025-010025500 stte Site - Listeria monocytogenes - Zalmfilet Ste
+5AA1.¢ @ de site | 5.4.4.6 5AA1.¢ )",NO - Nieuwe ontwikkelingen in dossier Yuna,N,—,N,NO - Nieuwe ontwikkelingen in dossier Yuna,N
+125051652,email_31,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_34,FROM,[5421 @nvwa.nl <st2i @nvwa.nl>,®12¢ @mindef.nl>,N,—,N,®12¢ @mindef.nl>,N
+125051652,email_34,TO,“12 ) </542i @NVWA.nl>,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",N,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e",N,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",N
+125051652,email_34,CC,—,—,Y,—,Y,—,Y
+125051652,email_34,DATE,dinsdag 8 april 2025 15:43,dinsdag 13 mei 2025 13:43,N,dinsdag 13 mei 2025 13:43 | woensdag 14 mei 2025 09:00-12:00,N,dinsdag 13 mei 2025 13:43,N
+125051652,email_34,SUBJECT,melding gfl 2025-010025500 van 8112 BEN Zalmfilet BEM BAE Microbiologisch,6e overleg bouw 2e radar toren Herwijnen,N,—,N,6e overleg bouw 2e radar toren Herwijnen,N
+125051652,email_34,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_86,FROM,"""542i Ik",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+125051652,email_86,TO,"omen ""sz @NVWA.nl>",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+125051652,email_86,CC,"""512i ""<5412i @nvwa.nl>",—,N,—,N,—,N
+125051652,email_86,DATE,"Mon, 28 Apr 2025 10:55:27 +0200",woensdag 14 augustus 2024 16:28,N,woensdag 14 augustus 2024 16:28,N,woensdag 14 augustus 2024 16:28,N
+125051652,email_86,SUBJECT,"5 25M0429 2025.2614 fup4 Listeria monocytogenes in chilled vacuum-packed St1e site from
+5.1.1.6",FW: Probleembeschrijving BBA 14082024.docx,N,F,N,FW: Probleembeschrijving BBA 14082024.docx,N
+125051652,email_86,ATTACHMENT,"RASFFlogo.jpg, 2025.2614 fup4.pdf",Probleembeschrijving BBA 14082024.docx,N,—,N,Probleembeschrijving BBA 14082024.docx,N
+125051652,email_110,FROM,"""64.2% li","""64.2% li",Y,—,N,"""64.2% li",Y
+125051652,email_110,TO,"""541.2 "" <5412i @NVWA.nl>","""541.2 "" <5412i @NVWA.nl>",Y,—,N,"""541.2 "" <5412i @NVWA.nl>",Y
+125051652,email_110,CC,"""512i ""<512i  @nvwa.nl>","""512i ""<512i  @nvwa.nl>",Y,—,N,"""512i ""<512i  @nvwa.nl>",Y
+125051652,email_110,DATE,"Tue, 6 May 2025 09:57:37 +0200","Tue, 6 May 2025 09:57:37 +0200",Y,"Tue, 6 May 2025 09:57:37 +0",N,"Tue, 6 May 2025 09:57:37 +0200",Y
+125051652,email_110,SUBJECT,14 25M0429 2025.2614 fup7 Listeria monocytogenes in chilled vacuum-packed 511 site from,14 25M0429 2025.2614 fup7 Listeria monocytogenes in chilled vacuum-packed 511 site from,Y,—,N,"14 25M0429 2025.2614 fup7 Listeria monocytogenes in chilled vacuum-packed 511 site from
+5.11.",N
+125051652,email_110,ATTACHMENT,2025.2614 fup7.pdf,2025.2614 fup7.pdf,Y,—,N,2025.2614 fup7.pdf,Y
+125051652,email_28,FROM,"512i on behalf of ""512¢ (ize)""",8128 @mindef.nl <st2e _____@mindef.nl>,N,8128 @mindef.nl <st2e _____@mindef.nl>,N,8128 @mindef.nl <st2e _____@mindef.nl>,N
+125051652,email_28,TO,‘a 612i 612) 6121 512i Wai @NVWA.nl>,5428 @mindef.nl; st2e <2 __ @rijksoverheid.nl>,N,—,N,5428 @mindef.nl; st2e <2 __ @rijksoverheid.nl>,N
+125051652,email_28,CC,—,5422 @mindef.nl; #12 @mindef.nl,N,—,Y,5422 @mindef.nl | #12 @mindef.nl,N
+125051652,email_28,DATE,"Wed, 9 Apr 2025 11:18:21 +0200",donderdag 3 april 2025 10:12,N,donderdag 3 april 2025 10:12,N,donderdag 3 april 2025 10:12,N
+125051652,email_28,SUBJECT,FW: 25M0429 GFL 2025-010025500 Stte Site _ - Listeria monocytogenes - Zalmfilet,RE: Aanvraag wateraansluiting Herwijnen,N,—,N,RE: Aanvraag wateraansluiting Herwijnen,N
+125051652,email_28,ATTACHMENT,"Melding GFL, 2025-010025500, Zalmfilet Stte 51.16 51.4.0 Site 2025-
+
+010025500.pdf, Journaal 25M0429_beoordeling.docx, Journaal 25M0429.docx",—,N,—,N,—,N
+125051652,email_53,FROM,512e <te nvwa.nl>,512e <te nvwa.nl>,Y,—,N,512e <te nvwa.nl>,Y
+125051652,email_53,TO,512 <512¢€ @stte >,512 <512¢€ @stte >,Y,—,N,512 <512¢€ @stte >,Y
+125051652,email_53,CC,—,—,Y,—,Y,—,Y
+125051652,email_53,DATE,"Tuesday, April 8, 2025 4:41:29 PM","Tuesday, April 8, 2025 4:41:29 PM",Y,"Tuesday, April 8, 2025 4:41:29 PM",Y,"Tuesday, April 8, 2025 4:41:29 PM",Y
+125051652,email_53,SUBJECT,GFL 2025-010025478 site &|site site - Listeria monocytogenes 10 kve per 25 g - Se” (SME ),GFL 2025-010025478 site &|site site - Listeria monocytogenes 10 kve per 25 g - Se” (SME ),Y,—,N,GFL 2025-010025478 site &|site site - Listeria monocytogenes 10 kve per 25 g - Se” (SME ),Y
+125051652,email_53,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_99,FROM,512 <5i2e @nvwa.nl> 512i,512 <5i2e @nvwa.nl> 512i,Y,—,N,512 <5i2e @nvwa.nl> 512i,Y
+125051652,email_99,TO,512i </542i @NVWA.nl>,512i </542i @NVWA.nl>,Y,—,N,512i </542i @NVWA.nl>,Y
+125051652,email_99,CC,—,—,Y,—,Y,—,Y
+125051652,email_99,DATE,dinsdag 29 april 2025 14:56,dinsdag 29 april 2025 14:56,Y,dinsdag 29 april 2025 14:56,Y,dinsdag 29 april 2025 14:56,Y
+125051652,email_99,SUBJECT,FW: 25M0429 2025.2614 fup4 Listeria monocytogenes in chilled vacuum-packed Stte site from Ste,FW: 25M0429 2025.2614 fup4 Listeria monocytogenes in chilled vacuum-packed Stte site from Ste,Y,—,N,FW: 25M0429 2025.2614 fup4 Listeria monocytogenes in chilled vacuum-packed Stte site from Ste,Y
+125051652,email_99,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_3,FROM,$12: < 512i @NVWA.nl>,598 ee Opelsrjcken.nl>,N,598 ee Opelsrjcken.nl>,N,598 ee Opelsrjcken.nl>,N
+125051652,email_3,TO,512i < 512i @nvwa.nl>,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,N,—,N,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,N
+125051652,email_3,CC,542i <(5a2i @NVWA.nl>,—,N,—,N,—,N
+125051652,email_3,DATE,dinsdag 8 april 2025 16:57,dinsdag 4 februari 2025 18:06,N,dinsdag 4 februari 2025 18:06,N,dinsdag 4 februari 2025 18:06,N
+125051652,email_3,SUBJECT,"FW: 25M0429 GFL 2025-010025478 Stte u (Stte (sure - Listeria monocytogenes 10 kve per 25 g - Zalmfilet
+(Noorwegen)",RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],N,—,N,RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],N
+125051652,email_3,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_55,FROM,"""6126 hig",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+125051652,email_55,TO,"""Az ""<52 @NVWA.nl>",5.1.2.e,N,—,N,5.1.2.e,N
+125051652,email_55,CC,—,—,Y,—,Y,—,Y
+125051652,email_55,DATE,"Wed, 9 Apr 2025 13:24:59 +0200",donderdag 1 augustus 2024 20:07,N,donderdag 1 augustus 2024 20:07,N,donderdag 1 augustus 2024 20:07,N
+125051652,email_55,SUBJECT,3 25M0429 GFL 2025-010025478 Stte mw Stte (stre - Listeria monocytogenes 10 kve per 25 g - 5142,"RE: Agenda Teamvergadering 6 augustus, 13.00 - 14.30",N,—,N,"RE: Agenda Teamvergadering 6 augustus, 13.00 - 14.30",N
+125051652,email_55,ATTACHMENT,"Statement regarding detection of Listeria monocytogenes 02.04.25, T-400 Kopi.pdf, | Rapport_P250938_1.pdf",—,N,—,N,—,N
+125051652,email_35,FROM,—,I 5.1.2e 5.1.2e l@ec.europa.eu>,N,I 5.1.2e 5.1.2e l@ec.europa.eu>,N,I 5.1.2e 5.1.2e l@ec.europa.eu>,N
+125051652,email_35,TO,"""IN EE Oral","5.1.2e
+_.ll 1",N,"5.1.2e
+_.ll 1",N,"5.1.2e
+_.ll 1",N
+125051652,email_35,CC,"mn <8 @NVWa.nb>; ""ss300 EE""","5.1.2e .___ _s_ .1_.2_e_ _ 5.1.2e l@minezk.nl>'-___s._ 1_.2_e_ __ _,
+1
+5.1.2e 5.1.2e 5.1.2e",N,—,N,"5.1.2e .___ _s_ .1_.2_e_ _ 5.1.2e l@minezk.nl>'-___s._ 1_.2_e_ __ _,
+1
+5.1.2e 5.1.2e 5.1.2e",N
+125051652,email_35,DATE,"Wed, 9 Apr 2025 11:21:21 +0200",dinsdag 25 ·uni 202417:42,N,dinsdag 25 ·uni 202417:42,N,dinsdag 25 ·uni 202417:42,N
+125051652,email_35,SUBJECT,2 25M0429 2025.2614 Netherlands - Listeria monocytogenes - 5142 |Site (tte),RE: Delen van energie,N,—,N,RE: Delen van energie,N
+125051652,email_35,ATTACHMENT,"RASFFlogo.jpg, 2025.2614.pdf, KCC INTERN Verzoek in behandeling nemen melding food en feed 2025-
+010025620, RASFF, RASFF 2025.2614, Conversation 115675.pdf, Melding GFL, 2025-010025478, BMS [site Se
+Rapport_P250938_1.pdf",—,N,—,N,—,N
+125051652,email_70,FROM,a on eh ot (EE,5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+125051652,email_70,TO,EBER envwa.ni>,5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+125051652,email_70,CC,—,—,Y,—,Y,—,Y
+125051652,email_70,DATE,"Wed, 9 Apr 2025 16:46:18 +0200",woensdag 14 augustus 2024 10:57,N,woensdag 14 augustus 2024 10:57,N,woensdag 14 augustus 2024 10:57,N
+125051652,email_70,SUBJECT,FW: 25M0429 2025.2614 Netherlands Vraagnr_115682,RE: Probleembeschrijving BBA.docx,N,—,N,RE: Probleembeschrijving BBA.docx,N
+125051652,email_70,ATTACHMENT,FW: 25M0429 GFL 2025-010025478 S44 |i stie (eure - Listeria monocytogenes 10 kve per 25 g -,—,N,—,N,—,N
+125051652,email_68,FROM,(542i . <{s12i @nvwa.nl>,(542i . <{s12i @nvwa.nl>,Y,—,N,(542i . <{s12i @nvwa.nl>,Y
+125051652,email_68,TO,512i <642i @NVWA.nl>,512i <642i @NVWA.nl>,Y,512i <642i @NVWA.nl>,Y,512i <642i @NVWA.nl>,Y
+125051652,email_68,CC,—,—,Y,—,Y,—,Y
+125051652,email_68,DATE,woensdag 9 april 2025 10:33,woensdag 9 april 2025 10:33,Y,woensdag 9 april 2025 10:33,Y,woensdag 9 april 2025 10:33,Y
+125051652,email_68,SUBJECT,FW: You were flagged for follow up regarding the RASFF food alert notification: 2025.2614 #756990,FW: You were flagged for follow up regarding the RASFF food alert notification: 2025.2614 #756990,Y,—,N,FW: You were flagged for follow up regarding the RASFF food alert notification: 2025.2614 #756990,Y
+125051652,email_68,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_17,FROM,wan ba,"""5128 @mindef.nl"" <512e  @mindef.nl>",N,—,N,"""5128 @mindef.nl"" <512e  @mindef.nl>",N
+125051652,email_17,TO,"ERE ""tai @nvwa.nl>","“Size @mindef.nl"" < 5428 | @mindef.nl>; ""stee ""<te @rijksoverheid.nl>",N,—,N,"“Size @mindef.nl"" < 5428 | @mindef.nl>; ""stee ""<te @rijksoverheid.nl>",N
+125051652,email_17,CC,"""512i ""<t @NVWA.nl>",—,N,—,N,—,N
+125051652,email_17,DATE,"Wed, 9 Apr 2025 09:52:52 +0200","Thu, 27 Feb 2025 08:56:40 +0100",N,"Thu, 27 Feb 2025 08:56:40 +01 | donderdag 27 februari 2025 08:50",N,"Thu, 27 Feb 2025 08:56:40 +0100",N
+125051652,email_17,SUBJECT,"FW: 25M0429 GFL 2025-010025500 811° sic s1te sie - Listeria monocytogenes - Zalmfilet
+51e 51e (stre sue 5e site)",rm,N,—,N,rm,N
+125051652,email_17,ATTACHMENT,"Melding GFL, 2025-010025500, Zalmfilet 517° 5110 5.4.4.0 eave [eate (ati? 2025-
+010025500.pdf, Journaal 25M0429_beoordeling.docx, Journaal 25M0429.docx",—,N,—,N,—,N
+125051652,email_14,FROM,512e @ nvwa.nl Namens 512i 512 6.1.21 512i 512 512i 512i,5.1.2e lFM/FS),N,5.1.2e 5.1.2e l@minfin.nl],N,5.1.2e lFM/FS),N
+125051652,email_14,TO,512i @NVWA.nl,"5.1.2e 5.1.2e l@minfin.nl]
+1",N,—,N,5.1.2e 5.1.2e l@minfin.nl],N
+125051652,email_14,CC,—,—,Y,—,Y,—,Y
+125051652,email_14,DATE,woensdag 9 april 2025 09:17,Wed 1725/2017 8:19:58 AM,N,Wed 1725/2017 8:19:58 AM | Wed,N,Wed 1725/2017 8:19:58 AM,N
+125051652,email_14,SUBJECT,"Afsluiten :FW: 25M0429 GFL 2025-010025500 Stte sus ette an - Listeria monocytogenes - Zalmfilet Ste
+5AAc (S116 sue SAA. eile)",RE: update Yuna [Decrypted using DNB TLS][Encrypted using DNB TLS],N,—,N,RE: update Yuna [Decrypted using DNB TLS][Encrypted using DNB TLS],N
+125051652,email_14,ATTACHMENT,—,—,Y,—,Y,—,Y
+125051652,email_92,FROM,512i < 512i @NVWA.nl>,s.1.2e s.1.2e s.1.2e reenchoice.nl>,N,s.1.2e s.1.2e s.1.2e reenchoice.nl>,N,s.1.2e s.1.2e s.1.2e reenchoice.nl>,N
+125051652,email_92,TO,512i </512i @nvwa.nl>,s.1.2e s.1.2e minezk.nl>,N,s.1.2e s.1.2e minezk.nl>,N,s.1.2e s.1.2e minezk.nl>,N
+125051652,email_92,CC,HE < 812i @NVWA.nl>,"s.1.2e ) minezk.nl>
+Onderwer : RE: regeldrukkosten energiedelen
+Hoi 5.1.2e ,
+Uren is altijd erg ingewikkeld en daarmee altijd nattevingerwerk. Dat is dus wel een grote disclaimer. Ik heb het zoveel
+als mogelijk geprobeerd in te vullen gebaseerd op ervaring uit het verleden.
+Aanpassen facturering (categorie 2) is eigenlijk de grootste IT-impact als ik jouw lijn volg waarbij onder 'Aanpassen ICT-
+systeem' (categorie 1) de sectorprocessen met de netbeheerders vallen en het inzicht richting medewerkers vanuit het
+klantbeheersysteem. Ik heb dus conform de door jou aangegeven categorieën ingevuld in jouw e-mail in het groen. In
+het algemeen zit de meeste tijd erin dat ook andere processen goed moeten blijven lopen maar daarvoor wel
+aanpassingen nodig zijn. Gezien energiedelen veel kern processen raakt dit ook allerlei andere processen en moet dit
+aangepast en goed getest worden zodat alle processen goed blijven lopen. Dit vergt tijd van procesexperts (die ook
+nieuwe en bestaande processen moeten beschrijven/aanpassen, ontwikkelaars en testers. Voorbeelden zijn bijvoorbeeld
+een impact op het verbruikskostenoverzicht, online dossier, termijnbedragberekening etc.
+Vragen afnemers/helpdesk vind ik het lastigste om te bepalen.
+Dit is namelijk erg afhankelijk van hoeveel mensen uiteindelijk kiezen voor energiedelen en hoe groot het daarmee
+wordt.
+Heb nu een indicatie gemaakt voor 10.000 klanten (ongeveer 1,5% van de klanten gaan energiedelen (=zijn
+energieontvanger of deler)) en het bedrag is dan per jaar. Ik ga dan uit van een gemiddelde van een kwartier per klant.
+Het eerste jaar is dat denk ik meer.
+Als er geen enkele vereiste is vanuit de Belastingdienst en we dus niets hoeven aan te passen en te verantwoorden
+m.b.t. energiedelen is de impact daar 0. Het gaat dan enkel om de IT aanpassingen. Klanten zullen er wel vragen over
+hebben, maar dat heb ik onder categorie 3 verwerkt.
+Uiteraard betreft dit enkel een indicatie vanuit leverancierszijde.
+Fijn weekend alvast**
+Groet,
+1s 1.2el",N,—,N,s.1.2e ) minezk.nl>,N
+125051652,email_92,DATE,maandag 28 april 2025 12:10,vrïda 22 november 2024 17:30,N,vrïda 22 november 2024 17:30,N,vrïda 22 november 2024 17:30,N
+125051652,email_92,SUBJECT,FW: 25M0429 2025.2614 fup4 Listeria monocytogenes in chilled vacuum-packed Stte site from Se,—,N,—,N,RE: regeldrukkosten energiedelen,N
+125051652,email_92,ATTACHMENT,—,—,Y,—,Y,—,Y
+12890358,email_3,FROM,5.1.2e @be as 1ngdienst.nl,598 ee Opelsrjcken.nl>,N,598 ee Opelsrjcken.nl>,N,598 ee Opelsrjcken.nl>,N
+12890358,email_3,TO,—,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,N,—,Y,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,N
+12890358,email_3,CC,—,—,Y,—,Y,—,Y
+12890358,email_3,DATE,Fri 2/14/2025 1: 36:48 PM,dinsdag 4 februari 2025 18:06,N,dinsdag 4 februari 2025 18:06,N,dinsdag 4 februari 2025 18:06,N
+12890358,email_3,SUBJECT,Agenda Overleg Belastingdienst-Koepels 17 februari 2025 (10:00),RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],N,—,N,RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],N
+12890358,email_3,ATTACHMENT,—,—,Y,—,Y,—,Y
+12890358,email_14,FROM,5.1.2e @belastingdienst.nl,5.1.2e lFM/FS),N,5.1.2e 5.1.2e l@minfin.nl],N,5.1.2e lFM/FS),N
+12890358,email_14,TO,"s.1.2 b.nl 512e@rb.nl belastingdienst.nl s.1.2e belastingdienst.nl];
+f--= --s._1._2e_ ___,,. 1-2 1 consumentenbond.nl 5.1.2e consumentenbond..rn=I~·
+5.1.2 5.1.2e @belastingdienst.nl; s.1.2e @blijderveen.nl 5.1.2e blijderveen.nl];
+5.1.2e 5.1.2e @belastingdienst.nl 5.1.2e @belastingdienst.nl]; 5.1.2e
+DB&T/AV ~--~ .1.2e @moore-mkw. s.1.2e @moore-mkw.nl];
+ingdienst. lastingdienst.nl]; s.1.2e belastin dienst.nl~ 5.1.2e l@belastin dienst.nl];
+s belastingdien ""r----==.· ingdienst.nl]; 5.1.2e @belastingdienst.nl s.1.2e
+5. elastingdienst. ser-visser.nl s.1.2e @visser-visser.nl]; 5.1.2e
+tingdienst.nl""-----~--""=~ stingdienst.nl];
+5. --~- bo orbelastingbetalers;._:_n_.=IL'-...l_ __- ----'-""=v..:...;eb.netU 5.1.2e l@veb~_n_e~t]~; -----~
+5.1. 5.1.2e bela • dienst.nl @belastingdienst.nl];~I ___5_ .1_.2_e_ _
+,_,_,. vfbo.nl 5.1.2e @vfbo.n,.I..]..~; --~
+;.r:.::c:..:.11...--~------1==.:..:..:..:.i-'---'----~s_.1_.2_e__J consumentenbond.nlU 5.1.2e l@consumentenbond.nl];
+s.1.2e @ ~-~--~ ~---~@moore-drv.nlU 5.1.2e l@moore-drv.nl];
+s.1.2e nob.net
+5.1.2i ""-----~-5_.1_.2_i_~--~----""'=be""'-'l_a,,,_""'-""--;stingdien st.nl];
+s.1.2e erek eschei ..__ ___ _,_,_,_,.berekenjesch .nl]; 5.1.2e @bdo.nl s.1.2e @bdo.nl];
+5.1.2e eb.n s.1.2e rpdfiscaal.nl rpdfiscaal.nl •
+s.1.2e laimservice.nl claimservice.nl]; s.1.2e rb.nl s.1.2e @rb.nl];
+5.1.2e belastin diens 5.1.2e @schipperaccountants.nlU 5.1.2e 1@schipperaccountants.nl];
+'1---------""'==
+5.1.2e .c","5.1.2e 5.1.2e l@minfin.nl]
+1",N,—,N,5.1.2e 5.1.2e l@minfin.nl],N
+12890358,email_14,CC,—,—,Y,—,Y,—,Y
+12890358,email_14,DATE,Wed 7/9/2025 6:10:02 PM,Wed 1725/2017 8:19:58 AM,N,Wed 1725/2017 8:19:58 AM | Wed,N,Wed 1725/2017 8:19:58 AM,N
+12890358,email_14,SUBJECT,Herstel box 3,RE: update Yuna [Decrypted using DNB TLS][Encrypted using DNB TLS],N,—,N,RE: update Yuna [Decrypted using DNB TLS][Encrypted using DNB TLS],N
+12890358,email_14,ATTACHMENT,—,—,Y,—,Y,—,Y
+12890358,email_9,FROM,5.1.2e @belastingdienst.nl,5.1.2e @belastingdienst.nl,Y,—,N,5.1.2e @belastingdienst.nl,Y
+12890358,email_9,TO,"@belas~t_ni~d_ie_n_s_tn._l~-----~@belastingdienst.nl];
+5.1.2e dienst.nl 5.1.2e dienst.nl];I s.1.2e l(DB&T/AV)D 5.1.2e l@minfin.nl]","@belas~t_ni~d_ie_n_s_tn._l~-----~@belastingdienst.nl];
+5.1.2e dienst.nl 5.1.2e dienst.nl];I s.1.2e l(DB&T/AV)D 5.1.2e l@minfin.nl]",Y,—,N,"@belas~t_ni~d_ie_n_s_tn._l~-----~@belastingdienst.nl];
+5.1.2e dienst.nl 5.1.2e dienst.nl];I s.1.2e l(DB&T/AV)D 5.1.2e l@minfin.nl]",Y
+12890358,email_9,CC,5.1.2e @belastingdienstn 1 @belast1ngd1enst.nl],5.1.2e @belastingdienstn 1 @belast1ngd1enst.nl],Y,—,N,5.1.2e @belastingdienstn 1 @belast1ngd1enst.nl],Y
+12890358,email_9,DATE,Mon 6/16/2025 11 :58:36 AM,Mon 6/16/2025 11 :58:36 AM,Y,Mon 6/16/2025 11,N,Mon 6/16/2025 11 :58:36 AM,Y
+12890358,email_9,SUBJECT,Doorst.: Re: Actiepunten n.a.v. koepeloverleg 10 juni,Doorst.: Re: Actiepunten n.a.v. koepeloverleg 10 juni,Y,—,N,Doorst.: Re: Actiepunten n.a.v. koepeloverleg 10 juni,Y
+12890358,email_9,ATTACHMENT,—,—,Y,—,Y,—,Y
+15076226,email_2,FROM,5.1.2.e 5.1.2.e @uwv.nl>,5.1.2e ) (Cd FJZ),N,"5.1.2e minezk.nl]
+~I>
+.C-=~c·~· --~_ _5_. 1~.2~e __~",N,—,N
+15076226,email_2,TO,"5.1.2.e ""<5.1.2.e @uwv.nl>; ""5.1.2. @minszw.nl"" <512e @minszw.nl>","5.1.2e minezk.nl]
+~I>
+.C-=~c·~· --~_ _5_. 1~.2~e __~ .) ( ;:,:..,,.-'-'M_,_,,&,,,_-A'LIL_ _5.~ 1_.2_e _ _J=mirn=fin=.=n~ll;~l ___5_ .1~.2_e_ _ Cd FJZ 5.1.2e @minfin.nl];
+5.1.2e /M&A) 5.1.2e @minfin.nl]; 1 5.1.2e IJ (Cd UHB) 5.1.2e @minfin.nl]; [ 5.1.2e
+( CD Vaktec,-'h-.:..n:..""i""ec..kc-""-""-----==m~in=fi.n:..:.
+:·..=..,~",N,—,N,—,N
+15076226,email_2,CC,—,—,Y,—,Y,—,Y
+15076226,email_2,DATE,"Thu, 13 Feb 2025 15:23:43 +0100",—,N,—,N,—,N
+15076226,email_2,SUBJECT,RE: Casus 5.1.2.,energie delen,N,—,N,—,N
+15076226,email_2,ATTACHMENT,—,—,Y,—,Y,—,Y
+15076226,email_3,FROM,5.1.2. <5.1.2.e @minszw.nl>,598 ee Opelsrjcken.nl>,N,598 ee Opelsrjcken.nl>,N,598 ee Opelsrjcken.nl>,N
+15076226,email_3,TO,512e 5.1.2.e @uwv.nl>; 512e <5.1.2.e @uwv.nl>,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,N,—,N,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,N
+15076226,email_3,CC,—,—,Y,—,Y,—,Y
+15076226,email_3,DATE,donderdag 13 februari 2025 13:45,dinsdag 4 februari 2025 18:06,N,dinsdag 4 februari 2025 18:06,N,dinsdag 4 februari 2025 18:06,N
+15076226,email_3,SUBJECT,Casus 5.1.2.I,RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],N,—,N,RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],N
+15076226,email_3,ATTACHMENT,—,—,Y,—,Y,—,Y
+15076226,email_4,FROM,5.1.2.e 5.1.2.e @uwv.nl>,5.1.2e NVDE,N,5.1.2e 5.1.2e l@minezk.nl] | 5.1.2e NV,N,5.1.2e NVDE,N
+15076226,email_4,TO,"' 5.1.2.e @minszw.nl"" <512e @minszw.nl>;""512e 5.1.2.e @uwv.nl>","5.1.2e 5.1.2e l@minezk.nl]
+I",N,—,N,5.1.2e 5.1.2e l@minezk.nl],N
+15076226,email_4,CC,—,—,Y,—,Y,—,Y
+15076226,email_4,DATE,"Fri, 14 Feb 2025 14:03:29 +0100",—,N,Fri 10/24/2025 9:15:06 AM | Fri 10,N,Fri 10/24/2025 9:15:06 AM,N
+15076226,email_4,SUBJECT,RE: Concept bericht 512eI,Energiedelen - notitie,N,—,N,Energiedelen - notitie,N
+15076226,email_4,ATTACHMENT,—,—,Y,—,Y,—,Y
+21390238,email_25,FROM,5.1.2e (FM/FS),5.1.2e (FM/FS),Y,5.1.2e,N,5.1.2e (FM/FS),Y
+21390238,email_25,TO,"5.1.2e (FM/FS)~ 5.1.2e l@minfin.nl];~I ___s_ .1_.2_e __~ ~FM/FS)~U __s._ 1._2e_~l@minfin.nl];I 5.1.2e
+(FM/FS) 5.1.2e minfin.nl ~------~","5.1.2e (FM/FS)~ 5.1.2e l@minfin.nl];~I ___s_ .1_.2_e __~ ~FM/FS)~U __s._ 1._2e_~l@minfin.nl];I 5.1.2e
+(FM/FS) 5.1.2e minfin.nl ~------~",Y,—,N,"5.1.2e (FM/FS)~ 5.1.2e l@minfin.nl];~I ___s_ .1_.2_e __~ ~FM/FS)~U __s._ 1._2e_~l@minfin.nl];I 5.1.2e
+(FM/FS) 5.1.2e minfin.nl ~------~",Y
+21390238,email_25,CC,—,—,Y,—,Y,—,Y
+21390238,email_25,DATE,Wed 3/8/2017 9:26:56 AM,Wed 3/8/2017 9:26:56 AM,Y,Wed 3/8/2017 9:26:56 AM,Y,Wed 3/8/2017 9:26:56 AM,Y
+21390238,email_25,SUBJECT,RE: YUNA[Encrypted using DNB TLS],RE: YUNA[Encrypted using DNB TLS],Y,—,N,RE: YUNA[Encrypted using DNB TLS],Y
+21390238,email_25,ATTACHMENT,—,—,Y,—,Y,—,Y
+21390238,email_18,FROM,l~----5-.1-.2-e ---~l(FM/FS),5.1.2e ),N,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N,5.1.2e ),N
+21390238,email_18,TO,5.1.2e l(FM/FS),"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N,—,N,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N
+21390238,email_18,CC,—,—,Y,—,Y,—,Y
+21390238,email_18,DATE,maandag 27 februari 2017 11:40,Thur 11/13/2025 1 :06:54 PM,N,Thur 11/13/2025 1 :06:54 PM,N,Thur 11/13/2025 1 :06:54 PM,N
+21390238,email_18,SUBJECT,Fwd: Rol minister van Financiën als overdrachtsplan betrekking heeft op aandelen van de verzekeraar[Encrypted using,—,N,—,N,Fw: W19.25.00218/IV - Advies,N
+21390238,email_18,ATTACHMENT,—,—,Y,—,Y,Advies W19.25.00218.docx,N
+21390238,email_38,FROM,s.1.2e FM/FS),s.1.2e FM/FS),Y,5.1.2e,N,s.1.2e FM/FS),Y
+21390238,email_38,TO,"5.1.2e (FM/FS)~ 5.1.2e l@minfin.nl];I 5.1.2e KFM/FS)~ s.1.2e l@minfin.nl];I 5.1.2e
+(COMM) s.1.2e minfin.nl ~-----~ ~-----~","5.1.2e (FM/FS)~ 5.1.2e l@minfin.nl];I 5.1.2e KFM/FS)~ s.1.2e l@minfin.nl];I 5.1.2e
+(COMM) s.1.2e minfin.nl ~-----~ ~-----~",Y,—,N,"5.1.2e (FM/FS)~ 5.1.2e l@minfin.nl];I 5.1.2e KFM/FS)~ s.1.2e l@minfin.nl];I 5.1.2e
+(COMM) s.1.2e minfin.nl ~-----~ ~-----~",Y
+21390238,email_38,CC,—,—,Y,—,Y,—,Y
+21390238,email_38,DATE,Mon 4/10/2017 12:38:34 PM,Mon 4/10/2017 12:38:34 PM,Y,Mon 4/10/2017 12:38:34 PM,Y,Mon 4/10/2017 12:38:34 PM,Y
+21390238,email_38,SUBJECT,BR - Uitspraak rechtbank Amsterdam inzake Yuna,BR - Uitspraak rechtbank Amsterdam inzake Yuna,Y,—,N,BR - Uitspraak rechtbank Amsterdam inzake Yuna,Y
+21390238,email_38,ATTACHMENT,"BR - Uitspraak rechtbank Amsterdam inzake Yuna.docx
+NO - Uitspraak rechtbank Amsterdam inzake Yuna.docx",—,N,—,N,—,N
+21390238,email_42,FROM,5.1.2e (COMM),5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,N
+21390238,email_42,TO,—,5.1.2e ) (VDI/M&A),N,—,Y,5.1.2e ) (VDI/M&A),N
+21390238,email_42,CC,5.1.2e s.1.2e @minfin.nl],"5.1.2e ) (VDI/M&A) minfin.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e minfin.nl>",N,—,N,5.1.2e ) (VDI/M&A) minfin.nl> | 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl> | 5.1.2e 5.1.2e minezk.nl> | 5.1.2e ) (VDI/M&A) 5.1.2e minfin.nl>,N
+21390238,email_42,DATE,Fri 5/12/2017 3:33:39 PM,maandag 8 juli 2024 11:0~8_ __,N,maandag 8 juli 2024 11:0~8_,N,maandag 8 juli 2024 11:0~8_ __,N
+21390238,email_42,SUBJECT,RE: mail aan minister inzake Yuna,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N
+21390238,email_42,ATTACHMENT,—,—,Y,—,Y,—,Y
+21390238,email_36,FROM,_ 5.1.2e 7 l(Flvl/FS),_ 5.1.2e 7 l(Flvl/FS),Y,5.1.2e 7,N,_ 5.1.2e 7 l(Flvl/FS),Y
+21390238,email_36,TO,"5.1.2e 7 (FIN/DEELN)~~_ _s._1 ._2e_~l@minfin.nl];'---I _____s_ .1_2_e_ ____ _,._ __s_ .1_.2_e~l@minfin.nl]","5.1.2e 7 (FIN/DEELN)~~_ _s._1 ._2e_~l@minfin.nl];'---I _____s_ .1_2_e_ ____ _,._ __s_ .1_.2_e~l@minfin.nl]
+1",N,—,N,"5.1.2e 7 (FIN/DEELN)~~_ _s._1 ._2e_~l@minfin.nl];'---I _____s_ .1_2_e_ ____ _,._ __s_ .1_.2_e~l@minfin.nl]",Y
+21390238,email_36,CC,—,—,Y,—,Y,—,Y
+21390238,email_36,DATE,Tue 372172017 7:49:09 AM,Tue 372172017 7:49:09 AM,Y,Tue 372172017 7:49:09 AM,Y,Tue 372172017 7:49:09 AM,Y
+21390238,email_36,SUBJECT,FW: Yuna en Yeti -toezichtsvertrouwelijk,FW: Yuna en Yeti -toezichtsvertrouwelijk,Y,—,N,FW: Yuna en Yeti -toezichtsvertrouwelijk,Y
+21390238,email_36,ATTACHMENT,"NO - Nieuwe ontwikkelingen in dossier Yuna.doc
+bijlage 1. BR - Overeenstemming minister v Financiën .docx
+bijlage 2. Brief DNB met verzoek om overeenstemming.pdf
+bijlage 3. Verzoekschrift DNB.docx
+bijlage 4. Getekende Confirmation Letter.pdf
+bijlage 5. notitie stand van zaken Yuna (03-10-2016).pdf",—,N,—,N,NO - Nieuwe ontwikkelingen in dossier Yuna.doc | bijlage 1. BR - Overeenstemming minister v Financiën .docx | bijlage 2. Brief DNB met verzoek om overeenstemming.pdf | bijlage 3. Verzoekschrift DNB.docx | bijlage 4. Getekende Confirmation Letter.pdf | bijlage 5. notitie stand van zaken Yuna (03-10-2016).pdf,N
+21390238,email_17,FROM,s.1.2e l(FM/FS),"""5128 @mindef.nl"" <512e  @mindef.nl>",N,—,N,"""5128 @mindef.nl"" <512e  @mindef.nl>",N
+21390238,email_17,TO,5.1.2e 1 5.1.2e l@minfin.nl],"“Size @mindef.nl"" < 5428 | @mindef.nl>; ""stee ""<te @rijksoverheid.nl>",N,—,N,"“Size @mindef.nl"" < 5428 | @mindef.nl>; ""stee ""<te @rijksoverheid.nl>",N
+21390238,email_17,CC,5.1.2e KFM/FS)~ 5.1.2e 1@minfin.nl],—,N,—,N,—,N
+21390238,email_17,DATE,Mon 2/27/2017 10:46:40 AM,"Thu, 27 Feb 2025 08:56:40 +0100",N,"Thu, 27 Feb 2025 08:56:40 +01 | donderdag 27 februari 2025 08:50",N,"Thu, 27 Feb 2025 08:56:40 +0100",N
+21390238,email_17,SUBJECT,RE: Rol minister van Financiën als overdrachtsplan betrekking heeft op aandelen van de verzekeraar[Encrypted using DNB,rm,N,—,N,rm,N
+21390238,email_17,ATTACHMENT,—,—,Y,—,Y,—,Y
+21390238,email_31,FROM,I 5.1.2e l(FM/FS),I 5.1.2e l(FM/FS),Y,I 5.1.2e l(FM/FS),Y,I 5.1.2e l(FM/FS),Y
+21390238,email_31,TO,1 5.1.2e (BJZ/JZ),"1 5.1.2e (BJZ/JZ)
+1",N,1 5.1.2e,N,1 5.1.2e (BJZ/JZ),Y
+21390238,email_31,CC,—,—,Y,—,Y,—,Y
+21390238,email_31,DATE,maandag 13 maart 2017 11:07,maandag 13 maart 2017 11:07,Y,maandag 13 maart 2017 11:07,Y,maandag 13 maart 2017 11:07,Y
+21390238,email_31,SUBJECT,NO - Nieuwe ontwikkelingen in dossier Yuna,NO - Nieuwe ontwikkelingen in dossier Yuna,Y,—,N,NO - Nieuwe ontwikkelingen in dossier Yuna,Y
+21390238,email_31,ATTACHMENT,—,—,Y,—,Y,—,Y
+21390238,email_30,FROM,—,—,Y,—,Y,5.1.2e (BJZ/JZ),N
+21390238,email_30,TO,1 5.1.2e l(FM/FS),1 5.1.2e l(FM/FS),Y,"1 5.1.2e l(FM/FS) | I
+5.1.2e",N,1 5.1.2e l(FM/FS),Y
+21390238,email_30,CC,5.1.2e (FM/FS),"I
+5.1.2e (FM/FS)",N,—,N,"I
+5.1.2e (FM/FS)",N
+21390238,email_30,DATE,dinsdag 14 maart 2017 11:10,dinsdag 14 maart 2017 11:10,Y,dinsdag 14 maart 2017 11:10,Y,dinsdag 14 maart 2017 11:10,Y
+21390238,email_30,SUBJECT,RE: NO - Nieuwe ontwikkelingen in dossier Yuna,RE: NO - Nieuwe ontwikkelingen in dossier Yuna,Y,—,N,RE: NO - Nieuwe ontwikkelingen in dossier Yuna,Y
+21390238,email_30,ATTACHMENT,—,—,Y,—,Y,—,Y
+21390238,email_34,FROM,1-----5-.1-.2-e ----l(FM/FS),®12¢ @mindef.nl>,N,—,N,®12¢ @mindef.nl>,N
+21390238,email_34,TO,5.1.2e (FM),"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",N,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e",N,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",N
+21390238,email_34,CC,5.1.2e (FM/FS);I 5.1.2e l(FM/FS),—,N,—,N,—,N
+21390238,email_34,DATE,zonda 19 maart 2017 14:28,dinsdag 13 mei 2025 13:43,N,dinsdag 13 mei 2025 13:43 | woensdag 14 mei 2025 09:00-12:00,N,dinsdag 13 mei 2025 13:43,N
+21390238,email_34,SUBJECT,Fwd: AMLT-#1904929-v2-Verzoekschrift_(concept_16_maart_2017).docx[Encrypted using DNB TLS],6e overleg bouw 2e radar toren Herwijnen,N,—,N,6e overleg bouw 2e radar toren Herwijnen,N
+21390238,email_34,ATTACHMENT,—,—,Y,—,Y,—,Y
+21390238,email_14,FROM,5.1.2e lFM/FS),5.1.2e lFM/FS),Y,5.1.2e 5.1.2e l@minfin.nl],N,5.1.2e lFM/FS),Y
+21390238,email_14,TO,5.1.2e 5.1.2e l@minfin.nl],"5.1.2e 5.1.2e l@minfin.nl]
+1",N,—,N,5.1.2e 5.1.2e l@minfin.nl],Y
+21390238,email_14,CC,—,—,Y,—,Y,—,Y
+21390238,email_14,DATE,Wed 1725/2017 8:19:58 AM,Wed 1725/2017 8:19:58 AM,Y,Wed 1725/2017 8:19:58 AM | Wed,N,Wed 1725/2017 8:19:58 AM,Y
+21390238,email_14,SUBJECT,RE: update Yuna [Decrypted using DNB TLS][Encrypted using DNB TLS],RE: update Yuna [Decrypted using DNB TLS][Encrypted using DNB TLS],Y,—,N,RE: update Yuna [Decrypted using DNB TLS][Encrypted using DNB TLS],Y
+21390238,email_14,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_35,FROM,"""B12 be",I 5.1.2e 5.1.2e l@ec.europa.eu>,N,I 5.1.2e 5.1.2e l@ec.europa.eu>,N,I 5.1.2e 5.1.2e l@ec.europa.eu>,N
+269893775,email_35,TO,"""S120 ""<te @rijksoverheid.nl>","5.1.2e
+_.ll 1",N,"5.1.2e
+_.ll 1",N,"5.1.2e
+_.ll 1",N
+269893775,email_35,CC,—,"5.1.2e .___ _s_ .1_.2_e_ _ 5.1.2e l@minezk.nl>'-___s._ 1_.2_e_ __ _,
+1
+5.1.2e 5.1.2e 5.1.2e",N,—,Y,"5.1.2e .___ _s_ .1_.2_e_ _ 5.1.2e l@minezk.nl>'-___s._ 1_.2_e_ __ _,
+1
+5.1.2e 5.1.2e 5.1.2e",N
+269893775,email_35,DATE,"Wed, 4 Jun 2025 12:53:31 +0200",dinsdag 25 ·uni 202417:42,N,dinsdag 25 ·uni 202417:42,N,dinsdag 25 ·uni 202417:42,N
+269893775,email_35,SUBJECT,RE: APV WB maken en aanpassen inritten,RE: Delen van energie,N,—,N,RE: Delen van energie,N
+269893775,email_35,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_17,FROM,"""5128 @mindef.nl"" <512e  @mindef.nl>","""5128 @mindef.nl"" <512e  @mindef.nl>",Y,—,N,"""5128 @mindef.nl"" <512e  @mindef.nl>",Y
+269893775,email_17,TO,"“Size @mindef.nl"" < 5428 | @mindef.nl>; ""stee ""<te @rijksoverheid.nl>","“Size @mindef.nl"" < 5428 | @mindef.nl>; ""stee ""<te @rijksoverheid.nl>",Y,—,N,"“Size @mindef.nl"" < 5428 | @mindef.nl>; ""stee ""<te @rijksoverheid.nl>",Y
+269893775,email_17,CC,—,—,Y,—,Y,—,Y
+269893775,email_17,DATE,"Thu, 27 Feb 2025 08:56:40 +0100 | donderdag 27 februari 2025 08:50","Thu, 27 Feb 2025 08:56:40 +0100",N,"Thu, 27 Feb 2025 08:56:40 +01 | donderdag 27 februari 2025 08:50",N,"Thu, 27 Feb 2025 08:56:40 +0100",N
+269893775,email_17,SUBJECT,rm,rm,Y,—,N,rm,Y
+269893775,email_17,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_112,FROM,S12e @mindef.nl <Btze mindef.nl>,5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+269893775,email_112,TO,5122 <512e @bam.com>; Bize <512¢€ @bam.com>,5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+269893775,email_112,CC,8128 | @mindef.nl; 542 @mindef.nl; S128 @nl.thalesgroup.com,—,N,—,N,—,N
+269893775,email_112,DATE,donderdag 7 augustus 2025 13:35,donderdag 5 september 2024 15:19,N,donderdag 5 september 2024 15:19,N,donderdag 5 september 2024 15:19,N
+269893775,email_112,SUBJECT,FW: 282430/235378 Verzoek tot aanpassen vergunningsaanvraag tpv Broekgraaf te Herwijnen,Capaciteit BBA.docx,N,—,N,Capaciteit BBA.docx,N
+269893775,email_112,ATTACHMENT,—,Capaciteit BBA.docx,N,—,Y,Capaciteit BBA.docx,N
+269893775,email_11,FROM,512¢ <512¢€ @rijksoverheid.nl>,512¢ <512¢€ @rijksoverheid.nl>,Y,—,N,512¢ <512¢€ @rijksoverheid.nl>,Y
+269893775,email_11,TO,5122 <512e @Rijksoverheid.nl>,5122 <512e @Rijksoverheid.nl>,Y,5122 <512e @Rijksoverheid.nl>,Y,5122 <512e @Rijksoverheid.nl>,Y
+269893775,email_11,CC,—,—,Y,—,Y,—,Y
+269893775,email_11,DATE,woensdag 12 februari 2025 14:02,woensdag 12 februari 2025 14:02,Y,woensdag 12 februari 2025 14:02,Y,woensdag 12 februari 2025 14:02,Y
+269893775,email_11,SUBJECT,FW: green field ontwikkelingen irt aansluiting netbeheerder,FW: green field ontwikkelingen irt aansluiting netbeheerder,Y,—,N,FW: green field ontwikkelingen irt aansluiting netbeheerder,Y
+269893775,email_11,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_139,FROM,"""51.26 i","""51.26 i",Y,—,N,"""51.26 i",Y
+269893775,email_139,TO,"""51260 @bam.com"" <512¢ @bam.com>","""51260 @bam.com"" <512¢ @bam.com>",Y,—,N,"""51260 @bam.com"" <512¢ @bam.com>",Y
+269893775,email_139,CC,"""S126 @mindef.nl"" <512¢ @mindef.nl>; ""512¢ ""ate @rijksoverheid.nl>","""S126 @mindef.nl"" <512¢ @mindef.nl>; ""512¢ ""ate @rijksoverheid.nl>",Y,—,N,"""S126 @mindef.nl"" <512¢ @mindef.nl> | ""512¢ ""ate @rijksoverheid.nl>",N
+269893775,email_139,DATE,"Mon, 8 s1ze 2025 11:09:08 +0200","Mon, 8 s1ze 2025 11:09:08 +0200",Y,"Mon, 8 s1ze 2025 11:09:08 +0",N,"Mon, 8 s1ze 2025 11:09:08 +0200",Y
+269893775,email_139,SUBJECT,Watermeterput bouwfase Herwijnen,Watermeterput bouwfase Herwijnen,Y,—,N,Watermeterput bouwfase Herwijnen,Y
+269893775,email_139,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_75,FROM,"""e128 @mindef.nl"" <5#28  @mindef.nlI>","""e128 @mindef.nl"" <5#28  @mindef.nlI>",Y,—,N,"""e128 @mindef.nl"" <5#28  @mindef.nlI>",Y
+269893775,email_75,TO,"""size"" < 8422 @rijksoverheid.nl>; ""st2e | @mindef.nl"" <5428 | @mindef.nI>","""size"" < 8422 @rijksoverheid.nl>; ""st2e | @mindef.nl"" <5428 | @mindef.nI>
+Ce: “size @mindef.nl"" <§128 | @mindef.nl>; ""542 @mindef.nl""
+
+am @mindef.nl>; ""sa || @mindet.n!"" sa @mindet.nls; ""sa
+<S2e _______@rijksoverheid.nl>; ""5428"" <8428 | @Rijksoverheid.nl>; ""5428 @mindef.n|""
+<te @mindef.nI>",N,—,N,"""size"" < 8422 @rijksoverheid.nl>; ""st2e | @mindef.nl"" <5428 | @mindef.nI>",Y
+269893775,email_75,CC,"“size @mindef.nl"" <§128 | @mindef.nl>; ""542 @mindef.nl""
+
+am @mindef.nl>; ""sa || @mindet.n!"" sa @mindet.nls; ""sa
+<S2e _______@rijksoverheid.nl>; ""5428"" <8428 | @Rijksoverheid.nl>; ""5428 @mindef.n|""
+<te @mindef.nI>",—,N,—,N,"“size @mindef.nl"" <§128 | @mindef.nl> | ""542 @mindef.nl""
+
+am @mindef.nl> | ""sa || @mindet.n!"" sa @mindet.nls | ""sa
+<S2e _______@rijksoverheid.nl> | ""5428"" <8428 | @Rijksoverheid.nl> | ""5428 @mindef.n|""
+<te @mindef.nI>",N
+269893775,email_75,DATE,"Thu, 10 Jul 2025 12:20:17 +0200","Thu, 10 Jul 2025 12:20:17 +0200",Y,"Thu, 10 Jul 2025 12:20:17 +0",N,"Thu, 10 Jul 2025 12:20:17 +0200",Y
+269893775,email_75,SUBJECT,RE: S135 lll,RE: S135 lll,Y,—,N,RE: S135 lll,Y
+269893775,email_75,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_6,FROM,“bi2e u,—,N,—,N,'-------~,N
+269893775,email_6,TO,"""5120 "" <5i28 @rijksoverheid.nl>",I 5.1.2e 1,N,—,N,I 5.1.2e 1,N
+269893775,email_6,CC,—,—,Y,—,Y,—,Y
+269893775,email_6,DATE,"Tue, 18 Feb 2025 13:34:46 +0100",woensdag 3 juli 2024 16:17,N,woensdag 3 juli 2024 16:17,N,woensdag 3 juli 2024 16:17,N
+269893775,email_6,SUBJECT,RE: green field ontwikkelingen irt aansluiting netbeheerder,RE: Allocatie -reconciliatie - Vlaanderen,N,—,N,RE: Allocatie -reconciliatie - Vlaanderen,N
+269893775,email_6,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_28,FROM,8128 @mindef.nl <st2e _____@mindef.nl>,8128 @mindef.nl <st2e _____@mindef.nl>,Y,8128 @mindef.nl <st2e _____@mindef.nl>,Y,8128 @mindef.nl <st2e _____@mindef.nl>,Y
+269893775,email_28,TO,5428 @mindef.nl; st2e <2 __ @rijksoverheid.nl>,5428 @mindef.nl; st2e <2 __ @rijksoverheid.nl>,Y,—,N,5428 @mindef.nl; st2e <2 __ @rijksoverheid.nl>,Y
+269893775,email_28,CC,5422 @mindef.nl; #12 @mindef.nl,5422 @mindef.nl; #12 @mindef.nl,Y,—,N,5422 @mindef.nl | #12 @mindef.nl,N
+269893775,email_28,DATE,donderdag 3 april 2025 10:12,donderdag 3 april 2025 10:12,Y,donderdag 3 april 2025 10:12,Y,donderdag 3 april 2025 10:12,Y
+269893775,email_28,SUBJECT,RE: Aanvraag wateraansluiting Herwijnen,RE: Aanvraag wateraansluiting Herwijnen,Y,—,N,RE: Aanvraag wateraansluiting Herwijnen,Y
+269893775,email_28,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_80,FROM,12 <s1ze @Rijksoverheid.nl>,12 <s1ze @Rijksoverheid.nl>,Y,12 <s1ze @Rijksoverheid.nl>,Y,12 <s1ze @Rijksoverheid.nl>,Y
+269893775,email_80,TO,"S12e < bie @rijksoverheid.nl>; 542 @mindef.nl; Size <a @rijksoverheid.nl>;
+
+5126 < 5122 @rijksoverheid.nl>; 5422 @bam.com","S12e < bie @rijksoverheid.nl>; 542 @mindef.nl; Size <a @rijksoverheid.nl>;
+
+5126 < 5122 @rijksoverheid.nl>; 5422 @bam.com",Y,"S12e < bie @rijksoverheid.nl>; 542 @mindef.nl; Size <a @rijksoverheid.nl>;
+
+5126 < 5122 @rijksoverheid.nl>; 5422 @bam.com",Y,"S12e < bie @rijksoverheid.nl>; 542 @mindef.nl; Size <a @rijksoverheid.nl>;
+
+5126 < 5122 @rijksoverheid.nl>; 5422 @bam.com",Y
+269893775,email_80,CC,se <&Re  @rijksoverheid.nl>,se <&Re  @rijksoverheid.nl>,Y,—,N,se <&Re  @rijksoverheid.nl>,Y
+269893775,email_80,DATE,woensdag 16 juli 2025 12:01,woensdag 16 juli 2025 12:01,Y,woensdag 16 juli 2025 12:01,Y,woensdag 16 juli 2025 12:01,Y
+269893775,email_80,SUBJECT,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y,—,N,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y
+269893775,email_80,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_98,FROM,512¢ @mindef.nl <512e mindef.nl>,512¢ @mindef.nl <512e mindef.nl>,Y,512¢ @mindef.nl <512e mindef.nl>,Y,512¢ @mindef.nl <512e mindef.nl>,Y
+269893775,email_98,TO,S12e <st2e rijksoverheid.nl>,S12e <st2e rijksoverheid.nl>,Y,—,N,S12e <st2e rijksoverheid.nl>,Y
+269893775,email_98,CC,"5126 @bam.com; |512¢ < 5126 @rijksoverheid.nl>; |512¢
+< 5126 @rijksoverheid.nl>","5126 @bam.com; |512¢ < 5126 @rijksoverheid.nl>; |512¢
+< 5126 @rijksoverheid.nl>",Y,—,N,"5126 @bam.com | |512¢ < 5126 @rijksoverheid.nl> | |512¢
+< 5126 @rijksoverheid.nl>",N
+269893775,email_98,DATE,maandag 14 juli 2025 09:39,maandag 14 juli 2025 09:39,Y,maandag 14 juli 2025 09:39,Y,maandag 14 juli 2025 09:39,Y
+269893775,email_98,SUBJECT,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y,—,N,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y
+269893775,email_98,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_58,FROM,“S42 be,“S42 be,Y,—,N,“S42 be,Y
+269893775,email_58,TO,"""S12 bas
+
+</bi2e) @rijksoverheid.nl>; ""|512¢ i
+
+< 5126 @rijksoverheid.nl","""S12 bas
+
+</bi2e) @rijksoverheid.nl>; ""|512¢ i
+
+< 5126 @rijksoverheid.nl>",N,—,N,"""S12 bas
+
+</bi2e) @rijksoverheid.nl>; ""|512¢ i
+
+< 5126 @rijksoverheid.nl>",N
+269893775,email_58,CC,"""512e "" <bi2e @rijksoverheid.nl>","""512e "" <bi2e @rijksoverheid.nl>",Y,—,N,"""512e "" <bi2e @rijksoverheid.nl>",Y
+269893775,email_58,DATE,"Tue, 1 Jul 2025 16:08:49 +0200","Tue, 1 Jul 2025 16:08:49 +0200",Y,"Tue, 1 Jul 2025 16:08:49 +0",N,"Tue, 1 Jul 2025 16:08:49 +0200",Y
+269893775,email_58,SUBJECT,FW: Tijdelijke hulpconstructie voor inritverbreding project Radarlocatie Herwijnen,FW: Tijdelijke hulpconstructie voor inritverbreding project Radarlocatie Herwijnen,Y,—,N,FW: Tijdelijke hulpconstructie voor inritverbreding project Radarlocatie Herwijnen,Y
+269893775,email_58,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_69,FROM,512¢,512¢,Y,512¢,Y,512¢,Y
+269893775,email_69,TO,512¢ <i rijksoverheid.nl>,512¢ <i rijksoverheid.nl>,Y,—,N,512¢ <i rijksoverheid.nl>,Y
+269893775,email_69,CC,—,—,Y,—,Y,—,Y
+269893775,email_69,DATE,donderdag 3 juli 2025 13:03,donderdag 3 juli 2025 13:03,Y,donderdag 3 juli 2025 13:03,Y,donderdag 3 juli 2025 13:03,Y
+269893775,email_69,SUBJECT,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y,—,N,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y
+269893775,email_69,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_34,FROM,®12¢ @mindef.nl>,®12¢ @mindef.nl>,Y,—,N,®12¢ @mindef.nl>,Y
+269893775,email_34,TO,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e","S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",Y,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e",N,"S126 ; Eze 512e ; Bae
+512e z ""64.2¢e @rijksoverheid.nl'; 512e
+512e _ ;'S12e @nl.thalesgroup.com'; 512e ; Size ; Size 52e
+512e - (512 + ize 512e
+, ,
+512e 52e ; Eze ; Eze 512e",Y
+269893775,email_34,CC,—,—,Y,—,Y,—,Y
+269893775,email_34,DATE,dinsdag 13 mei 2025 13:43,dinsdag 13 mei 2025 13:43,Y,dinsdag 13 mei 2025 13:43 | woensdag 14 mei 2025 09:00-12:00,N,dinsdag 13 mei 2025 13:43,Y
+269893775,email_34,SUBJECT,6e overleg bouw 2e radar toren Herwijnen,6e overleg bouw 2e radar toren Herwijnen,Y,—,N,6e overleg bouw 2e radar toren Herwijnen,Y
+269893775,email_34,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_106,FROM,512¢ 5428 COMMIT/PROJN/PI&BV/CAT-1SR&3,5.1.2e ),N,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",N,5.1.2e ),N
+269893775,email_106,TO,'s12e ' </i2e @bam.com>,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",N,—,N,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",N
+269893775,email_106,CC,"Bie @nl.thalesgroup.com; 512¢ <512e @mindef.nl>; §12¢
+<5128 @bam.com>; 's12e @rijksoverheid.nl' <st2e @rijksoverheid.nl>",—,N,—,N,—,N
+269893775,email_106,DATE,vrijdag 11 juli 2025 20:45,Thur 7/18/2024 1 :22:41 PM,N,Thur 7/18/2024 1,N,Thur 7/18/2024 1 :22:41 PM,N
+269893775,email_106,SUBJECT,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,—,N,—,N,RE: Voorbereidend materiaal overleg vrijdag,N
+269893775,email_106,ATTACHMENT,—,—,Y,—,Y,Opzet artikelen EMD -delen RNB.docx,N
+269893775,email_131,FROM,126 822 @rrijksoverheid.nl>,126 822 @rrijksoverheid.nl>,Y,126 822 @rrijksoverheid.nl>,Y,126 822 @rrijksoverheid.nl>,Y
+269893775,email_131,TO,"8122 < 5428 @rijksoverheid.nl>; 542¢ ) <842e  @rijksoverheid.nl>; S42e
+<5428 @rijksoverheid.nl>; 812"") <8428 | @rijksoverheid.nl>","8122 < 5428 @rijksoverheid.nl>; 542¢ ) <842e  @rijksoverheid.nl>; S42e
+<5428 @rijksoverheid.nl>; 812"") <8428 | @rijksoverheid.nl>",Y,"8122 < 5428 @rijksoverheid.nl>; 542¢ ) <842e  @rijksoverheid.nl>; S42e
+<5428 @rijksoverheid.nl>; 812"") <8428 | @rijksoverheid.nl>",Y,"8122 < 5428 @rijksoverheid.nl>; 542¢ ) <842e  @rijksoverheid.nl>; S42e
+<5428 @rijksoverheid.nl>; 812"") <8428 | @rijksoverheid.nl>",Y
+269893775,email_131,CC,5422 rijksoverheid.nl>,5422 rijksoverheid.nl>,Y,—,N,—,N
+269893775,email_131,DATE,donderdag 4 september 2025 16:22 | donderdag 4 september 2025 15:42,donderdag 4 september 2025 16:22,N,donderdag 4 september 2025 16:22 | donderdag 4 september 2025 15:42,Y,donderdag 4 september 2025 16:22,N
+269893775,email_131,SUBJECT,"RE: |§12""  advies inzake mogelijkheden vergunningverlenging uitrit [PRDF-11015748] | RE: St2e advies inzake mogelijkheden vergunningverlenging uitrit [PRDF-11015748]","RE: |§12""  advies inzake mogelijkheden vergunningverlenging uitrit [PRDF-11015748]",N,—,N,"RE: |§12""  advies inzake mogelijkheden vergunningverlenging uitrit [PRDF-11015748]",N
+269893775,email_131,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_23,FROM,S12e <stae @bam.com>,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,N,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,N,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,N
+269893775,email_23,TO,512e < 5126 @mindef.nl>; 512¢ @rijksoverheid.nl,1 1 s.1.2e I s.1.2e 1) ~~--s-.1-.2e_ __l@ minezk.nl>,N,—,N,1 1 s.1.2e I s.1.2e 1) ~~--s-.1-.2e_ __l@ minezk.nl>,N
+269893775,email_23,CC,[526 <5i2e @nl.thalesgroup.com>; 512¢ < 5126 @nl.thalesgroup.com>,—,N,—,N,—,N
+269893775,email_23,DATE,donderdag 27 maart 2025 14:22,maandag 29 september 2025 14:10,N,maandag 29 september 2025 14:10,N,maandag 29 september 2025 14:10,N
+269893775,email_23,SUBJECT,512° vergunningeninventarisatie,RE: Verzoek technische briefing EM D voorstel,N,—,N,RE: Verzoek technische briefing EM D voorstel,N
+269893775,email_23,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_63,FROM,st2e 0 <842e ___@rijksoverheid.nl>,5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+269893775,email_63,TO,"B
+<5 Orijksoverheid.nl>; vaa
+
+He ________@rijksoverheid.nl>",5.1.2.e,N,5.1.2.e,N,5.1.2.e,N
+269893775,email_63,CC,12e < 5428 @rijksoverheid.nl>,—,N,—,N,—,N
+269893775,email_63,DATE,dinsdag 1 juli 2025 16:09,dinsdag 13 augustus 2024 15:40,N,dinsdag 13 augustus 2024 15:40,N,dinsdag 13 augustus 2024 15:40,N
+269893775,email_63,SUBJECT,FW: Tijdelijke hulpconstructie voor inritverbreding project Radarlocatie Herwijnen,RE: Probleembeschrijving BBA.docx,N,—,N,RE: Probleembeschrijving BBA.docx,N
+269893775,email_63,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_107,FROM,512 <512e @bam.com>,512 <512e @bam.com>,Y,512 <512e @bam.com>,Y,512 <512e @bam.com>,Y
+269893775,email_107,TO,St? 512e COMMIT/PROJN/PI&BV/CAT-1SR&3 < 512 mindef.nl>,St? 512e COMMIT/PROJN/PI&BV/CAT-1SR&3 < 512 mindef.nl>,Y,—,N,St? 512e COMMIT/PROJN/PI&BV/CAT-1SR&3 < 512 mindef.nl>,Y
+269893775,email_107,CC,"(St2e @nl.thalesgroup.com; St2e <&t2e @mindef.nl>; (12e @rijksoverheid.nl;
+512e <512e \@bam.com>","(St2e @nl.thalesgroup.com; St2e <&t2e @mindef.nl>; (12e @rijksoverheid.nl;
+512e <512e \@bam.com>",Y,—,N,(St2e @nl.thalesgroup.com | St2e <&t2e @mindef.nl> | (12e @rijksoverheid.nl | 512e <512e \@bam.com>,N
+269893775,email_107,DATE,vrijdag 11 juli 2025 16:52,vrijdag 11 juli 2025 16:52,Y,vrijdag 11 juli 2025 16:52,Y,vrijdag 11 juli 2025 16:52,Y
+269893775,email_107,SUBJECT,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y,—,N,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y
+269893775,email_107,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_126,FROM,—,—,Y,—,Y,—,Y
+269893775,email_126,TO,'st2e | @mindef.n!' @ mindef.nl>; Bae @mindef.nl,'st2e | @mindef.n!' @ mindef.nl>; Bae @mindef.nl,Y,—,N,'st2e | @mindef.n!' @ mindef.nl>; Bae @mindef.nl,Y
+269893775,email_126,CC,"Be @lLenT.nl; Bee @rijksoverheid.nl; Bee @rijksoverheid.nl;
+lLenT.nl; |LenT.nl; Oren; [25","Be @lLenT.nl; Bee @rijksoverheid.nl; Bee @rijksoverheid.nl;
+lLenT.nl; |LenT.nl; Oren; [25",Y,—,N,Be @lLenT.nl | Bee @rijksoverheid.nl | Bee @rijksoverheid.nl | lLenT.nl | |LenT.nl | Oren | [25,N
+269893775,email_126,DATE,dinsdag 2 september 2025 14:24,dinsdag 2 september 2025 14:24,Y,dinsdag 2 september 2025 14:24,Y,dinsdag 2 september 2025 14:24,Y
+269893775,email_126,SUBJECT,512  advies inzake mogelijkheden vergunningverlenging uitrit [PRDF-11015748],512  advies inzake mogelijkheden vergunningverlenging uitrit [PRDF-11015748],Y,—,N,512  advies inzake mogelijkheden vergunningverlenging uitrit [PRDF-11015748],Y
+269893775,email_126,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_82,FROM,512,512,Y,—,N,512,Y
+269893775,email_82,TO,' 12e @mindef.nl' <512¢ mindef.nl>; 5428 <s12e @rijksoverheid.nl>,' 12e @mindef.nl' <512¢ mindef.nl>; 5428 <s12e @rijksoverheid.nl>,Y,—,N,' 12e @mindef.nl' <512¢ mindef.nl>; 5428 <s12e @rijksoverheid.nl>,Y
+269893775,email_82,CC,5126 @bam.com; S428 </ba2e) @rijksoverheid.nl>,5126 @bam.com; S428 </ba2e) @rijksoverheid.nl>,Y,—,N,5126 @bam.com | S428 </ba2e) @rijksoverheid.nl>,N
+269893775,email_82,DATE,maandag 14 juli 2025 17:19,maandag 14 juli 2025 17:19,Y,maandag 14 juli 2025 17:19,Y,maandag 14 juli 2025 17:19,Y
+269893775,email_82,SUBJECT,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y,—,N,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,Y
+269893775,email_82,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_118,FROM,88 <8 @mindef.nl>,88 <8 @mindef.nl>,Y,88 <8 @mindef.nl>,Y,88 <8 @mindef.nl>,Y
+269893775,email_118,TO,en ame @rijksoverheid.nl>; 818 < B88 NE @mindef-nl>,—,N,—,N,—,N
+269893775,email_118,CC,"BEE B ORijksoverheid.nls; HEN EE @mindef.n>; SEN
+ERE @mindef.nl>",—,N,—,N,"BEE B ORijksoverheid.nls | HEN EE @mindef.n> | SEN
+ERE @mindef.nl>",N
+269893775,email_118,DATE,woensdag 3 september 2025 11:46,woensdag 3 september 2025 11:46,Y,woensdag 3 september 2025 11:46,Y,woensdag 3 september 2025 11:46,Y
+269893775,email_118,SUBJECT,RE: voortgang inritvergunning Herwijnen,RE: voortgang inritvergunning Herwijnen,Y,—,N,RE: voortgang inritvergunning Herwijnen,Y
+269893775,email_118,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_121,FROM,—,—,Y,—,Y,—,Y
+269893775,email_121,TO,"< mindef.nl>; Ween sm Orijksoverheid.nl;, [8126 NNN
+
+<Er ee @mindef.nl>",—,N,—,N,—,N
+269893775,email_121,CC,—,—,Y,—,Y,—,Y
+269893775,email_121,DATE,woensdag 3 september 2025 10:58,woensdag 3 september 2025 10:58,Y,"woensdag 3 september 2025 10:58
+< mindef.nl>",N,woensdag 3 september 2025 10:58,Y
+269893775,email_121,SUBJECT,RE: voortgang inritvergunning Herwijnen,RE: voortgang inritvergunning Herwijnen,Y,—,N,RE: voortgang inritvergunning Herwijnen,Y
+269893775,email_121,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_13,FROM,512¢ < 5126 @rijksoverheid.nl>,512¢ < 5126 @rijksoverheid.nl>,Y,512¢ < 5126 @rijksoverheid.nl>,Y,512¢ < 5126 @rijksoverheid.nl>,Y
+269893775,email_13,TO,S12e < S120 rijksoverheid.nl>; Baz <512e Rijksoverheid.nl>,S12e < S120 rijksoverheid.nl>; Baz <512e Rijksoverheid.nl>,Y,—,N,S12e < S120 rijksoverheid.nl>; Baz <512e Rijksoverheid.nl>,Y
+269893775,email_13,CC,—,—,Y,—,Y,—,Y
+269893775,email_13,DATE,woensdag 12 februari 2025 13:56,woensdag 12 februari 2025 13:56,Y,woensdag 12 februari 2025 13:56,Y,woensdag 12 februari 2025 13:56,Y
+269893775,email_13,SUBJECT,green field ontwikkelingen irt aansluiting netbeheerder,green field ontwikkelingen irt aansluiting netbeheerder,Y,—,N,green field ontwikkelingen irt aansluiting netbeheerder,Y
+269893775,email_13,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_3,FROM,598 ee Opelsrjcken.nl>,598 ee Opelsrjcken.nl>,Y,598 ee Opelsrjcken.nl>,Y,598 ee Opelsrjcken.nl>,Y
+269893775,email_3,TO,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,Y,—,N,5928) EE @rijksoverheid.nl>; 2e i@mindef.nl>,Y
+269893775,email_3,CC,—,—,Y,—,Y,—,Y
+269893775,email_3,DATE,dinsdag 4 februari 2025 18:06,dinsdag 4 februari 2025 18:06,Y,dinsdag 4 februari 2025 18:06,Y,dinsdag 4 februari 2025 18:06,Y
+269893775,email_3,SUBJECT,RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],Y,—,N,RE: rijksinpassingsplan Radarstation Herwijnen [PRDF-11015748],Y
+269893775,email_3,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_54,FROM,—,—,Y,—,Y,—,Y
+269893775,email_54,TO,"BBS @mindef.nl>; B28
+(5422) @rijksoverheid.nl","BBS @mindef.nl>; B28
+(5422) @rijksoverheid.nl",Y,—,N,"BBS @mindef.nl>; B28
+(5422) @rijksoverheid.nl",Y
+269893775,email_54,CC,"[5422 @nl.thalesgroup.com; Bas @nl.thalesgroup.com; Bee @ni.thalesgroup.com; ize
+
+52e <512e @bam.com>","[5422 @nl.thalesgroup.com; Bas @nl.thalesgroup.com; Bee @ni.thalesgroup.com; ize
+
+52e <512e @bam.com>",Y,—,N,"[5422 @nl.thalesgroup.com | Bas @nl.thalesgroup.com | Bee @ni.thalesgroup.com | ize
+
+52e <512e @bam.com>",N
+269893775,email_54,DATE,donderdag 19 juni 2025 12:36,donderdag 19 juni 2025 12:36,Y,donderdag 19 juni 2025 12:36,Y,donderdag 19 juni 2025 12:36,Y
+269893775,email_54,SUBJECT,RE: Bouwoverleg nr 7 Herwijnen,RE: Bouwoverleg nr 7 Herwijnen,Y,—,N,RE: Bouwoverleg nr 7 Herwijnen,Y
+269893775,email_54,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_33,FROM,512¢ @mindef.nl <542e @mindef.nl>,512¢ @mindef.nl <542e @mindef.nl>,Y,—,N,512¢ @mindef.nl <542e @mindef.nl>,Y
+269893775,email_33,TO,512¢ <512e @bam.com>,512¢ <512e @bam.com>,Y,512¢ <512e @bam.com>,Y,512¢ <512e @bam.com>,Y
+269893775,email_33,CC,"5126 @nl.thalesgroup.com; 5428 \@nl.thalesgroup.com; 542% <512e @bam.com>;
+
+512e @mindef.nl","5126 @nl.thalesgroup.com; 5428 \@nl.thalesgroup.com; 542% <512e @bam.com>;
+
+512e @mindef.nl",Y,—,N,5126 @nl.thalesgroup.com | 5428 \@nl.thalesgroup.com | 542% <512e @bam.com> | 512e @mindef.nl,N
+269893775,email_33,DATE,dinsdag 20 mei 2025 16:05,dinsdag 20 mei 2025 16:05,Y,dinsdag 20 mei 2025 16:05,Y,dinsdag 20 mei 2025 16:05,Y
+269893775,email_33,SUBJECT,RE: 6e overleg bouw 2e radar toren Herwijnen: AP 3.4 deellevering stukken voor vergunning,RE: 6e overleg bouw 2e radar toren Herwijnen: AP 3.4 deellevering stukken voor vergunning,Y,—,N,RE: 6e overleg bouw 2e radar toren Herwijnen: AP 3.4 deellevering stukken voor vergunning,Y
+269893775,email_33,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_116,FROM,"""S120 he",1 5.1.20 14 5.1.20 k@eigenhuis.nl>,N,1 5.1.20 14 5.1.20 k@eigenhuis.nl>,N,1 5.1.20 14 5.1.20 k@eigenhuis.nl>,N
+269893775,email_116,TO,"""512 "" <512¢€ @rijksoverheid.nl>; ""512¢ @mindef.nl""
+< 5126 @mindef.nl>; ""512¢ @mindef.nl"" <512e @mindef.nl>","5.1.2e minezk.n1>,·_ .----~---- --- 5.1.2e l@minezk.nl>",N,—,N,"5.1.2e minezk.n1>,·_ .----~---- --- 5.1.2e l@minezk.nl>",N
+269893775,email_116,CC,"""5120 "" <s120 @Rijksoverheid.nl>","5.1.2e 5.1.2e a; eigenlrnis .nl>
+- ------",N,—,N,5.1.2e 5.1.2e a; eigenlrnis .nl>,N
+269893775,email_116,DATE,"Tue, 2 s12e 2025 16:25:00 +0200",dinsda 11 november 2025 14:47,N,"dinsda 11 november 2025 14:47
+0
+1",N,dinsda 11 november 2025 14:47,N
+269893775,email_116,SUBJECT,voortgang inritvergunning Herwijnen,Wetsvoorstel Energie delen,N,—,N,Wetsvoorstel Energie delen,N
+269893775,email_116,ATTACHMENT,—,—,Y,—,Y,—,Y
+269893775,email_78,FROM,512e,—,N,—,N,—,N
+269893775,email_78,TO,"S12e <512e @rijksoverheid.nl>; st2e <te @Rijksoverheid.nl>; 12e
+<512¢€ @rijksoverheid.nl>","1 5.1.2e !(ENER) ; 1 5.1.2e 1 (ENER)
+Sut>Ject: Implementatie artikel 15bis, 4de lid onderdeel e (toegang tot buitengerechtelijke geschilbeslechting)
+[uë),
+Bestel 5.1.2e
+Kan ik JUiiie nog een vraag stellen over de implementatie van artikel 15bis, 4"""" lid, onderdeel e; toegang tot buitengerechtelijke geschilbeslechting?
+4. De lidstaten zorgen ervoor dat actieve afnemers die deelnemen aan energiedelen:
+e. in geval van conflicten over een overeenkomst voor energiedelen, overeenkomstig artikel 26 toegang hebben tot buitengerechtelijke
+geschillenbeslechting met andere deelnemers aan de overeenkomst voor energiedelen;
+Deze bepaling is best wel een uitdaging voor ons.
+In Neder1and zijn alle (vergunninghoudende) energieleveranciers lid van de geschillencommissie energie. Energie - De Geschillencommissie Deze
+geschilcommissie is bekend en handelt alle klachten van eindafnemers over energie af.
+Voorwaarde voor deze geschillencommissie is dat de partij waarover de klacht gaat lid is van de brancheorganisaties Energie Nederland
+(leveranciers) of Netbeheer Nederland (systeembeheerders). Ook moeten ze een KvK-registratie hebben en een rechtspersoon zijn. De kosten
+voor het indienen van een klacht zijn voor de afnemer beperkt (¤52). Voor een leverancier of systeembeheerder zijn de kosten om lid te zijn van de
+geschillencommissie echter hoog (afhankelijk van de omzet van ¤1500 tot ¤4900 ex BTW per jaar, alleen al voor de registratie, met daarnaast nog
+een bedrag per klacht). De geschillencommissie leent zich hiermee minder voor klachten tussen burgers of kleine bedrijven die energie met elkaar
+delen. Vraag is of je van eindafnemers kan verwachten dat zij zich aansluiten bij een geschilcommissie. De Nationale Ombudsman behandelt
+alleen klachten tegen de overheid en de ACM richt zich ook op bedrijven ligt om die reden minder voor de hand voor het beslechten van geschillen
+tussen burgers.
+en zit niet te wachten op het beslechten van geschillen tussen burgers.
+Vraag is hoe andere landen hiermee omgaan? Is het bijvoorbeeld denkbaar om de drempels van het vierde lid, onderdeel c (10,8 kW voor
+huishoudens en 50 kW voor appartementen, of de verhoging van het einde van het vierde lid) als ondergrens voor toegang tot geschilbeslechting te
+hanteren? Hoe kunnen wij dit praktisch invullen.
+Met vriendelijke groet,
+J
+1 5.1.28
+Ministerie van Klimaat en Groene Groei
+Directie Ener iemarkt
+Tel: s.1.2e
+5.1.2e
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. lf you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for dam age of any kind resulting trom the
+risks inherent in the electronic transmission of messa ges.
+2
+0028",N,—,N,1 5.1.2e !(ENER) ; 1 5.1.2e 1 (ENER),N
+269893775,email_78,CC,—,—,Y,—,Y,—,Y
+269893775,email_78,DATE,woensdag 16 juli 2025 14:31,"Thursday, September 5, 2024 3:52 PM",N,"Thursday, September 5, 2024 3:52 PM",N,"Thursday, September 5, 2024 3:52 PM",N
+269893775,email_78,SUBJECT,RE: Benodigde informatie t.a.v. Waterschap en vergunning inritverbreding Herwijnen,—,N,—,N,"Implementatie artikel 15bis, 4de lid onderdeel e (toegang tot buitengerechtelijke geschilbeslechting)",N
+269893775,email_78,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_32,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_32,TO,—,—,Y,—,Y,—,Y
+4110332,email_32,CC,—,—,Y,—,Y,—,Y
+4110332,email_32,DATE,woensdag 3 juli 2024 09:25,woensdag 3 juli 2024 09:25,Y,woensdag 3 juli 2024 09:25 | do 4-7-2024 14:00,N,woensdag 3 juli 2024 09:25,Y
+4110332,email_32,SUBJECT,stavaza wachttijden verlof/BBA/PP 3-7-2024 | bespreken opties wachtlijst BBA,stavaza wachttijden verlof/BBA/PP 3-7-2024,N,—,N,stavaza wachttijden verlof/BBA/PP 3-7-2024,N
+4110332,email_32,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_119,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_119,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_119,CC,5.1.2.e,5.1.2.e,Y,—,N,5.1.2.e,Y
+4110332,email_119,DATE,maandag 9 september 2024 10:51,maandag 9 september 2024 10:51,Y,maandag 9 september 2024 10:51,Y,maandag 9 september 2024 10:51,Y
+4110332,email_119,SUBJECT,concept tekst voor status BBA,concept tekst voor status BBA,Y,—,N,concept tekst voor status BBA,Y
+4110332,email_119,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_93,FROM,5.1.2.e >,".-1- ---s-.1-.2-e-.,...I- s.-1.-2e-,i) ~L...._s_.1_.2_e__Jl-'-'@""""""m""""""i'-',..;n..;;..ez=k"""""".'""'""'nl>",N,—,N,".-1- ---s-.1-.2-e-.,...I- s.-1.-2e-,i) ~L...._s_.1_.2_e__Jl-'-'@""""""m""""""i'-',..;n..;;..ez=k"""""".'""'""'nl>",N
+4110332,email_93,TO,—,s.1.2e s.1.2e reenchoice.nl>,N,—,Y,s.1.2e s.1.2e reenchoice.nl>,N
+4110332,email_93,CC,—,s.1.2e ) minezk.nl>,N,—,Y,s.1.2e ) minezk.nl>,N
+4110332,email_93,DATE,woensdag 14 augustus 2024 16:05,"Frida , 22 November 2024 16:43",N,—,N,"Frida , 22 November 2024 16:43",N
+4110332,email_93,SUBJECT,stavaza wachttijden verlof/BBA/PP 14-8-2024,RE: regeldrukkosten energiedelen,N,—,N,RE: regeldrukkosten energiedelen,N
+4110332,email_93,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_23,FROM,5.1.2.e,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,N,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,N,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,N
+4110332,email_23,TO,5.1.2.e,1 1 s.1.2e I s.1.2e 1) ~~--s-.1-.2e_ __l@ minezk.nl>,N,—,N,1 1 s.1.2e I s.1.2e 1) ~~--s-.1-.2e_ __l@ minezk.nl>,N
+4110332,email_23,CC,—,—,Y,—,Y,—,Y
+4110332,email_23,DATE,dinsdag 25 juni 2024 10:21,maandag 29 september 2025 14:10,N,maandag 29 september 2025 14:10,N,maandag 29 september 2025 14:10,N
+4110332,email_23,SUBJECT,BBA Dordrecht wachtlijst,RE: Verzoek technische briefing EM D voorstel,N,—,N,RE: Verzoek technische briefing EM D voorstel,N
+4110332,email_23,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_4,FROM,5.1.2.e,5.1.2e NVDE,N,5.1.2e 5.1.2e l@minezk.nl] | 5.1.2e NV,N,5.1.2e NVDE,N
+4110332,email_4,TO,—,"5.1.2e 5.1.2e l@minezk.nl]
+I",N,—,Y,5.1.2e 5.1.2e l@minezk.nl],N
+4110332,email_4,CC,—,—,Y,—,Y,—,Y
+4110332,email_4,DATE,woensdag 28 februari 2024 14:33,—,N,Fri 10/24/2025 9:15:06 AM | Fri 10,N,Fri 10/24/2025 9:15:06 AM,N
+4110332,email_4,SUBJECT,stavaza wachttijden verlof/BBA/PPA 28-2-2024,Energiedelen - notitie,N,—,N,Energiedelen - notitie,N
+4110332,email_4,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_106,FROM,"""5.1.2.e >",5.1.2e ),N,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",N,5.1.2e ),N
+4110332,email_106,TO,5.1.2.e,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",N,—,N,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",N
+4110332,email_106,CC,"""5.1.2.e",—,N,—,N,—,N
+4110332,email_106,DATE,maandag 26 augustus 2024 om 14:39:00,Thur 7/18/2024 1 :22:41 PM,N,Thur 7/18/2024 1,N,Thur 7/18/2024 1 :22:41 PM,N
+4110332,email_106,SUBJECT,Nabrander,—,N,—,N,RE: Voorbereidend materiaal overleg vrijdag,N
+4110332,email_106,ATTACHMENT,—,—,Y,—,Y,Opzet artikelen EMD -delen RNB.docx,N
+4110332,email_6,FROM,5.1.2.e,—,N,—,N,'-------~,N
+4110332,email_6,TO,—,I 5.1.2e 1,N,—,Y,I 5.1.2e 1,N
+4110332,email_6,CC,—,—,Y,—,Y,—,Y
+4110332,email_6,DATE,woensdag 27 maart 2024 17:13,woensdag 3 juli 2024 16:17,N,woensdag 3 juli 2024 16:17,N,woensdag 3 juli 2024 16:17,N
+4110332,email_6,SUBJECT,stavaza wachttijden verlof/BBA/PP 27-3,RE: Allocatie -reconciliatie - Vlaanderen,N,—,N,RE: Allocatie -reconciliatie - Vlaanderen,N
+4110332,email_6,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_22,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_22,TO,—,—,Y,—,Y,—,Y
+4110332,email_22,CC,—,—,Y,—,Y,—,Y
+4110332,email_22,DATE,woensdag 19 juni 2024 10:25,woensdag 19 juni 2024 10:25,Y,woensdag 19 juni 2024 10:25,Y,woensdag 19 juni 2024 10:25,Y
+4110332,email_22,SUBJECT,stavaza wachttijden verlof/BBA/PP 19-6-2024,stavaza wachttijden verlof/BBA/PP 19-6-2024,Y,—,N,stavaza wachttijden verlof/BBA/PP 19-6-2024,Y
+4110332,email_22,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_101,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_101,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_101,CC,—,—,Y,—,Y,—,Y
+4110332,email_101,DATE,dinsdag 27 augustus 2024 10:11,dinsdag 27 augustus 2024 10:11,Y,"dinsdag 27 augustus 2024 10:11
+2",N,dinsdag 27 augustus 2024 10:11,Y
+4110332,email_101,SUBJECT,iets over BBA in stavaza mail,iets over BBA in stavaza mail,Y,—,N,iets over BBA in stavaza mail,Y
+4110332,email_101,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_47,FROM,"""5.1.2.e","""5.1.2.e",Y,—,N,"""5.1.2.e",Y
+4110332,email_47,TO,"""5.1.2.e","""5.1.2.e
+2",N,—,N,"""5.1.2.e",Y
+4110332,email_47,CC,"""5.1.2.e","""5.1.2.e",Y,—,N,"""5.1.2.e",Y
+4110332,email_47,DATE,vrijdag 19 juli 2024 om 13:44:18,vrijdag 19 juli 2024 om 13:44:18,Y,vrijdag 19 juli 2024 om 13:44:18,Y,vrijdag 19 juli 2024 om 13:44:18,Y
+4110332,email_47,SUBJECT,Vrije BBA- bedden,Vrije BBA- bedden,Y,—,N,Vrije BBA- bedden,Y
+4110332,email_47,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_86,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_86,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_86,CC,—,—,Y,—,Y,—,Y
+4110332,email_86,DATE,woensdag 14 augustus 2024 16:28,woensdag 14 augustus 2024 16:28,Y,woensdag 14 augustus 2024 16:28,Y,woensdag 14 augustus 2024 16:28,Y
+4110332,email_86,SUBJECT,FW: Probleembeschrijving BBA 14082024.docx,FW: Probleembeschrijving BBA 14082024.docx,Y,F,N,FW: Probleembeschrijving BBA 14082024.docx,Y
+4110332,email_86,ATTACHMENT,Probleembeschrijving BBA 14082024.docx,Probleembeschrijving BBA 14082024.docx,Y,—,N,Probleembeschrijving BBA 14082024.docx,Y
+4110332,email_112,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_112,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_112,CC,—,—,Y,—,Y,—,Y
+4110332,email_112,DATE,donderdag 5 september 2024 15:19,donderdag 5 september 2024 15:19,Y,donderdag 5 september 2024 15:19,Y,donderdag 5 september 2024 15:19,Y
+4110332,email_112,SUBJECT,Capaciteit BBA.docx,Capaciteit BBA.docx,Y,—,N,Capaciteit BBA.docx,Y
+4110332,email_112,ATTACHMENT,Capaciteit BBA.docx,Capaciteit BBA.docx,Y,—,N,Capaciteit BBA.docx,Y
+4110332,email_76,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_76,TO,_5.1.2.e,_5.1.2.e,Y,_5.1.2.e,Y,_5.1.2.e,Y
+4110332,email_76,CC,—,—,Y,—,Y,—,Y
+4110332,email_76,DATE,dinsdag 13 augustus 2024 15:06,dinsdag 13 augustus 2024 15:06,Y,"dinsdag 13 augustus 2024 15:06
+4",N,dinsdag 13 augustus 2024 15:06,Y
+4110332,email_76,SUBJECT,Probleembeschrijving BBA.docx,Probleembeschrijving BBA.docx,Y,—,N,Probleembeschrijving BBA.docx,Y
+4110332,email_76,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_18,FROM,5.1.2.e,5.1.2e ),N,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N,5.1.2e ),N
+4110332,email_18,TO,5.1.2.e,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N,—,N,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N
+4110332,email_18,CC,—,—,Y,—,Y,—,Y
+4110332,email_18,DATE,donderdag 6 juni 2024 09:26,Thur 11/13/2025 1 :06:54 PM,N,Thur 11/13/2025 1 :06:54 PM,N,Thur 11/13/2025 1 :06:54 PM,N
+4110332,email_18,SUBJECT,RE: vraag over BBA wachtlijst Dordrecht,—,N,—,N,Fw: W19.25.00218/IV - Advies,N
+4110332,email_18,ATTACHMENT,—,—,Y,—,Y,Advies W19.25.00218.docx,N
+4110332,email_63,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_63,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_63,CC,—,—,Y,—,Y,—,Y
+4110332,email_63,DATE,dinsdag 13 augustus 2024 15:40,dinsdag 13 augustus 2024 15:40,Y,dinsdag 13 augustus 2024 15:40,Y,dinsdag 13 augustus 2024 15:40,Y
+4110332,email_63,SUBJECT,RE: Probleembeschrijving BBA.docx,RE: Probleembeschrijving BBA.docx,Y,—,N,RE: Probleembeschrijving BBA.docx,Y
+4110332,email_63,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_77,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_77,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_77,CC,—,—,Y,—,Y,—,Y
+4110332,email_77,DATE,woensdag 14 augustus 2024 11:56,woensdag 14 augustus 2024 11:56,Y,woensdag 14 augustus 2024 11:56,Y,woensdag 14 augustus 2024 11:56,Y
+4110332,email_77,SUBJECT,RE: Probleembeschrijving BBA.docx,RE: Probleembeschrijving BBA.docx,Y,—,N,RE: Probleembeschrijving BBA.docx,Y
+4110332,email_77,ATTACHMENT,Probleembeschrijving BBA 5.1.2.e .docx,Probleembeschrijving BBA 5.1.2.e .docx,Y,—,N,Probleembeschrijving BBA 5.1.2.e .docx,Y
+4110332,email_55,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_55,TO,5.1.2.e,5.1.2.e,Y,—,N,5.1.2.e,Y
+4110332,email_55,CC,—,—,Y,—,Y,—,Y
+4110332,email_55,DATE,donderdag 1 augustus 2024 20:07,donderdag 1 augustus 2024 20:07,Y,donderdag 1 augustus 2024 20:07,Y,donderdag 1 augustus 2024 20:07,Y
+4110332,email_55,SUBJECT,"RE: Agenda Teamvergadering 6 augustus, 13.00 - 14.30","RE: Agenda Teamvergadering 6 augustus, 13.00 - 14.30",Y,—,N,"RE: Agenda Teamvergadering 6 augustus, 13.00 - 14.30",Y
+4110332,email_55,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_41,FROM,5.1.2.e,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,N,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,N,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,N
+4110332,email_41,TO,5.1.2.e,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,N,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,N
+4110332,email_41,CC,—,"5.1.2e ) (VDI/M&A) 5.1.2e m infin. nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A} 5.1.2e minfin.nl>",N,—,Y,5.1.2e ) (VDI/M&A) 5.1.2e m infin. nl> | 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl> | 5.1.2e 5.1.2e minezk.nl> | 5.1.2e ) (VDI/M&A} 5.1.2e minfin.nl>,N
+4110332,email_41,DATE,vrijdag 19 juli 2024 15:40,dinsdag 9 juli 2024 13:33,N,dinsdag 9 juli 2024 13:33,N,dinsdag 9 juli 2024 13:33,N
+4110332,email_41,SUBJECT,RE: Vrije BBA- bedden,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),N
+4110332,email_41,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_64,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_64,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_64,CC,—,—,Y,—,Y,—,Y
+4110332,email_64,DATE,dinsdag 13 augustus 2024 15:35,dinsdag 13 augustus 2024 15:35,Y,dinsdag 13 augustus 2024 15:35,Y,dinsdag 13 augustus 2024 15:35,Y
+4110332,email_64,SUBJECT,RE: Probleembeschrijving BBA.docx,RE: Probleembeschrijving BBA.docx,Y,—,N,RE: Probleembeschrijving BBA.docx,Y
+4110332,email_64,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_70,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_70,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_70,CC,—,—,Y,—,Y,—,Y
+4110332,email_70,DATE,woensdag 14 augustus 2024 10:57,woensdag 14 augustus 2024 10:57,Y,woensdag 14 augustus 2024 10:57,Y,woensdag 14 augustus 2024 10:57,Y
+4110332,email_70,SUBJECT,RE: Probleembeschrijving BBA.docx,RE: Probleembeschrijving BBA.docx,Y,—,N,RE: Probleembeschrijving BBA.docx,Y
+4110332,email_70,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_15,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_15,TO,_5.1.2.e,_5.1.2.e,Y,—,N,_5.1.2.e,Y
+4110332,email_15,CC,—,—,Y,—,Y,—,Y
+4110332,email_15,DATE,dinsdag 4 juni 2024 11:11,dinsdag 4 juni 2024 11:11,Y,dinsdag 4 juni 2024 11:11,Y,dinsdag 4 juni 2024 11:11,Y
+4110332,email_15,SUBJECT,FW: optimaliseren capaciteit BBA,FW: optimaliseren capaciteit BBA,Y,—,N,FW: optimaliseren capaciteit BBA,Y
+4110332,email_15,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_73,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_73,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_73,CC,—,—,Y,—,Y,—,Y
+4110332,email_73,DATE,dinsdag 13 augustus 2024 15:40,dinsdag 13 augustus 2024 15:40,Y,dinsdag 13 augustus 2024 15:40,Y,dinsdag 13 augustus 2024 15:40,Y
+4110332,email_73,SUBJECT,RE: Probleembeschrijving BBA.docx,RE: Probleembeschrijving BBA.docx,Y,—,N,RE: Probleembeschrijving BBA.docx,Y
+4110332,email_73,ATTACHMENT,—,—,Y,—,Y,—,Y
+4110332,email_103,FROM,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_103,TO,5.1.2.e,5.1.2.e,Y,5.1.2.e,Y,5.1.2.e,Y
+4110332,email_103,CC,5.1.2.e,5.1.2.e,Y,—,N,5.1.2.e,Y
+4110332,email_103,DATE,vrijdag 30 augustus 2024 10:17,vrijdag 30 augustus 2024 10:17,Y,vrijdag 30 augustus 2024 10:17,Y,vrijdag 30 augustus 2024 10:17,Y
+4110332,email_103,SUBJECT,Plaatsingen BBA Dordrecht,Plaatsingen BBA Dordrecht,Y,—,N,Plaatsingen BBA Dordrecht,Y
+4110332,email_103,ATTACHMENT,Instroomplan BBA naar 60 - versie 2.docx,Instroomplan BBA naar 60 - versie 2.docx,Y,—,N,Instroomplan BBA naar 60 - versie 2.docx,Y
+4110332,email_115,FROM,5.1.2.e,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,N,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,N,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,N
+4110332,email_115,TO,5.1.2.e,"5.1.2e ei enhuis.nl>
+.C..=~C=--=:...J...__~_5._1._2e~~-1-....1..-~-----==e=i: i,;:e;.;n..:.h:..;.u;:;;.i;.;s:;.·;.:n..:.l;.>_...1;...L___ _s_. 1_.2~e ~...J..._L__~-=;;..==e=n:....:.;h:...:..u=i=s.:..:....n.:..l:.>; 1 s.1.2e 1,
+s.1.2e s.1.2e ) minezk.nl>; s.1.2e ) .=""-'--'.:.:....:...:=k.nl>
+L___ __",N,—,N,5.1.2e ei enhuis.nl>,N
+4110332,email_115,CC,—,—,Y,—,Y,"...J...__~_5._1._2e~~-1-....1..-~-----==e=i: i,;:e;.;n..:.h:..;.u;:;;.i;.;s:;.·;.:n..:.l;.>_...1;...L___ _s_. 1_.2~e ~...J..._L__~-=;;..==e=n:....:.;h:...:..u=i=s.:..:....n.:..l:.>; 1 s.1.2e 1,
+s.1.2e s.1.2e ) minezk.nl>; s.1.2e ) .= ""-'--'.:.:....:...:=k.nl>
+L___ __",N
+4110332,email_115,DATE,maandag 9 september 2024 11:09,"Dinsdag, 11 November, 2025 15:01",N,"Dinsdag | , 11 November, 2025 15:01",N,"Dinsdag, 11 November, 2025 15:01",N
+4110332,email_115,SUBJECT,FW: concept tekst voor status BBA,RE: Wetsvoorstel Energie delen,N,—,N,RE: Wetsvoorstel Energie delen,N
+4110332,email_115,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_106,FROM,5.1.2e ),5.1.2e ),Y,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",N,5.1.2e ),Y
+47364180,email_106,TO,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl","5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",Y,—,N,"5.1.2e )~ 5.1.2e l@minezk.nl]; ~ts_.1_.2_e~1_ s_.1_.2_e_~_ _s._ 1_.2_e_~l@greenchoice.nl]; 5.1.2e
+d 1
+5.1.2e 1) 5.1.2e minezk.nl",Y
+47364180,email_106,CC,—,—,Y,—,Y,—,Y
+47364180,email_106,DATE,Thur 7/18/2024 1 :22:41 PM,Thur 7/18/2024 1 :22:41 PM,Y,Thur 7/18/2024 1,N,Thur 7/18/2024 1 :22:41 PM,Y
+47364180,email_106,SUBJECT,RE: Voorbereidend materiaal overleg vrijdag,—,N,—,N,RE: Voorbereidend materiaal overleg vrijdag,Y
+47364180,email_106,ATTACHMENT,Opzet artikelen EMD -delen RNB.docx,—,N,—,N,Opzet artikelen EMD -delen RNB.docx,Y
+47364180,email_26,FROM,1 s.1.2e 1) 4 s.1.2e l@minezk.nl>,1 s.1.2e 1) 4 s.1.2e l@minezk.nl>,Y,1 s.1.2e 1) 4 s.1.2e l@minezk.nl>,Y,1 s.1.2e 1) 4 s.1.2e l@minezk.nl>,Y
+47364180,email_26,TO,1 s.1.2e Js12el) s.1.2e l@raadvanstate.nl>,1 s.1.2e Js12el) s.1.2e l@raadvanstate.nl>,Y,—,N,1 s.1.2e Js12el) s.1.2e l@raadvanstate.nl>,Y
+47364180,email_26,CC,—,—,Y,—,Y,—,Y
+47364180,email_26,DATE,maandag 29 september 2025 13:45,maandag 29 september 2025 13:45,Y,"maandag 29 september 2025 13:45
+4",N,maandag 29 september 2025 13:45,Y
+47364180,email_26,SUBJECT,Automatisch antwoord: Verzoek technische briefing EMD voorstel,Automatisch antwoord: Verzoek technische briefing EMD voorstel,Y,—,N,Automatisch antwoord: Verzoek technische briefing EMD voorstel,Y
+47364180,email_26,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_65,FROM,5.1.2e I NVDE 5.1.2e l@nvde.nl>,5.1.2e I NVDE 5.1.2e l@nvde.nl>,Y,5.1.2e I NVDE 5.1.2e l@nvde.nl>,Y,5.1.2e I NVDE 5.1.2e l@nvde.nl>,Y
+47364180,email_65,TO,"s.1.2e 5.1.2e 5.1.2e @> reenchoice.nl>; 5.1.2e
+5.1.2e a em.nl>; 5.1.2e 5.1.28 stedin.net>; ~------~ minezk.nl>","s.1.2e 5.1.2e 5.1.2e @> reenchoice.nl>; 5.1.2e
+5.1.2e a em.nl>; 5.1.2e 5.1.28 stedin.net>; ~------~ minezk.nl>",Y,"s.1.2e 5.1.2e 5.1.2e @> reenchoice.nl>; 5.1.2e
+5.1.2e a em.nl>; 5.1.2e 5.1.28 stedin.net>; ~------~ minezk.nl>",Y,"s.1.2e 5.1.2e 5.1.2e @> reenchoice.nl>; 5.1.2e
+5.1.2e a em.nl>; 5.1.2e 5.1.28 stedin.net>; ~------~ minezk.nl>",Y
+47364180,email_65,CC,—,—,Y,—,Y,—,Y
+47364180,email_65,DATE,woensdag 5 juni 2024 14:49,woensdag 5 juni 2024 14:49,Y,woensdag 5 juni 2024 14:49,Y,woensdag 5 juni 2024 14:49,Y
+47364180,email_65,SUBJECT,RE: Energie delen,RE: Energie delen,Y,—,N,RE: Energie delen,Y
+47364180,email_65,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_35,FROM,I 5.1.2e 5.1.2e l@ec.europa.eu>,I 5.1.2e 5.1.2e l@ec.europa.eu>,Y,I 5.1.2e 5.1.2e l@ec.europa.eu>,Y,I 5.1.2e 5.1.2e l@ec.europa.eu>,Y
+47364180,email_35,TO,5.1.2e,"5.1.2e
+_.ll 1",N,"5.1.2e
+_.ll 1",N,"5.1.2e
+_.ll 1",N
+47364180,email_35,CC,"5.1.2e .___ _s_ .1_.2_e_ _ 5.1.2e l@minezk.nl>'-___s._ 1_.2_e_ __ _,","5.1.2e .___ _s_ .1_.2_e_ _ 5.1.2e l@minezk.nl>'-___s._ 1_.2_e_ __ _,
+1
+5.1.2e 5.1.2e 5.1.2e",N,—,N,"5.1.2e .___ _s_ .1_.2_e_ _ 5.1.2e l@minezk.nl>'-___s._ 1_.2_e_ __ _,
+1
+5.1.2e 5.1.2e 5.1.2e",N
+47364180,email_35,DATE,dinsdag 25 ·uni 202417:42,dinsdag 25 ·uni 202417:42,Y,dinsdag 25 ·uni 202417:42,Y,dinsdag 25 ·uni 202417:42,Y
+47364180,email_35,SUBJECT,RE: Delen van energie,RE: Delen van energie,Y,—,N,RE: Delen van energie,Y
+47364180,email_35,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_93,FROM,".-1- ---s-.1-.2-e-.,...I- s.-1.-2e-,i) ~L...._s_.1_.2_e__Jl-'-'@""""""m""""""i'-',..;n..;;..ez=k"""""".'""'""'nl>",".-1- ---s-.1-.2-e-.,...I- s.-1.-2e-,i) ~L...._s_.1_.2_e__Jl-'-'@""""""m""""""i'-',..;n..;;..ez=k"""""".'""'""'nl>",Y,—,N,".-1- ---s-.1-.2-e-.,...I- s.-1.-2e-,i) ~L...._s_.1_.2_e__Jl-'-'@""""""m""""""i'-',..;n..;;..ez=k"""""".'""'""'nl>",Y
+47364180,email_93,TO,s.1.2e s.1.2e reenchoice.nl>,s.1.2e s.1.2e reenchoice.nl>,Y,—,N,s.1.2e s.1.2e reenchoice.nl>,Y
+47364180,email_93,CC,s.1.2e ) minezk.nl>,s.1.2e ) minezk.nl>,Y,—,N,s.1.2e ) minezk.nl>,Y
+47364180,email_93,DATE,"Frida , 22 November 2024 16:43","Frida , 22 November 2024 16:43",Y,—,N,"Frida , 22 November 2024 16:43",Y
+47364180,email_93,SUBJECT,RE: regeldrukkosten energiedelen,RE: regeldrukkosten energiedelen,Y,—,N,RE: regeldrukkosten energiedelen,Y
+47364180,email_93,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_108,FROM,I 5.1.2e s.1.2e,I 5.1.2e s.1.2e,Y,I 5.1.2e s.1.2e,Y,I 5.1.2e s.1.2e,Y
+47364180,email_108,TO,"5.1.2e NVDE' 5.1.2e nvde.nl>; s 1.2e 5.1.2e 5.1.2e l@greenchoice.nl>; ~l_ _s._ 1_.2_e_ ~
+5.1.2e (a)a em .nl>;
+l,__ _ ___ ..1_....1__ __~ ~--1,;,,,,.;...,;;;,~..:.:..;.;a.a","5.1.2e NVDE' 5.1.2e nvde.nl>; s 1.2e 5.1.2e 5.1.2e l@greenchoice.nl>; ~l_ _s._ 1_.2_e_ ~
+5.1.2e (a)a em .nl>;
+l,__ _ ___ ..1_....1__ __~ ~--1,;,,,,.;...,;;;,~..:.:..;.;a.a",Y,"5.1.2e NVDE' 5.1.2e nvde.nl>; s 1.2e 5.1.2e 5.1.2e l@greenchoice.nl>; ~l_ _s._ 1_.2_e_ ~
+5.1.2e (a)a em .nl>;
+l,__ _ ___ ..1_....1__ __~ ~--1,;,,,,.;...,;;;,~..:.:..;.;a.a
+CC: L__s_.1_._2e_ _.i =-""""-ho=lla::.:.n.:.:d::.:sc::o..:.:la:.:.r..:. .n:""""I; ~------~ minezk.nl>",N,"5.1.2e NVDE' 5.1.2e nvde.nl>; s 1.2e 5.1.2e 5.1.2e l@greenchoice.nl>; ~l_ _s._ 1_.2_e_ ~
+5.1.2e (a)a em .nl>;
+l,__ _ ___ ..1_....1__ __~ ~--1,;,,,,.;...,;;;,~..:.:..;.;a.a",Y
+47364180,email_108,CC,"L__s_.1_._2e_ _.i =-""""-ho=lla::.:.n.:.:d::.:sc::o..:.:la:.:.r..:. .n:""""I; ~------~ minezk.nl>","L__s_.1_._2e_ _.i =-""""-ho=lla::.:.n.:.:d::.:sc::o..:.:la:.:.r..:. .n:""""I; ~------~ minezk.nl>",Y,—,N,"L__s_.1_._2e_ _.i =-""""-ho=lla::.:.n.:.:d::.:sc::o..:.:la:.:.r..:. .n:""""I | ~------~ minezk.nl>",N
+47364180,email_108,DATE,donderdag 4 juli 202417:18,donderdag 4 juli 202417:18,Y,donderdag 4 juli 202417:18,Y,donderdag 4 juli 202417:18,Y
+47364180,email_108,SUBJECT,RE: Voorbereidend materiaal overleg vrijdag,RE: Voorbereidend materiaal overleg vrijdag,Y,—,N,RE: Voorbereidend materiaal overleg vrijdag,Y
+47364180,email_108,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_115,FROM,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,Y,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,Y,1 5.1.2e 1 5.1.2e 1) 5.1.2e l@minezk.nl>,Y
+47364180,email_115,TO,"5.1.2e ei enhuis.nl>
+.C..=~C=--=:...J...__~_5._1._2e~~-1-....1..-~-----==e=i: i,;:e;.;n..:.h:..;.u;:;;.i;.;s:;.·;.:n..:.l;.>_...1;...L___ _s_. 1_.2~e ~...J..._L__~-=;;..==e=n:....:.;h:...:..u=i=s.:..:....n.:..l:.>; 1 s.1.2e 1,
+s.1.2e s.1.2e ) minezk.nl>; s.1.2e ) .=""-'--'.:.:....:...:=k.nl>
+L___ __","5.1.2e ei enhuis.nl>
+.C..=~C=--=:...J...__~_5._1._2e~~-1-....1..-~-----==e=i: i,;:e;.;n..:.h:..;.u;:;;.i;.;s:;.·;.:n..:.l;.>_...1;...L___ _s_. 1_.2~e ~...J..._L__~-=;;..==e=n:....:.;h:...:..u=i=s.:..:....n.:..l:.>; 1 s.1.2e 1,
+s.1.2e s.1.2e ) minezk.nl>; s.1.2e ) .=""-'--'.:.:....:...:=k.nl>
+L___ __",Y,—,N,5.1.2e ei enhuis.nl>,N
+47364180,email_115,CC,—,—,Y,—,Y,"...J...__~_5._1._2e~~-1-....1..-~-----==e=i: i,;:e;.;n..:.h:..;.u;:;;.i;.;s:;.·;.:n..:.l;.>_...1;...L___ _s_. 1_.2~e ~...J..._L__~-=;;..==e=n:....:.;h:...:..u=i=s.:..:....n.:..l:.>; 1 s.1.2e 1,
+s.1.2e s.1.2e ) minezk.nl>; s.1.2e ) .= ""-'--'.:.:....:...:=k.nl>
+L___ __",N
+47364180,email_115,DATE,"Dinsdag, 11 November, 2025 15:01","Dinsdag, 11 November, 2025 15:01",Y,"Dinsdag | , 11 November, 2025 15:01",N,"Dinsdag, 11 November, 2025 15:01",Y
+47364180,email_115,SUBJECT,RE: Wetsvoorstel Energie delen,RE: Wetsvoorstel Energie delen,Y,—,N,RE: Wetsvoorstel Energie delen,Y
+47364180,email_115,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_105,FROM,"1 5.1.2e 1 5.1,2e 1)","1 5.1.2e 1 5.1,2e 1)",Y,"1 5.1.2e 1 5.1,2e 1)",Y,"1 5.1.2e 1 5.1,2e 1)",Y
+47364180,email_105,TO,1 5.1.2e,1 5.1.2e,Y,—,N,1 5.1.2e,Y
+47364180,email_105,CC,1 s.1.2e 1),"1 s.1.2e 1)
+Onderwer eldrukkosten ener iedelen
+Reeds beoordeeld
+5.1.2e
+5.1.2e
+5.1.2e
+~I 1~_ _
+~--5_.1_.2_e __ 5_.1_.2_e_ _
+.__ _______________________________________________1
+0033",N,—,N,1 s.1.2e 1),Y
+47364180,email_105,DATE,vrijdag 20 december 2024 17:56,vrijdag 20 december 2024 17:56,Y,vrijdag 20 december 2024 17:56,Y,vrijdag 20 december 2024 17:56,Y
+47364180,email_105,SUBJECT,eldrukkosten ener iedelen,—,N,—,N,eldrukkosten ener iedelen,Y
+47364180,email_105,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_4,FROM,5.1.2e NVDE,5.1.2e NVDE,Y,5.1.2e 5.1.2e l@minezk.nl] | 5.1.2e NV,N,5.1.2e NVDE,Y
+47364180,email_4,TO,5.1.2e 5.1.2e l@minezk.nl],"5.1.2e 5.1.2e l@minezk.nl]
+I",N,—,N,5.1.2e 5.1.2e l@minezk.nl],Y
+47364180,email_4,CC,—,—,Y,—,Y,—,Y
+47364180,email_4,DATE,Fri 10/24/2025 9:15:06 AM,—,N,Fri 10/24/2025 9:15:06 AM | Fri 10,N,Fri 10/24/2025 9:15:06 AM,Y
+47364180,email_4,SUBJECT,Energiedelen - notitie,Energiedelen - notitie,Y,—,N,Energiedelen - notitie,Y
+47364180,email_4,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_42,FROM,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,Y,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,Y,5.1.2e 5.1.2e ) 5.1.2e l@minezk.nl>,Y
+47364180,email_42,TO,5.1.2e ) (VDI/M&A),5.1.2e ) (VDI/M&A),Y,—,N,5.1.2e ) (VDI/M&A),Y
+47364180,email_42,CC,"5.1.2e ) (VDI/M&A) minfin.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e minfin.nl>","5.1.2e ) (VDI/M&A) minfin.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A) 5.1.2e minfin.nl>",Y,—,N,5.1.2e ) (VDI/M&A) minfin.nl> | 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl> | 5.1.2e 5.1.2e minezk.nl> | 5.1.2e ) (VDI/M&A) 5.1.2e minfin.nl>,N
+47364180,email_42,DATE,maandag 8 juli 2024 11:0~8_ __,maandag 8 juli 2024 11:0~8_ __,Y,maandag 8 juli 2024 11:0~8_,N,maandag 8 juli 2024 11:0~8_ __,Y
+47364180,email_42,SUBJECT,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),Y,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),Y
+47364180,email_42,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_41,FROM,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,Y,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,Y,5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>,Y
+47364180,email_41,TO,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,Y,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,Y,5.1.2e 5.1.2e ) 5.1.2e minezk.nl>,Y
+47364180,email_41,CC,"5.1.2e ) (VDI/M&A) 5.1.2e m infin. nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A} 5.1.2e minfin.nl>","5.1.2e ) (VDI/M&A) 5.1.2e m infin. nl>; 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl>;
+5.1.2e 5.1.2e minezk.nl>; 5.1.2e ) (VDI/M&A} 5.1.2e minfin.nl>",Y,—,N,5.1.2e ) (VDI/M&A) 5.1.2e m infin. nl> | 5.1.2e ) (VDI/M&A) 5.1.2e l@minfin.nl> | 5.1.2e 5.1.2e minezk.nl> | 5.1.2e ) (VDI/M&A} 5.1.2e minfin.nl>,N
+47364180,email_41,DATE,dinsdag 9 juli 2024 13:33,dinsdag 9 juli 2024 13:33,Y,dinsdag 9 juli 2024 13:33,Y,dinsdag 9 juli 2024 13:33,Y
+47364180,email_41,SUBJECT,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),Y,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),Y
+47364180,email_41,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_12,FROM,1 5.1.2e I s.1.2e 1),1 5.1.2e I s.1.2e 1),Y,1 5.1.2e I s.1.2e 1),Y,1 5.1.2e I s.1.2e 1),Y
+47364180,email_12,TO,5.1.2e 5.1.2e 5.1.2e 5.1.2e ),5.1.2e 5.1.2e 5.1.2e 5.1.2e ),Y,—,N,5.1.2e 5.1.2e 5.1.2e 5.1.2e ),Y
+47364180,email_12,CC,5.1.2e 5.1.2e ),5.1.2e 5.1.2e ),Y,—,N,5.1.2e 5.1.2e ),Y
+47364180,email_12,DATE,maanda 17 november 2025 09:11,maanda 17 november 2025 09:11,Y,maanda 17 november 2025 09:11,Y,maanda 17 november 2025 09:11,Y
+47364180,email_12,SUBJECT,"redactionele opmerkingen bij advies over Wijziging van de Energiewet ter implementatie van het EM D
+pakket",redactionele opmerkingen bij advies over Wijziging van de Energiewet ter implementatie van het EM D,N,—,N,"redactionele opmerkingen bij advies over Wijziging van de Energiewet ter implementatie van het EM D
+pakket",Y
+47364180,email_12,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_23,FROM,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,Y,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,Y,1 s.1.2e 1s.12el) s.1.2e l@raadvanstate.nl>,Y
+47364180,email_23,TO,1 1 s.1.2e I s.1.2e 1) ~~--s-.1-.2e_ __l@ minezk.nl>,1 1 s.1.2e I s.1.2e 1) ~~--s-.1-.2e_ __l@ minezk.nl>,Y,—,N,1 1 s.1.2e I s.1.2e 1) ~~--s-.1-.2e_ __l@ minezk.nl>,Y
+47364180,email_23,CC,—,—,Y,—,Y,—,Y
+47364180,email_23,DATE,maandag 29 september 2025 14:10,maandag 29 september 2025 14:10,Y,maandag 29 september 2025 14:10,Y,maandag 29 september 2025 14:10,Y
+47364180,email_23,SUBJECT,RE: Verzoek technische briefing EM D voorstel,RE: Verzoek technische briefing EM D voorstel,Y,—,N,RE: Verzoek technische briefing EM D voorstel,Y
+47364180,email_23,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_100,FROM,s.1.2e ) (VDI/M&A),s.1.2e ) (VDI/M&A),Y,s.1.2e ) (VDI/M&A),Y,s.1.2e ) (VDI/M&A),Y
+47364180,email_100,TO,1 5.1.2e 1 5.1.2e lr <j 5.1.28 l@minezk.nl>,1 5.1.2e 1 5.1.2e lr <j 5.1.28 l@minezk.nl>,Y,1 5.1.2e 1 5.1.2e lr <j 5.1.28 l@minezk.nl>,Y,1 5.1.2e 1 5.1.2e lr <j 5.1.28 l@minezk.nl>,Y
+47364180,email_100,CC,—,—,Y,—,Y,—,Y
+47364180,email_100,DATE,donderdag 15 augustus 2024 16:27,donderdag 15 augustus 2024 16:27,Y,donderdag 15 augustus 2024 16:27,Y,donderdag 15 augustus 2024 16:27,Y
+47364180,email_100,SUBJECT,! RE: stukken Energie delen,! RE: stukken Energie delen,Y,—,N,! RE: stukken Energie delen,Y
+47364180,email_100,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_10,FROM,~l- --5-.1--.2--e-- ~,~l- --5-.1--.2--e-- ~,Y,—,N,~l- --5-.1--.2--e-- ~,Y
+47364180,email_10,TO,I 5.1.2e 1s.1.2e~ 5.1.2e Il,I 5.1.2e 1s.1.2e~ 5.1.2e Il,Y,—,N,I 5.1.2e 1s.1.2e~ 5.1.2e Il,Y
+47364180,email_10,CC,—,—,Y,—,Y,—,Y
+47364180,email_10,DATE,woensdag 1 oktober 2025 10:06,woensdag 1 oktober 2025 10:06,Y,woensdag 1 oktober 2025 10:06,Y,woensdag 1 oktober 2025 10:06,Y
+47364180,email_10,SUBJECT,Notitie over Energiedelen,Notitie over Energiedelen,Y,—,N,Notitie over Energiedelen,Y
+47364180,email_10,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_18,FROM,5.1.2e ),5.1.2e ),Y,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",N,5.1.2e ),Y
+47364180,email_18,TO,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]","5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",Y,—,N,"5.1.2e )j5.1.2el@minezk.nl];l~ ____5._ 1._2e_ __~ l)i 5.1.2e l@minezk.nl]; l~ __ __5._1 _.2_e_~
+d 5.1.2e 1) 5.1.2e minezk.nl]",Y
+47364180,email_18,CC,—,—,Y,—,Y,—,Y
+47364180,email_18,DATE,Thur 11/13/2025 1 :06:54 PM,Thur 11/13/2025 1 :06:54 PM,Y,Thur 11/13/2025 1 :06:54 PM,Y,Thur 11/13/2025 1 :06:54 PM,Y
+47364180,email_18,SUBJECT,Fw: W19.25.00218/IV - Advies,—,N,—,N,Fw: W19.25.00218/IV - Advies,Y
+47364180,email_18,ATTACHMENT,Advies W19.25.00218.docx,—,N,—,N,Advies W19.25.00218.docx,Y
+47364180,email_78,FROM,—,—,Y,—,Y,—,Y
+47364180,email_78,TO,1 5.1.2e !(ENER) ; 1 5.1.2e 1 (ENER),"1 5.1.2e !(ENER) ; 1 5.1.2e 1 (ENER)
+Sut>Ject: Implementatie artikel 15bis, 4de lid onderdeel e (toegang tot buitengerechtelijke geschilbeslechting)
+[uë),
+Bestel 5.1.2e
+Kan ik JUiiie nog een vraag stellen over de implementatie van artikel 15bis, 4"""" lid, onderdeel e; toegang tot buitengerechtelijke geschilbeslechting?
+4. De lidstaten zorgen ervoor dat actieve afnemers die deelnemen aan energiedelen:
+e. in geval van conflicten over een overeenkomst voor energiedelen, overeenkomstig artikel 26 toegang hebben tot buitengerechtelijke
+geschillenbeslechting met andere deelnemers aan de overeenkomst voor energiedelen;
+Deze bepaling is best wel een uitdaging voor ons.
+In Neder1and zijn alle (vergunninghoudende) energieleveranciers lid van de geschillencommissie energie. Energie - De Geschillencommissie Deze
+geschilcommissie is bekend en handelt alle klachten van eindafnemers over energie af.
+Voorwaarde voor deze geschillencommissie is dat de partij waarover de klacht gaat lid is van de brancheorganisaties Energie Nederland
+(leveranciers) of Netbeheer Nederland (systeembeheerders). Ook moeten ze een KvK-registratie hebben en een rechtspersoon zijn. De kosten
+voor het indienen van een klacht zijn voor de afnemer beperkt (¤52). Voor een leverancier of systeembeheerder zijn de kosten om lid te zijn van de
+geschillencommissie echter hoog (afhankelijk van de omzet van ¤1500 tot ¤4900 ex BTW per jaar, alleen al voor de registratie, met daarnaast nog
+een bedrag per klacht). De geschillencommissie leent zich hiermee minder voor klachten tussen burgers of kleine bedrijven die energie met elkaar
+delen. Vraag is of je van eindafnemers kan verwachten dat zij zich aansluiten bij een geschilcommissie. De Nationale Ombudsman behandelt
+alleen klachten tegen de overheid en de ACM richt zich ook op bedrijven ligt om die reden minder voor de hand voor het beslechten van geschillen
+tussen burgers.
+en zit niet te wachten op het beslechten van geschillen tussen burgers.
+Vraag is hoe andere landen hiermee omgaan? Is het bijvoorbeeld denkbaar om de drempels van het vierde lid, onderdeel c (10,8 kW voor
+huishoudens en 50 kW voor appartementen, of de verhoging van het einde van het vierde lid) als ondergrens voor toegang tot geschilbeslechting te
+hanteren? Hoe kunnen wij dit praktisch invullen.
+Met vriendelijke groet,
+J
+1 5.1.28
+Ministerie van Klimaat en Groene Groei
+Directie Ener iemarkt
+Tel: s.1.2e
+5.1.2e
+Dit bericht kan informatie bevatten die niet voor u is bestemd. Indien u
+niet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,
+wordt u verzocht dat aan de afzender te melden en het bericht te
+verwijderen.
+De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard
+ook, die verband houdt met risico's verbonden aan het elektronisch
+verzenden van berichten.
+This message may contain information that is not intended for you. lf you
+are not the addressee or if this message was sent to you by mistake, you
+are requested to inform the sender and delete the message.
+The State accepts no liability for dam age of any kind resulting trom the
+risks inherent in the electronic transmission of messa ges.
+2
+0028",N,—,N,1 5.1.2e !(ENER) ; 1 5.1.2e 1 (ENER),Y
+47364180,email_78,CC,—,—,Y,—,Y,—,Y
+47364180,email_78,DATE,"Thursday, September 5, 2024 3:52 PM","Thursday, September 5, 2024 3:52 PM",Y,"Thursday, September 5, 2024 3:52 PM",Y,"Thursday, September 5, 2024 3:52 PM",Y
+47364180,email_78,SUBJECT,"mplementatie artikel 15bis, 4de lid onderdeel e (toegang tot buitengerechtelijke geschilbeslechting)
+[uë),",—,N,—,N,"Implementatie artikel 15bis, 4de lid onderdeel e (toegang tot buitengerechtelijke geschilbeslechting)",N
+47364180,email_78,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_92,FROM,s.1.2e s.1.2e s.1.2e reenchoice.nl>,s.1.2e s.1.2e s.1.2e reenchoice.nl>,Y,s.1.2e s.1.2e s.1.2e reenchoice.nl>,Y,s.1.2e s.1.2e s.1.2e reenchoice.nl>,Y
+47364180,email_92,TO,s.1.2e s.1.2e minezk.nl>,s.1.2e s.1.2e minezk.nl>,Y,s.1.2e s.1.2e minezk.nl>,Y,s.1.2e s.1.2e minezk.nl>,Y
+47364180,email_92,CC,s.1.2e ) minezk.nl>,"s.1.2e ) minezk.nl>
+Onderwer : RE: regeldrukkosten energiedelen
+Hoi 5.1.2e ,
+Uren is altijd erg ingewikkeld en daarmee altijd nattevingerwerk. Dat is dus wel een grote disclaimer. Ik heb het zoveel
+als mogelijk geprobeerd in te vullen gebaseerd op ervaring uit het verleden.
+Aanpassen facturering (categorie 2) is eigenlijk de grootste IT-impact als ik jouw lijn volg waarbij onder 'Aanpassen ICT-
+systeem' (categorie 1) de sectorprocessen met de netbeheerders vallen en het inzicht richting medewerkers vanuit het
+klantbeheersysteem. Ik heb dus conform de door jou aangegeven categorieën ingevuld in jouw e-mail in het groen. In
+het algemeen zit de meeste tijd erin dat ook andere processen goed moeten blijven lopen maar daarvoor wel
+aanpassingen nodig zijn. Gezien energiedelen veel kern processen raakt dit ook allerlei andere processen en moet dit
+aangepast en goed getest worden zodat alle processen goed blijven lopen. Dit vergt tijd van procesexperts (die ook
+nieuwe en bestaande processen moeten beschrijven/aanpassen, ontwikkelaars en testers. Voorbeelden zijn bijvoorbeeld
+een impact op het verbruikskostenoverzicht, online dossier, termijnbedragberekening etc.
+Vragen afnemers/helpdesk vind ik het lastigste om te bepalen.
+Dit is namelijk erg afhankelijk van hoeveel mensen uiteindelijk kiezen voor energiedelen en hoe groot het daarmee
+wordt.
+Heb nu een indicatie gemaakt voor 10.000 klanten (ongeveer 1,5% van de klanten gaan energiedelen (=zijn
+energieontvanger of deler)) en het bedrag is dan per jaar. Ik ga dan uit van een gemiddelde van een kwartier per klant.
+Het eerste jaar is dat denk ik meer.
+Als er geen enkele vereiste is vanuit de Belastingdienst en we dus niets hoeven aan te passen en te verantwoorden
+m.b.t. energiedelen is de impact daar 0. Het gaat dan enkel om de IT aanpassingen. Klanten zullen er wel vragen over
+hebben, maar dat heb ik onder categorie 3 verwerkt.
+Uiteraard betreft dit enkel een indicatie vanuit leverancierszijde.
+Fijn weekend alvast**
+Groet,
+1s 1.2el",N,—,N,s.1.2e ) minezk.nl>,Y
+47364180,email_92,DATE,vrïda 22 november 2024 17:30,vrïda 22 november 2024 17:30,Y,vrïda 22 november 2024 17:30,Y,vrïda 22 november 2024 17:30,Y
+47364180,email_92,SUBJECT,RE: regeldrukkosten energiedelen,—,N,—,N,RE: regeldrukkosten energiedelen,Y
+47364180,email_92,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_45,FROM,1 5.1.2e Il (VDI/M&A) 4 5.1.2e l@minfin.nl>,1 5.1.2e Il (VDI/M&A) 4 5.1.2e l@minfin.nl>,Y,1 5.1.2e Il,N,1 5.1.2e Il (VDI/M&A) 4 5.1.2e l@minfin.nl>,Y
+47364180,email_45,TO,"5.1.2e 5.1.2e ) 5.1.2e L__ __ s_. 1_.2~e_ __J Li__~_;=.:.:.:.:.:.:.:::.=.:,:.;,.:--~","5.1.2e 5.1.2e ) 5.1.2e L__ __ s_. 1_.2~e_ __J Li__~_;=.:.:.:.:.:.:.:::.=.:,:.;,.:--~",Y,"5.1.2e 5.1.2e ) 5.1.2e L__ __ s_. 1_.2~e_ __J Li__~_;=.:.:.:.:.:.:.:::.=.:,:.;,.:--~
+CC: 5.1.2e",N,"5.1.2e 5.1.2e ) 5.1.2e L__ __ s_. 1_.2~e_ __J Li__~_;=.:.:.:.:.:.:.:::.=.:,:.;,.:--~",Y
+47364180,email_45,CC,"5.1.2e ) (VDI/M&A) minfin.nl>;~ -----~ minfin.nl>;
+5.1.2e ) (VDI/M&A) < minfin.nl>","5.1.2e ) (VDI/M&A) minfin.nl>;~ -----~ minfin.nl>;
+5.1.2e ) (VDI/M&A) < minfin.nl>",Y,—,N,5.1.2e ) (VDI/M&A) minfin.nl> | ~ -----~ minfin.nl> | 5.1.2e ) (VDI/M&A) < minfin.nl>,N
+47364180,email_45,DATE,dinsdag 11 juni 202419:56,dinsdag 11 juni 202419:56,Y,dinsdag 11 juni 202419:56,Y,dinsdag 11 juni 202419:56,Y
+47364180,email_45,SUBJECT,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),Y,—,N,RE: EB-aspecten implementatie EMD-richtlijn (energiedelen),Y
+47364180,email_45,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_116,FROM,1 5.1.20 14 5.1.20 k@eigenhuis.nl>,1 5.1.20 14 5.1.20 k@eigenhuis.nl>,Y,1 5.1.20 14 5.1.20 k@eigenhuis.nl>,Y,1 5.1.20 14 5.1.20 k@eigenhuis.nl>,Y
+47364180,email_116,TO,"5.1.2e minezk.n1>,·_ .----~---- --- 5.1.2e l@minezk.nl>","5.1.2e minezk.n1>,·_ .----~---- --- 5.1.2e l@minezk.nl>",Y,—,N,"5.1.2e minezk.n1>,·_ .----~---- --- 5.1.2e l@minezk.nl>",Y
+47364180,email_116,CC,5.1.2e 5.1.2e a; eigenlrnis .nl>,"5.1.2e 5.1.2e a; eigenlrnis .nl>
+- ------",N,—,N,5.1.2e 5.1.2e a; eigenlrnis .nl>,Y
+47364180,email_116,DATE,dinsda 11 november 2025 14:47,dinsda 11 november 2025 14:47,Y,"dinsda 11 november 2025 14:47
+0
+1",N,dinsda 11 november 2025 14:47,Y
+47364180,email_116,SUBJECT,Wetsvoorstel Energie delen,Wetsvoorstel Energie delen,Y,—,N,Wetsvoorstel Energie delen,Y
+47364180,email_116,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_7,FROM,Uitvoeringstoets,Uitvoeringstoets,Y,"5.1.2e DB ""------r---=c:..:..:..:,:..:.:..:...:..:.:..:.:.LLJ.---,- 5 - . - 1. - 2 - e - --r-..__-- 5",N,Uitvoeringstoets,Y
+47364180,email_7,TO,"5.1.2e DB ""------r---=c:..:..:..:,:..:.:..:...:..:.:..:.:.LLJ.---,- 5 - . - 1. - 2 - e - --r-..__-- 5 ,, . - 1 ,. . .. 2 .. e ,. ..._.L.:, mm • fi n.n 1 ; 0008
+5.1.2e ) .___ _e~ -=-'--'--'-""-'-=""-'-'--'-r-1-'-'--------~ - _u_,._V,'--D-'=<--l'-/'--M'--'--'=--; .___5_.1_.2_e~ --""""'""-'-'-""""--'--'--""'-'--'--'--'-'.J..L.L----,-5-._1_.2_e ___ J)
+(AFP/OG,t.JL.-___~ minfin .nl]; inezk.nl]; '------~
+d Il
+5.1.2e 5.1.2e min ezk.n I]","5.1.2e DB ""------r---=c:..:..:..:,:..:.:..:...:..:.:..:.:.LLJ.---,- 5 - . - 1. - 2 - e - --r-..__-- 5 ,, . - 1 ,. . .. 2 .. e ,. ..._.L.:, mm • fi n.n 1 ; 0008
+5.1.2e ) .___ _e~ -=-'--'--'-""-'-=""-'-'--'-r-1-'-'--------~ - _u_,._V,'--D-'=<--l'-/'--M'--'--'=--; .___5_.1_.2_e~ --""""'""-'-'-""""--'--'--""'-'--'--'--'-'.J..L.L----,-5-._1_.2_e ___ J)
+(AFP/OG,t.JL.-___~ minfin .nl]; inezk.nl]; '------~
+d Il
+5.1.2e 5.1.2e min ezk.n I]",Y,—,N,"5.1.2e DB ""------r---=c:..:..:..:,:..:.:..:...:..:.:..:.:.LLJ.---,- 5 - . - 1. - 2 - e - --r-..__-- 5 ,, . - 1 ,. . .. 2 .. e ,. ..._.L.:, mm • fi n.n 1 ; 0008
+5.1.2e ) .___ _e~ -=-'--'--'-""-'-'--'-r-1-'-'--------~ - _u_,._V,'--D-'=<--l'-/'--M'--'--'=--; .___5_.1_.2_e~ --""""'""-'-'-""""--'--'--""'-'--'--'--'-'.J..L.L----,-5-._1_.2_e ___ J)
+(AFP/OG,t.JL.-___~ minfin .nl]; inezk.nl]; '------~
+d Il
+5.1.2e 5.1.2e min ezk.n I]",N
+47364180,email_7,CC,—,—,Y,—,Y,—,Y
+47364180,email_7,DATE,Tue 4/1/2025 3:15:36 PM,—,N,—,N,Tue 4/1/2025 3:15:36 PM,Y
+47364180,email_7,SUBJECT,FW: 2024-1142 [OVMIDD/IH/Sen E/VPB][HERSTART en AKKOORD-7/ apr] electricity marke t design,FW: 2024-1142 [OVMIDD/IH/Sen E/VPB][HERSTART en AKKOORD-7/ apr] electricity marke t design,Y,—,N,FW: 2024-1142 [OVMIDD/IH/Sen E/VPB][HERSTART en AKKOORD-7/ apr] electricity marke t design,Y
+47364180,email_7,ATTACHMENT,2024-1142 UT - Electricity Market Design {EMD).docx,—,N,—,N,—,N
+47364180,email_2,FROM,5.1.2e ) (Cd FJZ),5.1.2e ) (Cd FJZ),Y,"5.1.2e minezk.nl]
+~I>
+.C-=~c·~· --~_ _5_. 1~.2~e __~",N,—,N
+47364180,email_2,TO,"5.1.2e minezk.nl]
+~I>
+.C-=~c·~· --~_ _5_. 1~.2~e __~ .) ( ;:,:..,,.-'-'M_,_,,&,,,_-A'LIL_ _5.~ 1_.2_e _ _J=mirn=fin=.=n~ll;~l ___5_ .1~.2_e_ _ Cd FJZ 5.1.2e @minfin.nl];
+5.1.2e /M&A) 5.1.2e @minfin.nl]; 1 5.1.2e IJ (Cd UHB) 5.1.2e @minfin.nl]; [ 5.1.2e
+( CD Vaktec,-'h-.:..n:..""i""ec..kc-""-""-----==m~in=fi.n:..:.
+:·..=..,~","5.1.2e minezk.nl]
+~I>
+.C-=~c·~· --~_ _5_. 1~.2~e __~ .) ( ;:,:..,,.-'-'M_,_,,&,,,_-A'LIL_ _5.~ 1_.2_e _ _J=mirn=fin=.=n~ll;~l ___5_ .1~.2_e_ _ Cd FJZ 5.1.2e @minfin.nl];
+5.1.2e /M&A) 5.1.2e @minfin.nl]; 1 5.1.2e IJ (Cd UHB) 5.1.2e @minfin.nl]; [ 5.1.2e
+( CD Vaktec,-'h-.:..n:..""i""ec..kc-""-""-----==m~in=fi.n:..:.
+:·..=..,~",Y,—,N,—,N
+47364180,email_2,CC,—,—,Y,—,Y,—,Y
+47364180,email_2,DATE,Man 2/17/2025 4:56:37 PM,—,N,—,N,—,N
+47364180,email_2,SUBJECT,energie delen,energie delen,Y,—,N,—,N
+47364180,email_2,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_6,FROM,—,—,Y,—,Y,'-------~,N
+47364180,email_6,TO,I 5.1.2e 1,I 5.1.2e 1,Y,—,N,I 5.1.2e 1,Y
+47364180,email_6,CC,—,—,Y,—,Y,—,Y
+47364180,email_6,DATE,woensdag 3 juli 2024 16:17,woensdag 3 juli 2024 16:17,Y,woensdag 3 juli 2024 16:17,Y,woensdag 3 juli 2024 16:17,Y
+47364180,email_6,SUBJECT,RE: Allocatie -reconciliatie - Vlaanderen,RE: Allocatie -reconciliatie - Vlaanderen,Y,—,N,RE: Allocatie -reconciliatie - Vlaanderen,Y
+47364180,email_6,ATTACHMENT,—,—,Y,—,Y,—,Y
+47364180,email_114,FROM,5.1.2e,5.1.2e,Y,5.1.2e,Y,5.1.2e,Y
+47364180,email_114,TO,5.1.2e 5.1.2e,5.1.2e 5.1.2e,Y,5.1.2e 5.1.2e,Y,5.1.2e 5.1.2e,Y
+47364180,email_114,CC,============5=.1.=2=e===========; 1'- -------~-----5_.1_.2_e ____~ I.),============5=.1.=2=e===========; 1'- -------~-----5_.1_.2_e ____~ I.),Y,—,N,============5=.1.=2=e=========== | 1'- -------~-----5_.1_.2_e ____~ I.),N
+47364180,email_114,DATE,donderda 13 november 2025 16:35,donderda 13 november 2025 16:35,Y,—,N,donderda 13 november 2025 16:35,Y
+47364180,email_114,SUBJECT,Re: Wetsvoorstel Energie delen,Re: Wetsvoorstel Energie delen,Y,—,N,Re: Wetsvoorstel Energie delen,Y
+47364180,email_114,ATTACHMENT,—,—,Y,—,Y,—,Y

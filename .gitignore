@@ -1,0 +1,11 @@
+models/
+data/raw/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/results/archive/
+data/page_maps_cache.json
+*.zip

@@ -1,0 +1,168 @@
+"""
+HuggingFace Trainer setup for email field extraction (stage 2).
+
+Model: AutoModelForTokenClassification (19 labels: B-/I- for each field type + O)
+Base:  DTAI-KULeuven/robbert-2023-dutch-base (falls back to pdelobelle/robbert-v2-dutch-base)
+
+Input: email-level annotation JSON (stage-2 schema), one email per record.
+Each email is tokenised with stride=64 (smaller than the dossier-level stride=128
+because emails are short and field precision matters more than window throughput).
+"""
+
+from __future__ import annotations
+import json
+from pathlib import Path
+
+import torch
+from datasets import Dataset
+from transformers import (
+    AutoModelForTokenClassification,
+    AutoTokenizer,
+    DataCollatorForTokenClassification,
+    Trainer,
+    TrainingArguments,
+)
+
+from bert_s2_data import LABEL2ID, ID2LABEL, IGNORED, annotate_window
+from focal_loss import FocalLoss
+from bert_tokenize import tokenize_document
+
+PRIMARY_MODEL = "DTAI-KULeuven/robbert-2023-dutch-base"
+FALLBACK_MODEL = "pdelobelle/robbert-v2-dutch-base"
+
+_FIELD_STRIDE = 64
+
+
+def load_model_and_tokenizer(model_name: str = PRIMARY_MODEL) -> tuple:
+    """
+    Load tokenizer and token-classification model for field extraction.
+    Falls back gracefully. Returns (model, tokenizer).
+    """
+    for name in [model_name, FALLBACK_MODEL]:
+        try:
+            tokenizer = AutoTokenizer.from_pretrained(name)
+            model = AutoModelForTokenClassification.from_pretrained(
+                name,
+                num_labels=len(LABEL2ID),
+                id2label=ID2LABEL,
+                label2id=LABEL2ID,
+                ignore_mismatched_sizes=True,
+            )
+            if name != model_name:
+                print(f"WARNING: '{model_name}' unavailable; using fallback '{name}'")
+            return model, tokenizer
+        except Exception as exc:
+            if name == model_name:
+                print(f"WARNING: could not load '{name}': {exc}")
+                print(f"  → attempting fallback '{FALLBACK_MODEL}'")
+            else:
+                raise RuntimeError(
+                    f"Both '{model_name}' and '{FALLBACK_MODEL}' failed to load."
+                ) from exc
+
+
+def load_annotations(path: str | Path) -> list[dict]:
+    """Load a JSON array of stage-2 email annotation dicts from disk."""
+    with open(path) as f:
+        return json.load(f)
+
+
+class _FocalLossTrainer(Trainer):
+    """Trainer subclass that applies Focal Loss for handling class imbalance."""
+
+    def compute_loss(self, model, inputs, return_outputs=False, **kwargs):
+        labels = inputs.pop("labels")
+        outputs = model(**inputs)
+        logits = outputs.logits
+        loss_fn = FocalLoss(gamma=2.0, ignore_index=IGNORED)
+        loss = loss_fn(logits.view(-1, logits.size(-1)), labels.view(-1))
+        return (loss, outputs) if return_outputs else loss
+
+
+def build_hf_dataset(annotations: list[dict], tokenizer) -> Dataset:
+    """
+    Convert stage-2 email annotation dicts into a HF Dataset of tokenizer windows.
+
+    Uses stride=64 (smaller than dossier-level stride=128) because emails are
+    short and precise field boundaries matter more than window throughput.
+    Columns: input_ids, attention_mask, labels.
+    """
+    rows: list[dict] = []
+    for ann in annotations:
+        field_spans = [
+            (f["start_char"], f["end_char"], f["label"]) for f in ann["fields"]
+        ]
+        windows = tokenize_document(
+            ann["text"], tokenizer, email_spans=None, stride=_FIELD_STRIDE
+        )
+        for w in windows:
+            labels = annotate_window(w["offset_mapping"], w["word_ids"], field_spans)
+            rows.append(
+                {
+                    "input_ids": w["input_ids"],
+                    "attention_mask": w["attention_mask"],
+                    "labels": labels,
+                }
+            )
+    return Dataset.from_list(rows)
+
+
+def train(
+    train_path: str | Path,
+    dev_path: str | Path,
+    output_dir: str | Path,
+    model_name: str = PRIMARY_MODEL,
+    num_epochs: int = 2,
+    batch_size: int = 2,
+) -> None:
+    """
+    Fine-tune RobBERT for email field extraction.
+
+    Parameters
+    ----------
+    train_path : path to stage-2 train JSON (array of email annotation dicts)
+    dev_path   : path to stage-2 dev JSON
+    output_dir : where to save the final model and tokenizer
+    model_name : HuggingFace model ID to start from
+    num_epochs : training epochs
+    batch_size : per-device batch size
+    """
+    print("Loading model …  (first run downloads ~500 MB of weights)")
+    model, tokenizer = load_model_and_tokenizer(model_name)
+
+    print("Building datasets …")
+    train_dataset = build_hf_dataset(load_annotations(train_path), tokenizer)
+    dev_dataset = build_hf_dataset(load_annotations(dev_path), tokenizer)
+    print(f"  train windows: {len(train_dataset)}  dev windows: {len(dev_dataset)}")
+
+    training_args = TrainingArguments(
+        output_dir=str(output_dir),
+        num_train_epochs=num_epochs,
+        per_device_train_batch_size=batch_size,
+        per_device_eval_batch_size=batch_size,
+        eval_strategy="epoch",
+        save_strategy="epoch",
+        load_best_model_at_end=True,
+        metric_for_best_model="eval_loss",
+        greater_is_better=False,
+        learning_rate=2e-5,
+        weight_decay=0.01,
+        logging_steps=1,
+        report_to="none",
+    )
+
+    trainer = _FocalLossTrainer(
+        model=model,
+        args=training_args,
+        train_dataset=train_dataset,
+        eval_dataset=dev_dataset,
+        data_collator=DataCollatorForTokenClassification(tokenizer),
+    )
+
+    print("Training …")
+    trainer.train()
+
+    print(f"Saving model to {output_dir} …")
+    trainer.save_model(str(output_dir))
+    tokenizer.save_pretrained(str(output_dir))
+    print("Done.")

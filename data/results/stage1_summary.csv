@@ -1,0 +1,5 @@
+approach,precision,recall,f1
+Regex,0.9263,0.9221,0.9242
+BERT,0.3695,0.9426,0.5305
+BERT (line+filter),0.966,0.901,0.932
+GPT-5.5 (text),0.9713,0.9713,0.9713
