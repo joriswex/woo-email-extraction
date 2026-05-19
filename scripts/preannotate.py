@@ -36,7 +36,7 @@ from pathlib import Path
 _ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(_ROOT / "src"))
 
-from woolens_email.pdf_extract import extract_text
+from pdf_extract import extract_text
 
 # ---------------------------------------------------------------------------
 # Regex patterns

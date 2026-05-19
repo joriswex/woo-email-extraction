@@ -417,33 +417,36 @@ def run_stage2(
         field_metrics = prf_from_counts(counters[approach])
         for field in EVAL_FIELDS:
             if field in field_metrics:
+                m = field_metrics[field]
                 per_field_rows.append({
                     "approach": approach,
                     "field": field,
-                    **field_metrics[field],
+                    "exact_p":  m["exact_p"],
+                    "exact_r":  m["exact_r"],
+                    "exact_f1": m["exact_f1"],
                 })
         mf = macro_f1(field_metrics)
         summary_rows.append({
             "approach": approach,
             "exact_macro_f1": mf["exact_f1"],
-            "anls_macro_f1":  mf["anls_f1"],
             "n_emails": len(records),
         })
 
     _merge_write_csv(
         output_dir / "stage2_per_field.csv",
         per_field_rows,
-        ["approach", "field", "exact_p", "exact_r", "exact_f1", "anls_p", "anls_r", "anls_f1"],
+        ["approach", "field", "exact_p", "exact_r", "exact_f1"],
         run_approaches=run_approaches,
         canonical_order=_STAGE2_ORDER,
     )
     _merge_write_csv(
         output_dir / "stage2_summary.csv",
         summary_rows,
-        ["approach", "exact_macro_f1", "anls_macro_f1", "n_emails"],
+        ["approach", "exact_macro_f1", "n_emails"],
         run_approaches=run_approaches,
         canonical_order=_STAGE2_ORDER,
     )
+    print("  Note: ANLS* scores computed separately via scripts/compute_anls.py")
 
 
 # ---------------------------------------------------------------------------

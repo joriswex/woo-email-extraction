@@ -1,25 +1,28 @@
 """
-BERT Stage-2 Field Extraction Training — Kaggle Notebook
-=========================================================
-Trains RobBERT for field extraction using Focal Loss (gamma=2.0).
+BERT Stage-2 Field Extraction — Focal Loss only, no class weights (Kaggle)
+===========================================================================
+Trains RobBERT for field extraction using Focal Loss (gamma=2.0) without
+class weighting. This is the unweighted baseline that produces F1=0.000 on
+CC, SUBJECT, and ATTACHMENT due to label collapse from class imbalance.
 
-Focal Loss focuses training on hard, uncertain tokens and naturally
-down-weights easy O tokens that dominate the sequence — no manual
-class weights needed.
+Produces the "BERT" (unweighted) result row in Stage 2 evaluation.
+For the improved weighted version, use train_bert_stage2_weighted_kaggle.py.
 
-Files to upload to woolens-data dataset:
+Files to upload to your woolens-data Kaggle dataset (from src/):
   data/annotations/stage2_train.json
-  src/woolens_email/__init__.py
-  src/woolens_email/data_field.py
-  src/woolens_email/tokenize.py
-  src/woolens_email/train_field.py
-  src/woolens_email/focal_loss.py
+  src/bert_s2_data.py
+  src/bert_tokenize.py
+  src/bert_s2_train.py
+  src/focal_loss.py
+
+After training, evaluate locally:
+  python scripts/evaluate.py --stages 2 --bert-s2 models/stage2_focal_v1
 """
 
 # ── Cell 1: dependencies ───────────────────────────────────────────────────
 # !pip install -q datasets accelerate
 
-# ── Cell 2: setup ─────────────────────────────────────────────────────────
+# ── Cell 2: setup — copy flat src/ files and add to path ──────────────────
 import json, sys, shutil
 from pathlib import Path
 
@@ -28,18 +31,18 @@ DATA_PATH  = DATASET / "stage2_train.json"
 OUTPUT_DIR = Path("/kaggle/working/stage2_focal_v1")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-pkg = Path("/kaggle/working/woolens_email")
-pkg.mkdir(exist_ok=True)
-for fname in ["__init__.py", "data_field.py", "tokenize.py",
-              "train_field.py", "focal_loss.py"]:
-    src = DATASET / fname
-    if src.exists():
-        shutil.copy(src, pkg / fname)
+# Copy src modules to a flat working directory and add to Python path
+src_dir = Path("/kaggle/working/src")
+src_dir.mkdir(exist_ok=True)
+for fname in ["bert_s2_data.py", "bert_tokenize.py", "bert_s2_train.py", "focal_loss.py"]:
+    f = DATASET / fname
+    if f.exists():
+        shutil.copy(f, src_dir / fname)
     else:
-        print(f"WARNING: {fname} not found in dataset")
-sys.path.insert(0, "/kaggle/working")
+        print(f"WARNING: {fname} not found in dataset — upload it first")
+sys.path.insert(0, str(src_dir))
 
-# ── Cell 3: internal train / val split ────────────────────────────────────
+# ── Cell 3: internal train / val split (10% held out for validation) ───────
 import random
 
 with open(DATA_PATH) as f:
@@ -58,9 +61,11 @@ train_records = shuffled[n_val:]
 
 print(f"Training on {len(train_records)} emails, validating on {len(val_records)}")
 
-# ── Cell 4: train ─────────────────────────────────────────────────────────
-from woolens_email.train_field import train
+# ── Cell 4: train (no class weights — unweighted baseline) ────────────────
+from bert_s2_train import train
 
+# Note: overrides default num_epochs=15 and early_stopping to match the
+# original unweighted training run (5 epochs, no early stopping)
 train(
     train_path=OUTPUT_DIR / "tmp_train.json",
     dev_path=OUTPUT_DIR   / "tmp_val.json",
@@ -93,4 +98,4 @@ api.upload_file(
     repo_type="model",
 )
 print("Done — download with:")
-print("hf download joriswechs/woolens-stage2 stage2_focal_v1_final.zip --local-dir models/")
+print("  huggingface-cli download joriswechs/woolens-stage2 stage2_focal_v1_final.zip --local-dir models/")

@@ -1,4 +1,4 @@
-# Information Extraction from Dutch Woo Dossiers
+# Reading between the █REDACTED█: E-mail Reconstruction from Redacted Dutch FOIA Disclosures
 
 This repository contains the code and data for a master's thesis comparing three approaches to information extraction from Dutch government Woo (*Wet open overheid*) dossier PDFs: a regex baseline, a fine-tuned RobBERT model, and GPT-5.5. The task is split into two stages — email boundary detection (Stage 1) and field extraction (Stage 2) — evaluated on a manually annotated corpus of 854 emails from 8 Woo PDF dossiers.
 
@@ -20,7 +20,9 @@ Thesis_Project_Clean/
 │   ├── eval_metrics.py               # Shared evaluation metrics (span IoU, exact match, ANLS)
 │   └── pdf_extract.py                # PDF text extraction via pdfplumber
 ├── scripts/
-│   └── evaluate.py                   # Main evaluation script (all approaches, both stages)
+│   ├── evaluate.py                   # Main evaluation script — runs Regex/GPT/BERT, writes exact F1 CSVs
+│   ├── compute_anls.py               # ANLS* metric computation (anls-star package, present-field only)
+│   └── preannotate.py                # Label Studio pre-annotation helper (data creation, not evaluation)
 ├── notebooks/
 │   ├── train_bert_stage1_kaggle.py         # Stage-1 token BIO classifier (Kaggle)
 │   ├── train_bert_stage1_line_kaggle.py    # Stage-1 line-level classifier (Kaggle)
@@ -80,15 +82,25 @@ python scripts/evaluate.py \
 
 Results are written to `data/results/` and automatically archived with a timestamp.
 
+```bash
+# Compute ANLS* scores from saved raw predictions (run after evaluate.py)
+python scripts/compute_anls.py
+```
+
+ANLS* is computed separately using `anls-star` (Peer et al., 2024) and restricted
+to emails where each field is present, avoiding inflation from correct non-predictions
+on absent fields. Scores are written to `data/results/stage2_anls.csv`.
+
 ## How to train BERT
 
 Training notebooks are in `notebooks/` and designed to run on Kaggle (GPU required). All notebooks upload the trained model to HuggingFace for download.
 
-| Notebook | Description |
-|---|---|
-| `train_bert_stage1_line_kaggle.py` | Stage-1 line-level classifier with class-weighted Focal Loss |
-| `train_bert_stage2_weighted_kaggle.py` | Stage-2 field extractor with sqrt inverse-frequency class weights + early stopping (**recommended**) |
-| `train_bert_stage2_focal_kaggle.py` | Stage-2 with Focal Loss only (no class weights — baseline) |
+| Notebook | Result row | Description |
+|---|---|---|
+| `train_bert_stage1_kaggle.py` | BERT (token BIO) — Stage 1 | Token-level BIO sliding window baseline |
+| `train_bert_stage1_line_kaggle.py` | **BERT (line+filter) — Stage 1** | Line-level binary classifier — recommended Stage 1 approach |
+| `train_bert_stage2_focal_kaggle.py` | BERT (unweighted) — Stage 2 | Focal Loss only, no class weights — shows label collapse baseline |
+| `train_bert_stage2_weighted_kaggle.py` | **BERT (weighted) — Stage 2** | Sqrt inverse-frequency class weights + early stopping — recommended Stage 2 approach |
 
 Upload the relevant `src/` files and annotation JSON to a Kaggle dataset (`woolens-data`) before running.
 
@@ -110,6 +122,8 @@ openai
 pdfplumber
 datasets
 accelerate
+anls-star
+pytorch-crf
 ```
 
 Install with:

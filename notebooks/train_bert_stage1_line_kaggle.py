@@ -1,29 +1,28 @@
 """
 BERT Stage-1 Line-Level Training — Kaggle Notebook
 ====================================================
-Trains RobBERT for email boundary detection using LINE-LEVEL classification
-instead of token classification.
+Trains RobBERT for email boundary detection using LINE-LEVEL binary
+classification. Each line is classified as "email start" (1) or "not" (0),
+with ±2 surrounding context lines included. This eliminates the 512-token
+sliding window problem that caused over-segmentation in the token approach.
 
-Each line is classified as "email start" (1) or "not" (0), with surrounding
-context lines included. This eliminates the 512-token sliding window problem
-that caused over-segmentation in the token-classification approach.
+Produces the "BERT (line+filter)" result row in Stage 1 evaluation.
 
-Setup: same as other notebooks — add train_line.py and focal_loss.py to the
-woolens-data Kaggle dataset alongside stage1_train.json.
-
-Files to upload to woolens-data dataset:
+Files to upload to your woolens-data Kaggle dataset (from src/):
   data/annotations/stage1_train.json
-  src/woolens_email/__init__.py
-  src/woolens_email/data.py
-  src/woolens_email/tokenize.py
-  src/woolens_email/train_line.py
-  src/woolens_email/focal_loss.py
+  src/bert_s1_data.py
+  src/bert_tokenize.py
+  src/bert_s1_train.py
+  src/focal_loss.py
+
+After training, evaluate locally:
+  python scripts/evaluate.py --stages 1 --bert-s1 models/stage1_line_v1 --bert-s1-arch line
 """
 
 # ── Cell 1: dependencies ───────────────────────────────────────────────────
 # !pip install -q datasets accelerate
 
-# ── Cell 2: setup ─────────────────────────────────────────────────────────
+# ── Cell 2: setup — copy flat src/ files and add to path ──────────────────
 import json, sys, shutil
 from pathlib import Path
 
@@ -32,15 +31,18 @@ DATA_PATH  = DATASET / "stage1_train.json"
 OUTPUT_DIR = Path("/kaggle/working/stage1_line_v1")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-pkg = Path("/kaggle/working/woolens_email")
-pkg.mkdir(exist_ok=True)
-for fname in ["__init__.py", "data.py", "tokenize.py", "train_line.py", "focal_loss.py"]:
-    src = DATASET / fname
-    if src.exists():
-        shutil.copy(src, pkg / fname)
-sys.path.insert(0, "/kaggle/working")
+# Copy src modules to a flat working directory and add to Python path
+src_dir = Path("/kaggle/working/src")
+src_dir.mkdir(exist_ok=True)
+for fname in ["bert_s1_data.py", "bert_tokenize.py", "bert_s1_train.py", "focal_loss.py"]:
+    f = DATASET / fname
+    if f.exists():
+        shutil.copy(f, src_dir / fname)
+    else:
+        print(f"WARNING: {fname} not found in dataset — upload it first")
+sys.path.insert(0, str(src_dir))
 
-# ── Cell 3: internal train / val split (1 dossier for val) ────────────────
+# ── Cell 3: internal train / val split (1 dossier held out for validation) ─
 import random
 
 with open(DATA_PATH) as f:
@@ -50,7 +52,7 @@ rng = random.Random(0)
 shuffled = all_records[:]
 rng.shuffle(shuffled)
 
-val_records   = shuffled[:1]
+val_records   = shuffled[:1]   # 1 dossier for validation
 train_records = shuffled[1:]
 
 (OUTPUT_DIR / "tmp_train.json").write_text(json.dumps(train_records, ensure_ascii=False))
@@ -60,14 +62,14 @@ print(f"Training on {len(train_records)} dossiers, validating on {len(val_record
 print(f"Val dossier: {[r['dossier_id'] for r in val_records]}")
 
 # ── Cell 4: train ─────────────────────────────────────────────────────────
-from woolens_email.train_line import train
+from bert_s1_train import train
 
 train(
     train_path=OUTPUT_DIR / "tmp_train.json",
     dev_path=OUTPUT_DIR   / "tmp_val.json",
     output_dir=OUTPUT_DIR,
     num_epochs=5,
-    batch_size=32,  # lines are short — can use larger batch
+    batch_size=32,  # lines are short — larger batch is fine on T4
 )
 
 # ── Cell 5: cleanup ────────────────────────────────────────────────────────
@@ -94,4 +96,4 @@ api.upload_file(
     repo_type="model",
 )
 print("Done — download with:")
-print("hf download joriswechs/woolens-stage2 stage1_line_v1_final.zip --local-dir models/")
+print("  huggingface-cli download joriswechs/woolens-stage2 stage1_line_v1_final.zip --local-dir models/")
