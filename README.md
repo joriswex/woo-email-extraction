@@ -1,6 +1,8 @@
-# Reading between the █REDACTED█: E-mail Reconstruction from Redacted Dutch FOIA Disclosures
+# Reading between the ████████: E-mail Reconstruction from Redacted Dutch FOIA Disclosures
 
-This repository contains the code and data for a master's thesis comparing three approaches to information extraction from Dutch government Woo (*Wet open overheid*) dossier PDFs: a regex baseline, a fine-tuned RobBERT model, and GPT-5.5. The task is split into two stages — email boundary detection (Stage 1) and field extraction (Stage 2) — evaluated on a manually annotated corpus of 854 emails from 8 Woo PDF dossiers.
+This repository contains the code and data for a master's thesis in the **MSc Cultural Data and AI** programme at the **University of Amsterdam**. The thesis is currently not yet published.
+
+The project compares three approaches to information extraction from Dutch government Woo (*Wet open overheid*) dossier PDFs: a regex baseline, a fine-tuned RobBERT model, and GPT-5.5. The task is split into two stages — email boundary detection (Stage 1) and field extraction (Stage 2) — evaluated on a manually annotated corpus of 854 emails from 8 Woo PDF dossiers.
 
 ## Repository structure
 
