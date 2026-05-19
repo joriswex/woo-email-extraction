@@ -155,6 +155,28 @@ Return ONLY a JSON array of strings — one entry per email, in document order. 
 Document text:
 """
 
+_STAGE1_PROMPT_VISION = """\
+You are analyzing a Dutch government document (Woo dossier) that contains multiple \
+email messages concatenated together. The PDF page images of the full document are \
+provided, followed by the extracted document text.
+
+Use the PAGE IMAGES as your primary source to visually identify where each individual \
+email starts. Look for email header blocks in the images — these contain fields such as \
+Van:/From:, Verzonden:/Sent:, Aan:/To:, Onderwerp:/Subject: and visually stand out \
+from the email body. The extracted text is provided only as a reference for copying \
+date strings exactly.
+
+For each email you identify from the images, return the exact text of its date/time \
+line as it appears in the extracted text below the images \
+(the line starting with "Verzonden:", "Datum:", "Sent:", or "Date:"). \
+Dates are never redacted and are unique per email, making them reliable anchors.
+
+Return ONLY a JSON array of strings — one entry per email, in document order. Example:
+["Verzonden: maandag 3 april 2023 14:35", "Sent: Tue 4/4/2023 7:23:12 AM"]
+
+The extracted document text follows the images.
+"""
+
 # ---------------------------------------------------------------------------
 # Internal helpers
 # ---------------------------------------------------------------------------
@@ -167,13 +189,13 @@ def _get_client() -> OpenAI:
     return _client
 
 
-def _render_pages_b64(pdf_path: Path, page_numbers: list[int]) -> list[str]:
+def _render_pages_b64(pdf_path: Path, page_numbers: list[int], resolution: int = 150) -> list[str]:
     """Render PDF pages (1-indexed) as base64-encoded PNG strings."""
     import pdfplumber
     result = []
     with pdfplumber.open(pdf_path) as pdf:
         for pn in page_numbers:
-            img = pdf.pages[pn - 1].to_image(resolution=150)
+            img = pdf.pages[pn - 1].to_image(resolution=resolution)
             buf = BytesIO()
             img.save(buf, format="PNG")
             result.append(base64.b64encode(buf.getvalue()).decode())
@@ -252,6 +274,132 @@ def extract_fields_vision(
         model=_MODEL,
         messages=[{"role": "user", "content": content}],
         max_completion_tokens=2048,  # GPT-5.5 uses reasoning tokens before visible output
+    )
+    raw = _strip_markdown(resp.choices[0].message.content)
+
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+
+    LIST_FIELDS = {"CC", "ATTACHMENT"}
+    results = []
+    for label in ("FROM", "TO", "CC", "DATE", "SUBJECT", "ATTACHMENT"):
+        val = data.get(label)
+        if label in LIST_FIELDS:
+            items = val if isinstance(val, list) else ([val] if val else [])
+            for v in items:
+                if v:
+                    results.append({"label": label, "value": str(v).strip()})
+        else:
+            if val:
+                results.append({"label": label, "value": str(val).strip()})
+    return results
+
+
+def detect_email_boundaries_vision(
+    pdf_path: Path,
+    page_map: dict[int, tuple[int, int]],
+    dossier_text: str,
+) -> list[tuple[int, int]]:
+    """
+    GPT-5.5 vision + text Stage 1: send all PDF pages as images followed by
+    the extracted dossier text.
+
+    Images are the primary source for identifying email boundaries visually.
+    The extracted text is appended so GPT can copy date strings exactly,
+    ensuring returned strings match pdfplumber extraction for reliable anchoring.
+    Same date-line matching logic as the text-only approach.
+    """
+    all_pages = sorted(page_map.keys())
+    if not all_pages:
+        return []
+
+    # 72 DPI keeps the full dossier well under OpenAI's 50 MB image limit
+    # while remaining sufficient for GPT to identify email header blocks.
+    images_b64 = _render_pages_b64(pdf_path, all_pages, resolution=72)
+
+    content: list[dict] = [{"type": "text", "text": _STAGE1_PROMPT_VISION}]
+    for img_b64 in images_b64:
+        content.append({
+            "type": "image_url",
+            "image_url": {"url": f"data:image/png;base64,{img_b64}", "detail": "high"},
+        })
+    content.append({"type": "text", "text": f"\n\nExtracted document text:\n\n{dossier_text}"})
+
+    resp = _get_client().chat.completions.create(
+        model=_MODEL,
+        messages=[{"role": "user", "content": content}],
+        max_completion_tokens=8192,
+    )
+    raw = _strip_markdown(resp.choices[0].message.content)
+
+    try:
+        first_lines: list[str] = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+
+    # Same anchoring logic as detect_email_boundaries_text
+    _HEADER_RE = re.compile(r'^(?:Van|From|To|Aan)\s*:', re.IGNORECASE | re.MULTILINE)
+
+    starts: list[int] = []
+    search_from = 0
+    for line in first_lines:
+        line = line.strip()
+        if not line:
+            continue
+        idx = dossier_text.find(line, search_from)
+        if idx < 0:
+            continue
+        preceding = dossier_text[max(0, idx - 500):idx]
+        headers   = list(_HEADER_RE.finditer(preceding))
+        if headers:
+            email_start = max(0, idx - 500) + headers[-1].start()
+        else:
+            email_start = idx
+        starts.append(email_start)
+        search_from = idx + 1
+
+    if not starts:
+        return []
+
+    spans = []
+    for i, s in enumerate(starts):
+        e = starts[i + 1] if i + 1 < len(starts) else len(dossier_text)
+        while e > s and dossier_text[e - 1] in (" ", "\n", "\r"):
+            e -= 1
+        if e > s:
+            spans.append((s, e))
+    return spans
+
+
+def extract_fields_text_only(
+    email_text: str,
+    prompt_version: int = 3,
+) -> list[dict]:
+    """
+    GPT-5.5 text-only Stage 2: send extracted email text without any images.
+
+    Uses the same v3 prompt and JSON output format as extract_fields_vision
+    so results are directly comparable. The absence of images is the only
+    difference — this call tests what GPT can do from text alone.
+    """
+    if prompt_version == 3:
+        prompt = _STAGE2_PROMPT_V3
+    elif prompt_version == 2:
+        prompt = _STAGE2_PROMPT_V2
+    else:
+        prompt = _STAGE2_PROMPT
+
+    content: list[dict] = [
+        {"type": "text", "text": prompt},
+        {"type": "text", "text": f"\n\nExtracted email text:\n\n{email_text}"},
+    ]
+
+    resp = _get_client().chat.completions.create(
+        model=_MODEL,
+        messages=[{"role": "user", "content": content}],
+        max_completion_tokens=2048,
     )
     raw = _strip_markdown(resp.choices[0].message.content)
 

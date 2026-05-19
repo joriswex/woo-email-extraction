@@ -1,4 +1,9 @@
 approach,exact_macro_f1,anls_macro_f1,n_emails
 Regex,0.8809,0.9148,171
 BERT,0.3124,0.3816,171
+BERT (weighted),0.4646,0.8743,171
+BERT (CRF v2),0.0288,0.1282,171
+GPT-5.5 v3 (text),0.7407,0.8072,171
 GPT-5.5 (vision),0.5924,,171
+GPT-5.5 v2 (vision),0.6226,,171
+GPT-5.5 v3 (vision),0.7515,0.8214,171

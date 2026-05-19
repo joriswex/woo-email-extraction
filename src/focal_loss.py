@@ -49,10 +49,11 @@ class FocalLoss(nn.Module):
         targets : (N,)  class indices, with ignore_index for masked positions
         """
         # Standard cross-entropy per token (unreduced)
+        weight = self.weight.to(inputs.device) if self.weight is not None else None
         ce = F.cross_entropy(
             inputs,
             targets,
-            weight=self.weight,
+            weight=weight,
             ignore_index=self.ignore_index,
             reduction="none",
         )

@@ -19,6 +19,7 @@ from transformers import (
     AutoModelForTokenClassification,
     AutoTokenizer,
     DataCollatorForTokenClassification,
+    EarlyStoppingCallback,
     Trainer,
     TrainingArguments,
 )
@@ -31,6 +32,19 @@ PRIMARY_MODEL = "DTAI-KULeuven/robbert-2023-dutch-base"
 FALLBACK_MODEL = "pdelobelle/robbert-v2-dutch-base"
 
 _FIELD_STRIDE = 64
+
+
+def _compute_class_weights(dataset: Dataset) -> torch.Tensor:
+    """Sqrt-inverse-frequency class weights (Mikolov et al., 2013 / Cui et al., 2019)."""
+    n_labels = len(LABEL2ID)
+    counts = [0] * n_labels
+    for ex in dataset:
+        for label in ex["labels"]:
+            if label >= 0:
+                counts[label] += 1
+    total = sum(counts)
+    weights = [(total / (n_labels * c)) ** 0.5 if c > 0 else 1.0 for c in counts]
+    return torch.tensor(weights, dtype=torch.float)
 
 
 def load_model_and_tokenizer(model_name: str = PRIMARY_MODEL) -> tuple:
@@ -68,13 +82,17 @@ def load_annotations(path: str | Path) -> list[dict]:
 
 
 class _FocalLossTrainer(Trainer):
-    """Trainer subclass that applies Focal Loss for handling class imbalance."""
+    """Trainer subclass that applies class-weighted Focal Loss for handling class imbalance."""
+
+    def __init__(self, *args, class_weights: torch.Tensor | None = None, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.class_weights = class_weights
 
     def compute_loss(self, model, inputs, return_outputs=False, **kwargs):
         labels = inputs.pop("labels")
         outputs = model(**inputs)
         logits = outputs.logits
-        loss_fn = FocalLoss(gamma=2.0, ignore_index=IGNORED)
+        loss_fn = FocalLoss(gamma=2.0, weight=self.class_weights, ignore_index=IGNORED)
         loss = loss_fn(logits.view(-1, logits.size(-1)), labels.view(-1))
         return (loss, outputs) if return_outputs else loss
 
@@ -112,20 +130,22 @@ def train(
     dev_path: str | Path,
     output_dir: str | Path,
     model_name: str = PRIMARY_MODEL,
-    num_epochs: int = 2,
-    batch_size: int = 2,
+    num_epochs: int = 15,
+    batch_size: int = 8,
+    early_stopping_patience: int = 3,
 ) -> None:
     """
-    Fine-tune RobBERT for email field extraction.
+    Fine-tune RobBERT for email field extraction with class-weighted Focal Loss.
 
     Parameters
     ----------
-    train_path : path to stage-2 train JSON (array of email annotation dicts)
-    dev_path   : path to stage-2 dev JSON
-    output_dir : where to save the final model and tokenizer
-    model_name : HuggingFace model ID to start from
-    num_epochs : training epochs
-    batch_size : per-device batch size
+    train_path              : path to stage-2 train JSON
+    dev_path                : path to stage-2 dev JSON
+    output_dir              : where to save the final model and tokenizer
+    model_name              : HuggingFace model ID to start from
+    num_epochs              : maximum training epochs (early stopping may halt earlier)
+    batch_size              : per-device batch size
+    early_stopping_patience : stop if val loss does not improve for this many epochs
     """
     print("Loading model …  (first run downloads ~500 MB of weights)")
     model, tokenizer = load_model_and_tokenizer(model_name)
@@ -135,6 +155,12 @@ def train(
     dev_dataset = build_hf_dataset(load_annotations(dev_path), tokenizer)
     print(f"  train windows: {len(train_dataset)}  dev windows: {len(dev_dataset)}")
 
+    class_weights = _compute_class_weights(train_dataset)
+    print(f"  class weights — max: {class_weights.max():.2f}  "
+          f"(B-ATTACHMENT: {class_weights[LABEL2ID['B-ATTACHMENT']]:.2f}, "
+          f"B-CC: {class_weights[LABEL2ID['B-CC']]:.2f}, "
+          f"B-SUBJECT: {class_weights[LABEL2ID['B-SUBJECT']]:.2f})")
+
     training_args = TrainingArguments(
         output_dir=str(output_dir),
         num_train_epochs=num_epochs,
@@ -142,12 +168,13 @@ def train(
         per_device_eval_batch_size=batch_size,
         eval_strategy="epoch",
         save_strategy="epoch",
+        save_total_limit=2,
         load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         greater_is_better=False,
         learning_rate=2e-5,
         weight_decay=0.01,
-        logging_steps=1,
+        logging_steps=10,
         report_to="none",
     )
 
@@ -157,6 +184,8 @@ def train(
         train_dataset=train_dataset,
         eval_dataset=dev_dataset,
         data_collator=DataCollatorForTokenClassification(tokenizer),
+        class_weights=class_weights,
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=early_stopping_patience)],
     )
 
     print("Training …")
