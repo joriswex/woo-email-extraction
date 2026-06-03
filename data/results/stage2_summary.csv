@@ -1,9 +1,6 @@
 approach,exact_macro_f1,n_emails
 Regex,0.8809,171
-BERT,0.3124,171
-BERT (weighted),0.4646,171
-BERT (CRF v2),0.0288,171
-GPT-5.5 v3 (text),0.7407,171
-GPT-5.5 (vision),0.5924,171
-GPT-5.5 v2 (vision),0.6226,171
-GPT-5.5 v3 (vision),0.7515,171
+RobBERT (token, unweighted),0.3124,171
+RobBERT (token, class-weighted),0.4646,171
+GPT-5.5 (text),0.7407,171
+GPT-5.5 (vision+text),0.7515,171

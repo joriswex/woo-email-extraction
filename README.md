@@ -66,8 +66,8 @@ python scripts/evaluate.py --stages 1 --gpt-s1-vision
 # GPT-5.5 Stage 2 text-only
 python scripts/evaluate.py --stages 2 --gpt-s2-text
 
-# BERT with a custom label
-python scripts/evaluate.py --stages 2 --bert-s2 models/stage2_weighted --bert-s2-label "BERT (weighted)"
+# RobBERT with a custom label
+python scripts/evaluate.py --stages 2 --bert-s2 models/stage2_weighted --bert-s2-label "RobBERT (token, class-weighted)"
 
 # Stage 1 BERT line classifier
 python scripts/evaluate.py --stages 1 --bert-s1 models/stage1_line --bert-s1-arch line
@@ -99,10 +99,10 @@ Training notebooks are in `notebooks/` and designed to run on Kaggle (GPU requir
 
 | Notebook | Result row | Description |
 |---|---|---|
-| `train_bert_stage1_kaggle.py` | BERT (token BIO) — Stage 1 | Token-level BIO sliding window baseline |
-| `train_bert_stage1_line_kaggle.py` | **BERT (line+filter) — Stage 1** | Line-level binary classifier — recommended Stage 1 approach |
-| `train_bert_stage2_focal_kaggle.py` | BERT (unweighted) — Stage 2 | Focal Loss only, no class weights — shows label collapse baseline |
-| `train_bert_stage2_weighted_kaggle.py` | **BERT (weighted) — Stage 2** | Sqrt inverse-frequency class weights + early stopping — recommended Stage 2 approach |
+| `train_bert_stage1_kaggle.py` | RobBERT (token BIO) — Stage 1 | Token-level BIO sliding window baseline |
+| `train_bert_stage1_line_kaggle.py` | **RobBERT (line + proximity filter) — Stage 1** | Line-level binary classifier with proximity-filtered inference — recommended Stage 1 approach |
+| `train_bert_stage2_focal_kaggle.py` | RobBERT (token, unweighted) — Stage 2 | Focal Loss only, no class weights — shows label collapse baseline |
+| `train_bert_stage2_weighted_kaggle.py` | **RobBERT (token, class-weighted) — Stage 2** | Sqrt inverse-frequency class weights + early stopping — recommended Stage 2 approach |
 
 Upload the relevant `src/` files and annotation JSON to a Kaggle dataset (`woolens-data`) before running.
 

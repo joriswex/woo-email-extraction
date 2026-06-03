@@ -1,5 +1,5 @@
 """
-Compute ANLS* scores for all approaches from raw stage-2 predictions.
+Compute ANLS* scores for canonical Stage-2 approaches from raw predictions.
 
 Uses the anls_star package (Peer et al., 2024) which implements the original
 ANLS metric (Biten et al., ICCV 2019) with partial credit and Hungarian
@@ -39,6 +39,25 @@ RAW_PREDS  = RESULTS / "stage2_raw_predictions.json"
 
 EVAL_FIELDS = ["FROM", "TO", "CC", "DATE", "SUBJECT", "ATTACHMENT"]
 LIST_FIELDS = {"CC", "ATTACHMENT"}  # multi-value → use list ANLS matching
+
+STAGE2_ORDER = [
+    "Regex",
+    "RobBERT (token, unweighted)",
+    "RobBERT (token, class-weighted)",
+    "GPT-5.5 (text)",
+    "GPT-5.5 (vision+text)",
+]
+
+STAGE2_LABEL_ALIASES = {
+    "BERT": "RobBERT (token, unweighted)",
+    "BERT (weighted)": "RobBERT (token, class-weighted)",
+    "GPT-5.5 v3 (text)": "GPT-5.5 (text)",
+    "GPT-5.5 v3 (vision)": "GPT-5.5 (vision+text)",
+}
+
+
+def _normalize_approach(label: str) -> str:
+    return STAGE2_LABEL_ALIASES.get(label, label)
 
 
 def _gt_values(record: dict) -> dict[str, str | list[str]]:
@@ -101,7 +120,7 @@ def compute_anls_scores(
     by_approach: dict[str, dict[tuple, list]] = defaultdict(dict)
     for entry in raw_preds:
         key = (entry["dossier_id"], entry["email_id"])
-        by_approach[entry["approach"]][key] = entry["predictions"]
+        by_approach[_normalize_approach(entry["approach"])][key] = entry["predictions"]
 
     results = {}
     for approach, email_preds in by_approach.items():
@@ -144,23 +163,18 @@ def main() -> None:
     gt_map    = {(r["dossier_id"], r["email_id"]): r for r in records}
     raw_preds = json.load(open(RAW_PREDS, encoding="utf-8"))
 
-    approaches_present = sorted(set(e["approach"] for e in raw_preds))
+    approaches_present = sorted({_normalize_approach(e["approach"]) for e in raw_preds})
     print(f"Approaches in raw predictions: {approaches_present}\n")
 
     all_results     = compute_anls_scores(raw_preds, gt_map, present_only=False)
     present_results = compute_anls_scores(raw_preds, gt_map, present_only=True)
-
-    order = [
-        "Regex", "BERT", "BERT (weighted)", "BERT (CRF v2)",
-        "GPT-5.5 v3 (text)", "GPT-5.5 v3 (vision)",
-    ]
 
     def _print_table(results, title):
         print(f"=== {title} ===")
         header = f"{'Approach':<28} {'Macro':>7} " + "  ".join(f"{f[:6]:>8}" for f in EVAL_FIELDS)
         print(header)
         print("-" * len(header))
-        for approach in order:
+        for approach in STAGE2_ORDER:
             if approach not in results:
                 continue
             r = results[approach]
@@ -175,7 +189,7 @@ def main() -> None:
     # Write combined CSV: one row per approach with both anls_all and anls_present columns
     out_path = RESULTS / "stage2_anls.csv"
     rows = []
-    for approach in order:
+    for approach in STAGE2_ORDER:
         if approach not in all_results:
             continue
         ra = all_results[approach]

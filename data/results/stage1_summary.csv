@@ -1,6 +1,6 @@
 approach,precision,recall,f1
 Regex,0.9263,0.9221,0.9242
-BERT,0.3695,0.9426,0.5305
-BERT (line+filter),0.966,0.901,0.932
+RobBERT (token BIO),0.3695,0.9426,0.5305
+RobBERT (line + proximity filter),0.966,0.901,0.932
 GPT-5.5 (text),0.9713,0.9713,0.9713
-GPT-5.5 (vision),0.913,0.6558,0.7262
+GPT-5.5 (vision+text),0.913,0.6558,0.7262

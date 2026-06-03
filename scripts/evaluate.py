@@ -1,14 +1,14 @@
 """
-Three-way evaluation: Regex vs. GPT-4o vs. BERT (optional)
+Evaluation for Regex, RobBERT, and GPT-5.5 approaches.
 
 Stage 1 — email boundary detection (dossier level)
-  Approaches : Regex, GPT-4o (text), BERT (optional)
+    Approaches : Regex, GPT-5.5 (text), RobBERT (optional)
   Metric     : span IoU >= 0.5  →  precision / recall / F1
   Output     : data/results/stage1_per_dossier.csv
                data/results/stage1_summary.csv
 
 Stage 2 — field extraction (email level, 60 dev emails)
-  Approaches : Regex, GPT-4o (vision), BERT (optional)
+    Approaches : Regex, GPT-5.5 (vision+text / text), RobBERT (optional)
   Metric     : value-level exact and fuzzy match (difflib >= 0.8)  →  P/R/F1
   Output     : data/results/stage2_per_field.csv
                data/results/stage2_summary.csv
@@ -18,10 +18,10 @@ Usage
     # Regex only (default — free, no API key needed)
     python scripts/evaluate.py
 
-    # Add GPT-4o (costs money — requires OPENAI_API_KEY)
+    # Add GPT-5.5 (costs money — requires OPENAI_API_KEY)
     python scripts/evaluate.py --gpt
 
-    # Full comparison: Regex + GPT-4o + BERT
+    # Full comparison: Regex + GPT-5.5 + RobBERT
     python scripts/evaluate.py --gpt --bert-s1 models/stage1_v1 --bert-s2 models/stage2_v1
 
     # Stage 2 only
@@ -79,8 +79,52 @@ def _load_json(path: Path) -> list[dict]:
 
 _RUN_TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-_STAGE1_ORDER = ["Regex", "BERT", "BERT (line+filter)", "GPT-5.5 (text)", "GPT-5.5 (vision)"]
-_STAGE2_ORDER = ["Regex", "BERT", "BERT (weighted)", "BERT (CRF v2)", "GPT-5.5 v3 (text)", "GPT-5.5 (vision)", "GPT-5.5 v2 (vision)", "GPT-5.5 v3 (vision)"]
+STAGE1_TOKEN_LABEL = "RobBERT (token BIO)"
+STAGE1_LINE_LABEL = "RobBERT (line)"
+STAGE1_LINE_FILTER_LABEL = "RobBERT (line + proximity filter)"
+STAGE1_GPT_TEXT_LABEL = "GPT-5.5 (text)"
+STAGE1_GPT_VISION_LABEL = "GPT-5.5 (vision+text)"
+
+STAGE2_TOKEN_LABEL = "RobBERT (token, unweighted)"
+STAGE2_WEIGHTED_LABEL = "RobBERT (token, class-weighted)"
+STAGE2_GPT_TEXT_LABEL = "GPT-5.5 (text)"
+STAGE2_GPT_VISION_LABEL = "GPT-5.5 (vision+text)"
+
+_STAGE1_ORDER = [
+    "Regex",
+    STAGE1_TOKEN_LABEL,
+    STAGE1_LINE_LABEL,
+    STAGE1_LINE_FILTER_LABEL,
+    STAGE1_GPT_TEXT_LABEL,
+    STAGE1_GPT_VISION_LABEL,
+]
+_STAGE2_ORDER = [
+    "Regex",
+    STAGE2_TOKEN_LABEL,
+    STAGE2_WEIGHTED_LABEL,
+    STAGE2_GPT_TEXT_LABEL,
+    STAGE2_GPT_VISION_LABEL,
+]
+
+_STAGE1_LABEL_ALIASES = {
+    "BERT": STAGE1_TOKEN_LABEL,
+    "BERT (line)": STAGE1_LINE_LABEL,
+    "BERT (line+filter)": STAGE1_LINE_FILTER_LABEL,
+    "GPT-5.5 (vision)": STAGE1_GPT_VISION_LABEL,
+}
+
+_STAGE2_LABEL_ALIASES = {
+    "BERT": STAGE2_TOKEN_LABEL,
+    "BERT (weighted)": STAGE2_WEIGHTED_LABEL,
+    "GPT-5.5 v3 (text)": STAGE2_GPT_TEXT_LABEL,
+    "GPT-5.5 v3 (vision)": STAGE2_GPT_VISION_LABEL,
+}
+
+
+def _normalize_approach(label: str, aliases: dict[str, str] | None = None) -> str:
+    if aliases is None:
+        return label
+    return aliases.get(label, label)
 
 
 def _merge_write_csv(
@@ -89,17 +133,29 @@ def _merge_write_csv(
     fieldnames: list[str],
     run_approaches: list[str],
     canonical_order: list[str],
+    aliases: dict[str, str] | None = None,
 ) -> None:
     """Write CSV rows, preserving scores for approaches not run this time."""
+    normalized_run_approaches = [_normalize_approach(a, aliases) for a in run_approaches]
+
     # Keep existing rows whose approach was NOT run this time
     kept: list[dict] = []
     if path.exists():
         with open(path, encoding="utf-8") as f:
-            kept = [r for r in csv.DictReader(f) if r.get("approach") not in run_approaches]
+            for row in csv.DictReader(f):
+                row["approach"] = _normalize_approach(row.get("approach", ""), aliases)
+                if row.get("approach") not in normalized_run_approaches:
+                    kept.append(row)
 
-    all_rows = kept + new_rows
+    normalized_new_rows: list[dict] = []
+    for row in new_rows:
+        normalized_row = dict(row)
+        normalized_row["approach"] = _normalize_approach(normalized_row.get("approach", ""), aliases)
+        normalized_new_rows.append(normalized_row)
+
+    all_rows = kept + normalized_new_rows
     order_map = {a: i for i, a in enumerate(canonical_order)}
-    all_rows.sort(key=lambda r: order_map.get(r.get("approach", ""), 999))
+    all_rows.sort(key=lambda r: (order_map.get(r.get("approach", ""), 999), r.get("approach", "")))
 
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", newline="", encoding="utf-8") as f:
@@ -150,7 +206,7 @@ def _build_page_maps(dossier_ids: list[str]) -> dict[str, dict]:
         for did in missing:
             pdf = RAW_DIR / f"{did}.pdf"
             if not pdf.exists():
-                print(f"  WARNING: {did}.pdf not found, GPT-4o vision will be skipped")
+                print(f"  WARNING: {did}.pdf not found, GPT-5.5 vision will be skipped")
                 cache[did] = {}
                 continue
             _, page_map = extract_text(pdf)
@@ -212,9 +268,10 @@ def run_stage1(
                 from bert_s1_predict import predict
             b_spans = predict(text, bert_s1, bert_s1_tok)
             b_m = compute_span_metrics(b_spans, gt_spans)
-            per_dossier.append({"approach": "BERT", "dossier_id": did, **b_m})
-            approach_metrics["BERT"].append(b_m)
-            raw_preds_s1[did]["BERT"] = b_spans
+            bert_label = STAGE1_LINE_FILTER_LABEL if bert_s1_arch == "line" else STAGE1_TOKEN_LABEL
+            per_dossier.append({"approach": bert_label, "dossier_id": did, **b_m})
+            approach_metrics[bert_label].append(b_m)
+            raw_preds_s1[did][bert_label] = b_spans
 
         # GPT-5.5 text
         if run_gpt:
@@ -222,13 +279,13 @@ def run_stage1(
             try:
                 g_spans = gpt_baseline.detect_email_boundaries_text(text)
                 g_m = compute_span_metrics(g_spans, gt_spans)
-                per_dossier.append({"approach": "GPT-5.5 (text)", "dossier_id": did, **g_m})
-                approach_metrics["GPT-5.5 (text)"].append(g_m)
-                raw_preds_s1[did]["GPT-5.5 (text)"] = g_spans
+                per_dossier.append({"approach": STAGE1_GPT_TEXT_LABEL, "dossier_id": did, **g_m})
+                approach_metrics[STAGE1_GPT_TEXT_LABEL].append(g_m)
+                raw_preds_s1[did][STAGE1_GPT_TEXT_LABEL] = g_spans
             except Exception as exc:
                 print(f"    GPT-5.5 text error on {did}: {exc}")
                 per_dossier.append({
-                    "approach": "GPT-5.5 (text)", "dossier_id": did,
+                    "approach": STAGE1_GPT_TEXT_LABEL, "dossier_id": did,
                     "precision": DASH, "recall": DASH, "f1": DASH,
                     "n_pred": DASH, "n_true": len(gt_spans),
                 })
@@ -242,13 +299,13 @@ def run_stage1(
                 try:
                     gv_spans = gpt_baseline.detect_email_boundaries_vision(pdf, pm, text)
                     gv_m = compute_span_metrics(gv_spans, gt_spans)
-                    per_dossier.append({"approach": "GPT-5.5 (vision)", "dossier_id": did, **gv_m})
-                    approach_metrics["GPT-5.5 (vision)"].append(gv_m)
-                    raw_preds_s1[did]["GPT-5.5 (vision)"] = gv_spans
+                    per_dossier.append({"approach": STAGE1_GPT_VISION_LABEL, "dossier_id": did, **gv_m})
+                    approach_metrics[STAGE1_GPT_VISION_LABEL].append(gv_m)
+                    raw_preds_s1[did][STAGE1_GPT_VISION_LABEL] = gv_spans
                 except Exception as exc:
                     print(f"    GPT-5.5 vision error on {did}: {exc}")
                     per_dossier.append({
-                        "approach": "GPT-5.5 (vision)", "dossier_id": did,
+                        "approach": STAGE1_GPT_VISION_LABEL, "dossier_id": did,
                         "precision": DASH, "recall": DASH, "f1": DASH,
                         "n_pred": DASH, "n_true": len(gt_spans),
                     })
@@ -286,6 +343,7 @@ def run_stage1(
         ["approach", "dossier_id", "precision", "recall", "f1", "n_pred", "n_true"],
         run_approaches=run_approaches,
         canonical_order=_STAGE1_ORDER,
+        aliases=_STAGE1_LABEL_ALIASES,
     )
     _merge_write_csv(
         output_dir / "stage1_summary.csv",
@@ -293,6 +351,7 @@ def run_stage1(
         ["approach", "precision", "recall", "f1"],
         run_approaches=run_approaches,
         canonical_order=_STAGE1_ORDER,
+        aliases=_STAGE1_LABEL_ALIASES,
     )
 
 
@@ -317,15 +376,15 @@ def run_stage2(
     print(f"\n=== Stage 2: field extraction ({len(records)} emails) ===")
 
     # Accumulate micro-average counts per approach
-    _GPT_LABELS = {1: "GPT-5.5 (vision)", 2: "GPT-5.5 v2 (vision)", 3: "GPT-5.5 v3 (vision)"}
+    _GPT_LABELS = {1: "GPT-5.5 (vision)", 2: "GPT-5.5 v2 (vision)", 3: STAGE2_GPT_VISION_LABEL}
     approaches = ["Regex"]
     if run_gpt:
         for v in gpt_versions:
             approaches.append(_GPT_LABELS[v])
     if run_gpt_text:
-        approaches.append("GPT-5.5 v3 (text)")
+        approaches.append(STAGE2_GPT_TEXT_LABEL)
     if bert_label is None:
-        bert_label = "BERT (CRF v2)" if bert_s2_arch == "crf" else "BERT"
+        bert_label = STAGE2_TOKEN_LABEL
     if bert_s2:
         approaches.append(bert_label)
 
@@ -384,9 +443,9 @@ def run_stage2(
             import gpt_baseline
             try:
                 gt_preds = gpt_baseline.extract_fields_text_only(text)
-                accumulate_field_counts(counters["GPT-5.5 v3 (text)"], gt_preds, gt, EVAL_FIELDS)
+                accumulate_field_counts(counters[STAGE2_GPT_TEXT_LABEL], gt_preds, gt, EVAL_FIELDS)
                 raw_preds_s2.append({"dossier_id": did, "email_id": eid,
-                                     "approach": "GPT-5.5 v3 (text)", "predictions": gt_preds})
+                                     "approach": STAGE2_GPT_TEXT_LABEL, "predictions": gt_preds})
             except Exception as exc:
                 print(f"    GPT-5.5 text-only error on {did}/{eid}: {exc}")
             time.sleep(0.3)
@@ -438,6 +497,7 @@ def run_stage2(
         ["approach", "field", "exact_p", "exact_r", "exact_f1"],
         run_approaches=run_approaches,
         canonical_order=_STAGE2_ORDER,
+        aliases=_STAGE2_LABEL_ALIASES,
     )
     _merge_write_csv(
         output_dir / "stage2_summary.csv",
@@ -445,6 +505,7 @@ def run_stage2(
         ["approach", "exact_macro_f1", "n_emails"],
         run_approaches=run_approaches,
         canonical_order=_STAGE2_ORDER,
+        aliases=_STAGE2_LABEL_ALIASES,
     )
     print("  Note: ANLS* scores computed separately via scripts/compute_anls.py")
 
@@ -456,7 +517,7 @@ def run_stage2(
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Evaluate Regex / GPT-4o / BERT on Woo dossier extraction.",
+        description="Evaluate Regex / GPT-5.5 / RobBERT on Woo dossier extraction.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
@@ -477,7 +538,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--bert-s2-label", metavar="LABEL", default=None,
-        help="Row label for this BERT run in the CSV (default: 'BERT' or 'BERT (CRF v2)')",
+        help="Optional custom row label for this Stage-2 RobBERT run",
     )
     parser.add_argument(
         "--bert-s2-arch", choices=["token", "crf"], default="token",
@@ -493,7 +554,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--gpt-s1-vision", action="store_true",
-        help="Run GPT-5.5 vision (images only) for Stage 1 boundary detection",
+        help="Run GPT-5.5 vision+text for Stage 1 boundary detection",
     )
     parser.add_argument(
         "--gpt-s2-text", action="store_true",
@@ -544,14 +605,14 @@ def main() -> None:
             bert_s2 = AutoModelForTokenClassification.from_pretrained(args.bert_s2)
         bert_s2.eval()
 
-    default_label = "BERT (CRF v2)" if bert_s2_arch == "crf" else "BERT"
+    default_label = STAGE2_TOKEN_LABEL
     bert_label = args.bert_s2_label if args.bert_s2_label else default_label
 
     # Load ground truth
     stage1_records = _load_json(STAGE1_ANN)       # test split only (2 dossiers)
     stage2_records = _load_json(STAGE2_ANN)
 
-    # Cross-reference index uses all 8 dossiers so GPT-4o vision can locate
+    # Cross-reference index uses all 8 dossiers so GPT-5.5 vision can locate
     # any stage-2 email regardless of which dossier it came from
     stage1_index = {
         r["dossier_id"]: {
