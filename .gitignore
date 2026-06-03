@@ -1,5 +1,7 @@
 models/
 data/raw/
+data/import/
+data/text/
 .venv/
 venv/
 __pycache__/
