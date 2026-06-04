@@ -1,0 +1,19 @@
+<!--
+  Stage 1: Email boundary annotation on full dossier text.
+
+  Annotators highlight the complete text of each email in the dossier.
+  Use this to hand-correct stage-1 model predictions or to annotate from scratch.
+
+  Span label:
+  EMAIL = the full extent of one email, from the first header line to the
+          last line of the body or signature.
+-->
+<View>
+  <Header value="Email-grens annotatie — markeer de volledige tekst van elk e-mail"/>
+
+  <Labels name="label" toName="text">
+    <Label value="EMAIL" background="#FFA39E" hotkey="e"/>
+  </Labels>
+
+  <Text name="text" value="$text"/>
+</View>

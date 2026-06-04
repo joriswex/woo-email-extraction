@@ -1,0 +1,36 @@
+<!--
+  Stage 2: Field-level annotation on individual email text.
+
+  Each task is one email (sliced from the dossier by the stage-1 model).
+  Since the whole task is one email there is no overlap problem.
+
+  Annotate only the VALUE after each keyword, not the keyword itself.
+  E.g. "Van: Jan de Vries" -> highlight "Jan de Vries", label FROM.
+  If a value is redacted (e.g. [5.1.2e]), label it REDACTED.
+
+  Email type is inferred automatically from the subject line.
+
+  Hotkeys
+  -------
+  f  FROM     t  TO     c  CC     d  DATE
+  s  SUBJECT  a  ATTACHMENT      r  REDACTED
+-->
+<View>
+  <View style="background:#e6f7ff; border:1px solid #91d5ff; padding:10px; margin-bottom:12px; border-radius:4px;">
+    <Header value="Markeer de veldwaarden binnen dit e-mail"/>
+    <Header value="Markeer alleen de WAARDE, niet het sleutelwoord (bijv. niet 'Van:' zelf)"/>
+    <Header value="Sneltoetsen: f=FROM  t=TO  c=CC  d=DATE  s=SUBJECT  r=REDACTED  a=ATTACHMENT"/>
+  </View>
+
+  <Labels name="label" toName="text">
+    <Label value="FROM"       background="#FFA39E" hotkey="f"/>
+    <Label value="TO"         background="#FF7A45" hotkey="t"/>
+    <Label value="CC"         background="#FFC069" hotkey="c"/>
+    <Label value="DATE"       background="#FFE58F" hotkey="d"/>
+    <Label value="SUBJECT"    background="#D3F261" hotkey="s"/>
+    <Label value="ATTACHMENT" background="#95DE64" hotkey="a"/>
+    <Label value="REDACTED"   background="#ADC6FF" hotkey="r"/>
+  </Labels>
+
+  <Text name="text" value="$text"/>
+</View>

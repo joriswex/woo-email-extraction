@@ -1,0 +1,42 @@
+<!--
+  Combined annotation config: email boundaries + field values in one pass.
+
+  Workflow
+  --------
+  Pass 1: mark all EMAIL boundaries first, lock each region after drawing it.
+  Pass 2: go back and mark field values inside each email.
+
+  Field annotation: highlight only the VALUE, not the keyword.
+  E.g. for "Van: Jan de Vries" highlight only "Jan de Vries", not "Van:".
+  If a value is redacted (e.g. [5.1.2e]), label it REDACTED instead of FROM/TO/etc.
+
+  Email type is inferred automatically from the SUBJECT text (Re: = REPLY,
+  Fw:/Fwd: = FORWARD, otherwise NEW) so no manual choice is needed.
+
+  Hotkeys
+  -------
+  space  EMAIL      f  FROM     t  TO       c  CC
+  d      DATE       s  SUBJECT  a  ATTACHMENT
+  r      REDACTED
+-->
+<View>
+  <View style="background:#f6ffed; border:1px solid #b7eb8f; padding:10px; margin-bottom:12px; border-radius:4px;">
+    <Header value="Pass 1: markeer elk e-mail als geheel (EMAIL) — lock daarna elk region"/>
+    <Header value="Pass 2: markeer de veldwaarden binnen elk e-mail"/>
+    <Header value="Markeer alleen de WAARDE, niet het sleutelwoord (bijv. niet 'Van:' zelf)"/>
+    <Header value="Sneltoetsen: space=EMAIL  f=FROM  t=TO  c=CC  d=DATE  s=SUBJECT  r=REDACTED  a=ATTACHMENT"/>
+  </View>
+
+  <Labels name="label" toName="text">
+    <Label value="EMAIL"      background="#B7EB8F" hotkey="space"/>
+    <Label value="FROM"       background="#FFA39E" hotkey="f"/>
+    <Label value="TO"         background="#FF7A45" hotkey="t"/>
+    <Label value="CC"         background="#FFC069" hotkey="c"/>
+    <Label value="DATE"       background="#FFE58F" hotkey="d"/>
+    <Label value="SUBJECT"    background="#D3F261" hotkey="s"/>
+    <Label value="ATTACHMENT" background="#95DE64" hotkey="a"/>
+    <Label value="REDACTED"   background="#ADC6FF" hotkey="r"/>
+  </Labels>
+
+  <Text name="text" value="$text"/>
+</View>

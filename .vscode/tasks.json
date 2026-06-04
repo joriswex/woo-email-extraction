@@ -1,0 +1,53 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Thesis: Status overview",
+      "type": "shell",
+      "command": "python scripts/status.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Pre-annotate all new dossiers (OCR)",
+      "type": "shell",
+      "command": "python scripts/preannotate.py data/raw/*.pdf",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Manage dossiers (rename + metadata)",
+      "type": "shell",
+      "command": "python scripts/manage_dossiers.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Manage dossiers (dry run)",
+      "type": "shell",
+      "command": "python scripts/manage_dossiers.py --dry-run",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Convert annotations (stage 1 + 2)",
+      "type": "shell",
+      "command": "python scripts/convert_annotations.py --stage1 data/annotations/stage1_export.json --stage2 data/annotations/stage2_export.json",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Run evaluation (regex only)",
+      "type": "shell",
+      "command": "python scripts/evaluate.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Compute ANLS*",
+      "type": "shell",
+      "command": "python scripts/compute_anls.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "Label Studio: Start",
+      "type": "shell",
+      "command": "LABEL_STUDIO_BASE_DATA_DIR=/tmp/label-studio-data label-studio start",
+      "problemMatcher": []
+    }
+  ]
+}

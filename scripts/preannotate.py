@@ -222,9 +222,18 @@ def _build_predictions(text: str, dossier_id: str, email_only: bool = False) -> 
 
 def prepare(pdf_path: Path, output_dir: Path, email_only: bool = False) -> None:
     dossier_id = pdf_path.stem
+    cached = output_dir / f"{dossier_id}.json"
 
-    print(f"Processing {pdf_path.name} …", end=" ", flush=True)
-    text, page_map = extract_text(pdf_path)
+    # Reuse text from existing import file to avoid re-running OCR
+    if cached.exists():
+        with open(cached, encoding="utf-8") as f:
+            existing = json.load(f)
+        text = existing[0]["data"]["text"]
+        print(f"Processing {pdf_path.name} … (text from cache)", end=" ", flush=True)
+        page_map = {}
+    else:
+        print(f"Processing {pdf_path.name} …", end=" ", flush=True)
+        text, page_map = extract_text(pdf_path)
 
     predictions = _build_predictions(text, dossier_id, email_only=email_only)
     n_emails = sum(1 for r in predictions if r["value"]["labels"] == ["EMAIL"])
