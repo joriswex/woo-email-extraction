@@ -1,0 +1,2194 @@
+[
+  {
+    "data": {
+      "text": "Van: 5126\n\nVerzonden: vrijdag 7 maart 2025 10:21\n\nAan: 512e <512e @rdi.nl>\n\nOnderwerp: RE: Miro toegang volledige EMW team\n\nOk duidelijk, thanks 5-12e\n\nLijkt me goed over een tijd om elkaar af en toe op te zoeken i.v.m. mogelijke paden van beheer\nvoor de applicatie, maar dat lijkt me op korte termijn nog niet nodig denk ik.\n\nMet vriendelijke groet,\n\n512.e\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nSchepersmaat 2 | 9405 TA | Assen\n\nM Bille\n\n5.1.2. @dictu.nl\nwww.dictu.nl\n\nIntern gebruik\n\nPagina 5 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_0"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "586d4b9c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "69130df5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 75,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d915a98d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 48,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ca9cebe4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 87,
+              "end": 122,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @ rdi.nl>\nVerzonden: woensdag 5 maart 2025 10:31\n\nAan:512e <te @dictu.nl>\n\nCC: 5126 <512e @rdi.nl>\n\nOnderwerp: RE: Miro toegang volledige EMW team\n\nBeste 52e\n\nWe zitten vandaag samen op kantoor, dus ik heb dit gelijk even besproken. We gaan een eigen\nplanningsdag organiseren met het team en onze business stakeholders in Amersfoort. De\nbelangrijkste redenen daarvoor zijn:\n\ne Gebrek aan raakvlak met de rest van de afdeling.\n\ne Behoefte aan meer afstemming met de belangrijkste (business) stakeholders van het\nproject, deze bevinden zich meer in de regio van Amersfoort.\n\ne Een groot deel van het team is Engels sprekend, daarom is er wat extra facilitering nodig\nvan het evenement.\n\nMocht je benieuwd zijn over waar we ons de komende tijd mee bezig gaan houden dan kunnen we\naltijd even een overleg inplannen. Ik praat je graag bij.\n\nMet vriendelijke groet,\n\n512.e\nScrum master — Zelda 2.0/EMW\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\nEmmasingel 1 | 9726 AH | Groningen\n\nT 52e\ne-mail: 512e @rdi.nl\nwww.rdi.nl\n\nIntern gebruik\n\nPagina 6 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_1"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0ec4eb91",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1e4db5ca",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 70,
+              "end": 90,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e3a5e867",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 95,
+              "end": 115,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "0f1498b7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "14af3c9a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 127,
+              "end": 162,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:512e <Bf2e @dictu.nl>\n\nVerzonden: dinsdag 4 maart 2025 17:23\n\nAan: 512e <512e @rdi.nl>\n\nCC: 512e <512e @rdi.nl>\n\nOnderwerp: RE: Miro toegang volledige EMW team\n\nDe PI Planning is al volgende week woensdag 12-3.\n\nLaat 51.2 weten wie er eventueel uitgenodigd moeten worden\n\nMet vriendelijke groet,\n\n512.e\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nSchepersmaat 2 | 9405 TA | Assen\n\nM Size\n\n5.1.2. @ dictu.nl\nwww.dictu.nl\n\nIntern gebruik\n\nPagina 7 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_2"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ce09ead3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "95562801",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 91,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "39027ffe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 96,
+              "end": 116,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "df57959e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "38716782",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 128,
+              "end": 163,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @rdi.nl>\nVerzonden: maandag 3 maart 2025 14:44\nAan:512e <te @dictu.nl>\n\nOnderwerp: RE: Miro toegang volledige EMW team\n\nHi 512\n\nMet mij ook alles goed, hopelijk heb je genoten van je vakantie!\n\nHet is nog niet helemaal duidelijk, we hebben volgende week nog een intern overleg om te\nevalueren wat we precies willen, mogelijk dat we zelf een planning dag organiseren. De issue is dat\nonze ontwikkelaars Engels sprekend zijn, en ze daarom moeilijk aansluiting zullen vinden bij de\nrest van de afdeling.\n\nVreemd deze mensen die gaven vorige week aan issues te hebben met de toegang tot Miro. Ik zal\nze nog eens benaderen om te kijken of ik ze kan helpen.\n\n512.e\nScrum master — Zelda 2.0/EMW\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\nEmmasingel 1 | 9726 AH | Groningen\n\nT 52e\ne-mail: 512e @rdi.nl\nwww.rdi.nl\n\nIntern gebruik\n\nPagina 8 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_3"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "027841ef",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 24,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "54c02b1b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 67,
+              "end": 87,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e4bec0cf",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 36,
+              "end": 62,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ce241647",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 99,
+              "end": 134,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:512e <Bf2e @dictu.nl>\nVerzonden: maandag 3 maart 2025 14:10\nAan: 512e <512e @rdi.nl>\n\nOnderwerp: RE: Miro toegang volledige EMW team\n\nHi 512\n\nGaat goed! Met jou??\n\nTop, gaan jullie volledig meedoen dus?\n\nIedereen die je noemt hebben al toegang voor zover ik kan zien.\n\nMet vriendelijke groet,\n\n512.e\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nSchepersmaat 2 | 9405 TA | Assen\n\nM Size\n\n5.1.2. @ dictu.nl\nwww.dictu.nl\n\nIntern gebruik\n\nPagina 9 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_4"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "172169f2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ee482e15",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 69,
+              "end": 89,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ad8ff1db",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 63,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9651ad3b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 136,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @rdi.nl>\nVerzonden: maandag 13 januari 2025 14:54\nAan:512e <512e @dictu.nl>\n\nOnderwerp: RE: Miro toegang volledige EMW team\n\nBedankt 5t2e ik had hier tot nog toe geen communicatie over ontvangen.\n\nMet vriendelijke groet,\n\n512.e\n\nScrum master — team Zelda 2.0\n\nRijksinspectie Digitale Infrastructuur\n\nMinisterie van Economische Zaken\n\nMobiel 5128\n5.12.e @rdi.nl\nwww.rdi.nl\n\nIntern gebruik\n\nPagina 10 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_5"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "07b678da",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 24,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "dcf91728",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 70,
+              "end": 92,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "cfcaf588",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 36,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "0d51c0f0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 104,
+              "end": 139,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5126\nVerzonden: donderdag 13 maart 2025 10:57\nAan: 512e <512e @rdi.nl>\n\nOnderwerp: RE: Miro rechten\n\nZover ik weet niet. En deze is sowieso vanuit DICTU geloof ik\n\nMet vriendelijke groet,\n\n512.e\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nSchepersmaat 2 | 9405 TA | Assen\n\nM Size\n\n5.1.2. @ dictu.nl\nwww.dictu.nl\n\nIntern gebruik\n\nPagina 11 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_6"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "dc949f76",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2d9cd4c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 76,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "0cee0c0d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 21,
+              "end": 50,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "afd53fed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 88,
+              "end": 104,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @rdi.nl>\nVerzonden: donderdag 13 maart 2025 09:29\nAan:512e <te @dictu.nl>\n\nOnderwerp: RE: Miro rechten\n\nHi 512\n\nAha, dus er zijn geen betaalde accounts bij de RDI. Dan weet ik even genoeg.\n\nMet vriendelijke groet,\n\n512.e\nScrum master — Zelda 2.0/EMW\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\nEmmasingel 1 | 9726 AH | Groningen\n\nT 52e\ne-mail: 512e @rdi.nl\nwww.rdi.nl\n\nIntern gebruik\n\nPagina 12 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_7"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "56f4f82e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 24,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6e447bed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 70,
+              "end": 90,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "49650461",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 36,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3d13a31a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 102,
+              "end": 118,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:512e <Bf2e @dictu.nl>\nVerzonden: woensdag 12 maart 2025 18:07\nAan: 512e <512e @rdi.nl>\n\nOnderwerp: RE: Miro rechten\n\nHi 512\n\nNaar mijn idee zit de beperking hem in dat het een gratis Miro omgeving is, dus daar kunnen we\nhelaas niets mee. Ik meen gehoord te hebben dat DICTU ook geen MIRO wil maar richting Mural\nbeweegt, mogelijk vanwege oorsprong bedrijf/data erachter.\n\nMet vriendelijke groet,\n\n512.e\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nSchepersmaat 2 | 9405 TA | Assen\n\nM 5t2e\n\n512.e @dictu.nl\nwww.dictu.nl\n\nIntern gebruik\n\nPagina 13 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_8"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "10d2909e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "c60ac3d3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 91,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "78b536f2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "cca69c5b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 103,
+              "end": 119,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @rdi.nl>\nVerzonden: dinsdag 11 maart 2025 13:49\nAan:512e <te @dictu.nl>\n\nOnderwerp: RE: Miro rechten\n\nHi 512\n\nIk kan inderdaad wel kijken naar de rechten van mensen.\n\nEr zijn beperkingen in het aantal borden wat ik kan aanmaken bijvoorbeeld.\n\nDaarnaast kan ik geen eigen groep maken, waardoor alles volgens mij voor de hele afdeling\nzichtbaar is. Er zijn diversen Miro formats die interessant zijn om te gebruiken en mee te\nrommelen, maar dat kan dus niet door de beperkte rechten.\n\nMet vriendelijke groet,\n\n512.e\nScrum master — Zelda 2.0/EMW\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\nEmmasingel 1 | 9726 AH | Groningen\n\nT 52e\ne-mail: 512e @rdi.nl\nwww.rdi.nl\n\nIntern gebruik\n\nPagina 14 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_9"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "26ed8ad0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 24,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8a154650",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 68,
+              "end": 88,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "804f5651",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 36,
+              "end": 63,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "dc7a7a66",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 100,
+              "end": 116,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:512e <Bf2e @dictu.nl>\nVerzonden: dinsdag 11 maart 2025 11:54\nAan: 512e <512e @rdi.nl>\n\nOnderwerp: RE: Miro rechten\n\nHiSt2e als het goed is kan je zelf in de rechten van het Team kijken in Miro wie de admin is, ik\nben als het goed is ook alleen maar een gebruiker © Wat heb je verder nog nodig dan? Ik ben\nvolgens mij nergens tegenaan gelopen so far.\n\nMet vriendelijke groet,\n\n512.e\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nSchepersmaat 2 | 9405 TA | Assen\n\nM 5t2e\n\n512.e @ dictu.nl\nwww.dictu.nl\n\nIntern gebruik\n\nPagina 15 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_10"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "9da80906",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f2aa89c3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 70,
+              "end": 90,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "9d3a3d23",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "eebf6b28",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 102,
+              "end": 118,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @rdi.nl>\nVerzonden: dinsdag 11 maart 2025 11:01\nAan:512e <te @dictu.nl>\n\nOnderwerp: Miro rechten\n\nBeste 52e\n\nVraagje waar jij hopelijk het antwoord op weet.\n\nBen jij degene die over de Miro rechten gaat bij de RDI? Of weet jij wie ik daarvoor moet hebben?\nIk zou zelf graag een volledig account krijgen om het team te kunnen begeleiden, nu kan ik\nnamelijk niet zo veel met een basis account.\n\nIk hoor het graag.\n\nMet vriendelijke groet,\n\n512.e\nScrum master — Zelda 2.0/EMW\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\nEmmasingel 1 | 9726 AH | Groningen\n\nT 52e\ne-mail: 512e @rdi.nl\nwww.rdi.nl\n\nIntern gebruik\n\nPagina 16 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_11"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "037954be",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 24,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "19d47f0f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 68,
+              "end": 88,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "70cf569c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 36,
+              "end": 63,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6931bc96",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 100,
+              "end": 112,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5128 <512e @dictu.nl>\n\nVerzonden: donderdag 19 december 2024 09:05\n\nAan: 512e <512e @rdi.nl>\n\nCC: 52e <542€ @dictu.nl>; 512 <512e€  @dictu.nl>\n\nOnderwerp: RE: Aanvraag accounts bij DICTU RijksZaak\n\nHallo Sitizie\n\nIk begrijp dat 57,21 graag een cursus wil hebben RijksZaak.\n\nDat kan ik regelen. Daar zijn wel kosten aan verbonden. Zie daarvoor de PDC.\n\nVerneem graag welke data jouw mensen kunnen dan ga ik offerte maken en de afspraken\ninplannen.\n\nVerneem graag van je.\n\nMVg,\n\n512.e\n\nIntern gebruik\n\nPagina 17 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_12"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "2068a73e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "34053d29",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 98,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d01b0158",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 103,
+              "end": 148,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "a680ba13",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 71,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c96d7928",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 160,
+              "end": 201,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <5t2e | @dictu.nl>\nVerzonden: donderdag 19 december 2024 08:25\nAan: 512e < 512E @dictu.nl>; 512e <5t2e @dictu.nl>\n\nOnderwerp: Re: Aanvraag accounts bij DICTU RijksZaak\n\nHallo 512e\n\n1. De DVO maandelijks invullen (dit wil ik wel oppakken)\n2. Vragen beantwoorden (zoals onderstaande van 512e )\n\nIn de hectiek van de maand augustus om het nieuwe RDI ontwikkelteam zo spoedig mogelijk\naccounts te geven is een item blijven liggen denk ik.\n\nTijdens de ®121 review is naar voren gekomen dat het ontwikkelteam niet in de gaten heeft hoe de\nverschillende RsZ-onderdelen communiceren met de klantapplicatie.\n\nEen stuk verduidelijking zou kunnen komen uit de Engelstalige RsZ-cursusdag.\n\nDe namen staan in het aanvraag-formulier.\n\nMijn vraag is: is het mogelijk dat de medewerkers van het EMW-team een Engelstalige cursusdag\nkunnen volgen?\n\nMet vriendelijke groet,\n\n512.e\n5.1,2,E Zaakgerichte Diensten (DICTU)\n\nIntern gebruik\n\nPagina 18 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_13"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "072171c0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "a4027c3e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 124,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "31c1297e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 72,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fcefefea",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 136,
+              "end": 177,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5128 <512E @dictu.nl>\nVerzonden: donderdag 19 december 2024 08:04\nAan: 512e <s12e | @dictu.n|l>; 512 < 52%) @dictu.nl>\n\nOnderwerp: Re: Aanvraag accounts bij DICTU RijksZaak\n\n512e is voor genius dat is old school! EMW is PaaS dienst en valt niet bij St2e !!!!\n\nDat zou DM zelf moeten verdelen.\n\nMaar ik doe dat wel zolang het niet opgepakt wordt.\n\nWat is je vraag?\n\nIk ben er 6 januariu weer!\n\nMvg,\n\n512.e\n\nIntern gebruik\n\nPagina 19 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_14"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "e2b0f576",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "47d7cd67",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 124,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e484d42b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 70,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "06f21445",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 136,
+              "end": 177,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <5t2e | @dictu.nl>\nVerzonden: woensdag 18 december 2024 21:24\nAan: 5128 <512E @dictu.nl>\n\nOnderwerp: FW: Aanvraag accounts bij DICTU RijksZaak\n\nHoi 52e\n\nWie doet de DM werkzaamheden voor RDI?\n\nMet vriendelijke groet,\n\n512.e\n5.1,2,E Zaakgerichte Diensten (DICTU)\n\nIntern gebruik\n\nPagina 20 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_15"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "314cfe9b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "300e2968",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 99,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "b08c7190",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 71,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "252b6b55",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 111,
+              "end": 152,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <5t2e | @dictu.nl>\nVerzonden: vrijdag 13 december 2024 14:14\nAan:512e <te @dictu.nl>\n\nOnderwerp: Re: Aanvraag accounts bij DICTU RijksZaak\n\nOk, doe jij wel DM werkzaamheden zoals de DVO invullen en de maandelijkse gesprekken?\n\nMet vriendelijke groet,\n\n512.e\n5.1,2,E Zaakgerichte Diensten (DICTU)\n\nIntern gebruik\n\nPagina 21 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_16"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b0d7a715",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "56d7622a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 95,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "5f646c81",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 70,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "4872ec47",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 107,
+              "end": 148,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:512e <Bf2e @dictu.nl>\n\nVerzonden: vrijdag 13 december 2024 14:00\n\nAan: 5128 <te S@dictu.nl>\n\nCC: DICTU RijksZaak PMO <512,l @dictu.nl>\nOnderwerp: RE: Aanvraag accounts bij DICTU RijksZaak\n\nHoi St2e\n\nIk ga niet over het EMW team bij RDI, ik vermoed dat je 512e hiervoor moet benaderen.\n\nIk ga alleen over de I&S en DMG teams (bij RDI).\n\nMet vriendelijke groet,\n\n512.e\n\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nSchepersmaat 2 | 9405 TA | Assen\n\nM Size\n\n5.1.2. @ dictu.nl\nwww.dictu.nl\n\nIntern gebruik\n\nPagina 22 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_17"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b82442ab",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "05a59167",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 96,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "19eed062",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 138,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "836aabf5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 68,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a8f55422",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 150,
+              "end": 191,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <5t2e | @dictu.nl>\n\nVerzonden: vrijdag 13 december 2024 07:48\n\nAan:512e <te @dictu.nl>\n\nCC: DICTU RijksZaak PMO <52, @dictu.nl>\nOnderwerp: FW: Aanvraag accounts bij DICTU RijksZaak\n\nHoi St2e\n\nIk heb begrepen dat jij Delivery Management taken voor RDI oppakt?\n\nWe kunnen deze cursus verzorgen. Zou je willen vragen om hoeveel personen het gaat. Het tarief\nis €s12F per persoon (minimale afname 7 personen). De eerstvolgende cursusdata in Zwolle\nstaat gepland op 13 februari (09:30- 16:00. Mocht dat niet schikken, dan moet er in overleg met\nS12E en 512e een dag georganiseerd worden bij RDI op locatie.\n\nPak jij dat op?\n\nMet vriendelijke groet,\n\n512.e\n5.1,2,E Zaakgerichte Diensten (DICTU)\n\nIntern gebruik\n\nPagina 23 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_18"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "eb03ba97",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "5e6804aa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 97,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "cf3cb922",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 102,
+              "end": 137,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "a818bc2a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 71,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "67a5ea4b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 149,
+              "end": 190,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 52e <512e @dictu.nl> namens DICTU 542\n\n<51,2,l @dictu.nl>\n\nVerzonden: donderdag 12 december 2024 17:25\n\nAan: 5.1.2.2 <512e @ rdi.nl>; 5.1.2.e <5.1.2¢ @ dictu.nl >\nCC: DICTU RijksZaak PMO <512,l @dictu.nl>\n\nOnderwerp: RE: Aanvraag accounts bij DICTU RijksZaak\n\nHi Saze\n\nIk stuur dit even door naar jou; wil jij kijken wat de mogelijkheden zijn hiervoor?\n\nEn om wat voor cursus het hier gaat, wordt hier de ‘Essentials’ bedoeld?\n\nGroet,\n\n512.e\n\nDienst ICT Uitvoering (DICTU)\nMinisterie van Economische Zaken\n\nM +5126\nTeam Zaakgerichte Diensten\nRijksZaak / RijksDoc\n\nPlatform Zaakgericht Werken\n\nIntern gebruik\n\nPagina 24 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_19"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "833cf57d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 42,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "af740547",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 114,
+              "end": 167,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "c1b47848",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 172,
+              "end": 210,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "9e5c3d72",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 107,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3a4fa26d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 222,
+              "end": 263,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @rdi.nl>\nVerzonden: donderdag 12 december 2024 15:03\nAan: DICTU RijksZaak PMO <512l @dictu.nl>\n\nOnderwerp: FW: Aanvraag accounts bij DICTU RijksZaak\n\nHallo,\n\nIn de hectiek van de maand augustus om het nieuwe RDI ontwikkelteam zo spoedig mogelijk\naccounts te geven is een item blijven liggen denk ik.\n\nTijdens de $12! review is naar voren gekomen dat het ontwikkelteam niet in de gaten heeft hoe de\nverschillende RsZ-onderdelen communiceren met de klantapplicatie.\n\nEen stuk verduidelijking zou kunnen komen uit de Engelstalige RsZ-cursusdag.\n\nDe namen staan in het aanvraag-formulier.\n\nMijn vraag is: is het mogelijk dat de medewerkers van het EMW-team een Engelstalige cursusdag\nkunnen volgen?\n\nMet vriendelijke groeten,\n\n5.1.2.e\n\n5.1.2.€\n\nIntern gebruik\n\nPagina 25 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_20"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "661930d2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 24,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "7f147677",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 111,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3719a9a6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 36,
+              "end": 68,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "44ea4991",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 123,
+              "end": 164,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e\nVerzonden: woensdag 14 augustus 2024 10:51\nAan: 52e <512e @dictu.nl>\n\nOnderwerp: Aanvraag accounts bij DICTU RijksZaak\n\nAan: 512 @dictu.nl\nOnderwerp: Aanvraag account(s) bij DICTU RijksZaak\nVriendelijk verzoek om voor onderstaande medewerker(s) een ‘54,21 \"account aan te\nmaken:\nVoornaam Tussenvoegsel(s) Achternaam Mailadres F\n(MET\nhoofdletters)\n1 5.12e 5.1,2,E 5.12e @rdi.nl P\n2 5128 5.1,2,E 5.1.2.e \\@rdi.nl P\n3 5.1,2,E 5.1,2,E 5.1,2,E _512E @ Sai P\n4 5.1.2. 5.1.2 5.1.2. @rdi.nl iS\n5 5.1.2 5.1.2 5.1.2 @rdi.nl iS\n6 5.1,2,E 5.1,2,E 5.1,2,E 512e @rdi.nl\n\nIk verklaar dat de hierboven aangegeven medewerker(s) voldoen aan de uitgangspunten\ngenoemd in: Aanvraagproces RijksZaak/RijksDoc accounts voor Klant(team) leden\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 'Jira/Wiki' account aan te maken:\nvwb toegang tot OCP geldt dat in principe de 2 mandaathouders een Jira/Wiki account + toegang\nOCP krijgen. In overleg is daar eventueel van af te wijken.\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd /uitgeschre\\\nhoofdletters)\n1 5.1.26 5.1.2.6 512e @rdi.nl ICT 512e EMW\n2 51.2e 5.1,2,E 5.1.2e @rdi.nl ICT 512E EMW\n\nLet op: men dient na bevestiging van het account zelf de verdere autorisaties te regelen.\n\nIntern gebruik\n\nPagina 26 van 44\n\nEN\nVriendelijk verzoek om voor onderstaande medewerker(s) een \"5.1.21 _* account aan te maken:\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgeschrevei\nhoofdletters)\n1 5126 512e 512e @rdi.nl | Senior Tester\n2\n\nLet op: Een512! gebruiker moet beschikken over een VPN account.\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een \"5-41.21\n54,21) account aan te maken:\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgesch\nhoofdletters)\n1 5.1.2. 5.1,2,E 5.1.2. @rdi.nl 51,2,\n2\nEN\nVriendelijk verzoek om voor onderstaande medewerker(s) een 51,2)! \"(My Support\nPortal) account aan te maken:\nLet op: er mogen voor max 25121 's per klant 5.1.2 * accounts worden opgevoerd.\nVoorwaarde is ook dat betreffenden eerst zelf een PDC account aanmaken bij 54.2.1\n5.1,2,1\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgesch\nhoofdletters)\n1 5.1.2e 51,2E 5.1.2e @rdi.nl 5.1,2,1\n2\nEN\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 'RijksZaak Essentials Cursus' aan\nte vragen:\n\nIntern gebruik\n\nPagina 27 van 44\n\nDeelnemers zijn onder andere engelstalig, dus graag cursus in het Engels.\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres\n(MET\nhoofdletters)\n1 5.1.2.e 5.1,2,E 5.1.2.e @ rdi.nl\n2 51,2,E 5.1,2,E 5.12e @rdi.nl\n3 5128 51,28 512E 51,26 @512,l\n4 5.1.2.6 5.1.2.6 5.1.2.6 @rdi.nl\n5 5120 5120 5.120 @rdi.nl\n6 512E 51,2,E 52E 5.12.e @rdi.nl\n\nMet vriendelijke groet,\nMandaathouder :\nNaam invullen: 542\n\nKlantnaam invullen: RDI\n\nMet vriendelijke groet,\n\n5.1.26\n5.1,2,E\n\nDirectie Apparatuur\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\nEmmasingel 1 | 9726 AH | Groningen\n\nPostbus 450 | 9700 AL | Groningen\n\nM (512\n5.12e @rdi.nl\nwww.RDI.nl\n\nIntern gebruik\n\nPagina 28 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_21"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b3080742",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "116abf6a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 79,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "0a8cdaeb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 135,
+              "end": 148,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "faf4e1ac",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 21,
+              "end": 52,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "0d5842b5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 91,
+              "end": 128,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "15b56832",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 160,
+              "end": 199,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @rdi.nl>\nVerzonden: woensdag 27 november 2024 09:13\nAan:512e\n\nOnderwerp: Kennismaking\n\nTijd: woensdag 7 januari 2026 12:00-12:00 (UTC+01:00) Amsterdam, Berlijn, Bern, Rome,\nStockholm, Wenen.\n\nLocatie:\n\nBeste 52e\n\nHopelijk je het naar je zin in de eerste weken bij de RDI.\n\nIk ben de Scrum master van het nieuwe Zelda 2.0/EMW ontwikkelteam. Lijkt me goed om even\nkennis te maken met de vervanger van 5128\n\nOm een stukje context te geven, we overwegen om met het team op termijn aan te gaan sluiten\nbij het PI-event met alle andere ontwikkelteams van de RDI. Daarom zou ik graag meer te weten\nkomen over de volwassenheid van51.2! bij de RDI en hoe een en ander zoals het PI-event\ngeorganiseerd. Mocht je informatie hebben die je met mij en het team kan delen om ons bij deze\noverweging te helpen dan ontvang ik dat graag.\n\nIk heb inmiddels met512E _ afgesproken dat ik samen met de PO en BA van ons team naar het PI-\nevent kom op 18 december.\n\nMocht een ander tijdstip je beter schikken dan hoor ik het graag.\n\nMet vriendelijke groet,\n\n512.e\n\nScrum master — team Zelda 2.0\n\nRijksinspectie Digitale Infrastructuur\n\nMinisterie van Economische Zaken\n\nMobiel 512e\n5.1.26 @rdi.nl\nwww.rdi.nl\n\nIntern gebruik\n\nPagina 29 van 44\n\nIntern gebruik\n\nPagina 32 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_22"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "77ca1d92",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 24,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "79c42d3a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 77,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "5781a672",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 36,
+              "end": 67,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b52ac9ec",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 89,
+              "end": 101,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e <512e @ rdi.nl>\n\nVerzonden: maandag 1 juli 2024 17:20\n\nAan: DICTU RijksZaak PMO <512l @dictu.nl>\n\nCC: S126 <5.12e @rdi.nl>; 52e <512e @rdi.nl>\n\nOnderwerp: Aanvraag accounts bij DICTU RijksZaak\n\nAan: 51,21 @dictu.nl\nOnderwerp: Aanvraag account(s) bij DICTU RijksZaak\nVriendelijk verzoek om voor onderstaande medewerker(s) een '5.12 \"account aan te\nmaken:\nVoornaam Tussenvoegsel(s) Achternaam Mailadres F\n(MET\nhoofdletters)\n1 5.12e 5.1,2,E 5.1.2e MOET Pi\n2 5.1,2,E 5.1,2,E 5.1,2,E MO Pi\n3 5.1,2,E 5.1,2,E 5.1,2,E _512E @ saa P\n4 5.1.2 5.1.2¢ 5.1.2. @hotmail.com iS\n5 5.1.2 5.1.2 5.1.2. @live.nl iS\n6 5.1,2,E 5.1,2,E 5.1,2,E 5.1,2,E 5.1,2,E 52e @51,2,\n\nIk verklaar dat de hierboven aangegeven medewerker(s) voldoen aan de uitgangspunten\ngenoemd in: Aanvraagproces RijksZaak/RijksDoc accounts voor Klant(team) leden\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 'Jira/Wiki' account aan te maken:\nvwb toegang tot OCP geldt dat in principe de 2 mandaathouders een Jira/Wiki account + toegang\nOCP krijgen. In overleg is daar eventueel van af te wijken.\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd /uitgeschre\\\nhoofdletters)\n1 5.1.26 5.1.2.6 512e @rdi.nl ICT 12e EMW\n2 5.1.2.e 5.1,2,E 5.1.2.e @rdi.nl ICT 512E EMW\n\nIntern gebruik\n\nPagina 33 van 44\n\nLet op: men dient na bevestiging van het account zelf de verdere autorisaties te regelen.\n\nEN\nVriendelijk verzoek om voor onderstaande medewerker(s) een \"5.1.21 _* account aan te maken:\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/ uitge:\nhoofdletters)\n1 St2e 512e 5.12e @hotmail.com | Senior Tester\n2\n\nLet op: Een512t gebruiker moet beschikken over een VPN account.\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 542\n5.1,21 account aan te maken:\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgeschre\nhoofdletters)\n1 5.1.2. 5.1,2,E 5.1.2.e _™@ sai 5.1,2,1\n5.1,2,1\n2\nEN\nVriendelijk verzoek om voor onderstaande medewerker(s) een 5.1, \"(My Support\nPortal) account aan te maken:\nLet op: er mogen voor max 2 51! 's per klant 512, * accounts worden opgevoerd.\nVoorwaarde is ook dat betreffenden eerst zelf een PDC account aanmaken bij 54.2.1\n5.1,2,1\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgeschre\nhoofdletters)\n1 5.1.2. 5.1,2,E 5.1.2.e _™@sa2i 5.1,2,1\n5.1,2,1\n2\n\nIntern gebruik\n\nPagina 34 van 44\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 'RijksZaak Essentials Cursus' aan\nte vragen:\n\nDeelnemers zijn onder andere engelstalig, dus graag cursus in het Engels.\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres\n(MET\nhoofdletters)\n1 5.1.2.e 5.1,2,E 5.1.2.6 _ Post\n2 5.1,2,E 5.1,2,E 5.1,2,E LS @512i1\n3 5.1,2,E 5.1,2,E 5126 51.26 @512,\n4 5.1.2¢ 5.1.2¢ 5.1.2¢ @hotmail.com\n5 5.1.2 5.1.2 5.1.2¢ @live.nl\n6 5.1,2,E 5.1,2,E 5.1,2,E 51,26 512E 512e @5.1,21\n\nMet vriendelijke groet,\nMandaathouder :\nNaam invullen: 542\n\nKlantnaam invullen: RDI\n\nMet vriendelijke groet,\n\n5.1.26\n5.1,2,E\n\nDirectie Apparatuur\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\nEmmasingel 1 | 9726 AH | Groningen\n\nPostbus 450 | 9700 AL | Groningen\n\nM (5129\n\n52e @Ordi.nl\nwww.RDI.nl\n\nIntern gebruik\n\nPagina 35 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_23"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "00dcfa54",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b499543f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 73,
+              "end": 110,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e8f0fc0f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 212,
+              "end": 227,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "5eb63ef5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 115,
+              "end": 156,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "cc1edb92",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 66,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "d4ae4165",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 168,
+              "end": 205,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "66ac6d33",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 239,
+              "end": 278,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: aen sane >\n\nVerzonden: woensdag 11 december 2024 15:16\n\nAan: aen en on <amer en @dictu.nl>; een\nNC > | © EN >\nCC: Bles <TR OMA >,\n\n<512@ __ @dictu.nl>\n\nOnderwerp: RE: Onderzoek en Advies ten Behoeve van 64.21 op basis van Stal\n\nHi Size\nDe namen voor morgen:\n\nCN > Engegerent Lead\nb12e 5 - 882e  @ 5121 - Rol Business Architect\n\nGr S128)\nPe\n\nsan BV.\n\nLe\nMobile: 5128\n\nEmail : @\n\nWebsite : samm\n\nIntern gebruik\n\nPagina 36 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_24"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "2252de22",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 15,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "931f4ca1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 66,
+              "end": 114,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "02ac89a5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 119,
+              "end": 156,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "4a1e4730",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 28,
+              "end": 59,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "17918127",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 168,
+              "end": 231,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e <512e @dictu.nl>\n\nVerzonden: woensdag 11 december 2024 14:57\n\nAan: 512e <A @ 542 >; S126 < 5.1.26 @5t2l >;\n5.12.e <512e @512 >\n\nCC: 512e <sl2e @5.t2l >; 512e\n\n<512e @dictu.nl>\n\nOnderwerp: RE: Onderzoek en Advies ten Behoeve van 512,1 op basis van 54.21\n\n5.1,2,1\n\nHallo 512%\n\nWe kunnen morgen om 10 uur op Hanzelaan 310 afspreken voor en walk through 512! opgeleverde\nstatus van huidige producten en gevraagde te bouwen functionaliteit met de status.\n\nIk zal niet fysiek aanwezig zijn, wel zullen aanwezig zijn; 512e (5420) en 512e S12E\n5128 (BA). Ik ben telefonisch of via Teams bereikbaar wanneer nodig.\n\nOm jullie voor Hanzelaan aan te melden heb ik jullie namen en emailadressen nodig. (natuurlijk\nalleen van jullie 5121/BA die eventueel meekomen)\n\nKan je die aanleveren?\n\nDaarnaast graag een planning voor de komende maand tot 22 januari zodat 5121 en DICTU daar\nrekening mee kunnen houden en samen kunnen plannen (5421 /5421 /DICTU).\n\nVerneem graag.\n\nMet vriendelijke groet,\n\n5.12.e\n\nDienst ICT Uitvoering | Divisie Infrastructuur\nMinisterie van Economische Zaken\n\nHanzelaan 310 | kamer 2087| 8017 JK | Zwolle\n\nM 5t2e\n\nE-mail: 54.26 @dictu.nl\n\nIntern gebruik\n\nPagina 37 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_25"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "036ca659",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b89e68af",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 137,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "79ca686d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 186,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "34977cbd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 70,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "98c57495",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 198,
+              "end": 262,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e < 528 GSI u>\nVerzonden: woensdag 11 december 2024 13:36\n\nAan: 512e (51265) <512E @dictu.nl>; 512e (5122)\n<5.1.2¢€ @dictu.nl>\n\nCC: 5128 <512e @5nai >; 5126\n\n<512e (@EAR >; 5126 <5126¢ @512) >\n\nOnderwerp: Onderzoek en Advies ten Behoeve van 51,211 op basis van 54,21\n\n512.e\n\nOnderstaand ons tekstvoorstel voor jullie memo:\n\n“In opdracht van DICTU stelt Applicatiemantel Partner 5.1.21 een plan op voor de uitvoering\nvan een nulmeting om huidige 5121 project te analyseren. Het doel van dit onderzoek is het\nidentificeren van de verschillen tussen het door DICTU aan de klant geoffreerde aanbod en de\ndaadwerkelijke realisatie, zowel op functioneel als financieel gebied. Deze analyse vormt de basis\nvoor een advies dat de te nemen stappen definieert voor de implementatie van een 51.21\n\n5.1,2,1 Portaal, met inachtneming van de door 54.2! opgestelde roadmap. Op basis van dit\nadvies zal een Plan van Aanpak worden opgesteld.\n\nDaarnaast zal een inventarisatie worden uitgevoerd naar de huidige besturingsstructuur en\nwerkwijze, zowel binnen het team van DICTU als in de samenwerking met 5121 Ook deze analyse\nresulteert in een advies, gericht op het opstellen van een Plan van Aanpak. Het doel is het\nherstellen en duurzaam inrichten van de samenwerking tussen DICTU en 5121 | zodat de huidige\nopdracht succesvol kan worden afgerond en de toekomstige beheerstructuur optimaal wordt\nvoorbereid.\n\n5.1,2,1 kan vanaf 1 februari 2025 een ervaren, dedicated 54,21 inzetten. Dit\nteam zal, op basis van een vooraf afgestemde aanpak en duidelijke rolverdeling met 54.2! en\nDICTU, de afronding van het 5121 portaal verzorgen. Het voorstel is hierbij om de contractering\nhiervoor via de applicatiemantel te laten verlopen.\n\nDe totale doorlooptijd van deze werkzaamheden is gepland met een oplevering op 22 januari 2025,\nrekening houdend met de kerstperiode en de tijdelijke afwezigheid van essentiële betrokkenen bij\nhet onderzoek. Opdracht zal starten op 12 december waarbij er wekelijks een voortgangsoverleg\nzal plaatsvinden om de voortgang te monitoren en eventuele knelpunten tijdig te adresseren.”\n\nOns voorstel is om zo spoedig mogelijk, bij voorkeur morgen, van start te gaan. Hoe kunnen we dit\norganiseren voordat jullie volgende week met vakantie gaan? Daarnaast stellen wij voor om de\nuren voor dit onderzoek op te nemen binnen de applicatiemantelopdracht 51.21 die per 15 januari\n2024 mogelijk wordt, zodat er geen tijd verloren gaat aan het opstellen van separate\ninhuurcontracten.\n\nLaten we vanmiddag nog even bellen zodra jullie tijd hebben.\nGr\n\n5.12.e\n\n5.1,2,l B.V.\n\nIntern gebruik\n\nPagina 38 van 44\n\n51,2,\n\nMobile: 512e\n\nEmail : eos\nWebsite : 542i\n51,2,\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u\n\nniet de geadresseerde bent of dit bericht abusievelijk aan u is gezonden,\nwordt u verzocht dat aan de afzender te melden en het bericht te\nverwijderen.\n\nDe Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard\nook, die verband houdt met risico's verbonden aan het elektronisch\nverzenden van berichten.\n\nThis message may contain information that is not intended for you. If you\nare not the addressee or if this message was sent to you by mistake, you\nare requested to inform the sender and delete the message.\n\nThe State accepts no liability for damage of any kind resulting from the\nrisks inherent in the electronic transmission of messages.\n\nIntern gebruik\n\nPagina 39 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_26"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7ae0edb5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 22,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "cb25eeda",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 135,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2f461761",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 140,
+              "end": 201,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "70bcdd78",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f52cf173",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 213,
+              "end": 274,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e (5126) <512e @dictu.nl> Namens DICTU RijksZaak PMO\nVerzonden: donderdag 15 augustus 2024 15:36\nAan: 512e (52e ) <512¢€ @rdi.nl>; St2e (229)\n\n<512e @dictu.nl>\n\nCC:512E S125 SIZE 612E (5126 ) <St2e @dictu.nl>; DICTU RijksZaak PMO\n<52, @dictu.nl>\n\nOnderwerp: FW: te tekenen aansluitvoorwaarden, ie, tekenbeding,\n\nHi Size\n\nOndertussen heb ik alle accounts zoals onderstaand aangemaakt/aangevraagd.\n\nIk heb de overzichten onder een nieuw kopje “ZELDA - Aangevraagde accounts bij Dictu RijksZaak”\nop de RDI space gezet. Hier vind je ook de procedure nogmaals.\n\n@pi2e (#29) ook even ter info voor jou!\n\nVanaf vanmiddag ben ik op vakantie en op maandag 26 aug ‘24 weer terug.\n\nMocht er wat zijn dan graag een ticket aanmaken op het 51.21\n\nNB hoe het geregeld is met de RZ Essential cursus weet ik niet, is dat overlegd met 512 /\n5.1,2,E ?\n\nSucces met alles ©!\n\nMet vriendelijke groet,\n\n5.1.2.e\n\nMedewerker support Zaakgerichte Diensten (DICTU)\nTeam Zaakgerichte Diensten\nRijksZaak / RijksDoc\n\nPlatform Zaakgericht Werken\n\nDienst ICT Uitvoering\nMinisterie van Economische Zaken\n\nDienst ICT Uitvoering\nMinisterie van Economische Zaken\n\nIntern gebruik\n\nPagina 40 van 44\n\nPrinses Beatrixlaan 116, 2595 AL Den Haag\n\nHanzelaan 310 [8017 JK | Zwolle\nPostbus 10073 | 8000 GB | Zwolle\n\n-- Afwezig op vrijdag --\n\nM +5126\n\n5.12e @dictu.nl\nhttp://www.dictu.nl\n\nwww.rijksoverheid.nl/ezk\n\nBij bezoek aan het ministerie/overheidsgebouw is een geldig identiteitsbewijs verplicht.\n\nIntern gebruik\n\nPagina 41 van 44",
+      "dossier_id": "994819",
+      "email_id": "email_27"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0399a137",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 60,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d05acf77",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 110,
+              "end": 168,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "4310866e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 172,
+              "end": 254,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b212a460",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 104,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "aa56601b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 266,
+              "end": 318,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e (Stee ) <512¢€ @rdi.nl>\n\nVerzonden: woensdag 14 augustus 2024 17:04\n\nAan: 5128 (5120) <512¢€ @rdi.nl>; BA2E 512e )\n\n<512e @dictu.nl>; 52e (S126) <512e @dictu.nl>; Size (512°)\n\n<512¢€ @dictu.nl>; DICTU RijksZaak PMO <52 @dictu.nl>; 542 (EEEN)\n<512e @dictu.nl>; 542% (12e ) <512e @dictu.nl>\n\nCC: 5126 (51.26 ) <512e @rdi.nl>; SHE (5928)\n<512e @rdi.nl>; S426 (S12e ) <512e @rdi.nl>; 52e RA\nRE (5129) <5126 @rdi.nl>; 5426 (52e ) <5t2e @dictu.nl>\n\nOnderwerp: RE: te tekenen aansluitvoorwaarden, ie, tekenbeding,",
+      "dossier_id": "994819",
+      "email_id": "email_28"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "627bf474",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 33,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "7ca312a9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 299,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "bcac82eb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 304,
+              "end": 452,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "000fcfb5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b5afba1f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 464,
+              "end": 516,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Aan: 51,21 @dictu.nl\nOnderwerp: Aanvraag account(s) bij DICTU RijksZaak\nVriendelijk verzoek om voor onderstaande medewerker(s) een '5.12 \"account aan te\nmaken:\nVoornaam Tussenvoegsel(s) Achternaam Mailadres F\n(MET\nhoofdletters)\n1 512e 5128 5.12e @rdi.nl P\n2 5.1,2,E 5.1,2,E 5.1.2.e ‘@rdi.nl P\n3 5.1,2,E 5.1,2,E 5.1,2,E _512E @ saa P\n4 5.1.2 5.1.2¢ 5.1.2 @rdi.nl iS\n5 5.1.2 5.1.2 5.1.2. \\@rdi.nl iS\n6 51,2,E 51,2,E 512E 5.12.e @rdi.nl B\n\nIk verklaar dat de hierboven aangegeven medewerker(s) voldoen aan de uitgangspunten\ngenoemd in: Aanvraagproces RijksZaak/RijksDoc accounts voor Klant(team) leden\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 'Jira/Wiki' account aan te maken:\nvwb toegang tot 51.2 geldt dat in principe de 2 mandaathouders een Jira/Wiki account + toegang\n512l krijgen. In overleg is daar eventueel van af te wijken.\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd /uitgeschre\\\nhoofdletters)\n1 5.1.2.e 5.1.2.e 5.12.e @rdi.nl ICT 5t2e EMW\n2 5.1.2.e 5.1,2,E 5.1.2.e @rdi.nl ICT 512E EMW\n\nIntern gebruik\n\nPagina 42 van 44\n\nLet op: men dient na bevestiging van het account zelf de verdere autorisaties te regelen.\n\nEN\nVriendelijk verzoek om voor onderstaande medewerker(s) een \"5.1.21 _* account aan te maken:\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgeschrevei\nhoofdletters)\n1 5126 512e 512e @rdi.nl | Senior Tester\n2\n\nLet op: Een512t gebruiker moet beschikken over een VPN account.\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 542\n5121 ) account aan te maken:\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgesch\nhoofdletters)\n1 5.1.2e 51,2E 5.1.2e @rdi.nl 5.1,2,1\n2\nEN\nVriendelijk verzoek om voor onderstaande medewerker(s) een '5.4,2,l \"(My Support\nPortal) account aan te maken:\nLet op: er mogen voor max 2 512l's per klant '5.4,2,l * accounts worden opgevoerd.\nVoorwaarde is ook dat betreffenden eerst zelf een PDC account aanmaken bij 51,2\n5.1,2,1 ).\nVoornaam Tussenvoegsel(s) Achternaam Mailadres Functie\n(MET (gespecificeerd/uitgesch\nhoofdletters)\n1 5.1.2e 51,2E 5.1.2e @rdi.nl 5.1,2,1\n2\n\nIntern gebruik\n\nPagina 43 van 44\n\nVriendelijk verzoek om voor onderstaande medewerker(s) een 'RijksZaak Essentials Cursus' aan\nte vragen:\n\nDeelnemers zijn onder andere engelstalig, dus graag cursus in het Engels.\n\nVoornaam Tussenvoegsel(s) Achternaam Mailadres\n(MET\nhoofdletters)\n1 5.1.2.e 5.1,2,E 5.1.2.e @ rdi.nl\n2 5.1,2E 5.1,2,E 5126 @rdi.nl\n3 5.1,2,E 5.1,2,E 512E 51,26 @51,21\n4 5.1.2.6 5.1.2¢ 5.1.2.6 @rdi.nl\n5 5.12.e 5.1.2e 5.1.26 @rdi.nl\n6 512E 51,2,E 5A2E 5.1.26 @rdi.nl\n\nMet vriendelijke groet,\nMandaathouder :\nNaam invullen: 542\n\nKlantnaam invullen: RDI\n\nMet vriendelijke groet,\n\n5.1.26\n5.1,2,E\n\nDirectie Apparatuur\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\nEmmasingel 1 | 9726 AH | Groningen\n\nPostbus 450 | 9700 AL | Groningen\n\nM (5129\n\n52e @Ordi.nl\nwww.RDI.nl\n\nIntern gebruik\n\nPagina 44 van 44\n\nMet vriendelijke groeten,\n\n5.12.e\n\n5.12.e\n\nIntern gebruik",
+      "dossier_id": "994819",
+      "email_id": "email_29"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "8d0399ec",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 20,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "198a0597",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 71,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

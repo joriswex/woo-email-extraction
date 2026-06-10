@@ -52,7 +52,6 @@ Work through the dossier top to bottom. For each email:
 1. Press `0`, drag to select the **full email** from the first header line to
    the last line of the body or signature → **EMAIL**
 2. Press `f`, highlight the sender value after `Van:` or `From:` → **FROM**
-   (if redacted, press `r` instead → **REDACTED**)
 3. Press `t`, highlight the recipient value after `Aan:` or `To:` → **TO**
 4. Press `c` for CC recipients if present → **CC**
 5. Press `d`, highlight the date value after `Datum:` or `Sent:` → **DATE**
@@ -161,7 +160,7 @@ Real dossier PDFs
 Dossier text  →  Label Studio import task JSON
       │
       ▼ Label Studio (combined project, labeling_config_combined.xml)
-      │  Annotate: EMAIL boundaries + FROM/TO/DATE/SUBJECT/BODY/SIG/REDACTED
+      │  Annotate: EMAIL boundaries + FROM/TO/DATE/SUBJECT/BODY/SIG
       │
       ▼ convert_labelstudio_export.py --stage combined
       │

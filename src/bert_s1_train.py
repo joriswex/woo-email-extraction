@@ -25,6 +25,7 @@ from transformers import (
     AutoModelForSequenceClassification,
     AutoTokenizer,
     DataCollatorWithPadding,
+    EarlyStoppingCallback,
     Trainer,
     TrainingArguments,
 )
@@ -162,14 +163,18 @@ def train(
     dev_path: str | Path,
     output_dir: str | Path,
     model_name: str = PRIMARY_MODEL,
-    num_epochs: int = 5,
+    num_epochs: int = 15,
     batch_size: int = 16,
+    early_stopping_patience: int = 3,
 ) -> None:
     """
     Fine-tune RobBERT for line-level email boundary detection.
 
-    train_path / dev_path : stage-1 annotation JSON (array of dossier dicts)
-    output_dir            : where to save the trained model
+    train_path / dev_path     : stage-1 annotation JSON (array of dossier dicts)
+    output_dir                : where to save the trained model
+    early_stopping_patience   : stop if val loss does not improve for this many epochs;
+                                lower than stage 2 (3 vs 5) because binary classification
+                                converges faster than 13-class NER
     """
     print("Loading model …")
     model, tokenizer = _load_model_and_tokenizer(model_name)
@@ -210,6 +215,7 @@ def train(
         eval_dataset=dev_ds,
         data_collator=DataCollatorWithPadding(tokenizer),
         class_weights=class_weights,
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=early_stopping_patience)],
     )
 
     print("Training …")

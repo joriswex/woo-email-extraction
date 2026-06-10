@@ -1,0 +1,4464 @@
+[
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: woensdag 18 november 2020 18:02\n\nAan: 5.1.2.e\n\ncc: Spectrummanagement_Antennebureau\n\nOnderwerp: Re: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het\n\noverleg van morgen\n\nVraag is denk Ik terecht waarom we dit zouden publiceren voordat T z'n meerjarenplan online heeft. Grtz°'7*\n\nVerstuurd vanaf mijn iPhone\n\nOp 18 nov. 2020 om 12:14 heeft 5.1.2.e het volgende geschreven:\n\nHoi collega’s,\nNieuwe poging om de nieuwe veldsterktemetingen, na overleg met deze en gene, begrijpelijk te\nmaken voor de mensen. Gecheckt met 5 1 2.6: de metingen blijven bij gebrek aan een betere term\nvooralsnog steekproefmetingen heten in het meerjarenplan. Geplande publicatie van het\nmeerjarenplan is op 24/11 (dag van hoger beroep).\nIn de bijlage vinden jullie een nieuwsbericht + voorstel aanpassing van de uitlegalinea over\nveldsterktemetingen op onze website. Vóórdat jullie met getrokken messen, pistolen en\ntoetsenborden de tekst te lijf gaan, hieronder alvast een paar overwegingen waarover ik\ncommentaar verwacht en een vraag voor het overleg morgen.\ne Over de gemeten veldsterkte\nvoorlopig blijft dit hoogst gemeten, zodra een definitief besluit over aanpassing (naar W/m?,\npercentage of wat dan ook) genomen is passen we het ook aan op onze website.\ne Over de term voorlichtingsmeting\nIk wil ‘onze’ metingen liever niet opsplitsen in voorlichtingsmeting en meting op maat.\nDaarin differentiéren maakt het in mijn ogen nodeloos ingewikkeld. Uiteindelijk zien\nmensen hetzelfde resultaat: een meting met een meetrapport in het Antenneregister.\ne Over het vooralsnog ontbreken van de risicogestuurde metingen in het overzicht\nDe risicogestuurde metingen komen ook in het overzicht, zodra het\nToezichtsarrangement/Meerjarenplan gepubliceerd is (verwachting 24 november a.s.). Omdat we\nde steekproefmetingen vóór 24/11 (willen) publiceren, staan ze nog niet in het bijgevoegde\nbestand.\nVraag voor het overleg morgen\nWillen we vóór of ná publicatie toezichtsarrangement de metingen toevoegen aan het register? Ik\nmerk dat ik het zelf lastig vind om half verdekt te verwijzen naar een nog niet gepubliceerd\ntoezichtsarrangement (wel alvast iets te doen met de steekproefmetingen maar niet met de\nrisicogestuurde metingen, die genoemd worden in het toezichtsarrangement dat een week later\ngepubliceerd wordt). Een uitleg van het toezichtsarrangement met aanpassing van onze ‘resultaten\nmetingen’-pagina gevolgd door de eerste zichtbare resultaten van die nieuwe aanpak is misschien\norganischer.\n\n51.28\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_0"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ab6faced",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "5c0dde1c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 71,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "7eb9dd8f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 109,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "085559eb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "470e855e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 121,
+              "end": 202,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: donderdag 3 december 2020 10:23\n\nAan: 5.1.2.e Spectrummanagement Antennebureau\n\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het\n\noverleg van morgen\n\nGeen opmerkingen.\n\nGroet,\n5.1.2.2",
+      "dossier_id": "17921044",
+      "email_id": "email_1"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f988192c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "806a8105",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 104,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "07412dae",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "cbabe4cc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 116,
+              "end": 197,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nVerzonden: donderdag 3 december 2020 08:47\n\nAan: Spectrummanagement_Antennebureau\n\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van\nmorgen\n\nNu het meerjarenplan gepubliceerd is wil ik deze week ook de veldsterktemetingen online zetten. Bij deze de\nlaatste versie van de tekst van het nieuwsbericht, waarin al jullie voorgaande commentaar meegenomen is. Nog\nop- of aanmerkingen?\n\n51.20",
+      "dossier_id": "17921044",
+      "email_id": "email_2"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4f06205e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d40f7055",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 95,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "87b4caa2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a47ff64a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 107,
+              "end": 200,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @antennebureau.nl>\nVerzonden: donderdag 19 november 2020 15:59\nAan:5.1.2.e @agentschaptelecom.nl>; Spectrummanagement_ Antennebureau\n\n<Spectrummanagement Antennebureau@agentschaptelecom.nl>\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van\nmorgen\n\nBij deze in het nieuwsbericht een voorstel om verwarring te voorkomen tussen de steekproefmetingen die voor\nons zijn gedaan en ook altijd als steekproefmetingen naar buiten toe zijn gecommuniceerd en de extra\nsteekproefmetingen die nu worden gedaan.\n\nGroet,\n5.1.2.2",
+      "dossier_id": "17921044",
+      "email_id": "email_3"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "06ab59c9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "15561ea2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 79,
+              "end": 201,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "a1f81152",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 74,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "52ffa88f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 213,
+              "end": 306,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e agentschaptelecom.nl>\n\nVerzonden: woensdag 18 november 2020 12:14\n\nAan: Spectrummanagement_Antennebureau <Spectrummanagement Antennebureau@agentschaptelecom.nl>\nOnderwerp: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van morgen\n\nHoi collega’s,\n\nNieuwe poging om de nieuwe veldsterktemetingen, na overleg met deze en gene, begrijpelijk te maken voor de\nmensen. Gecheckt met 5.1.2.€: de metingen blijven bij gebrek aan een betere term vooralsnog steekproefmetingen\nheten in het meerjarenplan. Geplande publicatie van het meerjarenplan is op 24/11 (dag van hoger beroep).\n\nIn de bijlage vinden jullie een nieuwsbericht + voorstel aanpassing van de uitlegalinea over veldsterktemetingen op\nonze website. Vóórdat jullie met getrokken messen, pistolen en toetsenborden de tekst te lijf gaan, hieronder alvast\neen paar overwegingen waarover ik commentaar verwacht en een vraag voor het overleg morgen.\n\ne Over de gemeten veldsterkte\nvoorlopig blijft dit hoogst gemeten, zodra een definitief besluit over aanpassing (naar W/m”, percentage of\nwat dan ook) genomen is passen we het ook aan op onze website.\n\ne Over de term voorlichtingsmeting\nIk wil ‘onze’ metingen liever niet opsplitsen in voorlichtingsmeting en meting op maat. Daarin differentiëren\nmaakt het in mijn ogen nodeloos ingewikkeld. Uiteindelijk zien mensen hetzelfde resultaat: een meting met\neen meetrapport in het Antenneregister.\n\ne Over het vooralsnog ontbreken van de risicogestuurde metingen in het overzicht\nDe risicogestuurde metingen komen ook in het overzicht, zodra het Toezichtsarrangement/Meerjarenplan\ngepubliceerd is (verwachting 24 november a.s.). Omdat we de steekproefmetingen vóór 24/11 (willen) publiceren,\nstaan ze nog niet in het bijgevoegde bestand.\n\nVraag voor het overleg morgen\n\nWillen we vóór of ná publicatie toezichtsarrangement de metingen toevoegen aan het register? Ik merk dat ik het zelf\nlastig vind om half verdekt te verwijzen naar een nog niet gepubliceerd toezichtsarrangement (wel alvast iets te doen\nmet de steekproefmetingen maar niet met de risicogestuurde metingen, die genoemd worden in het\ntoezichtsarrangement dat een week later gepubliceerd wordt). Een uitleg van het toezichtsarrangement met\naanpassing van onze ‘resultaten metingen’-pagina gevolgd door de eerste zichtbare resultaten van die nieuwe aanpak\nis misschien organischer.\n\n5120\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_4"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "5fbc07b0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 33,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b2c3d7ef",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 172,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "4b9fa620",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "8c786575",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 184,
+              "end": 280,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\nVerzonden: donderdag 3 december 2020 11:14\nAan: 5.1.2.e :5.1.2.e :5.1.2.e :512.e\n; Spectrummanagement_Antennebureau\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geUpdatet bestand, vraag voor het\noverleg van morgen\nBijlagen: 20201203 Elektromagnetische straling nieuwe veldsterktemetingen onder de\n\nlimieten_5 1 2.e docx\n\nTwee kleine spatie/komma dingetjes. Verder een vraag voor mijn beeld, schrijven we “Antenneregister” in\nprincipe altijd met een hoofdletter? Dit kom ik wisselend tegen.\n\nGroet,\n\n512e",
+      "dossier_id": "17921044",
+      "email_id": "email_5"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "02e7cc4c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8cc14167",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 128,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "4735a323",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "76a1486e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 140,
+              "end": 221,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "fdb9316d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 251,
+              "end": 323,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nVerzonden: donderdag 3 december 2020 11:08\n\nAan:5.1.2.e ;5.1.2.e ;5.1.2.e ;\n\nSpectrummanagement_Antennebureau\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van\nmorgen\n\nBij deze mijn aanvullingen, grtn 128",
+      "dossier_id": "17921044",
+      "email_id": "email_6"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6d0d68bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "7c3e02fb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 122,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "f03fd7aa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7ac83669",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 134,
+              "end": 227,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @antennebureau.nl>\nVerzonden: donderdag 3 december 2020 10:35\nAan:5.1.2.e @antennebureau.nl>; 5.1.2.6\n\n@agentschaptelecom.nl>; Spectrummanagement_Antennebureau\n<Spectrummanagement Antennebureau@agentschaptelecom.nl>\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van\nmorgen\n\nKan me vinden in de opmerkingen van ?!®*. @",
+      "dossier_id": "17921044",
+      "email_id": "email_7"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "e82bc59e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f8424010",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 227,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "68d82f54",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 73,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c25c8701",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 239,
+              "end": 332,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @antennebureau.nl>\nVerzonden: donderdag 3 december 2020 10:30\nAan:5.1.2.e @agentschaptelecom.nl>; Spectrummanagement_Antennebureau\n\n<Spectrummanagement Antennebureau@agentschaptelecom.nl>\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van\nmorgen\n\nNog een paar suggesties id tekst toegevoegd grtz 15",
+      "dossier_id": "17921044",
+      "email_id": "email_8"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ef018e6d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "83ef912e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 199,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "023dd4e3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 73,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "45368259",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 211,
+              "end": 304,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e agentschaptelecom.nl>\n\nVerzonden: donderdag 3 december 2020 08:47\n\nAan: Spectrummanagement_Antennebureau <Spectrummanagement Antennebureau@agentschaptelecom.nl>\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van\nmorgen\n\nNu het meerjarenplan gepubliceerd is wil ik deze week ook de veldsterktemetingen online zetten. Bij deze de\nlaatste versie van de tekst van het nieuwsbericht, waarin al jullie voorgaande commentaar meegenomen is. Nog\nop- of aanmerkingen?\n\n52e",
+      "dossier_id": "17921044",
+      "email_id": "email_9"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "2d914dd2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 33,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6809120a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 172,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "4b242156",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "593ecc48",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 184,
+              "end": 277,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @antennebureau.nl>\nVerzonden: donderdag 19 november 2020 15:59\n\nAan:5.1.2.e @agentschaptelecom.nl>; Spectrummanagement_Antennebureau\n<Spectrummanagement Antennebureau@agentschaptelecom.nl>\n\nOnderwerp: RE: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van\nmorgen\n\nBij deze in het nieuwsbericht een voorstel om verwarring te voorkomen tussen de steekproefmetingen die voor\nons zijn gedaan en ook altijd als steekproefmetingen naar buiten toe zijn gecommuniceerd en de extra\nsteekproefmetingen die nu worden gedaan.\n\nGroet,\n5.1.2.6",
+      "dossier_id": "17921044",
+      "email_id": "email_10"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "5c47c94d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "3fb126c6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 201,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "41c0869a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 74,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7eeccfd1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 213,
+              "end": 306,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e agentschaptelecom.nl>\n\nVerzonden: woensdag 18 november 2020 12:14\n\nAan: Spectrummanagement_Antennebureau <Spectrummanagement Antennebureau@agentschaptelecom.nl>\nOnderwerp: Veldsterktemetingen in het antenneregister: geüpdatet bestand, vraag voor het overleg van morgen\n\nHoi collega’s,\n\nNieuwe poging om de nieuwe veldsterktemetingen, na overleg met deze en gene, begrijpelijk te maken voor de\nmensen. Gecheckt met 5 1 2.€: de metingen blijven bij gebrek aan een betere term vooralsnog steekproefmetingen\nheten in het meerjarenplan. Geplande publicatie van het meerjarenplan is op 24/11 (dag van hoger beroep).\n\nIn de bijlage vinden jullie een nieuwsbericht + voorstel aanpassing van de uitlegalinea over veldsterktemetingen op\nonze website. Vóórdat jullie met getrokken messen, pistolen en toetsenborden de tekst te lijf gaan, hieronder alvast\neen paar overwegingen waarover ik commentaar verwacht en een vraag voor het overleg morgen.\n\ne Over de gemeten veldsterkte\nvoorlopig blijft dit hoogst gemeten, zodra een definitief besluit over aanpassing (naar W/m”, percentage of\nwat dan ook) genomen is passen we het ook aan op onze website.\n\ne Over de term voorlichtingsmeting\nIk wil ‘onze’ metingen liever niet opsplitsen in voorlichtingsmeting en meting op maat. Daarin differentiëren\nmaakt het in mijn ogen nodeloos ingewikkeld. Uiteindelijk zien mensen hetzelfde resultaat: een meting met\neen meetrapport in het Antenneregister.\n\ne Over het vooralsnog ontbreken van de risicogestuurde metingen in het overzicht\nDe risicogestuurde metingen komen ook in het overzicht, zodra het Toezichtsarrangement/Meerjarenplan\ngepubliceerd is (verwachting 24 november a.s.). Omdat we de steekproefmetingen vóór 24/11 (willen) publiceren,\nstaan ze nog niet in het bijgevoegde bestand.\n\nVraag voor het overleg morgen\nWillen we vóór of ná publicatie toezichtsarrangement de metingen toevoegen aan het register? Ik merk dat ik het zelf\nlastig vind om half verdekt te verwijzen naar een nog niet gepubliceerd toezichtsarrangement (wel alvast iets te doen\nmet de steekproefmetingen maar niet met de risicogestuurde metingen, die genoemd worden in het\ntoezichtsarrangement dat een week later gepubliceerd wordt). Een uitleg van het toezichtsarrangement met\naanpassing van onze ‘resultaten metingen’-pagina gevolgd door de eerste zichtbare resultaten van die nieuwe aanpak\nis misschien organischer.\n\nsize\n\n20.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_11"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d3a8f528",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 33,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e7e28399",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 172,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "cc2ee5c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c43534f5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 184,
+              "end": 280,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: woensdag 26 oktober 2022 16:38\nAan: 5.1.2.e\n\ncc: 5.1.2.e\n\nOnderwerp: Nieuwe afspraak\n\nBijlagen: Meerjarenplan EMV 2023 v\"\"*®.docx\nOpvolgingsvlag: Opvolgen\n\nVlagstatus: Voltooid\n\nHoi5 12e,\n\nWe hadden vandaag overleg met 5128 en 5.1.2.6 over het MJP van EMV. Dat was wat krap ingeschat door mij\nwant daar hoorde eigenlijk 5.1.2.6 ook bij. Wil jij een nieuwe afspraak met\ndeze collega’s inschieten. Dan kunnen we het document rondmaken en naar het Haagse sturen. @allen, bij 2.6\nheb ik ALARA ingevoegd.\n\nVar 5.12.e\n\nMet vriendelijke groet,\n\n5.1.2.e\n\np\nMinisterie van Economische Zaken en Klimaat\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 450 | 9700 AL | Groningen\n\n5.1.2.e @agentschaptelecom.nl\n\nhttp://www. agentschaptelecom.nl\n\nAgentschap Telecom staat voor de beschikbaarheid en betrouwbaarheid van IT- en communicatienetwerken, zodat Nederland\nveilig verbonden is.\n\n\n21.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_12"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "188f7b47",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "3f91461b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 69,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e91106a4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 82,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "86455d6f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "af3b629f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 109,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "4d4b84be",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 121,
+              "end": 154,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: maandag 21 november 2022 14:05\nAan: 5.1.2.e\n\nOnderwerp: Meerjarenplan EMV 2023 v’'~*\nBijlagen: Meerjarenplan EMV 2023 v~*.docx\nOpvolgingsvlag: Opvolgen\n\nVlagstatus: Voltooid\n\nBeste allen,\n\nWillen jullie hier op voortborduren? Ik heb wat opmerkingen/vragen geplaatst. Als we het dit jaar niet meer\nkunnen publiceren passen we de naam Agentschap Telecom wel aan. Ik hoor het graag.\n\nVrgr 2128\n\n24.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_13"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "e92f94fe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "375e851b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 69,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "f26cc6fa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "442b9881",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 81,
+              "end": 109,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "f791504b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 120,
+              "end": 151,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: maandag 12 december 2022 14:16\nAan: 5.1.2.e\n\ncc: 5.1.2.e\n\nOnderwerp: RE: Meerjarenplan EMV 2023 v ~~\nBijlagen: Meerjarenplan EMV 2023 v''**_ docx\nHi allen,\n\nIn de bijlage ook mijn reactie op het meerjarenplan.\n\nAangezien ik al bezig was in dit document, heb ik niet verder kunnen werken in het document waar © \"2\" haar\nopmerkingen in heeft geplaatst.\n\nGroet,\n\n512e",
+      "dossier_id": "17921044",
+      "email_id": "email_14"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c523e2b6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "00e328d8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 69,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "24d7b0e1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 82,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b0ede722",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f11020f7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 125,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "86934396",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 136,
+              "end": 170,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nVerzonden: woensdag 7 december 2022 16:10\nAan:5.1.2.e\n\ncc:5.1.2.e\n\nOnderwerp: RE: Meerjarenplan EMV 2023 v °°\n\nHoi,\n\nDit zijn mijn vragen/opmerkingen.\n\nGroeten,\n\n5.12e",
+      "dossier_id": "17921044",
+      "email_id": "email_15"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b0968d33",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "5c79c777",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 59,
+              "end": 67,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2995ef98",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 79,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "2c388a18",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 54,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "0aede70e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 91,
+              "end": 122,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @agentschaptelecom.nl>\nVerzonden: vrijdag 2 december 2022 11:29\n\nAan:5.1.2.e @antennebureau.nl>\ncc:5.1.2.e @agentschaptelecom.nl>; 5.1.2.6\n\n@agentschaptelecom.nl>; 5.1.2.6 @agentschaptelecom.nl>\n5.1.2.e\n\nOnderwerp: RE: Meerjarenplan EMV 2023 v\n\nDank je wel 5 1 2e, we zien ‘m wel tegemoet.\nVr 5.1.2.e\n\nMet vriendelijke groet,\n\n5.1.2.e\n\nAgentschap Telecom\n\nMinisterie van Economische Zaken en Klimaat\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 450 | 9700 AL | Groningen\n\n@agentschaptelecom.nl\nhttp://www.agentschaptelecom.nl\nAgentschap Telecom staat voor de beschikbaarheid en betrouwbaarheid van IT- en communicatienetwerken, zodat Nederland\nveilig verbonden is.",
+      "dossier_id": "17921044",
+      "email_id": "email_16"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "39934d76",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 34,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b2f38f0b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 81,
+              "end": 107,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ee7f95a4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 111,
+              "end": 215,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b5db3f6a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 75,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "1861621a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 227,
+              "end": 255,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @antennebureau.nl>\nVerzonden: vrijdag 2 december 2022 11:18\n\nAan:5.1.2.e @agentschaptelecom.nl>\ncc:5.1.2.e @agentschaptelecom.nl>; 5.1.2.6\n@agentschaptelecom.nl>; 5.1.2.6 @agentschaptelecom.nl>\n\nOnderwerp: RE: Meerjarenplan EMV 2023 v {°°\n\nHi ci\nIk ben nog met het meerjarenplan bezig. Ik ben nu ongeveer halverwege.\n\nVoorstel: publicatie van het herziene meerjarenplan en de daarbij behorende bijlagen over de jaarwisseling heen\ntillen. Dit omdat de website nu op slot is, ivm de overgang naar de RDI (tot 02-01) en zodat we dit document ook\nRDI-proof kunnen maken. Daarbij zullen we ook moeten kijken of het document digi-toegankelijk is.\n\nIk zal proberen het meerjarenplan incl. mijn opmerkingen volgende week te delen.\n\nGroet,\n512.e",
+      "dossier_id": "17921044",
+      "email_id": "email_17"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f08b6f36",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d87e1566",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 107,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "54b9cdec",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 111,
+              "end": 206,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "87647d2d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 71,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9ed73445",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 218,
+              "end": 250,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @agentschaptelecom.nl>\n\nVerzonden: vrijdag 2 december 2022 10:28\n\nAan:5.1.2.e @antennebureau.nl>; 5.1.2.6\n@agentschaptelecom.nl>; 5.1.2.6\n\n@agentschaptelecom.nl>; 5.1.2.6 @agentschaptelecom.nl>\nOnderwerp: RE: Meerjarenplan EMV 2023 v {°°\n\nBeste allen,\n\nVan 5 1 2.6 hebben we onderstaande reactie. Iemand anders nog meer? Anders ga ik een definitieve versie\nmaken.\n\nVrgr 5.12e\n\nMet vriendelijke groet,\n\n5.1.2.e\n\nAgentschap Telecom\n\nMinisterie van Economische Zaken en Klimaat\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 450 | 9700 AL | Groningen\n\n@agentschaptelecom.nl\nhttp://www.agentschaptelecom.nl\nAgentschap Telecom staat voor de beschikbaarheid en betrouwbaarheid van IT- en communicatienetwerken, zodat Nederland\nveilig verbonden is.",
+      "dossier_id": "17921044",
+      "email_id": "email_18"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f55eb541",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 34,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f862d8a6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 82,
+              "end": 205,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "9969d4f0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 47,
+              "end": 76,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "be18bc07",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 217,
+              "end": 249,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @antennebureau.nl>\nVerzonden: dinsdag 22 november 2022 09:36\nAan:5.1.2.e @agentschaptelecom.nl>; 5.1.2.6\n@agentschaptelecom.nl>; 5.1.2.6\n@agentschaptelecom.nl>;5.1.2.e @agentschaptelecom.nl>\n\nOnderwerp: RE: Meerjarenplan EMV 2023 v? °°\n\nHi all,\n\nIk heb het meerjarenplan nog niet kunnen lezen, maar onderstaande viel 5.1.2.6 op. Dit n.a.v. een meting met\neen waarde boven de 5%-regel:\n\nMeerjarenplan:\n\n2.5\n\nHet toezicht op de basisrestricties betreft enkel gebruikers wiens frequentiegebruik voor meer dan 5% van de\nstrengste blootstellingslimiet, die geldt in de publieke ruimte, bijdraagt aan het aanwezige elektromagnetische\nveld. Deze regel volgt uit de Europees geharmoniseerde normen voor het vaststellen van het elektromagnetische\nveld, de NEN-EN-IEC 62232:2018 en NEN-EN 50401:2017. Hierin is opgenomen dat signalen als relevant worden\nbeschouwd als ze voor meer dan 5% van de strengste limiet bijdragen aan het aanwezige elektromagnetische\nveld in de publieke ruimte. De strengste limiet is 2 watt per vierkante meter (W/m2), 596 hiervan is 0,1 W/m2.\nOnderzoek is niet nodig als de sterkte van het elektromagnetisch veld op een bepaalde plek minder dan 0,1 W/m2\nis,\n\n6 vs 30 minutenmeten:\n\nConclusie\n\nUit het onderzoek blijkt dat de gemiddelde vermogensdichtheid bij een meting van 6 minuten nauwelijks afwijkt\nvan de gemiddelde vermogensdichtheid bij een meting van 30 minuten.\n\nOmdat het verschil in gemiddelde vermogensdichtheid over een periode van 6 minuten ten opzichte van het\ngemiddelde over een periode van 30 minuten zo gering is, heeft AT besloten om vast te houden aan metingen van\n6 minuten. Dat geldt alleen voor breedbandmetingen. Als aanleiding bestaat voor een selectieve 9% bediend dan\n\nwordt sate linn 30 minuten on Wi Zo wordt er 30 minuten gemeten als de EMV meer dan\n\nOp deze manier kan AT meer metingen uitvoeren om haar toezichtstaak op de uitrol van het 5G-netwerk uit te\nvoeren. Dit komt de kwaliteit van het toezicht van AT ten goede, en zo houdt zij het EMV-landschap in Nederland\nveilig.\n\nIn het 6 vs 30 minuten meten-document staat 6% i.p.v. 5%. Misschien goed om dit document dan ook mee te\nnemen in deze aanpassingsronde.\n\nGroet,\n512e",
+      "dossier_id": "17921044",
+      "email_id": "email_19"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7364573e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "42d87c11",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 203,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "defa82f0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 72,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ea17d839",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 215,
+              "end": 247,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @agentschaptelecom.nl>\nVerzonden: maandag 21 november 2022 14:05\nAan:5.1.2.e @agentschaptelecom.nl>; 5.1.2.6\n@antennebureau.nl>; 5.1.2.6 @agentschaptelecom.nl>;\n5.1.2.e @agentschaptelecom.nl>\n\n5.1.2.6\n\nOnderwerp: Meerjarenplan EMV 2023 v\n\nBeste allen,\n\nWillen jullie hier op voortborduren? Ik heb wat opmerkingen/vragen geplaatst. Als we het dit jaar niet meer\nkunnen publiceren passen we de naam Agentschap Telecom wel aan. Ik hoor het graag.\n\nVrgr 5.1.2.\n\n38.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_20"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d8618503",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 34,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "cb211108",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 81,
+              "end": 213,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "dfd98144",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 46,
+              "end": 76,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e2525411",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 225,
+              "end": 249,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: maandag 10 juli 2023 17:13\n\nAan: 5.1.2.e\n\nOnderwerp: RE: Meerjarenplan EMV 2023\n\nBijlagen: Meerjarenplan EMV 2023 RD 5.1.2. docx\nOpvolgingsvlag: FollowUp\n\nVlagstatus: Voltooid\n\nTijd voor een schone en verse versie waarin alles doorgevoerd is wat mij betreft.",
+      "dossier_id": "17921044",
+      "email_id": "email_21"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "766214c2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "c0be872e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 66,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "59f6324b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 51,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "4fdc4ea6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 104,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "26c94fd9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 116,
+              "end": 153,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nVerzonden: woensdag 21 juni 2023 13:17\nAan:5.1.2.e\n\nOnderwerp: FW: Meerjarenplan EMV 2023\nHi,\n\nZie bijlage.\n\nAanvullend:\n\n- Worden de documenten zoals het meetprotocol en EMV-meting: 6 of 30 minuten meten nog aangepast?\n\n- Het lijkt me goed om nog naar de indeling van het document te kijken. Er is naar mijn idee geen logische\nvolgorde in het document van de hoofdstukken en paragrafen.\n\n- Het zou fijn zijn als 5.1.2.e de wijzigingen accepteert waar hij zich in kan vinden. Op die manier werken\nwe naar een einddocument toe. Als laatste onderdeel van het proces zou JZ nog een finale JZ-check\nkunnen doen.\n\nGroet,\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_22"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "de72bfa3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "a74b183e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 64,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "5a5193bc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 51,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "5ea03d37",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 102,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @rdi.nl>\n\nVerzonden: maandag 5 juni 2023 10:33\n\nAan:5.1.2.e @rdi.nl>; 5.1.2. @antennebureau.nl>; 5.1.2.6\n\n@rdi.nl>;5.1.2.e @rdi.nl>; 5.1.2.\n\n@rdi.nl>\nOnderwerp: Meerjarenplan EMV 2023\n\nHallo Collega's\n\nEnige tijd geleden is er al een start gemaakt met het updaten van het meerjarenplan EMV, ik heb hiervan alle\nopmerkingen verwerkt en samengevoegd.\n\nWillen jullie bijgevoegd document nalezen, corrigeren en van opmerkingen voorzien waar nodig.\n\nAlvast bedankt!\n\nMet vriendelijke groet,\n\n5.1.2.e\n\nInspecties en metingen\nDirectie Apparatuur\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\n\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 1671 | 3800 BR | Amersfoort\n\n40.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_23"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c52b96da",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 20,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "39965584",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 64,
+              "end": 161,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d45663c1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 58,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b2b9f2c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 173,
+              "end": 195,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: donderdag 22 juni 2023 12:30\n\nAan: 5.1.2.e :5.1.2.e :5.1.2.e :5.1.2.e :512.e\nOnderwerp: RE: Meerjarenplan EMV 2023\n\nBijlagen: Meerjarenplan EMV 2023 RDI.docx\n\nHoi 5.1.2.6),\n\nNet terug van vakantie dus heb niet kunnen reageren. Omdat ik me ga focusseren op cyber security zal 5.1.2.6\nhet EMV dossier oppakken (samen met °°), ik stuur je mail door naar hem.\n\nMvg 51 2e",
+      "dossier_id": "17921044",
+      "email_id": "email_24"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3b1b6b15",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "0e6da65f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 101,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "07b54486",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 53,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "df07a0ee",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 113,
+              "end": 139,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "750d1db0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 151,
+              "end": 182,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nVerzonden: maandag 5 juni 2023 10:33\n\nAan:5.1.2.e ;5.1.2.e ;5.1.2.e ;5.1.2.e ;5.1.2.e\n\nOnderwerp: Meerjarenplan EMV 2023\n\nHallo Collega’s\n\nEnige tijd geleden is er al een start gemaakt met het updaten van het meerjarenplan EMV, ik heb hiervan alle\nopmerkingen verwerkt en samengevoegd.\nWillen jullie bijgevoegd document nalezen, corrigeren en van opmerkingen voorzien waar nodig.\n\nAlvast bedankt!\n\nMet vriendelijke groet,\n\n52e\n\nInspecties en metingen\n\nDirectie Apparatuur\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 1671 | 3800 BR | Amersfoort\n\n41.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_25"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "fd69c8f9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b67c017a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 99,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "22ee70d2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 49,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "1d054251",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 111,
+              "end": 133,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: dinsdag 11 juli 2023 09:43\n\nAan: Spectrummanagement_Antennebureau\nOnderwerp: FW: Meerjarenplan EMV 2023\n\nBijlagen: Meerjarenplan EMV 2023 RDI 51-26 docx\nTi",
+      "dossier_id": "17921044",
+      "email_id": "email_26"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "96c2e026",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d9cf4bea",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 90,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ffce9f7a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 51,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "d90f535c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 102,
+              "end": 128,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "9736e01c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 140,
+              "end": 177,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nVerzonden: dinsdag 11 juli 2023 09:41\n\nAan:5.1.2.e\n\ncc:5.1.2.e ;5.1.2.e ;5.1.2.e ‚512.e ;5.1,2.e\n\nOnderwerp: RE: Meerjarenplan EMV 2023\n\nHi5i1.2e),\nIn de bijlage vind je het meerjarenplan met feedback/reacties van 5.1.2.6\n\nAanvullend:\n- Worden de documenten zoals het meetprotocol en EMV-meting: 6 of 30 minuten meten nog aangepast?\n\n- Het lijkt me goed om nog naar de indeling van het document te kijken. Er is naar mijn idee geen logische\nvolgorde (meer) in het document van de hoofdstukken en paragrafen.\n\nLukt het om voor de volgende ronde een schone versie te hebben waarbij alle feedback is verwerkt of afgewezen\n(afhankelijk van jullie afwegingen)? Dat maakt feedback geven ook wat makkelijker. @ En wellicht is het goed om\nalvast een JZ’er te vragen of hij/zij op de laatste versie een check zou willen doen.\n\nGroet,\n\n512.e",
+      "dossier_id": "17921044",
+      "email_id": "email_27"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6fa6e943",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "9f583b78",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 64,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "bb0b0f9f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 68,
+              "end": 110,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "36ab7d4e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 50,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ffaeba85",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 122,
+              "end": 148,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @rdi.nl>\n\nVerzonden: maandag 5 juni 2023 10:33\n\nAan:5.1.2.e @rdi.nl>;5.1.2.e @antennebureau.nl>; 5.1.2.6\n\n@rdi.nl>;5.1.2.e @rdi.nl>; 5/1276\n@rdi.nl>\nOnderwerp: Meerjarenplan EMV 2023\n\nHallo Collega's\n\nEnige tijd geleden is er al een start gemaakt met het updaten van het meerjarenplan EMV, ik heb hiervan alle\nopmerkingen verwerkt en samengevoegd.\nWillen jullie bijgevoegd document nalezen, corrigeren en van opmerkingen voorzien waar nodig.\n\nAlvast bedankt!\n\nMet vriendelijke groet,\n\n5.1.2.e\n\nInspecties en metingen\n\nDirectie Apparatuur\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\n\nPostbus 1671 | 3800 BR | Amersfoort\n\n5.1.2.e\n\n43.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_28"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b28b25f2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 20,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "38366f79",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 64,
+              "end": 160,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "703d613c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 58,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ec1bcb59",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 172,
+              "end": 194,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 6.1.2.6\n\nVerzonden: maandag 11 september 2023 12:10\n\ncc: §.1.2.e ;‚51.2e ‚512e ‚52e ee\nOnderwerp: RE: EMV Meerjarenplan\n\nBijlagen: Meerjarenplan EMV 202351 28 docx; Büiten reikwijdte\nOpvolgingsvlag: Opvolgen\n\nVlagstatus: Voltooid\n\nBeste 5/1/28),\n\nbijgaand mijn aanvullingen.\n\nIk heb me voor het gedeelte over extrapolatie en reductie beperkt tot 5G NR, omdat het eigenlijk alleen hiervoor\nrelevant is.\n\nVoor radar kan er een apart gedeelte worden ingevoegd, omdat dat wel een iets andere aanpak vraagt. Als\nvoorbeeld hiervoor heb ik een rapport toegevoegd, waarin dit beschreven staat.\n\nGroet, 5128",
+      "dossier_id": "17921044",
+      "email_id": "email_29"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "521cfbfe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1b60f70b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 91,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b2c8c08e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ab5500bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 103,
+              "end": 124,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "f868cf0e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 136,
+              "end": 187,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5. 1.28\n\nVerzonden: woensdag 6 september 2023 15:21\n\nAan:5.1. 28 ‚51.2e ie ‚5.1.2.e Ay (Rea?\ncc: 51:26\n\nOnderwerp: EMV Meerjarenplan\n\nHallo Collega's\n\nHierbij de laatste versie van het meerjarenplan EMV ter revisie.\n\nIk heb de meeste opmerkingen verwerkt en hoofdstuk 3 aangepast.\n\nVan sommige zaken heb ik te weinig kennis om er iets over te zeggen/ aan te passen.\n\nEr staan nog wat dingen open:\n\n= 2e wil jij het stuk Extrapolatie&Reductie nalopen en aanvullen/aanpassen, hier mist\nnog info,\n\n- CIE @5.1.2.e Willen jullie hoofdstuk normalisatie nalopen en aanpassen waar\nnodig.\n\n- Allen, er wordt op dit moment niks over metingen aan radar installaties vermeld in dit document. Hoe\nkunnen we dit het beste invoegen?\n\n- Allen, het stuk intrisiek onschadelijkt etc komt niet goed uit de verf, is hier een betere titel en verwoording\nvoor\n\n- Allen, het stuk 5% regel komt nog niet goed uit de verf, is hier een betere verwoording voor.\n\nVerder wil ik vragen het geheel na te lezen en opmerkingen te maken indien nodig. Het is mijn wens om dit\nmeerjarenplan na deze revisie ronde klaar te hebben voor publicatie, ik wil jullie vragen er ook zodanig naar te\nkijken en te voorkomen dat we van revisie in revisie blijven gaan.\n\nAlvast bedankt\nMet vriendelijke groet,\n\n5.1.2.\n\nInspecties en metingen\n\nDirectie Apparatuur\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\n\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 1671 | 3800 BR | Amersfoort\n\n62.",
+      "dossier_id": "17921044",
+      "email_id": "email_30"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7c448a93",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "a0031255",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 96,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "7b9690c0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 107,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "6f6f5324",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "be266c75",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 119,
+              "end": 136,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:\n\nAan:\n\nOnderwerp: RE: case\n\nDatum: 4 september 2024 10:39:02\n\nZeker, hierbij.\n\nVerzonden: woensdag 4 september 2024 10:38\n\nAan:\nOnderwerp: RE: case\nWil je de versie van ook met me delen?\n\nAvd",
+      "dossier_id": "17921044",
+      "email_id": "email_31"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "74810031",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9589fed0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 95,
+              "end": 126,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ff29fcac",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 31,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "ccf8aa73",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 144,
+              "end": 152,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Verzonden: woensdag 4 september 2024 10:25\n\nAan:\n\nOnderwerp: 51 28 case\n\nHi 5\n\nIk Vv 6.1.2.8 aanvullingen een paar kleine dingen aangevuld/aangepast in de tekst.\n\nheeft een mooi antwoord op het magnetron-vraagstuk getypt, in begrijpelijke taal die\nook snapt denk ik.\njes van\n\n63.",
+      "dossier_id": "17921044",
+      "email_id": "email_32"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0c2e6bd9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 11,
+              "end": 42,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "000d7033",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 71,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 54 j\n\nAan: BZ 1\n\nDatum: donderdag 26 september 2024 16:24:12\nBijlagen: HE docx\nHIS 2e,\n\nZoals aangegeven ben ik bezig geweest met het meerjarenplan. Ik heb deze nog een beetje\naangepast en aangevuld. Naar mijn idee kan nog de bijlage van het meetprotocol worden\ntoegevoegd, de check langs JZ en dan naar communicatie voor een strak vormgegeven\nmeerjarenplan.\n\nBen benieuwd hoe jij naar deze nieuwere versie kijkt.\n\nGroet,\n\n51.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_33"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "a993483e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "93bbc856",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 16,
+              "end": 21,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "76aaa7b5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 29,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7533f5c1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 83,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1 2e\n\nVerzonden: donderdag 14 maart 2024 16:31\n\nOnderwerp: Meerjarenplan EMV final\n\nHallo Collega's\n\nIn de bijlage de final versie van het MJP EMV.\n\nAls jullie akkoord zijn, gaat deze naar communicatie ter publicatie.\n\nWat betreft de periodieke controle van de defensie radar in Herwijnen en Wier.\n\nDeze heb ik vermeld onder 3.1.1 Metingen voor uitvoering van de wettelijke taak (\ntoezichtmetingen), in de lijst met indicaties voor locatie bepalingen, als -Militaire en civiele\nradarstations.\n\nHiermee geven we aan dat we deze (ook kunnen) meten en pinnen we ons niet vast op het\nenkel meten van Herwijnen en Wier, maar trekken we het breder.\n\nIs dit voor jullie oke?\n\nMet vriendelijke groet,\n\nSe\n\nInsp g\nDirectie Apparatuur\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken en Klimaat\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 1671 | 3800 BR | Amersfoort\n\n\n64.",
+      "dossier_id": "17921044",
+      "email_id": "email_34"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "54ffb21d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 10,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e6a35dc6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 52,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "11bfb925",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 88,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: KE ;\nAan:\n\nDatum: woensdag 23 oktober 2024 15:40:54\n\nBijlagen: 3 do\n\nHai 5 —_\n\nO.b.v. haar punten wat aanpassingen gedaan in de tekst. Ze had zelf ook meerdere\n\ngoeie toevoegingen gedaan in de tekst.\nOver haar tweede opmerking in het document (“Mogelijk lees ik het verkeerd, maar bedoelt de\nvragensteller of er metingen zijn gedaan naar (gezondheids)effecten van het soort signaal? Dat\nkun je niet meten...”), hoe lees jij die vraag van 5.1 26 ? Ik snap51.2€ haar opmerking\nen verwarring namelijk wel. - oo\nGroet, _\n\nkl",
+      "dossier_id": "17921044",
+      "email_id": "email_35"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "82e2e9e9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "9ab9fa22",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "1e61e3e9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 68,
+              "end": 72,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:\n\nAan:\nOnderwerp:\nDatum:\nBijlagen:\n\n6 november 2024 16:52:46\n\ndocument is definitief. 592s hebben akkoord gegeven.\n\nile\nH\nJe kan dit document naar 51 28 _ terugsturen .\n\nSide’\n\n65.",
+      "dossier_id": "17921044",
+      "email_id": "email_36"
+    }
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e )\n\nAan: 5.1.2.e\n\nOnderwerp: FW: Meerjarenplan EMV\n\nDatum: donderdag 28 november 2024 16:10:42\nBijlagen: meerjarenplan EMV final 511/216 opm JZ.docx\nTer info,\n\nDeze wil ik afronden op 6 december\n\nGroet 5 1 2.6",
+      "dossier_id": "17921044",
+      "email_id": "email_37"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c1a4db1e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 14,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "9880e87f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 21,
+              "end": 29,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "c14c314f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 106,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "2543a4a9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 62,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "541fde05",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 160,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nVerzonden: woensdag 27 november 2024 14:51\nAan:5.1.2.e\n\nOnderwerp: Meerjarenplan EMV\n\nHoi 512.6,\n\nBij deze vanuit ons nog wat suggesties en opmerkingen over het meerjarenplan.\nHet komt er op neer dat wij weinig juridische risico’s zien, maar het wel goed is om na te gaan\nof en hoe je bepaalde zaken formuleert.\n\nIk zal straks nog wel even bellen om het nader toe te lichten.\nGroet,\n\n512.e\n\n66.\n\n68.",
+      "dossier_id": "17921044",
+      "email_id": "email_38"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "29e636cd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "fb30339f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 68,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d0b07a66",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fc3f6ea0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 97,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nAan: 5.1.2.e\n\nCc: 9.1.2.6\n\nOnderwerp: RE: 5.1.2.e pt. 2 (20240751)\nDatum: maandag 9 december 2024 14:53:44\nHaid 126,\n\nIk ga me weer over deze case buigen. Dank voor de achtergrondinfo en fijn dat je haar nog even gemaild hebt.\nGroetjes van5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_39"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7e639106",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "bb6e8255",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 19,
+              "end": 27,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "80308916",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 40,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "154155f6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 88,
+              "end": 120,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "1b600c19",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 80,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "van:5.1.2.e\nVerzonden: maandag 9 december 2024 14:15\nAan:5.1.2.e\ncc:5.1.2.€\n\nOnderwerp:5.1.2.e _ pt. 2 (20240751)\nHoiB.1.2:€ ,\nZoals ‘beloofd’, hierbij5.1.2.6 _ pt. 2. Samengevat:\n\n® Ik heb mw. vandaag gemaild dat we bezig zijn met de antwoorden. Dus ze is op de hoogte dat het\n(opnieuw) ietsje langer duurt. De case staat nu op jouw naam;\n\n@ Inde bijlage een samenvatting met de voorgaande vragen&antwoorden, en de vervolgvragen en\nconceptantwoorden. Deze helaas nog niet erg goed gecheckt bij collega’s, mede daarom ook5 Î 2€ in\ndeze mail meegenomen;\n\n@ Wb de derde vraag van mw.: ze verwijst hier naar een citaat, dit is een citaat uit een telefoongesprek dat\nmw. zelf gevoerd heeft met5.1.2.e . We kunnen dit citaat dus niet controleren. Ik weet\nniet zo goed of we het moeten laten bij ‘wij kunnen hier niks over zeggen, want we kunnen het citaat\nnergens terugvinden’, of dat we beter volledig kunnen benoemen dat er geen verband is tussen brand in\nzendmasten en het wegvallen van beademingsapparatuur. Dit laatste is vollediger, maar wellicht onnodig\n\nuitgebreid.\nMocht je er komende week niet aan toekomen, dan neem ik deze case volgende week met alle liefde weer van je\nover.\nMet vriendelijke groet,\n\n5.1.2:e\n\nAntennebureau\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\n\nEmmasingel 1 | 9726 AH | Groningen\nPostbus 450 | 9700 AL | Groningen\n\n@antennebureau.nl\nwww.antennebureau.nl\nwww.rdi.nl\n\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_40"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c9068595",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "10374aa8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 64,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "22f27d83",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 68,
+              "end": 76,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "44a81bcb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 52,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a024f5bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 87,
+              "end": 113,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: vrijdag 13 december 2024 09:00\n\nAan: 5.1.2.e\n\nOnderwerp: mjp\n\nBijlagen: meerjarenplan EMV final 51-28 opm JZ!\" docx\n\nMet vriendelijke groet,\n\n5.1.2.e\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\n\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 1671 | 3800 BR | Amersfoort\n\n51.2.e\n\n@rdi.nl\n\nwww.rdi.nl\n\n70.",
+      "dossier_id": "17921044",
+      "email_id": "email_41"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "82ac6978",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2c1b8580",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 70,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2e594d22",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "84adafc2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 82,
+              "end": 85,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "ade6102f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 140,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:\n\nAan:\n\nOnderwerp: pt. 2\n\nDatum: 17 december 2024 12:47:15\nBijlagen: SALE ot 2.docx\n\nHai\nHie) 126 pt. 2. Wat vind je ervan?\nVoor vraag 3 zou ie Sa dus even bellen. En 8.028 en 54.216 mail ik even of ze willen\n\nkijken naar de eerste twee vragen.\nGroetjes van\n\n71.\n\n75.",
+      "dossier_id": "17921044",
+      "email_id": "email_42"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "27eb2776",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 62,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7c13f296",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 28,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "5b966900",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 73,
+              "end": 87,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:\n\nAan:\n\nOnderwerp: RE: pt. 2\n\nDatum: ij 20 2024 09:53:00\n\nBijlagen:\n\nHi 7\nEen “oude” zin stond er nog in. Daarbij nog een kleine wijziging.\nGrt,",
+      "dossier_id": "17921044",
+      "email_id": "email_43"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6770cb1e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 60,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fed0b2c2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 32,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:\nVerzonden: dinsdag 17 december 2024 12:46\nOnderwerp:5.1.2.€ pt 2\n\nHai\nHerb S126 pt. 2. Wat vind je ervan?\nVoor vraag 3 zou Jo BASES dus even bellen, En Baza en 5.126 mail ik even of ze willen\n\nkijken naar de eerste vragen.\nGroetjes van\n\n76.",
+      "dossier_id": "17921044",
+      "email_id": "email_44"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "057ca2c6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 16,
+              "end": 46,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fa516afb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 69,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: J ¥\n\nAan: de\n\nDatum: maandag 13 januari 2025 15:31:56\n\nBijlagen: Vragen nav antennecursus pt 2 ST DET docx\nHoi!\n\nHierbij het 5,1. 28 document tot nu toe. We mogen 7128 altijd raadplegen zei hij, ook voor\nals hij nog moet meelezen bv. Misschien wel zo handig, want ik vond zijn verhaal nog wel lastig\nom onder woorden te brengen.\n\nIk zie dat 5 deze hele week nog vrij heeft, dus ik kan hem volgende week pas bellen.\nGroetjes hes cine\n\n78.",
+      "dossier_id": "17921044",
+      "email_id": "email_45"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "06ad4e84",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "a15bdd1f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 15,
+              "end": 18,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "1754b552",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 26,
+              "end": 58,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a36ed352",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 70,
+              "end": 111,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nAan: 5.1.2.e\n\nCc: 5.1:2:e ‚5.1.2.e\n\nOnderwerp: RE: Vragen nav de cursus \"Alles over antennes\"\n\nDatum: woensdag 15 januari 2025 15:06:24\n\nBijlagen: Vragen nav antennecursus pt 2 51.26 „docx\nDag5 128,\n\nDank voor onderstaand antwoord. We snappen je punt en je hebt gelijk. Toch denken we dat we het begrijpelijker\nmaken voor de vragensteller door het op deze manier op te schrijven.\n\n51 2e heeft ons geholpen een antwoord op vraag 10 te formuleren. Zou je nogmaals\neen blik willen werpen op onze antwoorden op de vragen?\nGroeten van5 1 2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_46"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "90f9a0d3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4484c306",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 19,
+              "end": 27,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "248d9c59",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 49,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "0d989464",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 116,
+              "end": 149,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "af95bff2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 107,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "648ee09f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 161,
+              "end": 202,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\nVerzonden: vrijdag 20 december 2024 13:08\nAan:5.1.2.e\ncc:5.1.2:e\n\nOnderwerp: RE: Vragen nav de cursus ‘Alles over antennes!\n\nHallo Collega's,\n\nHierbij mijn opmerkingen:\n\nVraag 3: een radiogolf blijft een radiogolf. Het is de frequentie, zendvermogen antennegain en modulatiesoort\n(3/4/5G) , etc. die de uiteindelijke sterkte van het electromagnetische veld bepalen.\n\nIk kan mij maar moeilijk vinden dat er heel de tijd over 4g of 5g antennes worden gesproken. De antenne straalt\nhet radiosignaal wat gemoduleerd is met een bepaald protocol uit. Het maakt voor de antenne niet uit of dit\n2/3/4/5g is, het zal vast lekker communiceren om er zo over te spreken, maar in mijn ogen maakt het de zaken niet\nduidelijker als je zelf op internet verder onderzoek gaat doen en in wetenschappelijke en technische\ndocumentatie terecht komt.\n\nGroet5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_47"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "1d991f95",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "afa6f201",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 65,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2431f6e8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 69,
+              "end": 77,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "77347e03",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 53,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f7bad3ff",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 89,
+              "end": 135,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @antennebureau.nl>\nVerzonden: vrijdag 20 december 2024 10:17\n\nAan:5.1.2.6 @rdi.nl>;5.1.2:€ @rdi.nl>\ncc:5.1.2.e @antennebureau.nl>\n\nOnderwerp: FW: Vragen nav de cursus ‘Alles over antennes’\n\nHoi5 126 en5 12e,\n\nKleine aanvulling op mijn vorige mail.\n\n5 1 2e had nog enkele wijzigingen in de tekst die ik eerder naar jullie stuurde. Hierbij het nieuwe bestand: ‘vragen\nnav antennecursus pt2 5 1 2e.\n\nOnze vraag aan jullie blijft hetzelfde: hebben jullie aanvullingen of feedbackpunten? We horen het graag.\n\nGroet en fijn weekend,\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_48"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0e22b932",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "75a8c9ff",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 111,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "c046d076",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 115,
+              "end": 142,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b6653ff8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 72,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f48fc609",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 154,
+              "end": 200,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "van:5.1.2.e\n\nVerzonden: donderdag 19 december 2024 11:17\n\nAan:5.1.2.e @rdi.nl>;5.1.2.€ @rdi.nl>\ncc:5.1.2.6 @antennebureau.nl>\n\nOnderwerp: Vragen nav de cursus ‘Alles over antennes!\n\nHaB 128 end 12e,\n\nEnkele maanden geleden hebben we van een kritische mevrouw (noemt zichzelf5 12.6) vragen ontvangen\nnaar aanleiding van onze cursus ‘Alles over antennes’, die zij eerder dit jaar had bijgewoond. Dit waren 14\nkritische vragen waar we toen ook jouw feedback op hadden gevraagd @5 1.2 6 „Voor de context heb\nik de vragen en onze antwoorden meegestuurd als bijlage (het DEF document).\n\nOp basis hiervan heeft mevrouw nog een drietal vervolgvragen op de vragen 3, 4 en 10. Hier hebben we een\nantwoord voor geformuleerd. Hebben jullie misschien nog suggesties en/of aanvullingen op de antwoorden voor\nde vragen 3 en 4 (zie het pt. 2 document in de bijlagen)?\n\nMet vriendelijke groet,\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\nEmmasingel 1 | 9726 AH | Groningen\nPostbus 450 | 9700 AL | Groningen\n\nT 088-0416000\n5.1.2.e\n5.1.2.e @antennebureau.nl\n\nhttps://www.rdi.nl\n\n79.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_49"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b83a75b3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e3343c9e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 95,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "b6bdf64e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 99,
+              "end": 126,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "dbd88de7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e7a69d94",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 138,
+              "end": 180,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: woensdag 22 januari 2025 10:39\n\nAan: 5.1.2.e + MG_Antennebureau\n\nOnderwerp: RE: Niet voor niks gewerkt.\n\nBijlagen: Metingen RDI tonen aan dat elektromagnetische straling antennes onder\nblootstellingslimiet blijft - Telecompaper.pdf\n\nHi!\n\nIk heb hem gevonden, zie bijlage.\n\nGroetjes,\n\n51 2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_50"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "73b4aeb2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e2bc0005",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 89,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3c4559b6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3d4facc5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 128,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "51b3033d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 140,
+              "end": 209,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.6\n\nVerzonden: woensdag 22 januari 2025 10:26\nAan: MG_Antennebureau\n\nOnderwerp: FW: Niet voor niks gewerkt.\n\nKan iemand deze zo delen zodat hij leesbaar is? ©",
+      "dossier_id": "17921044",
+      "email_id": "email_51"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c6733b32",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "68b2a2ed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 78,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "1cde3111",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c1718edb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 117,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e @rdi.nl>\nVerzonden: vrijdag 17 januari 2025 15:43\nAan:5.1.2.e @antennebureau.nl>\n\nOnderwerp: Niet voor niks gewerkt.\n\nMetingen RDI tonen aan dat elektromagnetische straling antennes onder blootstellingslimiet blijft -\nTelecompaper\n\nVriendelijke groet\n\n5.1.2.e\n\nToelating en Standaardisatie\nDirectie Apparatuur\nRijksinspectie Digitale Infrastructuur\n\nMinisterie van Economische Zaken\n\nEmmasingel 1 | 9726 AH | Groningen\nPostbus 450 | 9700 AL | Groningen\n\n80.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_52"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "a489378e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 20,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "a6639432",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 66,
+              "end": 93,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "af650187",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 61,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "51491252",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 105,
+              "end": 128,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: g12e\n\nVerzonden: donderdag 6 november 2025 09:56\n\nAan: ae\n\nOnderwerp: Chatgesprek met 5. 1.2.€ vanuit Microsoft Teams\n\nMicrosoft Teamis\n\n52e\n\n512 9 maanden geleden\nGeachte 51 Ze F\nIn afwezigheid van mijn collega § 4 2e ontvangt u van mij de antwoorden op uw\n\nvervolgvragen. Wederom onze excuses dat u lang heeft moeten wachten op onze antwoorden.\n\nVraag 3\n\nStraling van 5G-antennes is hetzelfde als straling van 4G-antennes. De uiteindelijke sterkte\nvan het elektromagnetische veld wordt bepaald door de frequentie, zendvermogen,\nantenneversterking en de techniek (3G/4G/5G). Hier is en wordt onderzoek naar gedaan.\n\nNet als bij 4G-antennes maken 5G-antennes gebruik van radiofrequente elektromagnetische\nvelden. Op dit moment is er verschil in de toegepaste frequenties. Echter, het zendprotocol SG\nNew Radio kan op alle frequenties voor mobiele communicatie toegepast worden. Daarnaast\nontwikkelt de antennetechniek zich ook continu door. Dit is onafhankelijk van de toegepaste\ngeneratie (4G of 5G). In de beeldvorming wordt 5G wel vaak gekoppeld aan nieuwere\nantennetechnieken, zoals massive MIMO en small cells. Specifiek voor small cells: deze\ntechniek wordt ook gebruikt bij 4G. Meer mformatie over de verschillen tussen 4G en SG\nvindt u in deze factsheet. Meer informatie over de antennetechniek massive MIMO vindt u in\ndit rapport uit 2019.\n\nOnderzoek naar antennes en gezondheid richt zich over het algemeen niet op een specifieke\ngeneratie, maar bijvoorbeeld op frequenties. Los daarvan heeft in 2020 de Gezondheidsraad\neen advies uitgebracht over 5G en gezondheid.\n\nVraag 4\n\nZoals ook in ons eerder gestuurde antwoord staat, is er geen wetenschappelijk verband\naangetoond tussen blootstelling aan elektromagnetische straling en deze klachten. Mensen die\nbij het Antennebureau aangeven gezondheidsklachten te ervaren, adviseren we altijd contact\nop te nemen met de huisarts en/of GGD.\n\nWetenschappelijke adviesorganen zoals de World Health Organisation (WHO) en de\nGezondheidsraad concluderen dat in het wetenschappelijk onderzoek geen bewijzen zijn\ngevonden voor negatieve effecten op de gezondheid door blootstelling aan elektromagnetische\nvelden onder de blootstellingslimieten. Er is en wordt veel onderzoek gedaan naar antennes en\ngezondheid. Mocht er uit onderzoek op enig moment blijken dat sprake 1s van nadelige\ngezondheidseffecten, dan zal het kabinet passende maatregelen treffen.\n\nVraag 10\n\nHet is voor ons niet mogelijk om te reageren op dergelijke uitspraken, aangezien er bij ons\ngeen situaties bekend zijn waarin beademingsapparatuur uitviel door zendmasten die niet meer\nwerken. In zijn algemeenheid kunnen we wel aangeven dat apparatuur voor medische\ndoeleinden zeer robuust moeten zijn en daarmee tegen een bepaalde mate van verstoring\nmoeten kunnen. Ziekenhuizen hebben de verplichting ervoor te zorgen dat zij hun apparatuur\nongestoord kunnen gebruiken.\n\nIk ga ervan uit u hiermee voldoende te hebben geïnformeerd.\n\nMet vriendelijke groet,\n\n81.",
+      "dossier_id": "17921044",
+      "email_id": "email_53"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c5ec2b6c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b51b53cf",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 63,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "b6fcfe6f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 53,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "4ab2488b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 122,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nAan: 5.1.2.e\n\nOnderwerp: FW: Meerjarenplan EMV\n\nDatum: donderdag 13 februari 2025 12:34:53\n\nBijlagen: meerjarenplan EMV final 511/216 opm JZ °\"*.docx\n\nBeste5 12.6 en5.1.2e,\n\nIk heb net even met5.1.2.8 gesproken en hij geeft aan dat hij en er een paar opmerkingen bij hebben gezet.\nHet is nu even aan ons om of de opmerkingen te verwerken of te negeren. Ik wil het MJP nu even wat verder\nbrengen zodat het naar onze Haagse collega’s kan. Ik heb net met5 1 2.6 gesproken en zij heeft EMV nog steeds\nonder haar hoede.\n\nVraag: hoe stoffen we dit document nu af zodat we dat met5 1 2.@ kunnen bespreken. Met elkaar het document\ndoorlopen? Ik hoor graag de suggesties.\n\nMet vriendelijke groet,\n\n5.1.20\n\n512e\n\nAfd. Markttoezicht, Productregelgeving, Safety & Compliance\nDirectie Apparatuur\n\nRijksinspectie Digitale Infrastructuur\n\nMinisterie van Economische Zaken\n\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\n\nPostbus 450 | 9700 AL | Groningen\n\nT 088 0416000\n5.1.2.e\n@RDI.nl\n\nDe Rijksinspectie Digitale Infrastructuur staat voor de beschikbaarheid en betrouwbaarheid van IT- en\ncommunicatienetwerken, zodat Nederland veilig verbonden is.\nVolg ons op Linkedin, Instagram en Youtube",
+      "dossier_id": "17921044",
+      "email_id": "email_54"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7a5d5659",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "9f3de05c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 19,
+              "end": 27,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d73ac470",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 69,
+              "end": 104,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3139add5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 60,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "223bb383",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 116,
+              "end": 163,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\nVerzonden: vrijdag 7 februari 2025 16:28\n\nAan:5.1.2.e\nOnderwerp: Meerjarenplan EMV\n\nHoi!?,\n\nIn bijlage de laatste versie van het MJP EMV, deze is bijna klaar. Zie opmerkingen JZ.\n\nHet logo moet nog gedaan worden en de bijlage nog compleet gemaakt worden. We hangen nu vooral vast op de\nopmerkingen van JZ.\n\nMet vriendelijke groet,\n\nS12e\n\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\n\nPiet Mondriaanlaan 54 | 3812 GV | Amersfoort\nPostbus 1671 | 3800 BR | Amersfoort\n\n@rdi.nt\n\nwww. rdi.nt\n\n\n82.\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_55"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7820c464",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ce2556c8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 65,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "0f4320fc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 52,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "da335428",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 94,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Verzonden: donderdag 6 november 2025 11:00\n\nAan: B as WS t\n\nOnderwerp: Chatgesprek met §.1.2.€ vanuit Microsoft Teams\n\n51228 _1 jaar en 3 maanden geleden\n\nIn de digitale wereld 1s er steeds minder verschil tussen dag en nacht. Denk aan vervoer\n(vliegtuigen vliegen ook ’s nachts), online verbindingen die altijd aan staan (mobiele telefonie,\ninternet), radio- en televisiezenders, maar ook bronnen die onbedoeld elektromagnetische\nvelden produceren (hoogspanningslijnen of elektrische apparatuur).\n\nU heeft het over een piek rond het hele uur en een piek om 4:00 uur ’s ochtends. Dit komt niet\nterug in onze meetrapporten, dus hier kan ik inhoudelijk niks over zeggen.\n\n83.\n\n57 J—— =]",
+      "dossier_id": "17921044",
+      "email_id": "email_56"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "31e9b86c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 11,
+              "end": 42,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "458de159",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 59,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d96250c4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 117,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: Li, TT\n\nVerzonden: donderdag 6 november 2025 11:09\n\nOnderwerp: Chatgesprek metS.1.2. = _vanuit Microsoft Teams\n\nMicrosoft Teams\n\ni PX - Se ms 1 jaar en 2 maanden geleden\n\nHet spijt me enorm, maar ik zet de 5. case op jouw naam.... We wachten nog op\n\nfeedbackpunten van§ 1 2e en/o © van KP en daarna kan het word doc doorgestuurd\nnaar ons 5.\n\n84.\n\n52e mf",
+      "dossier_id": "17921044",
+      "email_id": "email_57"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "104d246b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f7d946c4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a35f7c27",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 68,
+              "end": 115,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: WIR TT ek\n\nVerzonden: donderdag 6 november 2025 11:05\n\nAan: or\n\nOnderwerp: Chatgesprek met 5.7.2. _ _ vanuit Microsoft Teams\n\nMicrosoft Teams\n\n| ‚52e 1 jaar en 1 maand geleden\n\n_ Update 12e is trouwens: 5 ! 2e heeft er best lang over gedaan om de antwoorden te\nchecken (echt wel weken, ze schoof het voor zich uit). Maar nu ligt het bij ik dacht =F\nen mss ook nog bij iemand anders. Dus we wachten op reactie. Ondertussen heeft 5.7.\n\na\nnog weer gemaild, dit weekend volgens mij. Staat op mijn naam nu mmmmmmmmm\n\n85.",
+      "dossier_id": "17921044",
+      "email_id": "email_58"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3d68d360",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 14,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ca60110d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 68,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2f77f41d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 27,
+              "end": 58,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9571bb5f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 129,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: IAR ETE\nVerzonden: donderdag 6 november 2025 11:04\nAan: = ‘ vi\nOnderwerp: Chatgesprek met 5.12\n\n_ vanuit Microsoft Teams\n\nMierosoft Teams\n\nF : [8128 1 jaar en 0 maanden geleden\n= a\nwacht echt al te lang, dit kan niet\n\n5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_59"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4835fb06",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ccbded77",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 67,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "63184b6e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 24,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b0beca48",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 79,
+              "end": 99,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nVerzonden: vrijdag 28 februari 2025 11:22\n\nAan: 5.1.2.e\n\nOnderwerp: EMV-meerjarenplan\n\nBijlagen: meerjarenplan EMV final_5-1.2.€ opm JZ v2 besproken.docx\nHoi 5.1.2.6\n\nBedankt voor jullie tijd net. Hierbij zoals besproken het EMV-meerjarenplan.\n\nGroet,\n5.1.2.e\n\n87.\n\n89.",
+      "dossier_id": "17921044",
+      "email_id": "email_60"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b55ee65b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ca473c57",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 70,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3eb03451",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 25,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c8e2a9fb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 82,
+              "end": 99,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "152c0525",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 111,
+              "end": 167,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.e\n\nAan: antennebureau\n\nOnderwerp: Re: Betreft: Betreft: ] Formulierinzending: Contact\nDatum: dinsdag 12 augustus 2025 20:48:13\n\nDank voor de reactie,\n\nHet is overduidelijk dat andere belangen deze reactie vormen.\n\nIk wens u alle goeds en sluit af met een korte column van Max.\n\nZonnige Groet,\n\n5.1.2.e\n\n“Straling? Geen zorgen. We meten als het veilig is.”\n\n(Of: hoe je burgers gaar kookt)\n\nDoor Max von Kreyfelt |\n\nNederland is dol op regels. Op normen. Op toezicht.\n\nPlastic rietjes? Verboden. Houtrook? In de gaten houden. Eieren met dioxine? Gelijk uit de\nschappen.\n\nMaar zodra het over elektromagnetische straling gaat,\n\nwordt de overheid ineens een soort Oost-Indische waarzegger:\n\n“We meten niets, we merken niets, dus is er niets.”\n\nEen veiligheidsbeleid dat uitsluitend veilig is voor zichzelf.\n\nNeem het antenneregister. Klinkt solide. Technisch. Betrouwbaar.\n\nTot je ontdekt dat het vol staat met gaten, foutjes en fantasiehoogtes.\n\nVan de 16.000 zendinstallaties wordt maar een fractie gecontroleerd.\n\nEn als ze meten? Dan alleen overdag, op lege plekken, zonder bewoning\n\nen nooit ‘s nachts, want dan slapen de meetwagens. Logisch toch?\n\nDat juist ‘s nachts de meeste klachten komen?\n\n“Misschien leuk om eens te onderzoeken,” zeggen de inspecteurs.\n\nMaar hé, leuk is geen beleid.\n\nMensen met implantaten? Warmtestand 2.\n\nDe norm is simpel: zolang je niet opwarmt als een magnetronmaaltijd, is het veilig.\nOf je nou een pacemaker draagt, een kunstheup hebt of een beugel in je kaak,\nniet relevant.\n\nWe meten op ‘algemene mens’, en jij bent blijkbaar een uitzondering.\n\nVoor mensen met elektrogevoeligheid (EHS) is het nog eenvoudiger:\n\n“Het zit tussen de oren.”\n\nToevallig precies op de momenten dat het zendverkeer piekt,\n\nmaar dat is natuurlijk puur psychologisch toeval. Neurotisch.\n\nStikstof? Boeren? Groningen? Allemaal erg. Maar zendstraling? Geen probleem.\nWant hierbij draait het niet om gezondheid.\n\nHet gaat hier om heel veel geld.\n\nElke frequentieveiling is een staatsjackpot.\n\nElke volle signaalbalk is winst voor telecomreuzen.\n\nDe overheid? Die houdt van bereik.\n\nEn van mensen die hun mond houden.\n\nEn daarom zijn er in Nederland, met opzet,\n\ngéén stralingsarme zones.\n\nNiet omdat het niet kan, maar omdat het niet mag.\n\nGriekenland deed het wel.\n\nWij doen het niet.\n\nDekking boven alles.\n\nConclusie: jij bent niet belangrijk\n\nWe waren ooit een land van zorgvuldigheid. Van wetenschap. Van verantwoordelijkheid.\nMaar straling?\n\nWe meten wat uitkomt.\n\nWe negeren wie stoort.\n\nWe stellen normen vast die vooral de telecomsector ontzien.\n\nDe burger mag kiezen:\n\nMigraine of migratie.\n\nZorgen of zwijgen.\n\nMaar blijf vooral geloven dat de overheid voor jou alles netjes in de gaten houdt.\nNiet de straling, maar jou.\n\nOp 23-05-2025 13:33 CEST schreef Antennebureau :\n\nGeachte 5 1.2.6,\n\nOpnieuw dank voor uw uitgebreide reactie. Het spijt me te horen dat u niet\ntevreden bent met mijn antwoord. Voor de volledigheid wil ik benadrukken\ndat ons advies bij gezondheidsklachten is om naar de huisarts te gaan.\nHiermee bedoel ik niet te zeggen dat de huisarts u iets kan vertellen over het\nuitvoeren van metingen en/of het meten van storingen.\n\nDe EMV-metingen die de Rijksinspectie Digitale Infrastructuur uitvoert\nworden getoetst aan de ICNIRP-normen. Dit hangt samen met de\nblootstellingslimieten. U geeft aan van mening te zijn dat bepaalde\n(gezondheids)effecten niet meegenomen worden in de blootstellingslimieten.\nHierom is het, naast de al eerder genoemde redenen, niet relevant een\naanvraag te doen voor een EMV-meting, aangezien deze resultaten worden\ngetoetst aan de ICNIRP-normen en de blootstellingslimieten, die u niet erkent.\nEventueel kunt u zelf een commerciële partij inschakelen om een meting uit te\nlaten voeren. Hieronder heb ik de contactgegevens genoteerd:\n\n-BICON Laboratories B.V. - T: 0492 — 39 09 11\n\n-DEKRA Certification B.V. - T: 088 — 968 35 50\n\n-KIWA DARE - T: 0348 — 43 09 79\n\n-DNV - T: 026 — 356 26 51\n\nIk kan me voorstellen dat dit niet het antwoord is waar u op hoopte, maar ik\nhoop u desondanks toch voldoende geïnformeerd te hebben. Mocht u\naanvullende vragen hebben, dan kunt u gerust opnieuw contact opnemen.\n\nMet vriendelijke groet,\n\nAntennebureau\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\n\nEmmasingel | | 9726 AH | Groningen\nPostbus 450 | 9700 AL | Groningen\nT 088 — 04 16 100\ninfo@antennebureau.nl\nwww.antennebureau.nl\n\nWilt u op de hoogte gehouden worden over antennes voor draadloze\ncommunicatie? Meld u dan nu aan voor de nieuwsbrief van het\nAntennebureau.",
+      "dossier_id": "17921044",
+      "email_id": "email_61"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "93d1b7c9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f3e1c1f6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 19,
+              "end": 33,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "dd1f8880",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 104,
+              "end": 137,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "540d8dd6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 96,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2.6\nDatum: 18-05-2025 20:30\n\nAan: info@antennebureau.nl\nOnderwerp: Re: Betreft: 5A 2.6 ‘ Formulierinzending: Contact\n\nBeste5 1.2.8\nHet is knap dat u verwacht dat de huisarts of ggd, storingen kunnen meten.\nIk verwacht dat niet, en dat is de reden waarom ik me tot het Antennebureau\nricht voor een broodnodige uitgebreide doormeting van de bewuste locatie.\nMet mijn primitieve stralingsmeter die niet verder gaat dan 3.5 Ghz kan ik\nsamen met mijn lichamelijke reactie deze locatie als zeer schadelijk voor de\nvolksgezondheid aanmerken. Tijdens een praatje met een buurtbewoner\nvernam ik dat een bewoner die recht in het stralingsveld woonde, zei dat hij\nek werd in zijn woning. Deze persoon is naar Frankrijk gegaan.\n\nIk wens dat u deze melding serieus neemt en hoor graag de resultaten van de\nmeting.\nOp dit moment worden vele antennes van mobiele communicatie vervangen\ndoor antennes met hoog vermogen. De gezondheidsschade door straling wordt\nbewaakt door metingen op verkeerde plaatsen en verkeerde tijdstippen. En die\nmetingen worden dan getoetst met een incorrecte blootstellingslimiet. Deze is\ngebaseerd op thermisch effect, terwijl er bij de frequenties van mobiele\ncommunicatie amper een thermisch effect is. De effecten die er wel zijn, zijn\nniet meegenomen in de blootstellingslimiet. Het Ministerie van Economische\nZaken en Klimaat (EZK) dat inzet op hoge dekking en verdient aan de\nfrequentieveilingen, moet ook de gezondheid behartigen. Dat zijn\ntegenstrijdige belangen. Een cursus Antennes gegeven door verschillende\npoten van EZK t.w. het Antennebureau, RDI en het Kennisplatform, is\ngebruikt om een analyse te maken hoe we worden voorgelicht over straling. In\nde communicatie aan kamerleden, gemeenteambtenaren, GGD en artsen wordt\nalle gezondheidsschade gecamoufleerd en gezegd dat het veilig is. Voor\nelektrohypersensitieve burgers is het leven vaak extreem ontwricht. Maar door\nde communicatie door EZK zijn er geen voorzieningen voor deze groep en\nkunnen zij nergens terecht.\nBoek: nlhttps://www.bol.com/nl/nl/f/ongecontroleerd-\nbestraald/9300000205582719/\nMet hartelijke groet,\n5.1.2.e\nOp 16-05-2025 10:45 CEST schreef Antennebureau :\nGeachte5.1.2.€,\nHartelijk dank dat u de tijd genomen hebt dit bericht te schrijven.\nBij gezondheidsklachten is ons advies altijd om contact op te\nnemen met huisarts en/of GGD. De omschrijving van uw\nklachten is dusdanig ernstig dat ik dit advies graag extra wil\nbenadrukken. Het Antennebureau kan geen informatie over\ngezondheidsklachten geven, dus hierom het dringende advies\ncontact op te nemen met uw huisarts en deze gezondheidsklachten\ndaar te bespreken.\nHopelijk gaat het weer iets beter met u en bent in de mogelijkheid\nonderstaande informatie over antennes, gezondheid en metingen\nte lezen.\nZendmasten\nJuist omdat antennes vaak in onze directe (woon)omgeving staan,\n\ngelden er blootstellingslimieten voor de elektromagnetische\n\nstraling van antenne-installaties. U mag nergens blootgesteld\nworden aan straling hoger dan de blootstellingslimieten, ongeacht\nof u dichtbij of zelfs recht onder een antenne-installatie woont.\nAntennes en gezondheid\n\nHet standpunt van de Wereldgezondheidsorganisatie en de\nGezondheidsraad is dat uit wetenschappelijk onderzoek geen\nnegatieve gezondheidseffecten zijn gebleken beneden de geldende\nblootstellingslimieten. Voor meer uitgebreide informatie over de\nstand van de wetenschap, onderzoeken, 5G en gezondheid verwijs\nik u naar de website van het Kennisplatform Elektromagnetische\nVelden en Gezondheid. Dit is een samenwerkingsverband van\nverschillende deskundige organisaties op het gebied van\nelektromagnetische velden en gezondheid.\n\nBlootstellingslimieten\n\nNederland hanteert de door de Europese Unie aanbevolen\ninternationale ICNIRP-normen als blootstellingslimieten. De\n\nstrengste limiet is 2 watt per vierkante meter (W/m?) en geldt\nonder andere voor de frequenties waar de radio-omroepen op\nuitzenden. De optelsom van alle straling (2G, 3G, 4G, 5G, radio,\nwifi, smartphones, etc.) mag niet boven de limieten uitkomen. De\nmeeste blootstelling aan elektromagnetische velden wordt\noverigens veroorzaakt door apparaten die we dichtbij ons dragen\nzoals mobiele telefoons en tablets. Ook daarvoor gelden Europese\nveiligheidsnormen.\n\nMetingen Rijksinspectie Digitale Infrastructuur\n\nDe Rijksinspectie Digitale Infrastructuur (RDI) is toezichthouder\nop de blootstellingslimieten. Daarom meet de RDI de\nvermogensdichtheid steekproefsgewijs door heel Nederland. Dat\nbetekent dat niet bij elke antenne-installatie gemeten wordt. We\nzien geen aanleiding aan te nemen dat de blootstellingslimiet bij\nde antenne in uw buurt overschreden wordt. De\nvermogensdichtheid die de RDI meet ligt overal in Nederland\nonder de limieten. Ook vlakbij zendmasten of in appartementen\nrecht onder een antenne-installatie. Alle veldsterktemetingen zijn\nopenbaar en te vinden in het Antenneregister.\n\nIk hoop dat uw gezondheidsklachten zullen afnemen. Mocht over\nover antennes aanvullende of nieuwe vragen hebben, neemt u dan\ngerust opnieuw contact met ons op.\n\nMet vriendelijke groet,\n\nAntennebureau\nRijksinspectie Digitale Infrastructuur\nMinisterie van Economische Zaken\n\nEmmasingel | | 9726 AH | Groningen\nPostbus 450 | 9700 AL | Groningen\n\nT 088 - 04 16 100\n\ninfo@antennebureau.nl\n\nntennebureau.nl\nWilt u op de hoogte gehouden worden over antennes voor\ndraadloze communicatie? Meld u dan nu aan voor de\nnieuwsbrief van het Antennebureau.",
+      "dossier_id": "17921044",
+      "email_id": "email_62"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3bf6b87f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "42ea4cb0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 43,
+              "end": 64,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "0515749e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 20,
+              "end": 36,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "005c9e83",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 125,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:5.1.2.e\n\nDatum: 13-05-2025 13:35\n\nAan: info@antennebureau.nl\n\nOnderwerp: 5.1.2.6 Formulierinzending: Contact\n\nIngevuld contactformulier\n\nDatum: May 13, 2025 1:35:41 PM\n\nverplicht\n\nVraag/opmerking Besten, Afgelopen zondag heb ik een\ngigantische optater gekregen van een\n\nzendmast SRS) . Dat was ter hoogte\nvan 5.1.2.e b12e |\n\nGeen idee of de zendmast defect was en\nonnodig hoge straling af gaf. Ik kon gelijk de\nrichting voelen waar de straling vandaan\nkwam en ben tegen het verkeer in gaan\nrijden (met de fiets) om de herkomst van de\nstraling te blokkeren door de huizen. Dat\nwerkte onmiddellijk. Het duurde meer dan\n20 minuten voor ik me weer redelijk voelde.\nHet voelt nu nog steeds alsof MIER\n\n[I Tijdens deze aanval bekroop me de\ngedachte, dat als ik nu dood neerval, ik het\naan niemand kan vertellen dat het een\n\nreactie op de straling was. Nooit op deze\n\nwijze meegemaakt. WIEN\n\nee:\ndaar graag meten. De mast zou defect\nkunnen zijn of veel te hoog afgesteld. Met\n\nHartelijke Groet, 5 1 2.e\n\nE-mail 5.1.2.e",
+      "dossier_id": "17921044",
+      "email_id": "email_63"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "32bde8d7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 11,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "62ea5ed8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 43,
+              "end": 65,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "436c423f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 20,
+              "end": 36,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "41f3a7fd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 148,
+              "end": 171,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3452b8e0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 112,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 approach,exact_macro_f1,n_emails
-Regex,0.8809,171
-RobBERT (token, unweighted),0.3124,171
-RobBERT (token, class-weighted),0.4646,171
-GPT-5.5 (text),0.7407,171
-GPT-5.5 (vision+text),0.7515,171
+Regex,0.8302,1007
+"RobBERT (token, unweighted)",0.5247,1007
+"RobBERT (token, class-weighted)",0.4856,1007
+GPT-5.5 (text),0.7444,1007
+GPT-5.5 (vision+text),0.7523,1007

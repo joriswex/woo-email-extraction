@@ -14,6 +14,7 @@ from __future__ import annotations
 import base64
 import json
 import re
+import threading
 from io import BytesIO
 from pathlib import Path
 
@@ -189,16 +190,24 @@ def _get_client() -> OpenAI:
     return _client
 
 
+# pypdfium2 (pdfplumber's PDF renderer) is not thread-safe — concurrent
+# .open()/.to_image() calls from multiple threads raise PdfiumError("Failed
+# to load page."). Serialize just the rendering step; the slow network call
+# to the OpenAI API afterwards still runs concurrently across threads.
+_pdf_render_lock = threading.Lock()
+
+
 def _render_pages_b64(pdf_path: Path, page_numbers: list[int], resolution: int = 150) -> list[str]:
     """Render PDF pages (1-indexed) as base64-encoded PNG strings."""
     import pdfplumber
     result = []
-    with pdfplumber.open(pdf_path) as pdf:
-        for pn in page_numbers:
-            img = pdf.pages[pn - 1].to_image(resolution=resolution)
-            buf = BytesIO()
-            img.save(buf, format="PNG")
-            result.append(base64.b64encode(buf.getvalue()).decode())
+    with _pdf_render_lock:
+        with pdfplumber.open(pdf_path) as pdf:
+            for pn in page_numbers:
+                img = pdf.pages[pn - 1].to_image(resolution=resolution)
+                buf = BytesIO()
+                img.save(buf, format="PNG")
+                result.append(base64.b64encode(buf.getvalue()).decode())
     return result
 
 
@@ -274,6 +283,7 @@ def extract_fields_vision(
         model=_MODEL,
         messages=[{"role": "user", "content": content}],
         max_completion_tokens=2048,  # GPT-5.5 uses reasoning tokens before visible output
+        reasoning_effort="low",      # structured extraction doesn't need deep reasoning
     )
     raw = _strip_markdown(resp.choices[0].message.content)
 
@@ -330,7 +340,8 @@ def detect_email_boundaries_vision(
     resp = _get_client().chat.completions.create(
         model=_MODEL,
         messages=[{"role": "user", "content": content}],
-        max_completion_tokens=8192,
+        max_completion_tokens=16384,
+        reasoning_effort="low",
     )
     raw = _strip_markdown(resp.choices[0].message.content)
 
@@ -400,6 +411,7 @@ def extract_fields_text_only(
         model=_MODEL,
         messages=[{"role": "user", "content": content}],
         max_completion_tokens=2048,
+        reasoning_effort="low",      # structured extraction doesn't need deep reasoning
     )
     raw = _strip_markdown(resp.choices[0].message.content)
 
@@ -437,7 +449,8 @@ def detect_email_boundaries_text(dossier_text: str) -> list[tuple[int, int]]:
     resp = _get_client().chat.completions.create(
         model=_MODEL,
         messages=[{"role": "user", "content": prompt}],
-        max_completion_tokens=8192,  # needs to fit first lines for 100+ emails
+        max_completion_tokens=24576,  # needs to fit first lines for 100+ emails, plus reasoning tokens
+        reasoning_effort="low",
     )
     raw = _strip_markdown(resp.choices[0].message.content)
 

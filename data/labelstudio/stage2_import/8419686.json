@@ -1,0 +1,1132 @@
+[
+  {
+    "data": {
+      "text": "To: | 5.1.2e leminezk.nn ne\nCe: { 5120 @minezk.nl]\nFrom: | 51.2e 5.1.2e |)\n\nSent: Tue 3/10/2020 10:57:17 AM\nSubject: Deelbaarheid inhoud brief\nReceived: Tue 3/10/2020 10:57:17 AM\n\nHil 5.1.2e\n\nMorgenochtend sta ik voor het bestuur van Groen Gas Nederland (bestaande ut) 5120 kn verder| 5128 _Van\nGasTerra en RENDO en eee Van Eneco). Hoe kijken we aan tegen het delen van de inhoud van de brief? Aa i\nhet merendeel van de punten in het verleden al besproken hebben via de KG (Groen Gas Nederland zit hierin) ende 5.1.2e\nkunnen we volgens mij open communiceren over de inhoud toch?\n\nVerder de vraag of we de brief ook al willen delen met de kerngroep en de stuurgroep. Hoe kijk jij hier tegen aan? Er bestaat het\nrisico dat men aan de hand van de brief gaat lobbyen in de TK, maar anderzijds hebben we de hele tii gecommuniceerd\nen zat de sector constant bij ons aan tafel, dus is het vreemd om de brief nu niet te delen met d 512e |\n\nGroet,\n\n5.1.2e",
+      "dossier_id": "8419686",
+      "email_id": "email_0"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c8447e2e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 50,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "cea6b32e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 74,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4552890b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 82,
+              "end": 107,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e63c8838",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 142,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e @minezk.ni] a\n\nSent: Mon 6/8/2020 10:46:19 AM\nSubject: RE: Gesprek, 5.1.2e | Gilde\nReceived: Mon 6/8/2020 10:46:19 AM\n\nOok akkoord voor jou 5.1.2e",
+      "dossier_id": "8419686",
+      "email_id": "email_1"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d9c9693e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 25,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "594989c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "77bdcb4d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 66,
+              "end": 93,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1,2e @minezk.nl>\nVerzonden: maandag 8 juni 2020 09:35\nAan, _512e ([S12el 512e \\@minezk.nl>\n\nCC:\nOnderwerp: RE: Gespre { 6.1.2e | Gilde 5.12e\n\nminezk.nl>\n\nHoi| 5-1.2e |, dank voor de toelichting, helder. Wat mij betreft kun je aan de slag (2° optie 5* ). Ik neem aan dat vanaf 2° week\njuli er meer ruimte in agenda's zal zijn..\n\nGroet,\n\n5.1.2e",
+      "dossier_id": "8419686",
+      "email_id": "email_2"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "908299f9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 23,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f688c292",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 35,
+              "end": 60,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f8f642fa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 114,
+              "end": 147,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van; 512e |(st2e})[ 512e \\@minezknl>\n\nVerzonden: maandag 8 juni 2020 09:14\n\nAaní 5.1.2e minezk.nl> 5.1.2e @minezk.nl>\nOnderwerp: RE: Gesprek §.1.2e | Gilde 51 2e)\n\nDag 5.1.2e\n\nDank voor de toelichting. Het Gilde van KVGN omvat 5.1.2e Gasunie, Gasterra, Shell, EBN en Nogepa en richt zich\nspecifiek op vier kernthema’s: CCS, waterstof, groen gas en geothermie. t kijken ze dwarsdoorsnijdend naar\nsysteemintegratie (en hebben daar ook een eigen traject op, waarop ook! 5.1.2e |is aangehaakt: SEIN).\n\nIk heb zoals gezegd vorige week al contact aehad met over systeemintegratie). Zij was positief over een eventueel\ngesprek en wilde daarbij ook graag 5.1.2e Programma Energie Hoofdstructuur) en| 5.1.2e\n\n(kabinetsreactie TIKI) betrekken.\n\nWillen jullie dat ik het haar nogmaals vraag met het oog op) 5-1-2e | volle agenda of kan ik aan de slag met KVGN,| 51:28 Jet\nal., en|5.1.2e | post-corona) om te zien of/wanneer een afspraak haalbaar is qua agenda’s en hoe we de inhoud kunnen\nvormgeven? Gezien vorige reactie, ligt mijn voorkeur (sterk) bij de tweede optie.\n\nHartelijke groet,\n5.1.2e",
+      "dossier_id": "8419686",
+      "email_id": "email_3"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "303c1650",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 74,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "55b5f8cd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 129,
+              "end": 162,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van 5.1.2e minezk.nl>\n\nVerzonden: zondag 7 juni 2020 15:08\n\nAan! 5.1.2e leminezk.nl>; 5.1.2e (S128 ) 5.1.2e lominezk.ni>\n\nOnderwerp: RE: Gesprek 5.1.2e gilde 512e\n\nHoi|512e/en | 5.1.2e |,\n\nJa dat kan, prima. Ik weet overigens niet precies wie vallen onder “gilde partijen /[512e|\" . Er staat nog een bestuurlijk overleg in\nde context van de Rijksvisie (en dus o.a. systeemintegratie) gepland medio deze maand met o.a. Netbeheer NL, Gasunie,\nTenneT. En er zijn alle vele contacten met stakeholders geweest de afgelopen periode rond de rijksvisie. Verder zit nog in de\nplanning dat er begin juli vanuit wind op zee perspectief een breed adviesoverleg komt met ENL, Netbeh. NL, NWEA, Vemw\n\nGroet,",
+      "dossier_id": "8419686",
+      "email_id": "email_4"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b71994d2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 58,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "76ab10f3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 133,
+              "end": 162,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e leminezka\n\nVerzonden: vrijdag 5 juni 2020 16:28\nAan 5.1.2e §.1,2e |)| 5.12e minezk.nl>\n\nCC: 5.1.2e l@minezk.nl>\n\n\nOnderwerp: Re: Gesprek) 5.1 2e + Gilde/512e 0002\n\nYep\n\nBlijkbaar zijn er al veel gesprekken geweest over systeem integratie met gilde partijen er 5.1.2e had niet het idee dat dat\nnu nog voor de zomer nog een keer nodig was\n\nHij heeft gevraagd of we daar samen met dir e nog even naar kunnen kijken\n\n| 6.4.2e | kan| 6.1.2e | dat even opnemen met) 5.1.2e >\n\nHer, 5.1.2e\n5.1.2e\n\n5.1.26 |\n\n| 5.1.2e |\n\nMinisterie van Economische Zaken en Klimaat\nVerstuurd vanaf mijn telefoon, daarom kort en bondig\n\nPS: E-mailen buiten werktijd mag, maar hoeft niet!\nBeantwoord deze e-mail op een tijdstip dat het past...\n\nOp5jun.2020om13:31heeft) 512e (51.2e|) | st2e | Dminezk.nl> het volgende geschreven:\n\nHi [5.1.2e\n\njii vanochtend nog in de gelegenheid geweest te vragen hoe aangekeken wordt tegen een gesprek tussen\n| 5.1.2e pn de Gilde[5.1.2e] over coronaherstel en systeemintegratie?\n\nGroet,\n\n5.1.2e\n\n0003",
+      "dossier_id": "8419686",
+      "email_id": "email_5"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "20176200",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 21,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "03ffdb15",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 104,
+              "end": 125,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "f8f163f3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 59,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6155b75b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 137,
+              "end": 174,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e gasterra.nl]\nFrom: 5.1.2e 5.1.2e |)\n\nSent: Tue 4/2/2019 9:59:42 AM\n\nSubject: RE: Goed kennis te maken\nReceived: Tue 4/2/2019 9:59:42 AM\n\nBestd 5.1.2e\n\nHartelijk dank voor je mail.\n\nIk heb de bijeenkomst van afgelopen vrijdag als leervol en constructief ervaren. Dank dat we te gast mochten zijn.\n\nTen aanzien van de routekaart hebben we jullie contactgegevens duidelijk in ons achterhoofd. Zo snel we een beeld hebben van\nde procedure, weten we jullie te bereiken.\n\nMet vriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "8419686",
+      "email_id": "email_6"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "bff6d3e1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 23,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "96c44e7a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 30,
+              "end": 46,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "23b91fe8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "8c010639",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 88,
+              "end": 112,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e l@gasterra.nl>\nVerzonden: maandag 1 april 2019 14:59\n\nAan §.1.2e  {{ 5.1.2e | s12e D minez.nl>\nCC: 5.1.2e @gasterra.nl>\nOnderwerp: Goed kennis te maken\n\nBeste\n\nBedankt voor jullie komst afgelopen vrijdag. Ik heb het als een hele waardevolle sessie ervaren. Ook door jullie inbreng!\n\nIk had jouw contactgegevens al ontvangen. Hierbij die van mij (zie onder mijn gegevens).\n\nIk ben dus 5.1.2e bp het thema groen gas voor KVGN/GILDE. Gasunie, NAM, Shell, EBN, Nogepa en GasTerra werken ieder\nafzonderlijk aan het versterken van de groengasmarkt en — productie. Echter, we proberen dus ook gezamenlijk acties op te\npakken, omdat in sommige gevallen we gezamenlijk tot een beter/sneller resultaat kunnen komen. Het lijkt me goed om contact te\nhouden. Als we jullie kunnen helpen aan informatie, netwerk, etc, dan horen we dit graag.\n\nDaarnaast ben ik 5.1.2e bij GasTerra. Hieronder vallen ook de energietransitieprojecten die we\nsteunen (en dus groengasinnovaties).\n\nJullie hebben vast gemerkt dat er veel partijen geïnteresseerd zijn om bij te dragen aan de Routekaart Groen Gas. Ik begrijp dat\njullie nog aan het nadenken zijn hoe het proces hiervoor vorm te geven.\ne Als jullie hierbij hulp van ons nodig hebben, hoor ik dit graag. We kunnen je helpen vanuit de GILDE/KVGN\ngroengaswerkgroep, maar ook vanuit de afzonderlijke bedrijven. Als jullie bijvoorbeeld iets willen weten over handel in\ncertificaten, kunnen jullie goed terecht bij GasTerra. Qua invoeding is bv Gasunie/GTS de goede partij vanuit KVGN. Etc.\n¢ Een aantal partijen van KVGN is ook betrokken bij Groen Gas Nederland. Als Groen Gas Nederland een rol krijgt bij het\nuitwerken van de Routekaart Groen Gas, zullen we ook via Groen Gas Nederland input geven. Ik weet natuurlijk niet zeker of\nGroen Gas Nederland deze rol krijgt, omdat jullie dit als EZK zullen besluiten.\n\nGroet) 5.1.2e |\n\n5.1.2e\nGasTerra B.V.\nbs 5.1.2e\nm:\ne: 5.1.2e @gasterra.nl\ni:\n\nwww. gasterra.com\n\nGasTerra B.V.\nStationsweg 1\nP.O. Box 477\n\n9700 AL Groningen 0003\n\nThe Netherlands\n\ned\n\nGasTerra\n\nThis communication is intended only for use by the addressee. It may contain confidential or privileged information. If you receive\nthis communication unintentionally, please let us know by reply inmediately. GasTerra does not guarantee that the information\nsent with this email is correct and does not accept any liability for damages related thereto.",
+      "dossier_id": "8419686",
+      "email_id": "email_7"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4b709721",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b0888f12",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 111,
+              "end": 131,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "fc341d58",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "110c9abc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 143,
+              "end": 163,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e @gasterra.n!]\nFrom | si [size)\n\nSent: Mon 12/5/2022 11:40:17 AM\n\nSubject: RE: t.a.v. email over AHPD-Ameland\n\nReceived: Mon 12/5/2022 11:40:17 AM\n\nDank 5*2+))\n\n0004",
+      "dossier_id": "8419686",
+      "email_id": "email_8"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "64549aea",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 42,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "15543dc1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 74,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ebf47f5d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 85,
+              "end": 119,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e @gasterra.nl>\n\nDatum: E om 12:\n‘Aaa 5.1.2e 5.1.2e 5.1.2e minezk.nl>\n\nOnderwerp: RE: t.a.v. email over AHPD-Ameland\n\nEn........ We zijn heeeel blij met het programma Groen Gas.\nKnap stuk werk. Alle kennis, feiten, zorgen en plannen staan erin.\nTop!!\nGroet,\n5.1.2e",
+      "dossier_id": "8419686",
+      "email_id": "email_9"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6d96bcf6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "dc1fff70",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 42,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fd01fe93",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 126,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van:| 5.1.2e |\nVerzonden: maandag 5 december 2022 12:01\nAan 5.1.2e 5.1.2e ){ 512e @minezk.nl>\n\nOnderwerp: t.a.v. email over AHPD-Ameland\n\nGoedemorgen\n\nWe zien dat je in een email over bovenstaand onderwerp ben gekopieerd.\nIk kan me voorstellen dat je hier de inhoud, achtergrond en status niet van kent.\nMocht je meer willen weten dan kun je me bellen of mailen.\n\nWat ons betreft hoef jij hier niets mee te doen.\nWij pakken dit samen met de gemeente Ameland en eventuele andere betrokkenen op.\n\nGroet,\n\n5.1.2e\n\n| 5.1.2e\n\nm: 5.1.2e\nGasTerra B.V.\nStationweg 1\n\n9726 AC Groningen\nPostbus 477\n\n9700 AL Groningen\n\nThis communication is intended only for use by the addressee. It may contain confidential or privileged information. If\nyou receive this communication unintentionally, please let us know by reply immediately. GasTerra does not guarantee\nthat the information sent with this email is correct and does not accept any liability for damages related thereto.",
+      "dossier_id": "8419686",
+      "email_id": "email_10"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "bd7c7f54",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 14,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4df1889d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 26,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "cbac27b6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 106,
+              "end": 136,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e gasterra.nl] ng\n\nFrom: 5.1.2e {| 5.1.2e |)\nSent: Mon 5/2/2022 6:27:48 PM\n\nSubject: RE: Uitnodiging door GasTerra en partners voor seminar Energielnnovatie 20 mei a.s.\nReceived: Mon 5/2/2022 6:27:48 PM\n\nDad 5.1.2e\n\nInteressant: ik sluit graag aan.\n\ngasterra.nl>\n\nminezk.nl>\nOnderwerp: Uitnodiging door GasTerra en partners voor seminar Energie Innovatie 20 mei a.s.\n\nGoedemiddag | 5.1.2e\n\nIn de afgelopen jaren hebben we enkele keren contact gehad over groen gas productie en het ontwikkelen van projecten.\nWe hebben het daarbij ook gehad over allerlei innovaties die plaatsvonden en over de kansen die dat oplevert.\n\nVanuit die achtergrond (potentie innovaties Groen Gas en waterstof) heb ik je uitgenodigd voor deze seminar (zie bijlage).\nWe (genoemde organisatoren Gasunie, DNV, Entrance en GasTerra) zouden het erg op prijs stellen als we de overheid en jou\nspecifiek op dit seminar kunnen ontmoeten en spreken.\n\nGraag hoor ik van je of je (of van een van je collega(s)) geïnteresseerd bent en tijd hebt om vrijdagmiddag 20 mei a.s. aanwezig te\nzijn.\nMocht je inmiddels al gereageerd hebben op de eerdere uitnodiging, negeer dan dit verzoek.\n\nMet vriendelijke groet,\n\n5.1.2e\n\n5.1.2e\n\nm: §.1.2e\n\nGasTerra B.V.\nStationweg 1\n\n9726 AC Groningen\nPostbus 477\n\n9700 AL Groningen\n\nThis communication is intended only for use by the addressee. It may contain confidential or privileged information. If you receive\nthis communication unintentionally, please let us know by reply immediately. GasTerra does not guarantee that the information\nsent with this email is correct and does not accept any liability for damages related thereto.",
+      "dossier_id": "8419686",
+      "email_id": "email_11"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "38aabaf2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 26,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "db21d4f4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 53,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "c8bc1b49",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 83,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6afb69d9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 177,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "9050fb94",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 295,
+              "end": 375,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e @minezk.nl] a\n\nFrom: 5.1.26 5.1.2e |)\n\nSent: Tue 4/11/2023 12:43:32 PM\n\nSubject: FW: AHPD Ameland / opzegging GasTerra // vragen van Bareau\nReceived: Tue 4/11/2023 12:43:32 PM\n\nTer info: GasTerra en Bareau liggen op ramkoers.",
+      "dossier_id": "8419686",
+      "email_id": "email_12"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "97ab4444",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 24,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e3510cf9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 48,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2920b4fc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 81,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "452ae4b7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 150,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vanl 5.1.2e Dgasterra.nl>\nVerzonden: dinsdag 11 april 2023 14:40\nAan] 5.1.2e \\@bareau.nl>\n\n|\n\nie\n\n5.1.26 @ameland.nl>; 5.126 |@shell.com>| 6.1.28\na 8 il. 5.1.2e @shell.com;| —5.1.2e |\n\n)\n@gasterra.nb| 51.20 |\n\nOnderwerp: RE: AHPD Ameland / opzegging GasTerra // vragen van Bareau\n\nGeachte\n\nHierbij reageer ik op uw email van 27 maart 2023.\n\nWij kunnen ons voorstellen dat u teleurgesteld bent over beéindiging van de samenwerking. Dat het project AHPD\nAmeland vanwege gebrek aan voortgang en zonder voldoende financiering niet tot stand komt geeft u echter niet het recht\nop basis van insinuaties en complottheorieén GasTerra en zijn medewerkers in een kwaad daglicht te stellen.\n\nBij brief van 11 juli 2022 heeft GasTerra u voorgesteld gezamenlijk de Samenwerkingsovereenkomst AHPD Ameland te\nbeëindigen omdat niet aan de voorwaarden was voldaan. GasTerra heeft daarbij aangegeven constructief te willen kijken\nnaar een eventuele doorstart, maar dat dit een nieuw project zou zijn en niet onder de bestaande\nSamenwerkingsovereenkomst zou vallen. Uw reactie daarop was dat u niet wilde meewerken aan ontbinding maar wilde\nwerken aan een doorstart. Inmiddels is uit de berichtgeving van - onder andere - de Gemeente Ameland duidelijk\ngeworden dat deze doorstart niet tot stand komt. Omdat u niet wilde meewerken aan een gezamenlijke beëindiging van\nde Samenwerkingsovereenkomst heeft GasTerra daarop de samenwerking rechtsgeldig en volkomen te goeder trouw\nhandelend beëindigd. Voor GasTerra was dit — na bijna 10 jaar en bijna | miljoen euro in Bareau te hebben geïnvesteerd —\nteleurstellend, maar onvermijdelijk. Voor de goede orde wijzen wij hier nogmaals op de inhoud van onze brieven van 11\njuli 2022 en van 14 maart 2023 waarin wij duidelijk onze redenen voor beëindiging hebben gegeven. De in uw e-mails\nopgeworpen punten zijn onjuist en hebben bij GasTerra’s beslissing geen enkele rol gespeeld.\n\nOp 20 maart 2023 heeft u in reactie op onze brief van 14 maart 2023 een e-mail gestuurd, met kopie aan alle leden van de\nvoormalige stuurgroep, met een aantal insinuaties en beschuldigingen aan het adres van GasTerra en zijn medewerkers.\nPer e-mail van 27 maart 2023 hebben wij u uitdrukkelijk en formeel verzocht zich te onthouden van iedere verdere\nnegatieve berichtgeving of insinuaties over GasTerra en zijn medewerkers. Hierop heeft u in uw e-mail van 27 maart\n2023 gereageerd door er nog een schepje bovenop te doen en bovendien het ministerie van EZK en het Waddenfonds te\nkopiëren.\n\nGasTerra sommeert u hierbij voor de laatste maal zich vanaf nu te onthouden van het verspreiden van onjuistheden en\ninsinuerende teksten die tot doel of effect kunnen hebben de reputatie van GasTerra of zijn medewerkers te schaden en/of\ndie een schending inhouden van de bij de Samenwerkingsovereenkomst horende vertrouwelijkheid. Mocht u zich hieraan\nniet houden, dan behoudt GasTerra zich het recht voor de nodige rechtsmaatregelen tegen u en uw bedrijf te nemen.\n\nOp vergelijkbare berichten als uw email aan GasTerra van 27 maart 2023 zal GasTerra niet meer reageren.\n\nWij vertrouwen erop u hiermee voldoende te hebben geïnformeerd.\n\nHoogachtend,\n\n0006\n\n§.1.2e |\nGasTerra B.V,\nm: 5.1.2e\ne: 5.1.2e asterra.nl\n\ni: WWW. gasterra.nl\nVolg GasTerra op social media:\n\nTwitter | Facebook | LinkedIn\n\nGasTerra B.V.\nStationsweg 1\n9726 AC Groningen\nPostbus 477\n\n9700 AL Groningen\n\nGasTerra",
+      "dossier_id": "8419686",
+      "email_id": "email_13"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "1acc52c9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "94421450",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 221,
+              "end": 279,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vani 5.1.2e le bareau.nl>\n\nVerzonden: ma 27/3/23 16:04\n\nAan! _ §.1.2e @gasterra.nb>| 5.1.2e ogasterra.nl> 5.1.2e\n\n[| _6.1.2e _ |@gasterra.nl>\n\ncc} 5.1.2e @waddenfonds.nl>| 5.1.2e [5.1.2e 0 5.1.28 leminezk.nl»} 512e |\n\n5.1.2e @gasterra.nl>\nOnderwerp: Re: AHPD Ameland / opzegging GasTerra // vragen van Bareau\n\nLET OP: Externe e-mail\n\nGeachte directie van GasTerra,\n\nNaar aanleiding van het bericht val Sta | het volgende:\n\nGasTerra is ons vanaf begin 2015 in het kader van het Nederlandse innovatiebeleid behulpzaam geweest door de\nontwikkeling van onze AHPD technologie (groengas) mede te financieren, waarvoor hartelijk dank. Na afronding van het\nonderzoek (“WP6)” te Heerenveen, zijn wij begonnen met het ontwerp en de financiering van de AHPD demonstratie\ninstallatie op Ameland. Mede op initiatief van uw‚__5.1.2e 5.1.2e 5.1.26 is de NAM rond 2018 als extra\ncofinancier bij ons demo-project AHPD Ameland betrokken. Vanwege de complexe PAS problematiek heeft het verlenen\nvan een omgevingsvergunning lang geduurd, maar begin 2021 bleek dat dit alsnog rond zou komen en dat gold ook voor\nde financiering van het demo project op Ameland (ik verwijs gemakshalve naar het verslag van de\nstuurgroep/stakeholders d.d. 15 januari 2021).\n\nSnel daarna begon GasTerra tegenstrijdige signalen af te geven, waardoor wij in verwarring zijn geraakt. Medio 2021 had\n\n5.1.2e al om ons onduidelijke redenen gedreigd een deel van de toegezegde extra financiering stop te zetten,\nwaarvan ik de stakeholders/financiers per email op de hoogte heb gesteld. Medio 2021 ontvingen wij de\nomgevingsvergunning alsmede de subsidiebeschikking van het Waddenfonds, echter eind 2021 heeft de NAM in een\nongebruikelijk en informeel mailtje aangegeven dat men de samenwerking niet zal voortzetten vanwege “andere\nbelangen”. Een juridisch correcte opzegging door een bevoegd persoon heb ik van de NAM nog niet ontvangen. Ik heb\nbegrepen dat gedurende het jaar 2021 meermaals door de stakeholders over het project AHPD Ameland is gesproken\nzonder mijn aanwezigheid en zonder rekening te houden met de belangen van Bareau: wij werden als direct\nbelanghebbende niet betrokken noch geinformeerd.\n\n\nOnze verwarring heeft een hoogtepunt bereikt door de verklaring eer ede van Exxon|_5.1.2e 6.1.26 voo ee\n\nde Parlementaire Enquete op 5 oktober 2022: Exxon wil nie zich bezig houdt met de ontwikkeling van\ngroengas omdat dat hun fossiele businessmodel verstoort. verklaart bovendien dat de NAM zich om\ndezelfde reden ook niet met groengas mag bezig houden. Exxon zal bovendien nooit met concurrent Shell samenwerken\naan de ontwikkeling van groengas. Ik neem aan dat de verklaring van 5.1.2e geldt voor alle deelnemingen\nvan Exxon, inclusief GasTerra. Feit is derhalve, dat GasTerra (25% Exxon) in het kader van het Nederlandse\nInnovatiebeleid in 2015 begonnen is aan het AHPD-project met Bareau, vanaf 2018 op initiatief van 5.1.2e\n(blijkbaar door Exxon bij GasTerra gedetacheerd) aangevuld met de NAM (50% Exxon) terwijl Exxon zelf als\nbelangrijke aandeelhouder van beide cofinanciers het daarmee niet eens was. Dat dit tot een confrontatie zou leiden lag\nmet de wetenschap van nu voor de hand.\n\nIntussen heeft het Waddenfonds ons begrijpelijkerwijs begin 2022 om opheldering gevraagd met betrekking tot het\nbesteden van de subsidie. Onze accountant heeft medio 2022 laten zien dat onze administratie in orde is, er is nog\ndiscussie over de afschrijving van de proefinstallatie. Om het gesprek met het arn sa te kunnen voeren is\nmaximale transparantie noodzakelijk, maar tot mijn teleurstelling merk ik dat daara alle stakeholders wordt\nmeegewerkt. Dat geldt overigens niet alleen voor GasTerra, maar ook voo: 5.1.28 die als onderhandelaar en\nonderzoeker tussen april en december 2022 herhaaldelijk met GasTerra en overige stakeholders heeft gesproken over de\ndoorstart van ons project. 5.1.2e heeft volledig inzage in ons archief, projectdocumenten, data en netwerk\ngekregen, maar ons onvoldoende teruggekoppeld en teruggerapporteerd; daarom hebben wij via de vertrouwenspersoon\nvan de VU om opheldering gevraagd. De dag na het eerste gesprek bij de VU met _ 5-1-2e lontvingen wij -hoe\ntoevallig?- een formele opzegging van de samenwerking/intentieovereenkomst door GasTerra en de gemeente Ameland.\n\nIn de interne gedragscode van GasTerra lees ik over integriteit, eerlijk zaken doen, en dat medewerkers tegenstrijdigheid\ntussen hun belangen en die van de onderneming dienen te vermijden. Ik constateer dat er een strijdig belang bestaat tussen\nde Nederlandse Staat (uiteindelijk 50% cam Ta Teen (25% aandeelhouder van GasTerra).\nBovendien is er volgens genoemde verklaring ven| 512 | een strijdig belang tussen Shell en Exxon, beide\naandeelhouders van zowel GasTerra als NAM. Een en ander verklaart de tegengestelde geluiden vanuit GasTerra alsmede\nhet afhaken door de NAM. derhalve vraag ik mij af of dit de oorzaak is van het vastlopen van onze samenwerking. Mijn\nvragen hierover worden echter niet beantwoord, derhalve constateer ik wederom dat geen rekening gehouden wordt met\nde belangen van Bareau.\n\nIk lees in de bijlagen van uw jaarverslag 2021 dat er een of meer vertrouwenspersonen zijn aangesteld om complexe\nsituaties te kunnen bespreken. Graag zou ik de vertrouwenspersoon van GasTerra om raad willen vragen vanwege de\ngenoemde problematiek van tegenstrijdige belangen, de schijn van onbehoorlijk bestuur en gebrek aan transparantie.\n\nHierbij nogmaals onze vragen, nu aangevuld met enkele extra vragen als gevolg van de opzeggingsbrieven van GasTerra\nen de gemeente Ameland:\n\n-1: Op welk moment wist GasTerra dat de NAM zich op autoriteit van grootaandeelhouder Exxon niet met\ngroengastechnoogie mag bezig houden?\n\n-2: Had GasTerra al eerder kunnen en moeten vermoeden dat met het aangaan van een samenwerking en LOI im 2018\nmet Bareau sprake zou zijn van tegenstrijdige belangen, ook voor GasTerra?\n\n-3: Waarom is de samenwerking niet meteen 8 “am na de verklaring vaal 512e lop 5 oktober 2022; had u graag\n\ngezien dat Bareau nog even snel via zijn patentrecht wt handen zou geven?\n\n-4: Wat bedoelt GasTerra precies met “onafhankelijk projectmanagement”.\n\n-5: Wat bedoelt GasTerra met “een nieuw project”, waar zij gezien de recente communicatie kennelijk voor open\nstaan/stonden?\n\n-6: Waarom heeft de NAM nog altijd geen formele opzegging van de samenwerking / LOI geleverd?\n\n-7: Is GasTerra ervan op de hoogte, dat de gemeente Ameland volgens 5.1.2e als eis voor medewerking aan\nhet project stelt, dat Bareau zijn patentrechten uit handen geeft, en dat dit niet in het belang is van Bareau?\n\nIk hou mij het recht voor om zowel deze mail met vragen, als ook uw spoedige reactie, via de hoorzitting bij het\nWaddenfonds in het kader van onze bezwaarprocedure, openbaar te laten maken.\n\nWij blijven overigens streven naar realisatie van het project AHPD Ameland op basis van de vergunning en het door alle\nstakeholders goedgekeurde projectplan. Wij blijven zoeken naar financiers en hebben de gemeente Ameland daartoe een\nvoorstel gedaan en, zoals opgenomen in de samenwerking en LOI uit 2018, een AHPD licentie aangeboden. Wij hebben\n\naangegeven het project te willen doen zonder inbreng van de fossiele gasbedrijven, die een tegengesteld belang blijken Ee\n\nhebben.\n\nGraag uw reactie.\n\n5.1.2e\n\nBareau BV\n\nBezoekadres:\nLaboratorium\n\nDe Stapeling 2a\n8447 GN Heerenveen\n\nPostadres:\n\nPostbus 22\n4850AA Ulvenhout\n\n5.1.2e\n\nOC BAREAU\n\nDUURZAME TECHNOLOGIE\n\nOp 27 mrt. 2023, om 04:50 heeft 128 pgasterza.nl> het volgende geschreven:\nGeachte| 5.1.2e\n\nDe positie van GasTerra heb ik in de brief van 14 maart 2023 uiteen gezet en heb daar verder niets aan toe te voegen.\nDe uit uw mail naar voren komende interpretatie van uitspraken alsmede de daarin gedane aantijgingen -gedeeltelijk\nin de vorm van vragen- kunnen we bij GasTerra niet thuisbrengen, zijn onjuist dan wel onterecht. We wijzen ze\ncategorisch van de hand.\n\nIk vraag u met klem en formeel om met onmiddellijke ingang af te zien van iedere verdere negatieve berichtgeving of\ninsinuaties over GasTerra, medewerkers van GasTerra en alle andere betrokken bij het AHPD Ameland project.\n\nHoogachtend,\n\nFe 5120 =a\n5.1.2e\n\nGasTerra B.V.\n\nGasTerra B.V.\nStationsweg 1\n9726 AC Groningen\nPostbus 477\n\n9700 AL Groningen\n\nVan: 5.1.2e bareau.nl>\n\nVerzonden: maandag 20 maart 2023 12:16\n\n\nDank voor de helderheid met betrekking tot de eenzijdige opzegging van onze samenwerking en dank ook\nvoor de separate mail waarin GasTerra eveneens eenzijdig de Intentieverklaring opzegt.\n\nOns valt op dat uw opzeggingen plaats vinden binnen 24 uur nadat 5.1.2e Hoor de VU is\nuitgenodigd voor een gesprek over diens werk als onderzoeker en onderhandelaar. 5.1.2e\n\nonderhandelde met alle stakeholders over de doorstart van het project AHPD Ameland en eiste uiteindelijk\ndat Bareau zijn patentrechten zou moeten overdragen, als voorwaarde voor verdere samenwerking en\ndoorstart van het project AHPD Ameland. Wij zijn hiermee niet akkoord gegaan en hebben aangeboden om\nvanuit een minderheidsbelang een licentie af te geven. De gemeente heeft ons voorstel geweigerd, Wij\nberaden ons op deze situatie en hebben bij de VU vragen gesteld over de positie en integriteit van} _51.2e\n\n5.1.2e die niet in het belang van Bareau acteerde.\n\nDe gang van zaken is voor ons overigens geen verrassing, gezien de verklaring van Sen an\n\nExxon voor de Parlementaire Enquetecommissie op 5 oktober 2022. Hieruit is helder geworden dat Exxon\nniet in groengastechnologie wil investeren omdat dat het fossiele businessmodel van Exxon verstoort. Tevens\nstelt 5.1.2e dat de NAM zich niet met de ontwikkeling van groengas technologie mag bezig\nhouden. Exxon zal. zostelt _ 5.1.2e bovendien nooit samenwerken met concurrent Shell aan de\nontwikkeling van deze duurzame technologie. In feite benoemt het fossiele Exxon derhalve het duurzame\nBareau als concurrent, waarmee men niet wil samenwerken, ook niet via deelnemingen van Exxon.\n\nEen en ander betekent, zo concludeer ik, dat voor zowel de NAM als GasTerra, beiden met Exxon als\ngrootaandeelhouder, geen ruimte bestaat voor het project AHPD Ameland, op grond van hun eigen intern\nfossiele energiebeleid en daaruit voortvloeiende strijdige belangen. Wij denken na over de vraag of de NAM\nen GasTerra zich hiervan bewust waren op het moment van het aangaan van de samenwerking in 2018 en\ninformeel al veel eerder.\n\nDerhalve hoor ik graag uw antwoord op onderstaande vragen:\n\n-1: Op welk moment wist GasTerra (via 5.1.2e gedetacheerd door Exxon bij GasTerra) dat de\nNAM zich op autoriteit van grootaandeelhouder Exxon niet met groengastechnoogie mag bezig houden?\n\n-2: Had GasTerra al eerder kunnen en moeten vermoeden dat met het aangaan van een samenwerking en LOI\n\nin 2018 met Bareau sprake zou zijn van tegenstrijdige belangen, ook voor GasTerra?\n-3: Waarom is de samenwerking niet meteen opgezeed na de verklaring va [_S12e |o p 5 oktober 2022:\nhad u graag gezien dat Bareau nog even snel via St2e ijn patentrecht uit handen zou geven?\n\nWij verwachten uw antwoord binnen vijf werkdagen en hebben extern advies gevraagd over deze situatie, ik\nkom daar later nog op terug.\n\nIk zal een kopie van deze email als aangetekende brief aan de directie van GasTerra versturen.\n\n5.1.2e\n\nBareau BV\nAHPD Ameland BV\nBareau Group BV\n\nBezoekadres:\nLaboratorium\n\nDe Stapeling 2a\n8447 GN Heerenveen\n\nPostadres:\nPostbus 22\n4850AA Ulvenhout\n\n5.1.2e\n\nOp 15 mrt. 2023, om 09:39 heeft 5.1.2e (pgasterra.nl> het volgende\ngeschreven:\n\nGoedendag allen,\n\nNamens 5.1.2e stuur ik u aangehechte brief, waarmee GasTerra de\nIntentieverklaring opzegt die onze organisaties indertijd hebben ondertekend. Ik vertrouw\ner op dat u als destijds inhoudelijke vertegenwoordigers van de betrokken organisaties er\nzorg voor kan dragen dat deze brief op de juiste manier door uw organisatie verwerkt\n\nwordt. De leden van de voormalige stuurgroep van het project heb ik ter informatie in CC\nopgenomen.\n\nVriendelijke groeten,\n\ni 5.1.2e\nasTerra B.V.\n\n| 5.1.2e\n\ne: 5.1. 2e @aasterra.nl\n\ni: Www.gasterra.nl\n\nGasTerra B.V.\nStationsweg 1\n9726 AC Groningen\nPostbus 477\n\n9700 AL Groningen\n\nThis communication is intended only for use by the addressee. It may contain confidential or privileged information. If\nyou receive this communication unintentionally, please let us know by reply immediately. GasTerra does not\nguarantee that the information sent with this email is correct and does not accept any liability for damages related\nthereto.\n\neo)",
+      "dossier_id": "8419686",
+      "email_id": "email_14"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "cf9e74d4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 8244,
+              "end": 8261,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d00232c0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 54,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "60048da8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 8274,
+              "end": 8301,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "11247486",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 250,
+              "end": 308,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e bareau.nl] =\nCc: | 5.1.2e 5.1.2e |nu]\n\nFrom: 5.1.28 5.1.2e |)\nSent: Sun 12/11/2022 1:07:09 PM\n\nSubject: RE: Bareau / AHPD Ameland // Knelpunten /// Re: Mijn rol in hetkader van het AHPD Ameland project\nReceived: Sun 12/11/2022 1:07:09 PM\n\nBeste 5.1.2e\n\nHet Programma Groen Gas is een beleidsprogramma gericht op het realiseren van de juiste randvoorwaarden voor de transitie\nnaar groen gas (business case, biogrondstoffen, ruimtelijke inpassing). De acties die het kabinet in dat kader neemt zijn\nuitvoerig in de brief vermeld: de bijmengverplichting, een instrument voor vergassing, integratie van groen gas in het Nationaal\nProgramma Landelijk Gebied, afspraken met medeoverheden over de versnelling van inpassingsprocedures, etc.\n\nDe eerste drie punten die jij hieronder noemt, gaan specifiek over de casus Bareau en de relatie met andere stakeholders in het\nproces naar een FID. Het ligt niet voor de hand dat wij als EZK hier een rol in gaan nemen - de uitwerking van projecten is aan\nmarktpartijen; als EZK is ons mandaat gericht op de juiste randvoorwaarden (zie boven).\n\nJe laatste punt gaat breder en hier kan ik wel kort op reageren: waar het de marktordening van groen gas betreft, zien wij een\ncentrale rol voor marktpartijen. Dit gaat zowel om commerciële partijen die groen gas produceren als de commerciële partijen\ndie groen gas leveren. Deze laatste groep — de energieleveranciers — worden met de bijmengverplichting ook expliciet\naangespoord een rol te nemen in de keten.\n\nGroet,\n5.1.2e\n\n703\nminezk.nl>\n\nOnderwerp: Re: Bareau / AHPD Ameland // Knelpunten /// Re: Mijn rol in het kader van het AHPD Ameland project\n\nBestel 5.1.2e\n\nDank voor jouw snelle reactie.\n\nBeschouw de berichten met jou op cc svp als introductie op de vier onderstaande knelpunten mbt het opschalen van\ngroengasproductie, die mede dankzij de werkzaamheden van! 5.1.2e boven water zijn gekomen. Mijn team en ik\nhebben ons hier ook over verbaasd. Ik heb in de beleidsbrief van 2 december jl. gelezen dat jullie hulp aanbieden bij het oplossen\ndaarvan. Hierbij mijn verzoek om hulp bij het oplossen van deze knelpunten.\n\nGraag hoor ik hoe jullie dat aan gaan pakken.\n\n(1): Na ons vorige contact verscheen 5.1.2e bij mij thuis, die vriendlijk aanbood te helpen bij het\norganiseren van het project. 5:1:2¢ heeft gedurende ongeveer een half jaar uitgebreid alle stukken doorgenomen,\nwaarbij ook gebleken is dat er door de stakeholders / stuurgroep in mijn afwezigheid besluiten zijn genomen die niet\nin mijn belang waren. Er zijn notulen van die stuurgroep gemaakt, die zijn dankzij 5.1.2e recentelijk boven\nwater gekomen. Knelpunt was dat de stakeholders akkoord gegaan zijn met de financiering van het project, maar het\nproject niet openbaar wilden aanbesteden, tegen de aanbestedingswetten in; men wilde het onderhands regelen,\nwaarbij ikzelf verantwoordelijk zou zijn. Dat heb ik niet geaccepteerd met een conflict tot gevolg.\n\n( 2): Intussen heeft de Parlementaire Enquete dankzij het verhoor van 5.1.2e lan Exxon op 5 oktober\n2022 uitgewezen dat Exxon en NAM tegen groengas ontwikkeling zijn, terwijl ze ni ini lang in de hierboven\ngenoemde stuurgroep zaten. De NAM is rond 2019 door een opvolger van 5.1.2e 5.1.2e 5.1.2e\n5.1.2e door Exxon bij GasTerra gedetacheerd) bij ons project betrokken. Ik vraag mij af of men toen (in\n2019) al wist dat Exxon en de NAM tegen de ontwikkeling van groen gas waren. Knelpunt is dat de gasbedrijven\nderhalve moeilijk meer te vertrouwen zijn en dat zij alsmede de subsidiegever (Waddenfonds) zonder goede\n\nontbindingsgrond van hun verplichtingen en financiele bijdrage af willen. In mijn optiek is een verandering van beleid\ngeen ontbindingsgrond.\n\n(3): Uit de intensieve gesprekken van 5.1.2e 5.1.2e komt naar voren dat de gemeente\nAmeland eist dat ik de zeggenschap over de IP van Bareau en derhalve over mijn bedrijf met een \"onomkeerbaar\nmandaat” overdraag aan iemand die door de gemeente wordt aangewezen. Omdat wij dit weigeren heeft 5.1.2e\n\n\n5.1.2e (zich teruggetrokken. Knelpunt is dat hier in mijn optiek sprake is van chantage door de gemeente. Ik schat in moor\n\ndat indien de IP van Bareau (AHPD/AH2PD) zodanig belangrijk is voor de gemeenschap / overheid dat deze eis\ngerechtvaardigd zou zijn, dat in dat geval een prijs betaald dient te worden ter compensatie. Ik ben bereid om\ndaarover met de overheid te spreken, dat zal ik ook in onze brief aan de gemeente (gepland voor eind volgende\nweek) weergeven.\n\n(4): Wij hebben de indruk dat een en ander voortkomt uit het gebrek aan mandaat dat de huidige spelers in de\nenergiemarkt hebben om grootschalige groengas productie te ontwikkelen §.1.2e en ik lijken het overigens\nwel eens te zijn over het idee dat er daartoe een nieuwe onafhankelijke organisatie zou moeten worden ingericht.\nKnelpunt is dat de bestaande stakeholders zich als monopolisten opstellen en niet lijken te accepteren dat hun\nmonopoliepositie zal moeten worden genuanceerd. Wij voelen ons hier niet veilig bij.\n\nLos daarvan zal ik jouw spoor volgen om een afspraak met minister Rob Jetten te maken, dank voor de aanwijzing.\n\nMet vriendelijke groeten\n\n5.1.2e\n\nBareau BV\n\nBezoekadres:\nLaboratorium\n\nDe Stapeling 2a\n8447 GN Heerenveen\n\nPostadres:\nPostbus 22\n4850AA Ulvenhout\n\nA\n“ BAREAU\n\nDUURZAME TECHNOLOGIE\n\nOp 7 dec. 2022, om 19:28 heeft! 5.1.2e | 5.1.2e | _S12e f@minezk.nl> het volgende geschreven:\nDad 5.1.2e\n\nMet enige mate van verbazing heb ik inderdaad kennis genomen van de significante stroom aan emails aan mijn\nadres. Om te beginnen zou ik je willen verzoeken mij niet langer CC te zetten bij allerhande niet aan mij\ngeadresseerde mails.\n\nLos daarvan: het klopt inderdaad dat het ministerie van EZK een Programma uitrolt met generieke\nbeleidsinstrumenten (o.a. de bijmengverplichting) gericht op opschaling van de groen gas productie in Nederland.\n\nVoor een gesprek met onze minister kan een verzoek worden ingediend via: Uitnodigingsformulier bewindspersoon\nministerie van Economische Zaken en Klimaat | Ministerie van Economische Zaken en Klimaat | Rijksoverheid.nl. Het\nis wel goed om hierbij te weten dat onze minister een groot aantal verzoeken ontvangt en dat slechts een klein deel\ndaarvan gehonoreerd wordt met het oog op zijn agenda. In algemene zin helpt het om in het verzoek scherp aan te\ngeven welke punten je zou willen bespreken.\n\nGroet,\n5.1.2e",
+      "dossier_id": "8419686",
+      "email_id": "email_15"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "790e9f96",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 23,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2f9dfad2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 28,
+              "end": 48,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "8fd7e6b1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 72,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8a250662",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 79,
+              "end": 104,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "45ecd997",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 115,
+              "end": 212,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "614786a1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1544,
+              "end": 1642,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van} 5.1.2e (@bareau.nl>\n\nVerzonden: woensdag 7 december 2022 10:15 Door\n\nAan @ minezk.nl>\n\nCC: 5.1.2e le) 5.1.2e [nu>\n\nOnderwerp: Bareau / AHPD Ameland // Knelpunten /// Re: Mijn rol in het kader van het AHPD Ameland project\n\nGoedemorgen | 5.1.2e\n\nAfgelopen dagen heb ik jou op cc gezet van enige correspondentie met stakeholders rondom het beoogde project\nAHPD Ameland. Dit omdat in de beleidsbrief van 2 december jl staat, dat de Minister van Klimaat en Energie hulp zal\nbieden bij het oplossen van knelpunten inzake de ontwikkeling van groengasproductie.\n\nHierbij de belangrijkste knelpunten uit dit project:\n\n(1): Na ons vorige contact verscheen 5.1.2e bij mij thuis, die vriendlijk aanbood te helpen bij het\norganiseren van het project. 5.1.2e |heeft gedurende ongeveer een half jaar uitgebreid alle stukken doorgenomen,\nwaarbij ook gebleken is dat er door de stakeholders / stuurgroep in mijn afwezigheid besluiten zijn genomen die niet\nin mijn belang waren. Er zijn notulen van die stuurgroep gemaakt, die zijn dankzij 5.1.2e fecentelijk boven\nwater gekomen. Knelpunt was dat de stakeholders akkoord gegaan zijn met de financiering van het project, maar het\nproject niet openbaar wilden aanbesteden, tegen de aanbestedingswetten in; men wilde het onderhands regelen,\nwaarbij ikzelf verantwoordelijk zou zijn. Dat heb ik niet geaccepteerd met een conflict tot gevolg.\n\n( 2): Intussen heeft de Parlementaire Enquete dankzij het verhoor van 5.1.2e van Exxon op 5 oktober\n2022 uitgewezen dat Exxon en NAM tegen groengas ontwikkeling zijn, terwijl ze niettemin jarenlang in de hierboven\ngenoemde groep zaten. De NAM is rond 2019 door een opvolger van| 5.1.2e | 5.1.2e 5.1.2e\nnies hee Exxon bij GasTerra gedetacheerd) bij ons project betrokken. Ik vraag mij af of men toen (in\n2019) al wist dat Exxon en de NAM tegen de ontwikkeling van groen gas waren. Knelpunt is dat de gasbedrijven\nderhalve moeilijk meer te vertrouwen zijn en dat zij alsmede de subsidiegever (Waddenfonds) zonder goede\n\nontbindingsgrond van hun verplichtingen en financiele bijdrage af willen. In mijn optiek is een verandering van beleid\ngeen ontbindingsgrond.\n\n(3): Ult de intensieve gesprekken van 5.1,2e | 5.1.2e komt naar voren dat de gemeente\n\nAmeland eist dat ik de zeggenschap over de IP van Bareau en derhalve over mijn bedrijf met een \"onomkeerbaar\nmandaat” overdraag aan iemand die door de gemeente wordt aangewezen. Omdat wij dit weigeren heeft| 51-28 |\n\nzich teruggetrokken. Knelpunt is dat hier in mijn optiek sprake is van chantage door de gemeente. Ik schat in\ndat indien de IP van Bareau (AHPD/AH2PD) zodanig belangrijk is voor de gemeenschap / overheid dat deze eis\ngerechtvaardigd zou zijn, dat in dat geval een prijs betaald dient te worden ter compensatie. Ik ben bereid om\ndaarover met de overheid te spreken, dat zal ik ook in onze brief aan de gemeente (gepland voor eind volgende\nweek) weergeven.\n\n(4): Wij hebben de indruk dat een en ander voortkomt uit het gebrek aan mandaat dat de huidige spelers in de\nenergiemarkt hebben om grootschalige groengas productie te ontwikkelen. 5.1.2e n ik lijken het overigens\nwel eens te zijn over het idee dat er daartoe een nieuwe onafhankelijke organisatie zou moeten worden ingericht.\nKnelpunt is dat de bestaande stakeholders zich als monopolisten opstellen en niet lijken te accepteren dat hun\nmonopoliepositie zal moeten worden genuanceerd. Wij voelen ons hier niet veilig bij.\n\nWij hebben als technologieontwikkelaar veel steun gehad van het innovatiebeleid van EZK en met AHPD/AH2PD een\nunieke en opschaalbare groengas technologie ontwikkeld; wij gaan ervan uit dat dit wordt doorgezet met betrekking\ntot het opschalingsbeleid. Ik verzoek derhalve om een gesprek met Minister Rob Jetten om deze knelpunten te\nbespreken en te bekijken of jullie oplossingen bij genoemde knelpunten kunnen helpen ontwikkelen.\n\nMet vriendelijke groeten,\n\n5.1.2e\n\nBareau BV\n\nBezoekadres:",
+      "dossier_id": "8419686",
+      "email_id": "email_16"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d5a1b890",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 96,
+              "end": 119,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "f02b01bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 72,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "2c3bf41e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 131,
+              "end": 225,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: 5.1.2e 5.1.2e\nSent: Mon 11/28/2022 11:44:18 AM\nSubject: FW: Groengas, Gasbedrijven en waterschappen\n\nTo: 5.1.2e _ lominezknll ee\n)\n\nReceived: Mon 11/28/2022 11:44:18 AM\nTI/TV",
+      "dossier_id": "8419686",
+      "email_id": "email_17"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "038e790a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 19,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "98f8b891",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 26,
+              "end": 52,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "4d9758c5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 105,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van 5.1.2e Dbareau.nl>\nVerzonden: maandag 28 november 2022 12:39\nant 5.1.2e Bvu.nl>; 5.1.2e jer. 5.1.2e (@wxs.nl>\ncc: 5.1.2e @ gmail.com>; |5.1.2e bareau.nl 5.1.2e Dprojectfirst.nl>;\n5.1.2e @brabant.nl>; 5.1.2e 5.1.2e 5.1.2e  |@minezk.nl>\n\nOnderwerp: Groengas, Gasbedrijven en waterschappen\n\nBeste) _ 5.1.2e\n\nOmdat jullie beiden bezig zijn met belangrijke voorbereidingen hierbij een update vanuit mijn positie als ondernemer. Ik zet enkele\nbetrokkenen op cc omdat ik geloof in transparantie die noodzakelijk is om de beoogde samenwerking tot stand te brengen. We\nhebben hierbij allemaal elkaar nodig.\n\n5.1.2e jis met |*'? als 5.1.2e bezig met project AHPD Ameland|5.1.2een zijn team met project AHPD Delfzijl. Het gaat om een\nbijzondere samenwerking met als doel de energietransitie verder te brengen. Ons technische idee bestaat uit het combineren van\nenkele serieuze technische problemen, waarbij een integrale en efficiente oplossing mogelijk is. Elk probleem separaat oplossen\nkost veel meer dan de combinatie aanpakken. Daartoe is samenwerking nodig op een nieuwe manier.\n\nIn dat kader spreek ik zelf met de provincie Noord Brabant en de BOM, die samen ook weer met de waterschappen in Brabant\nspreken. Dat laatste gaat over ons ambitieuze opschalingsprogramma (eerst gericht aan Invest-NL overigens) dat te maken heeft\nmet het opschalen van de groengasproductie in relatie tot o.a. het afschakelen van de Amercentrale en het privatiseren van de\nwarmtenetten naar Tilburg en Breda. Maar het is ook op andere situaties en schaalgroottes toepasbaar.\n\nHieronder enkele punten die belangrijk zijn bij de strategische keuzes die we moeten maken.\n\n(1): Ik hoor uit alle windstreken dat de waterschappen zich orienteren op deze complexe nieuwe samenwerking, ze zijn niet\ngewend aan dit soort externe initiatieven; ik schat in dat ze (de Unie van Waterschappen) weten dat dit politiek zwaar weegt.\nWaterschappen hebben sinds kort de ruimte gekregen om meer energie te produceren dan ze zelf nodig hebben. Waterschappen\nleveren ons grondstoffen (zuiveringsslibslib) en kunnen goedkoop financieren. We kunnen ook stikstof- en fosfaatproblemen\nhelpen oplossen (tbv de waterkwaliteit). Ik verwacht dat ze mee gaan werken.\n\n(2): Ik begrijp uit het verhoor var 5.1.2e (Exxon) door de Parlementaire Enquetecommissie (5 oktober 2022) dat de\ngasbedrijven NAM, Shell en Exxon graag naar aardgas willen boren in de Waddenzee, en dat zij tegen de ontwikkeling van groengas\nzijn, omdat dat concureert met hun fossiele businessmodel. Zij hebben de samenwerking met Bareau op Ameland opgezegd. Er\nloopt een vergunningsprocedure tbv gasboringen in het Wad.\n\n(3): Ik verneem dat GasTerra zal worden overgenomen door Shell. GasTerra spreekt tot ons met twee monden en laat enerzijds\nweten best nog wat te willen investeren, maar stuurde (deze week!) tegelijkertijd een brief met het tegendeel. Er spelen hier\nblijkbaar twee tegengestelde belangen. Geen betrouwbare groene partner gezien de beoogde overname door Shell.\n\n(4): De bijmengverplichting wordt ingevoerd vanaf 2025, groengas is nu geen subsidieproject meer, maar het wordt business. In de\nbetreffende brief wordt vergisting met waterstof (Zoals AHPD) positief beoordeeld, vergassing (zoals SCW) wordt negatief\nbeoordeeld.\n\n(5): De positie van infrabeheerder Gasunie is bijzonder, omdat zij ism PGGM en SCW werken aan groengasproductie via de SCW\ntechnologie (vergassing). Gasunie heeft dit geframed als innovatie en niet als productie. We zien daar echter geen technische\nresultaten tbv groengasproductie (dat werkt niet) en we constateren dat het belang van PGGM zal afnemen aangezien de (hun)\nwarmtenetten (Breda, Tilburg!) worden gecollectiviseerd.\n\n(6): Tjeerd de Groot (D66) gaf aan dat mestverwerking interessant wordt in samenhang met de sanering van de veestapel, maar hij\nadviseert ook om een afwachtende houding aan te nemen als het gaat om dierlijke mest. Eerst de veestapel saneren. Overigens is\n\nammoniak verwijdering (en fosfaatterugwinning) een voorwaarde voor het AHPD proces, geen belemmering. 0008\n\nMijn politieke inschatting is dat we moeten werken aan samenwerking in de publieke sector, daar ook investeerders moeten\nvinden, maar uitdrukkelijk zonder partijen met een aardgas productie belang. Dat is best een lastige zoektocht.\n\nStatement van mijzelf als ondernemer: mijn groene duurzame bril is leidend bij wat ik doe; we moeten afstand nemen van de\n(fossiele) gasbedrijven en proberen samen te werken met de waterschappen.\n\nGraag jullie reactie hierop.\n\nMet vriendelijke groeten,\n\n5.1.2e 3\n\n5.1.2\n\nBareau BV\n\nBezoekadres:\nLaboratorium\n\nDe Stapeling 2a\n8447GN Heerenveen\n\nPostadres:\n\nPostbus 22\n4850AA Ulvenhout\n\nA\n“ BAREAU\n\nDUURZAME TECHNOLOGIE",
+      "dossier_id": "8419686",
+      "email_id": "email_18"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "5775a0b1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 118,
+              "end": 239,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "ad073a99",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f936cfdf",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 251,
+              "end": 290,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

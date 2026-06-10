@@ -133,9 +133,10 @@ def train(
     num_epochs: int = 15,
     batch_size: int = 8,
     early_stopping_patience: int = 3,
+    use_class_weights: bool = True,
 ) -> None:
     """
-    Fine-tune RobBERT for email field extraction with class-weighted Focal Loss.
+    Fine-tune RobBERT for email field extraction using Focal Loss.
 
     Parameters
     ----------
@@ -146,6 +147,9 @@ def train(
     num_epochs              : maximum training epochs (early stopping may halt earlier)
     batch_size              : per-device batch size
     early_stopping_patience : stop if val loss does not improve for this many epochs
+    use_class_weights       : if True, apply sqrt-inverse-frequency class weights as
+                              the alpha parameter of Focal Loss (recommended); if False,
+                              use plain Focal Loss without class balancing (baseline)
     """
     print("Loading model …  (first run downloads ~500 MB of weights)")
     model, tokenizer = load_model_and_tokenizer(model_name)
@@ -155,11 +159,15 @@ def train(
     dev_dataset = build_hf_dataset(load_annotations(dev_path), tokenizer)
     print(f"  train windows: {len(train_dataset)}  dev windows: {len(dev_dataset)}")
 
-    class_weights = _compute_class_weights(train_dataset)
-    print(f"  class weights — max: {class_weights.max():.2f}  "
-          f"(B-ATTACHMENT: {class_weights[LABEL2ID['B-ATTACHMENT']]:.2f}, "
-          f"B-CC: {class_weights[LABEL2ID['B-CC']]:.2f}, "
-          f"B-SUBJECT: {class_weights[LABEL2ID['B-SUBJECT']]:.2f})")
+    if use_class_weights:
+        class_weights = _compute_class_weights(train_dataset)
+        print(f"  class weights — max: {class_weights.max():.2f}  "
+              f"(B-ATTACHMENT: {class_weights[LABEL2ID['B-ATTACHMENT']]:.2f}, "
+              f"B-CC: {class_weights[LABEL2ID['B-CC']]:.2f}, "
+              f"B-SUBJECT: {class_weights[LABEL2ID['B-SUBJECT']]:.2f})")
+    else:
+        class_weights = None
+        print("  class weights disabled — using plain Focal Loss (unweighted baseline)")
 
     training_args = TrainingArguments(
         output_dir=str(output_dir),

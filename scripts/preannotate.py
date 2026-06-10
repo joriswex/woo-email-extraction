@@ -222,7 +222,11 @@ def _build_predictions(text: str, dossier_id: str, email_only: bool = False) -> 
 
 def prepare(pdf_path: Path, output_dir: Path, email_only: bool = False) -> None:
     dossier_id = pdf_path.stem
-    cached = output_dir / f"{dossier_id}.json"
+    # Always look for cached text in data/import/ (full pre-annotations),
+    # regardless of where the output is being written
+    cached = _ROOT / "data" / "import" / f"{dossier_id}.json"
+    if not cached.exists():
+        cached = output_dir / f"{dossier_id}.json"
 
     # Reuse text from existing import file to avoid re-running OCR
     if cached.exists():
@@ -264,17 +268,25 @@ def main() -> None:
     parser.add_argument("pdfs", nargs="+", help="PDF file(s) to process")
     parser.add_argument(
         "--output_dir",
-        default=str(_ROOT / "data" / "import"),
-        help="Directory to write import JSON files (default: data/import/)",
+        default=None,
+        help="Directory to write import JSON files. Defaults to data/import/stage1/ "
+             "when --email-only is set, data/import/ otherwise.",
     )
     parser.add_argument(
         "--email-only",
         action="store_true",
-        help="Only pre-annotate EMAIL boundaries, skip field predictions",
+        help="Only pre-annotate EMAIL boundaries (for Stage 1). "
+             "Writes to data/import/stage1/ by default.",
     )
     args = parser.parse_args()
 
-    output_dir = Path(args.output_dir)
+    if args.output_dir:
+        output_dir = Path(args.output_dir)
+    elif args.email_only:
+        output_dir = _ROOT / "data" / "import" / "stage1"
+    else:
+        output_dir = _ROOT / "data" / "import"
+
     for pdf in args.pdfs:
         prepare(Path(pdf), output_dir, email_only=args.email_only)
 

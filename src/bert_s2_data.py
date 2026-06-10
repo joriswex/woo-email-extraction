@@ -23,11 +23,6 @@ Field labels
 Each field value is BIO-encoded as B-<LABEL> / I-<LABEL>.  The header keywords
 ("Van:", "Aan:", "Datum:", "Onderwerp:") and surrounding whitespace are O.
 
-REDACTED marks any field value that has been withheld — a Woo article code
-like [5.1.2e], an OCR-empty region, or visually absent text.  The model learns:
-"after Van:, the next span is either B-FROM or B-REDACTED."  REDACTED is a
-value-state label, not a separate field; each span has exactly one label.
-
 Email-type classification (rule-based, Option A)
 ------------------------------------------------
 classify_email_type(text) inspects the "Onderwerp:" line:
@@ -45,7 +40,7 @@ import re
 
 FIELD_TYPES = [
     "FROM", "TO", "CC", "DATE", "SUBJECT",
-    "ATTACHMENT", "REDACTED",
+    "ATTACHMENT",
 ]
 
 LABEL2ID: dict[str, int] = {}

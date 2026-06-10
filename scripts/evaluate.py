@@ -30,6 +30,7 @@ Usage
 from __future__ import annotations
 
 import argparse
+import concurrent.futures
 import csv
 import json
 import shutil
@@ -166,6 +167,71 @@ def _merge_write_csv(
     archive_dir.mkdir(parents=True, exist_ok=True)
     shutil.copy(path, archive_dir / path.name)
     print(f"  → {path.relative_to(_ROOT)}")
+
+
+def _write_stage2_checkpoint(
+    output_dir: Path,
+    records: list[dict],
+    run_approaches: list[str],
+    counters: dict[str, dict],
+    raw_preds: list[dict],
+) -> None:
+    """
+    Merge-write Stage 2 results for a subset of approaches.
+
+    Used as a checkpoint after each phase (Regex / BERT / GPT) so that
+    killing the process mid-run doesn't lose already-computed results —
+    each approach's row is written as soon as it's finished, and re-running
+    just that phase later overwrites only its own rows.
+    """
+    raw_s2_path = output_dir / "stage2_raw_predictions.json"
+    existing_raw: list[dict] = []
+    if raw_s2_path.exists():
+        with open(raw_s2_path) as f:
+            existing_raw = json.load(f)
+    kept = [e for e in existing_raw if e["approach"] not in run_approaches]
+    merged_raw = kept + raw_preds
+    with open(raw_s2_path, "w") as f:
+        json.dump(merged_raw, f, ensure_ascii=False)
+    print(f"  checkpoint → {raw_s2_path.relative_to(_ROOT)}")
+
+    per_field_rows: list[dict] = []
+    summary_rows: list[dict] = []
+    for approach in run_approaches:
+        field_metrics = prf_from_counts(counters[approach])
+        for field in EVAL_FIELDS:
+            if field in field_metrics:
+                m = field_metrics[field]
+                per_field_rows.append({
+                    "approach": approach,
+                    "field": field,
+                    "exact_p":  m["exact_p"],
+                    "exact_r":  m["exact_r"],
+                    "exact_f1": m["exact_f1"],
+                })
+        mf = macro_f1(field_metrics)
+        summary_rows.append({
+            "approach": approach,
+            "exact_macro_f1": mf["exact_f1"],
+            "n_emails": len(records),
+        })
+
+    _merge_write_csv(
+        output_dir / "stage2_per_field.csv",
+        per_field_rows,
+        ["approach", "field", "exact_p", "exact_r", "exact_f1"],
+        run_approaches=run_approaches,
+        canonical_order=_STAGE2_ORDER,
+        aliases=_STAGE2_LABEL_ALIASES,
+    )
+    _merge_write_csv(
+        output_dir / "stage2_summary.csv",
+        summary_rows,
+        ["approach", "exact_macro_f1", "n_emails"],
+        run_approaches=run_approaches,
+        canonical_order=_STAGE2_ORDER,
+        aliases=_STAGE2_LABEL_ALIASES,
+    )
 
 
 def _gt_values(record: dict) -> list[dict]:
@@ -372,6 +438,7 @@ def run_stage2(
     run_gpt_text: bool = False,
     output_dir: Path = DATA_DIR / "results",
     bert_label: str | None = None,
+    gpt_workers: int = 8,
 ) -> None:
     print(f"\n=== Stage 2: field extraction ({len(records)} emails) ===")
 
@@ -389,124 +456,123 @@ def run_stage2(
         approaches.append(bert_label)
 
     counters: dict[str, dict] = {a: empty_counts() for a in approaches}
-    raw_preds_s2: list[dict] = []  # [{dossier_id, email_id, approach, predictions}]
 
+    # ── Phase 1: Regex (fast, runs over all emails) ────────────────────────
+    print("\n--- Phase 1/3: Regex ---")
+    raw_preds_regex: list[dict] = []
     for i, record in enumerate(records):
-        did   = record["dossier_id"]
-        eid   = record["email_id"]
-        text  = record["text"]
-        gt    = _gt_values(record)
-
-        # Regex
+        did, eid, text = record["dossier_id"], record["email_id"], record["text"]
+        gt = _gt_values(record)
         r_preds = [{"label": p["label"], "value": p["value"]}
                    for p in regex_fields(text) if p["label"] in EVAL_FIELDS]
         accumulate_field_counts(counters["Regex"], r_preds, gt, EVAL_FIELDS)
-        raw_preds_s2.append({"dossier_id": did, "email_id": eid,
-                              "approach": "Regex", "predictions": r_preds})
+        raw_preds_regex.append({"dossier_id": did, "email_id": eid,
+                                 "approach": "Regex", "predictions": r_preds})
+        if (i + 1) % 100 == 0 or (i + 1) == len(records):
+            print(f"  {i + 1}/{len(records)} emails processed")
+    _write_stage2_checkpoint(output_dir, records, ["Regex"], counters, raw_preds_regex)
 
-        # BERT
-        if bert_s2:
-            if bert_s2_arch == "crf":
-                from bert_s2_predict import predict_fields_crf as predict_fields
-            else:
-                from bert_s2_predict import predict_fields
+    # ── Phase 2: BERT (fast, runs over all emails) ─────────────────────────
+    if bert_s2:
+        print("\n--- Phase 2/3: BERT ---")
+        if bert_s2_arch == "crf":
+            from bert_s2_predict import predict_fields_crf as predict_fields
+        else:
+            from bert_s2_predict import predict_fields
+        raw_preds_bert: list[dict] = []
+        for i, record in enumerate(records):
+            did, eid, text = record["dossier_id"], record["email_id"], record["text"]
+            gt = _gt_values(record)
             b_spans = predict_fields(text, bert_s2, bert_s2_tok)
             b_preds = _spans_to_values(b_spans, text)
             accumulate_field_counts(counters[bert_label], b_preds, gt, EVAL_FIELDS)
-            raw_preds_s2.append({"dossier_id": did, "email_id": eid,
-                                  "approach": bert_label, "predictions": b_preds})
+            raw_preds_bert.append({"dossier_id": did, "email_id": eid,
+                                    "approach": bert_label, "predictions": b_preds})
+            if (i + 1) % 100 == 0 or (i + 1) == len(records):
+                print(f"  {i + 1}/{len(records)} emails processed")
+        _write_stage2_checkpoint(output_dir, records, [bert_label], counters, raw_preds_bert)
+    else:
+        print("\n--- Phase 2/3: BERT (skipped — no --bert-s2 given) ---")
 
-        # GPT-5.5 vision (v1 and v2)
+    # ── Phase 3: GPT (slow — one API call per email per version) ──────────
+    # Calls are independent per (email, version), so they're dispatched to a
+    # thread pool — each call is I/O-bound (waiting on the OpenAI API), so
+    # gpt_workers calls run concurrently instead of one-at-a-time.
+    if run_gpt or run_gpt_text:
+        print("\n--- Phase 3/3: GPT-5.5 ---")
+        import gpt_baseline
+
+        gpt_approaches: list[str] = []
         if run_gpt:
-            pos = stage1_index.get(did, {}).get(eid)
-            pm  = page_maps.get(did, {})
-            if pos and pm:
-                import gpt_baseline
-                for v in gpt_versions:
-                    label = _GPT_LABELS[v]
-                    try:
-                        g_preds = gpt_baseline.extract_fields_vision(
-                            RAW_DIR / f"{did}.pdf", pm, pos[0], pos[1],
-                            email_text=text, prompt_version=v,
-                        )
-                        accumulate_field_counts(counters[label], g_preds, gt, EVAL_FIELDS)
-                        raw_preds_s2.append({"dossier_id": did, "email_id": eid,
-                                             "approach": label, "predictions": g_preds})
-                    except Exception as exc:
-                        print(f"    GPT-5.5 v{v} error on {did}/{eid}: {exc}")
-                    time.sleep(0.3)
-            else:
-                print(f"    WARNING: no position found for {did}/{eid}, skipping GPT-5.5")
-
-        # GPT-5.5 text-only (no images — baseline for vision comparison)
+            for v in gpt_versions:
+                gpt_approaches.append(_GPT_LABELS[v])
         if run_gpt_text:
-            import gpt_baseline
+            gpt_approaches.append(STAGE2_GPT_TEXT_LABEL)
+
+        gt_by_key = {(r["dossier_id"], r["email_id"]): _gt_values(r) for r in records}
+
+        # Build a flat list of independent GPT call tasks
+        gpt_tasks: list[dict] = []
+        for record in records:
+            did, eid, text = record["dossier_id"], record["email_id"], record["text"]
+            if run_gpt:
+                pos = stage1_index.get(did, {}).get(eid)
+                pm  = page_maps.get(did, {})
+                if pos and pm:
+                    for v in gpt_versions:
+                        gpt_tasks.append({"did": did, "eid": eid, "text": text,
+                                           "kind": "vision", "version": v,
+                                           "pos": pos, "pm": pm})
+                else:
+                    print(f"    WARNING: no position found for {did}/{eid}, skipping GPT-5.5")
+            if run_gpt_text:
+                gpt_tasks.append({"did": did, "eid": eid, "text": text, "kind": "text"})
+
+        def _run_task(task: dict):
             try:
-                gt_preds = gpt_baseline.extract_fields_text_only(text)
-                accumulate_field_counts(counters[STAGE2_GPT_TEXT_LABEL], gt_preds, gt, EVAL_FIELDS)
-                raw_preds_s2.append({"dossier_id": did, "email_id": eid,
-                                     "approach": STAGE2_GPT_TEXT_LABEL, "predictions": gt_preds})
+                if task["kind"] == "vision":
+                    preds = gpt_baseline.extract_fields_vision(
+                        RAW_DIR / f"{task['did']}.pdf", task["pm"],
+                        task["pos"][0], task["pos"][1],
+                        email_text=task["text"], prompt_version=task["version"],
+                    )
+                else:
+                    preds = gpt_baseline.extract_fields_text_only(task["text"])
+                return task, preds, None
             except Exception as exc:
-                print(f"    GPT-5.5 text-only error on {did}/{eid}: {exc}")
-            time.sleep(0.3)
+                return task, None, exc
 
-        if (i + 1) % 10 == 0 or (i + 1) == len(records):
-            print(f"  {i + 1}/{len(records)} emails processed")
+        # Periodic checkpointing: every CHECKPOINT_EVERY completed calls, write
+        # whatever has been accumulated so far. If the run is killed partway
+        # through, the last checkpoint's counts/raw predictions survive — the
+        # final write at the end of the loop just overwrites with the complete set.
+        CHECKPOINT_EVERY = 50
+        raw_preds_gpt: list[dict] = []
+        completed = 0
+        with concurrent.futures.ThreadPoolExecutor(max_workers=gpt_workers) as executor:
+            futures = [executor.submit(_run_task, t) for t in gpt_tasks]
+            for fut in concurrent.futures.as_completed(futures):
+                task, preds, exc = fut.result()
+                did, eid = task["did"], task["eid"]
+                if task["kind"] == "vision":
+                    label = _GPT_LABELS[task["version"]]
+                else:
+                    label = STAGE2_GPT_TEXT_LABEL
+                if exc is not None:
+                    print(f"    {label} error on {did}/{eid}: {exc}")
+                else:
+                    gt = gt_by_key[(did, eid)]
+                    accumulate_field_counts(counters[label], preds, gt, EVAL_FIELDS)
+                    raw_preds_gpt.append({"dossier_id": did, "email_id": eid,
+                                          "approach": label, "predictions": preds})
+                completed += 1
+                if completed % 20 == 0 or completed == len(gpt_tasks):
+                    print(f"  {completed}/{len(gpt_tasks)} GPT calls completed")
+                if completed % CHECKPOINT_EVERY == 0 or completed == len(gpt_tasks):
+                    _write_stage2_checkpoint(output_dir, records, gpt_approaches, counters, raw_preds_gpt)
+    else:
+        print("\n--- Phase 3/3: GPT-5.5 (skipped) ---")
 
-    run_approaches = list(counters.keys())
-
-    # Save raw predictions — merge with existing file so previous approaches are preserved
-    raw_s2_path = output_dir / "stage2_raw_predictions.json"
-    existing_raw: list[dict] = []
-    if raw_s2_path.exists():
-        with open(raw_s2_path) as f:
-            existing_raw = json.load(f)
-    # Keep entries for approaches not run this time
-    kept = [e for e in existing_raw if e["approach"] not in run_approaches]
-    merged_raw = kept + raw_preds_s2
-    with open(raw_s2_path, "w") as f:
-        json.dump(merged_raw, f, ensure_ascii=False)
-    print(f"  → {raw_s2_path.relative_to(_ROOT)}")
-
-    # Build per-field CSV rows
-    per_field_rows: list[dict] = []
-    summary_rows: list[dict] = []
-
-    for approach in approaches:
-        field_metrics = prf_from_counts(counters[approach])
-        for field in EVAL_FIELDS:
-            if field in field_metrics:
-                m = field_metrics[field]
-                per_field_rows.append({
-                    "approach": approach,
-                    "field": field,
-                    "exact_p":  m["exact_p"],
-                    "exact_r":  m["exact_r"],
-                    "exact_f1": m["exact_f1"],
-                })
-        mf = macro_f1(field_metrics)
-        summary_rows.append({
-            "approach": approach,
-            "exact_macro_f1": mf["exact_f1"],
-            "n_emails": len(records),
-        })
-
-    _merge_write_csv(
-        output_dir / "stage2_per_field.csv",
-        per_field_rows,
-        ["approach", "field", "exact_p", "exact_r", "exact_f1"],
-        run_approaches=run_approaches,
-        canonical_order=_STAGE2_ORDER,
-        aliases=_STAGE2_LABEL_ALIASES,
-    )
-    _merge_write_csv(
-        output_dir / "stage2_summary.csv",
-        summary_rows,
-        ["approach", "exact_macro_f1", "n_emails"],
-        run_approaches=run_approaches,
-        canonical_order=_STAGE2_ORDER,
-        aliases=_STAGE2_LABEL_ALIASES,
-    )
     print("  Note: ANLS* scores computed separately via scripts/compute_anls.py")
 
 
@@ -551,6 +617,10 @@ def main() -> None:
     parser.add_argument(
         "--gpt-versions", nargs="+", type=int, choices=[1, 2, 3], default=[1, 2, 3],
         metavar="{1,2,3}", help="Which GPT Stage-2 vision prompt versions to run (default: 1 2 3)",
+    )
+    parser.add_argument(
+        "--gpt-workers", type=int, default=8, metavar="N",
+        help="Number of concurrent GPT-5.5 API calls for Stage 2 (default: 8)",
     )
     parser.add_argument(
         "--gpt-s1-vision", action="store_true",
@@ -643,7 +713,8 @@ def main() -> None:
 
     if "2" in args.stages:
         run_stage2(stage2_records, stage1_index, page_maps, bert_s2_arch, bert_s2, bert_s2_tok,
-                   run_gpt, args.gpt_versions, run_gpt_s2_text, output_dir, bert_label)
+                   run_gpt, args.gpt_versions, run_gpt_s2_text, output_dir, bert_label,
+                   gpt_workers=args.gpt_workers)
 
     print(f"\nDone. Results written to {output_dir.relative_to(_ROOT)}/")
 

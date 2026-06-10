@@ -1,0 +1,2225 @@
+[
+  {
+    "data": {
+      "text": "From: - DGMo\n\nSent: Thur 3/20/2025 4:47:09 PM\n\nSubject: FW: staking in het OV/compensatie EU-verordening 2021-782 (IENW/BSK-2025/61846)\nReceived: Thur 3/20/2025 4:47:09 PM\n\nHoi] 5.1.2e\n\nZie onderstaande vraag (helemaal onderin de mail). Heb jij tijd om hier naar te kijken?\n\nIk heb net zelf even in de WP2000 gekeken. In de wet is een grondslag opgenomen om regels te kunnen stellen. Maar van die grondslag\nis voor zo ver ik zo snel kon zien geen gebruik gemaakt. En ik heb de stakingsregeling van NS gevonden (zie\nhttps://www.ns.nl/uitgelicht/interessant-voor-u/vergoeding-staking.html), maar ik heb geen idee hoe dat bij andere vervoerders is geregeld.\n\nGroet,\n\n512e\n\n-----Oorspronkeliik bericht-----",
+      "dossier_id": "2891498",
+      "email_id": "email_0"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d174e66a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 12,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4475ed77",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 20,
+              "end": 45,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c53b596d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 135,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e - DGMo 4 5.1.26 Bminienw.nl>\n\nVerzonden: donderdaa 20 maart 2025 12:20\n\nAan 5.1.2e - DGMo 5.1.2e |\\@minienw.nl>\n\nCC/ 5.1.2e + DGMo 5.1.2 @minienw.nl>\nOnderwerp: RE: staking in het OV/compensatie EU-verordening 2021-782 (IENW/BSK-2025/61846)\n\nHi |5.1.2e\n\nWas deze nu bij jou bekend, vraag over de passagiersrechten verordening. Heeft| 5-1-2e tijd om hiernaar te kijken wellicht?\n\nGroet | 5.1.2e\n\n-----Oorspronkelijk bericht-----",
+      "dossier_id": "2891498",
+      "email_id": "email_1"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b4d68a7a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 40,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "815da8be",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 53,
+              "end": 82,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "eef0210e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 173,
+              "end": 252,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e + DGMo [5820 minienw.ni>\nVerzonden: donderdag 20 maart 2025 10:56\n\nAan 5.1.2 - DGMo 5.1.2e @minienw.nl>\n\nOnderwerp: FW: staking in het OV/compensatie EU-verordening 2021-782 (IENW/BSK-2025/61846)\n\nHij 5.1.2e\n\nDeze staat ook nog open.\nWeet jij wie dit oppakt?\n\nMet vriendelijke groet,\n\n5.1.2e\n\nMinisterie ur en Waterstaat Directoraat-Generaal Mobiliteit Directie OV en Spoor Rijnstraat 8 | 2515 XP | Den Haag |\nverdieping 5.1.2e\n\n5.1.2e\n5.1.2e Dminienw.nl\n\nwww.rijksoverheid.nl/ministeries/ienw\n\nwerkdagen: 5.1.2e\n\n-----Oorspronkelijk bericht-----",
+      "dossier_id": "2891498",
+      "email_id": "email_2"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d086b699",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 36,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ea912a60",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 48,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3563659c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 128,
+              "end": 207,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e - DGMo | 5.1.2e Dminienw.nl>\nVerzonden: dinsdag 11 maart 2025 10:24\nAan 5.1.2e ) - DGMo 5.12e  @minienw.nl>\n\n969595 Size + DGMo {__812e Pminienw.nl> 0001\n\n\nOnderwerp: FW: staking in het OV/compensatie EU-verordening 2021-782 (IENW/BSK-2025/61846)\n\nHoi| 5.1.2e\n\nVolgens is onderstaande burgerbrief voor jullie afdeling, toch? Zo ja, wie gaat hierover?\n\nMet vriendelijke groet,\n\nMinisterie yan Infra tuur en Waterstaat Directoraat-Generaal Mobiliteit Directie OV en Spoor Rijnstraat 8 | 2515 XP | Den Haag |\nverdieping 5.1.2e .\n\n5.1.2e\n\n5.1.2 minienw.nl\nwww.rijksoverheid.nl/ministeries/ienw\n\n-----Oorspronkelijk bericht-----",
+      "dossier_id": "2891498",
+      "email_id": "email_3"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4edb4f49",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 40,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "3a221cfe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 79,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b4b08be0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 179,
+              "end": 258,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van! 5.1.2e L DGMo 5.1.2e minienw.nl>\n\nVerzonden: dinsdag 11 maart 2025 10:01\n\nAan 6.1.28 -DGMo| 512e @minienw.nl>; 5.1.2e -DGMo{ __512e _ \\@minienw.nl>\n\nOnderwerp: staking in het OV/compensatie EU-verordening 2021-782 (IENW/BSK-2025/61846)\n\nHoi 5.1.2e\n\nZien jij kans om naar bijgaande burgerbrief te kijken? Wie kan dit het best oppakken bij OVS? Een reiziger wil weten of OV-vervoerders bij\nstakingen alternatief vervoer of compensatie moeten bieden volgens EU-verordening 2021-782 (rechten en plichten van treinreizigers)\n\nDeadline: 3 april a.s.\n\nMvg, 5-1.2e\n\n-----Oorspronkelijk bericht-----",
+      "dossier_id": "2891498",
+      "email_id": "email_4"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d1e84230",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "16f8651a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 165,
+              "end": 240,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van[_5.1.2i \\@informatierijksoverheid.nl { §.1.2i binformatierijksoverheid.nl>\nVerzonden: vrijdag 7 maart 2025 11:45\n\nAan: 5.1.2i @minienw.nl>\n\nOnderwerp: DPC ticket [T2836112 : bescherming van consumenten\n\nGeachte collega,\nEr is bij Informatie Rijksoverheid een vraag binnengekomen waarvoor wij uw medewerking nodig hebben.\nZou u onderstaande vraag willen beantwoorden?\n\nBij voorbaat dank,\n\n5.1.2e\n\n5.1.2e\n\nDatum/tijd gesprek: 07-03-2025 11:31:02\nReferentie: 112836112\n\nNaam: 5.1.2¢\n\nE-mail adres: 5.1.2e yahoo.com\nTelefoonnummer 5.1.2e\nKanaal: Inkomend telefoongesprek\nOnderwerp: bescherming van consumenten\n\nPaginatitel: Krijg ik als reiziger geld terug bij calamiteiten, zoals overboeking of natuurramp?\n\nInhoud vraag:\nDe cliént wil graag weten of vervoerders in het openbaar vervoer bij stakingen verplicht zijn om alternatief vervoer of compensatie te\nregelen voor reizigers.\n\nDe cliént vroeg zich specifiek af hoe de EU-verordening 2021/782 artikel 18 en 19 in Nederland worden toegepast in deze situatie. De\n\n969595 0001",
+      "dossier_id": "2891498",
+      "email_id": "email_5"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "071c0430",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 116,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6356a46c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 123,
+              "end": 143,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "002cab98",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 155,
+              "end": 205,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "9d31fc65",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 582,
+              "end": 609,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: DGMd__512e _ |@minienw.nll\nCe: )-DGMoj _ 512e _ @minienw.nl]\nFrom: - DGMo\n\nSent: Wed 4/2/2025 9:03:25 AM\nSubject: RE: Beantwoording burgervraag compensatie reizigers stakingen\nReceived: Wed 4/2/2025 9:03:32 AM\n\nHa} 5.1.2e\n\nJe beantwoording klopt volgens mij. Alleen als een reiziger een klacht heeft, moet die zich eerst richten tot de vervoerder zelf. Je\nkunt hiernaar verwijzen: Klacht over treinvervoerder | Passagiersrechten voor treinreizigers | Inspectie Leefomgeving en\n\nTransport (ILT)\n\nRaar dat de ILT heeft gezegd de vraag niet te kunnen beantwoorden, zij handhaven de verordening, zie Passagiersrechten voor\ntreinreizigers | Inspectie Leefomgeving en Transport (ILT). Toen ik me met de verordening bezig hield, had ik er contact over\nmet 5.1.2e @ILenT.nl en 5.1.2€ (@lLenT.nl. Als je meer wilt weten, zou je contact met hun kunnen opnemen.\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_6"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d0713c74",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 64,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "c2086d22",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 77,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6654013b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 85,
+              "end": 108,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "359aed4f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 118,
+              "end": 179,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van} 5.1.2e + DGMo < 5.1.2e leminienw.nl>\nVerzonden: woensdag 2 april 2025 10:40\n\nAaní 5.1.2e - DGMo { 5.1.2e @ minienw.nl>\n\nCC: 5.1,2e - DGMo 512e  @minienw.nl>\nOnderwerp: Beantwoording burgervraag compensatie reizigers stakingen\n\nHal 5.1.2e\n\nVia 5.1.2e kreeg ik een burgervraag doorgestuurd over compensatie bij stakingen (zie hieronder). Ik kreeg te\nhoren dat jij hier meer over zou weten. N.a.v. de EU-verordening en informatie uit de HRN-concessie en de NS-site een\nantwoord uitgewerkt (zie bijlage).\n\nZou jij vandaag mogelijk nog tijd hebben om hier doorheen te lopen om te zien of het zo klopt? We kregen deze vraag\nnamelijk lekker kort op de deadline van beantwoording (3 april) binnen.\n\nInhoud vraag:\nDe cliënt wil graag weten of vervoerders in het openbaar vervoer bij stakingen verplicht zijn om alternatief vervoer of compensatie\nte regelen voor reizigers.\n\nDe cliënt vroeg zich specifiek af hoe de EU-verordening 2021/782 artikel 18 en 19 in Nederland worden toegepast in deze situatie.\n\nDe cliënt had met deze vraag al contact opgenomen met de Inspectie Leefomgeving en Transport, maar daar kon de vraag niet\nbeantwoord worden.\n\nVriendelijke groet,\n\n5.1.2e\n\n963464 0002",
+      "dossier_id": "2891498",
+      "email_id": "email_7"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "a5439bc7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 129,
+              "end": 161,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "d7c1224a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 53,
+              "end": 80,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "074410be",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 173,
+              "end": 230,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 51.2e - IL 5.1.2e @lLenT.nll\n\nFrom: - DGMo\n\nSent: Thur 5/15/2025 1:32:24 PM\n\nSubject: RE: Antw. burgervraag compensatie stakingen in ov\nReceived: Thur 5/15/2025 1:32:00 PM\n\nBeste 5.1.2e\n\nDank voor onderstaande mail, fijn dat je tijd maakt om mee te kijken. Ik ben zelf nu ook benieuwd hoe het precies zit en heb\nnog een verdiepende vraag. Klopt het dus dat vervoerders bij stakingen niet verplicht zijn om alternatief vervoer in de vorm van\nbus of taxi aan te bieden, maar wel verplicht zijn om reizigers een mogelijke alternatieve treinroute of latere trein aan te bieden?\nWaar zou ik de onderbouwing hiervan kunnen vinden?\n\nDat zou dan betekenen dat deze passage uit mijn antwoord niet helemaal zou kloppen: Als de vervoerder u niet binnen 100\nminuten een andere reismogelijkheid aanbiedt, mag u zelf een andere reis regelen. U kunt bijvoorbeeld een andere trein, bus of\ntaxi nemen en de kosten terugvragen. De kosten moeten wel redelijk zijn.\n\nIk ben benieuwd hoe jij hiernaar kijkt en hoor graag van je. Interessant om hier eens dieper in te duiken!\n\nVriendelijke groet,\n\nMinisterie van Infrastructuur en Waterstaat\nDirectie Openbaar Vervoer en Spoor\nRijnstraat 8 | 2515 XP | Den Haag | 10D\nPostbus 20901 | 2500 EX | Den Haag\n\n@minienw.nl",
+      "dossier_id": "2891498",
+      "email_id": "email_8"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d2f79ad4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 32,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "99d408f0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 46,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "bb208a5d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 79,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e8cd7ff9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 139,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vanf 5.1.2e TJ 512e \\@ilenT.nl>\n\nVerzonden: dinsdag 13 mei 2025 12:24\n\nAan] 5.1.2e - ILT 5.1.2e @lLenT.nl>; 5.1.2e L DGMo ¢ 5.1.2e @minienw.nl>; 5.1.2e\nssze]-ILT{  512e — @lLenT.nl>; 5.126 -ILT 5.1.2e @lLenT.nl>; 5.1.2e -ILT\n\n5.1.2e @itenT.nl>\n\nOnderwerp: RE: Antw. burgervraag compensatie stakingen in ov\n\nHoi Allemaal,\n\nEven snel naar gekeken, ligt iets genuanceerder. Om te beginnen moeten we terugbetaling splitsen van vervangend vervoer. Ik\nneem aan dat dit niet goed gedaan is in het eerder gegeven antwoord. Bij alternatiefvervoer wordt in eerste instantie gedacht\naan bus inzet bij verstoringen, dit is nu niet van toepassing. Ik denk dat daar het verschil in antwoorden vandaan komt, bij\nstakingen is er geen bus inzet, verder reizen met de eerste mogelijkheid is logisch en niet in het antwoord meegenomen. Als\njullie de onderstaande zienswijze delen zal ik deze mail ter info aan mijn collega’s sturen ter lering.\n\nWie beantwoord | 5.1.2e\n\nTerugbetaling;\n\nJA vervoerders moeten terugbetalen conform artikel 19 lid 10\n\nStakingen van het personeel van de spoorwegonderneming, het handelen of nalaten van andere ondernemingen die dezelfde\nspoorweginfrastructuur gebruiken, en het handelen of nalaten van infrastructuur- en stationsbeheerders vallen niet onder de in de eerste\nalinea, punt c), bedoelde vrijstelling.\n\nAlternatief vervoer;\n\nLaten we voorop stellen dat het niet mogelijk is om alle treinreizigers met bussen of taxi's te vervoeren daarom is er geen\nverplichting tot direct alternatief vervoer, de wet spreekt hier ook over andere route en VROEGSTE gelegenheid en niet over\ndirect vervangend vervoer. Dus bij vervangend vervoer hebben we het over de eerst volgende mogelijkheid om te reizen. Dit\nwordt gedaan door de vervoerders en reizigers hebben hier recht op.\n\na) voortzetting van de reis of vervoer langs een andere route naar de eindbestemming bij de vroegste gelegenheid en onder vergelijkbare\nvervoersomstandigheden;\n\nc) voortzetting van de reis of vervoer langs een andere route naar de eindbestemming op een latere datum wanneer het de reiziger schikt\nen onder vergelijkbare vervoersomstandigheden.\n\n963461 0003\n\nDus de onderstaande tekst klopt wat dit betreft\nGoedemiddag\n\nVorige maand stelde u de vraag of vervoerders in het openbaar vervoer bij stakingen verplicht zijn om alternatief vervoer\nof compensatie te regelen voor reizigers. Specifiek vroeg u hoe de EU-verordening 2021/782 artikel 18 en 19 in\nNederland worden toegepast in deze situatie. Bedankt voor deze scherpe vraag. Ik kan me goed voorstellen dat het niet\nmeteen duidelijk is hoe de Europese regels zich tot de Nederlandse verhouden. Ik zal uw vraag zo duidelijk mogelijk\nproberen te beantwoorden. Onderin de mail ook enkele links naar handige pagina’s.\n\nAls er een staking is in het openbaar vervoer en u heeft lange vertraging, dan moet de vervoerder u een alternatief\naanbieden of geld teruggeven. Dit is vastgelegd in de Europese verordening die u ook in uw vraag aanhaalde, namelijk\n(EU) 2021/7821! Deze regel beschermt de rechten van treinreizigers in de Europese Unie.\n\nArtikel 18: Terugbetaling of vervoer langs een andere route\n\nAls u door een staking meer dan 60 minuten vertraging heeft of een aansluiting mist, moet het vervoersbedrijf u een\nkeuze geven:\n\nU krijgt uw geld terug voor het deel van de reis dat u niet heeft kunnen maken. Als de rest van de reis geen zin meer\nheeft, krijgt u ook dat deel terug.\n\nU mag op een andere manier reizen naar de eindbestemming, zo snel mogelijk en onder vergelijkbare omstandigheden.\nU mag op een later moment naar de eindbestemming reizen, op een tijd die u beter uitkomt.\n\nAls de vervoerder u niet binnen 100 minuten een andere reismogelijkheid aanbiedt, mag u zelf een andere reis regelen.\nU kunt bijvoorbeeld een andere trein, bus of taxi nemen en de kosten terugvragen. De kosten moeten wel redelijk zijn.\n\nArtikel 19: Schadevergoeding bij vertraging\n\nAls u bijv. door een staking lang moet wachten, heeft u recht op extra geld terug:\nBij een vertraging van 60 tot 119 minuten krijgt u 25% van uw ticketprijs terug.\nBij een vertraging van 120 minuten of meer krijgt u 50% van uw ticketprijs terug.\n\nSoms hoeft een vervoerder geen geld terug te geven, bijvoorbeeld bij extreem weer of natuurrampen. Een staking van\nhet eigen personeel valt hier niet onder. Dit betekent dat u bij een staking wel recht heeft op compensatie.\n\nToepassing in Nederland\n\nNederlandse vervoerders moeten zich aan de Europese regels houden. Daarbovenop maakt de overheid in Nederland\nafspraken met de vervoerders in concessies. Deze regels zijn vaak gunstiger zijn dan de Europese standaard,\nafhankelijk van het soort kaartje dat u heeft gekocht @\n\nBijvoorbeeld:\n\nBij een vertraging van 30 minuten krijgt u vaak 50% van uw ticketprijs terug.\n\nBij een vertraging van 60 minuten of meer krijgt u vaak 100% terug.\n\nKort gezegd: vervoerders in Nederland moeten bij stakingen een alternatief bieden of geld teruggeven. Dit komt door\nzowel de Nederlandse als de Europese regels.\n\nGraag jullie beeld hierbij.\n\nVriendelijke groet,\n\n5.1.2e\n\nInspectie Leefomgeving en Transport\nMinisterie van Infrastructuur en Waterstaat\n\nTeam Rail\nToezicht Rail en Maritiem\nToezicht en Opsporing\n\n963461 0003\n\nInspectie Leefomgeving en Transport\n\nPostbus 1691 | 2500 BD | Den Haag\n\nBezoekadres: Graadt van Roggenweg 500| 3531 AH [Utrecht\n\nM\nEne\n\nhttp://www .ilent.nl",
+      "dossier_id": "2891498",
+      "email_id": "email_9"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "8bab8622",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 44,
+              "end": 69,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "710883be",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 256,
+              "end": 305,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e -ILT 5.1.2e (@lLenT.nl>\ne i 2 ei 2025 11:04\n: - DGMo 4 5.1.2e leminienw.nl>; 5.1.26 ILT 5.1.2e bitent.nls;| 5.1.26\n5.1.28 @ILenT.nl>; 5.1.2e -ILT 5.1.2e @llenT.nl>;[ st2e | -ILT\n[S12 pilent.ni>\nOnderwerp: RE: Antw. burgervraag compensatie stakingen in ov\nBeste collega’s,\nNu met een werkend mailadres van 5.1.2e ook. In de vorige mail kreeg ik hier een foutmelding op. Ik vermoed dat jij\ndan de oorspronkelijke eerste mail van|5.1.2e |ook niet heeft gehad. 5.1.2e - ILT, zie hieronder.\nGroet,| 5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_10"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "a8bb5f88",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 35,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "744be024",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 217,
+              "end": 266,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e - ILT\nVerzonden: dinsdag 13 mei 2025 11:01\nAan: 5.1,.2e + DGMo d 5.1.2e @ minienw.nl>; 5.1.2e ILenT.nl.; 5.1.2e ILenT.nl)\n5.1.2e ILenT.nl>; 5.1.2e l@itenT.nl) 5.1.2e @lLenT.nl>; 5.1.2e\nILT 5.1.26 ILenT.nl>\n\nOnderwerp: RE: Antw. burgervraag compensatie stakingen in ov\n\nBestel 5.1.2e\n\nDank voor je mail en excuus voor mijn later reactie, ik zag het net pas in mijn mailbox.\n\nIk heb al een tijd een andere portefeuille en haal uit je mail dat dit om “reizigersrechten” gaat, aangezien je mij naast\nhebt aangeschreven. Ik weet niet of |5.1.2e\n\ndeze mail die hier met/5.1.2ejof apart op terug kunnen komen.\n\n5.1,2e @ILenT.nl),\n\n5.1.2e\n\nfelLenr. nl) en\n\nVeel dank!\n\nMet vriendelijke groet,\n\nzouden jullie de mail van |5.1.2e| kunnen | aciwoorden?\n\n5.1.2e\n\nInspectie Leefomgeving en Transport\nMinisterie van Infrastructuur en Waterstaat\n\nRijnstraat 8 | 2515 XP | Den Haag\nPostbus 16191 | 2500 BD | Den Haag\n\no>\nMS Crisisorganisatie\nILT\n\nContactgegevens - piket (24/7)\n\n@\n@ 5.1.2e\n\n963461\n\n5.1.2ejook\n\nal op de lijn is gekomen, maar ik schrijf direct mijn collega’s vanuit Bestuursadvies in\n\n5.1.2e\n\n- ILT,\n\n0003",
+      "dossier_id": "2891498",
+      "email_id": "email_11"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "07906901",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 17,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "47081ccd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 218,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "cfcf7d41",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 29,
+              "end": 54,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e95c02d2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 230,
+              "end": 279,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vanj 5.1.2e DGMo 5.1.2e @minienw.nl>\n\nVerzonden: donderdag 1 mei 2025 15:11\n\nAan: 5.1.2e LIT S12e |@itentnb _ 512e ILenT.nl.\nOnderwerp: Antw. burgervraag compensatie stakingen in ov\n\nGraag stel ik me even kort voor: Mijn naam is [__512e bn ik werk bij IenW in de directie openbaar vervoer en spoor. Jullie\n\nmailadressen heb ik via mijn collega 5.1.2e gekregen.\n\nIk mail jullie, omdat ik vorige maand de volgende burgervraag kreeg: “De cliënt wil graag weten of vervoerders in het openbaar\nvervoer bij stakingen verplicht zijn om alternatief vervoer of compensatie te regelen voor reizigers. De cliënt vroeg zich specifiek\naf hoe de EU-verordening 2021/782 artikel 18 en 19 in Nederland worden toegepast in deze situatie.”\n\nDaar heb ik met collega’s over gesproken en | 5-1-2e |daar vervolgens bijgevoegd antwoord op gegeven (zie bijlage). Nadat deze\nburger 5.1.2e had gelezen, mailde hij{s1.2e]dat hij deze vraag ook bij ILT had neergelegd, maar dat hij daar een ander\nantwoord kreeg, namelijk:\n\n“Volgens de VERORDENING (EU) 2021/782 VAN HET EUROPEES PARLEMENT EN DE RAAD van 29 april 2021 betreffende de\nrechten en verplichtingen van treinreizigers is een spoorwegonderneming niet wettelijk verplicht om vervangend vervoer te\nregelen tijdens een staking. Stakingen vallen onder overmacht, en vervoerders zijn daardoor niet verplicht om alternatieve\nreismogelijkheden aan te bieden.\n\nArtikel 18, lid 2b van bovenstaande verordening stelt dat wanneer een verstoring zoals vertraging of annulering het gevolg is van\novermacht, de vervoerder niet gehouden is tot het verlenen van compensatie of het aanbieden van vervangend vervoer.\nAangezien stakingen als een overamchtsituatie wordsen aangemerkt, betekent dit dat een spoorwegonderneming bij een staking\nniet wettelijk verplicht is om passagiers een alternatief vervoersmiddel te bieden.”\n\nGraag wil ik dit even bij jullie checken om te voorkomen dat er verschillende uitleg aan burgers wordt gegeven. Hoe denken\njullie dat het zit? En waar gaat het volgens jullie fout? Ik ben benieuwd!\n\nVriendelijke groet,\n\nMinisterie van Infrastructuur en Waterstaat\nDirectie Openbaar Vervoer en Spoor\nRijnstraat 8 | 2515 XP | Den Haag | 10D\nPostbus 20901 | 2500 EX | Den Haag\n\nM\nE 5.1.2e\n\n1 Verordening (EU) 2021/ van het Europees Parlementen de Raad van 29 april 2021 betreffende de rechten en verplichtingen van treinreizigerss\n2 tabel-geld-terug-bij-vertraging-nieuw.pdf\n\n963461 0003",
+      "dossier_id": "2891498",
+      "email_id": "email_12"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ba42177a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 75,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "faa62ad9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 82,
+              "end": 124,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "96ca15f6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 136,
+              "end": 181,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e DGMo 5.1.2e l@minienw.nl}\n\nFrom: - DGMo\n\nSent: Fri 5/16/2025 12:57:50 PM\n\nSubject: RE: 5.1.2e IENW/BSK-2025/87554 Vervolg:| 5.1.2e beeft aan dat het antwoord van de ILT op vraag compensatie\nreizigers stakingen niet correct is. Antwoord is door hun ook niet gecorrigeerd. Vindt dat lenW contact moet opnemen met de\n\nILT(604013)\nReceived: Fri 5/16/2025 12:57:51 PM\ndank\nVan 5.1.2e L DGMo 5.1.2e @minienw.nl>\n\nVerzonden: vrijdag 16 mei 2025 14:19\n\nAan 5.1.2e L DGMof{ _5.1.2e __ l@minienw.nl>\n\nOnderwerp: RE 5.1.2e _|IENW/BSK-2025/87554 Vervolg: 5.1.2e |geeft aan dat het antwoord van de ILT op vraag compensatie\nreizigers stakingen niet correct is. Antwoord is door hun ook niet gecorrigeerd. Vindt dat lenW contact moet opnemen met de\nILT(604013)\n\nHa | 5.1.2e\n\nEr is zeker meer duidelijkheid. Dinsdag heb ik (eindelijk) antwoord vanuit de ILT gekregen. Na wat afstemming is er nu\nduidelijkheid. Gisteren mailde [5.1.2e]me ook en) 5.1.2e |aangegeven daté12andaag een mail naar deze burger zou sturen.\nDaar) 5.1.2e |nu mee bezig dus je ontvangt die zo in de cc!\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_13"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "61bd984d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 36,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "bbe5d4c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 44,
+              "end": 50,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "84feab8f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 83,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "5039284e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 429,
+              "end": 454,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "60d94018",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 200,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "82f91891",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 513,
+              "end": 620,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e + DGMo 4 5.1.2e |P minienw.nl>\n\nVerzonden: vrijdag 16 mei 2025 14:08\n\nAan! 5.1,2e -DGMo <{_ _5-1.2e le minienw.nl>\n\nOnderwerp: RE:[__5.1.2e _|IENW/BSK-2025/87554 Vervolg 5.1.2e |geeft aan dat het antwoord van de ILT op vraag compensatie\nreizigers stakingen niet correct is. Antwoord is door hun ook niet gecorrigeerd. Vindt dat lenW contact moet opnemen met de\nILT(604013)\n\nHoil 5.1.2e\n\nIs hier inmiddels meer duidelijkheid over? Het niet-beantwoorden van de burgervraag drukt nu wel erg op de doorlooptijden van\nOVS.\n\nMvg, 5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_14"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "1aa80e78",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 42,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "03b384d8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 80,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c821f2d6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 139,
+              "end": 248,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e DGMo 4 5.1.2e lominienw.ni>\n\nVerzonden: donderdag 1 mei 2025 13:28\n\nAan [Ste | DGMo { 5.1.2e @minienw.nl>\n\nOnderwerp: RE: 5.12e |IENW/BSK-2025/87554 Vervolg: 5.1.2e beeft aan dat het antwoord van de ILT op vraag compensatie\n\nreizigers stakingen niet correct is. Antwoord is door hun ook niet gecorrigeerd. Vindt dat lenW contact moet opnemen met de\nILT(604013)\n\nHaj 5.1.2e |goedemiddag,\n\nGoed dat je mailt. Heb de ILT nog niet te pakken gekregen en als ik eerlijk ben was het ook een beetje weggezakt dus\nheel fijn dat je een reminder stuurt! Ik ga achter de ILT aan om te kijken hoe het nu zit.\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_15"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "570dbcd6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 39,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b825b845",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 78,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "25caf305",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 130,
+              "end": 235,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vani 5.1.2e -DGMod 5.1,2e le minienw.nl>\n\nVerzonden: donderdag 1 mei 2025 11:59\nAan: 5.1.2e | DGMo 4 5.1.2e minienw.nl>\n\n963467 0004\n\n\nOnderwerp: RE:|__5:1:2¢ IENW/BSK-2025/87554 Vervolg:| 5.1.2e beeft aan dat het antwoord van de ILT op vraag compensatie\nreizigers stakingen niet correct is. Antwoord is door hun ook niet gecorrigeerd. Vindt dat lenW contact moet opnemen met de\nILT(604013)\n\nDag) 5.1.2e\n\nWat is de stand van zaken? De formele deadline is vandaag verlopen.\n\nMvg,| 5.1.2e\n\nME 3 april 2025 13:01\nAan 5.1.21 DGMo 5.1.2i @minienw.nl>\nOnderwerp: RE} _5.1.2e IENW/BSK-2025/87554 Vervolg:| 5-1-2e | geeft aan dat het antwoord van de ILT op vraag compensatie\n\nreizigers stakingen niet correct is. Antwoord is door hun ook niet gecorrigeerd. Vindt dat lenW contact moet opnemen met de\nILT(604013)\n\nHaf 5.1.2e\n\nJa) 512e [nog wel op deze mail. Zit nog wat uitzoekwerk achter dus ga daar eerst even achteraan en[5.1.2eldan een\nreactie.\n\nDank voor de handige link] 5.1.2e [jullie bij het antwoord in de CC meenemen.\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_16"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ece717e2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 53,
+              "end": 79,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b60a1915",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 85,
+              "end": 134,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e64f431b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 146,
+              "end": 254,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "8b806358",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 557,
+              "end": 666,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vani 121 bGMo{ 512 |@minienw.nl>\n\nVerzonden: donderdag 3 april 20. :\nAan 5.1.2e - DGMo 5.1.2e minienw.nl>\ngeeft aan dat het antwoord van de ILT op vraag compensatie\n\nOnderwerp:| 5.1.2e |IENW/BSK-2025/87554 Vervolg:| 5.1.2e\nreizigers stakingen niet correct is. Antwoord is door hun ook niet gecorrigeerd. Vindt dat lenW contact moet opnemen met de\nILT(604013)\n\nBeste 5.1.2e\n\nDeze mail heb jij al ontvangen en wij zijn in cc meegenomen. Ik heb deze laten registreren, wil jij op deze mail reageren?\nDe afhandeltermijn hiervoor loopt af op 1-5-25.\nKan ik een ontvangstbevestiging sturen?\n\nHierbij vind je ook een linkje met betrekking tot de werkwijze burgerbrieven. Mocht je zelf een antwoord verzonden hebben of\ngebeld hebben wil je dit dan aan ons doorgeven, dan kunnen wij het dossier sluiten.\n\nWerkwijze burgerbrieven - Rijksportaal (overheid-i.nl)\n\nGroet| 5.1.2e\n\n5.1.2i Jaminienw.n!",
+      "dossier_id": "2891498",
+      "email_id": "email_17"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "13488196",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 68,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "812571f1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 176,
+              "end": 222,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vani 5.1.21 |DGMo 5.1.2i minienw.nl>\n\nVerzonden: donderdag 3 april 2025 06:40\n\nAan| 5.1.2i \\pco{ 5.1.21 |@minienw.nl>\n\nOnderwerp: ter registratie: Antwoord vraag compensatie reizigers stakingen\n\nDames, willen jullie deze registreren.\n\n963467 0004\n\nDank,| 5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_18"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "16ed5368",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b089e6c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 130,
+              "end": 193,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e 5.1.2e [Byahoo.com>\n\nVerzonden: woensdag 2 april 2025 22:40\nAan| 5.1.2e | DGMo 5.1.2e @minienw.nl>\n\ncel 512 _ FDGMo{ 512 Jominienw.nb>\n\nOnderwerp: Re: Antwoord vraag compensatie reizigers stakingen\n\nHallo meneer| 5-1-2e\n\nHeel, heel erg bedankt voor het antwoord. Dit is exact het antwoord waar ik op had gewacht.\n\nAls toezichthouder op het ILT is het voor het ministerie van lenW wellicht ook relevant dat het ILT mij volledig\nandere (en onjuiste) informatie heeft verstrekt. Ik heb namelijk ongeveer dezelfde vraag ook aan het ILT\nvoorgelegd, en daarop het volgende antwoord ontvangen:\n\n> Volgens de VERORDENING (EU) 2021/782 VAN HET EUROPEES PARLEMENT EN DE RAAD van 29\napril 2021 betreffende de rechten en verplichtingen van treinreizigers is een spoorwegonderneming niet\nwettelijk verplicht om vervangend vervoer te regelen tijdens een staking. Stakingen vallen onder\novermacht, en vervoerders zijn daardoor niet verplicht om alternatieve reismogelijkheden aan te\nbieden.\n\n>\n\n> Artikel 18, lid 2b van bovenstaande verordening stelt dat wanneer een verstoring zoals vertraging of\nannulering het gevolg is van overmacht, de vervoerder niet gehouden is tot het verlenen van compensatie of\nhet aanbieden van vervangend vervoer. Aangezien stakingen als een overamchtsituatie wordsen aangemerkt,\nbetekent dit dat een spoorwegonderneming bij een staking niet wettelijk verplicht is om passagiers een\nalternatief vervoersmiddel te bieden.\n\nZoals u en ik beiden weten. klopt de kern hiervan niet. Ik heb vervolgens telefonisch contact opgenomen met het ILT,\nmaar men heeft het eerdere antwoord niet gecorrigeerd. Het zou zeer wenselijk zijn als het ministerie contact zou\nopnemen met het ILT, zodat zij de juiste informatie op hun website plaatsen.\n\nIk heb de e-mailcorrespondentie met het ILT als PDF bijgevoegd.\n\nNogmaals, hartelijk dank.\n\nMet vriendelijke groet,\n\nOn Wed, Apr 2, 2025 at 2:29 PM 5.1.2e + DGMo d 5.1.2e (@minienw.nl> wrote:\n\nGoedemiddag 5.1.2e\n\nVorige maand stelde u de vraag of vervoerders in het openbaar vervoer bij stakingen verplicht zijn om\nalternatief vervoer of compensatie te regelen voor reizigers. Specifiek vroeg u hoe de EU-verordening\n2021/782 artikel 18 en 19 in Nederland worden toegepast in deze situatie. Bedankt voor deze scherpe vraag.\nIk kan me goed voorstellen dat het niet meteen duidelijk is hoe de Europese regels zich tot de Nederlandse\nverhouden. Ik zal uw vraag zo duidelijk mogelijk proberen te beantwoorden. Onderin de mail ook enkele links\nnaar handige pagina's.\n\nAls er een staking is in het openbaar vervoer en u heeft lange vertraging, dan moet de vervoerder u een\nalternatief aanbieden of geld teruggeven. Dit is vastgelegd in de Europese verordening die u ook in uw vraag\naanhaalde, namelijk (EU) 2021/782. Deze regel beschermt de rechten van treinreizigers in de Europese\nUnie.\n\nArtikel 18: Terugbetaling of vervoer langs een andere route\nAls u door een staking meer dan 60 minuten vertraging heeft of een aansluiting mist, moet het vervoersbedrijf\n\n963467 0004\n\nu een keuze geven:\n¢ U krijgt uw geld terug voor het deel van de reis dat u niet heeft kunnen maken. Als de rest van de reis\ngeen zin meer heeft, krijgt u ook dat deel terug.\n* U mag op een andere manier reizen naar de eindbestemming, zo snel mogelijk en onder vergelijkbare\nomstandigheden.\n* U mag op een later moment naar de eindbestemming reizen, op een tijd die u beter uitkomt.\n\nAls de vervoerder u niet binnen 100 minuten een andere reismogelijkheid aanbiedt, mag u zelf een andere\nreis regelen. U kunt bijvoorbeeld een andere trein, bus of taxi nemen en de kosten terugvragen. De kosten\nmoeten wel redelijk zijn.\n\nArtikel 19: Schadevergoeding bij vertraging\nAls u bijv. door een staking lang moet wachten, heeft u recht op extra geld terug:\n* Bij een vertraging van 60 tot 119 minuten krijgt u 25% van uw ticketprijs terug.\n¢ Bij een vertraging van 120 minuten of meer krijgt u 50% van uw ticketprijs terug.\n\nSoms hoeft een vervoerder geen geld terug te geven, bijvoorbeeld bij extreem weer of natuurrampen. Een\nstaking van het eigen personeel valt hier niet onder. Dit betekent dat u bij een staking wel recht heeft op\ncompensatie.\n\nToepassing in Nederland\nNederlandse vervoerders moeten zich aan de Europese regels houden. Daarbovenop maakt de overheid in\nNederland afspraken met de vervoerders in concessies. Deze regels zijn vaak gunstiger zijn dan de Europese\nstandaard, afhankelijk van het soort kaartje dat u heeft gekocht. @l\nBijvoorbeeld:\n\n* Bij een vertraging van 30 minuten krijgt u vaak 50% van uw ticketprijs terug.\n\n* Bij een vertraging van 60 minuten of meer krijgt u vaak 100% terug.\n\nKort gezegd: vervoerders in Nederland moeten bij stakingen een alternatief bieden of geld teruggeven. Dit\nkomt door zowel de Nederlandse als de Europese regels.\n\nDenkt u dat een vervoerder zich niet aan deze regels houdt? Dan kunt u een klacht indienen bij de\nvervoerder. Mochten zij niet goed met uw klacht omgaan kunt u zich richten tot de Inspectie Leefomgeving en\nTransport (ILT) of de Geschillencommissie Openbaar Vervoer\n\nMocht u nog vervolgvragen hebben, horen we het uiteraard graag.\n\nVriendelijke groet,\n\n5.1.2e\n\n1 Verordening (EU) 2021/ van het Europees Parlement en de Raad van 29 april 2021 betreffende de rechten\nen verplichtingen van treinreizigerss\n\n? tabel-geld-terug-bij-vertraging-nieuw. pdf\n\n> https://www.ilent.nl/onderwerpen/treinreizigers/klacht-over-treinvervoerder\n\n[1] Verordening (EU) 2021/ van het Europees Parlement en de Raad van 29 april 2021 betreffende de rechten en verplichtingen van treinreizigerss\n[2] tabel-geld-terug-bij-vertraging-nieuw.pdf\n\n[3] https://www.ilent.nl/onderwerpen/treinreizigers/klacht-over-treinvervoerder\n\nht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bencht abusievelijk aan u is toegezonden, wordt u verzocht dat\n\nDit beric\n963467",
+      "dossier_id": "2891498",
+      "email_id": "email_19"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d1ca9809",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 31,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "19cf7246",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 44,
+              "end": 71,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "be941d87",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 159,
+              "end": 209,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 51.26 DGMo S12e | @minienw.nl]\n\nFrom: DGMo\n\nSent: Tue 7/8/2025 8:38:29 AM\n\nSubject: RE: Informatie vervoerdersrechten bij stakingen vanuit NS\nReceived: Tue 7/8/2025 8:38:30 AM\n\nDank!",
+      "dossier_id": "2891498",
+      "email_id": "email_20"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "1ac804fc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 34,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e1e57219",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 46,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "0aa48c95",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "369e4a89",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 88,
+              "end": 145,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van 5.1.2e L DGMo 5.1.2 [@minienw.nl>\nDatum: dinsdag ju 5, 10:38 AM\nAan: 5.1.28 DGMo 5.1.2e la minienw.nl>\n\nOnderwerp: RE: Informatie vervoerdersrechten bij stakingen vanuit NS\n\nHal 5.1.2e\n\nIk zit in een overleg tot elf, maar bel je zo terug. Ben benieuwd hoe dit zit.\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_21"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3c742489",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 73,
+              "end": 107,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "c3f312b6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 67,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b67ff407",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 119,
+              "end": 176,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.28 - DGMo 5.1.2e @minienw.nl>\n\nVerzonden: dinsdag 8 juli 2025 10:\nAan: 5.1.2e L DGMo 5.1,2e @minienw.nl>\n\nOnderwerp: FW: Informatie vervoerdersrechten bij stakingen vanuit NS\n\nHal 5-1-2e\nIk heb je net al even gebeld. Het betreft deze burgerbrief.\nIk hoop dat je even kan terugbellen.\n\nDank alvast,\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_22"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7f9e9fd9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 38,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b05feb4a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 114,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "aadaf588",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 51,
+              "end": 74,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a8acb400",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 126,
+              "end": 183,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e lons.ni>\n\nDatum: dinsdag 08 jul 2025, 10:23 AM\n\nAaní 5.1. 2e DGMo < 5.1.2e lominienw.nl>\nOnderwerp: FW: Informatie vervoerdersrechten bij stakingen vanuit NS\n\nHal 5.1.2e\n\nWij hebben een klacht van een reiziger binnen gekregen over de compensatie voor de stakingen die een reiziger kan\n\nontvangen.\n\nNS heeft aangegeven €25 te vergoeden voor alternatief vervoer, of een volledige restitutie van het ongebruikte\ntreinticket. Echter heeft de reiziger contact gezocht met lenW, en heeft de niet juiste informatie over de vergoeding\n\ngekregen vanuit lenW (zie bijgevoegd antwoord).\n\nDe reiziger dreigt juridische stappen te ondernemen als wij de klacht over extra vergoeding bovenop de €25 afwijzen.\n\nNormaal stem jij altijd burgerbrieven/ vragen met mij af, maar ik heb deze niet binnen gehad, en misschien is deze jou\n\nook ontgaan.\n\nZou jij kunnen achterhalen hoe dit antwoord vanuit lenW naar de burger tot stand is gekomen?\n\nIk hoor het graag.\n963468\n\n0005\n\nMet vriendelijke groet,\n\n5.1.2e\n\nNS | Stakeholder- en Concessiemanagement\nLaan van Puntenburg 100\nPostbus 2025, 3500 HA Utrecht",
+      "dossier_id": "2891498",
+      "email_id": "email_23"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "47a784b2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 20,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "7808d634",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 29,
+              "end": 58,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9507bdcc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 112,
+              "end": 169,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van;\n\nou k\n\n5.1.2e\n\nVerzonden: dinsdag 8 juli 2025 09:46\n\nAan\n\n5.1.2e @ns.nl>\n\nOnderwerp: FW: Informatie vervoerdersrechten bij stakingen vanuit NS\n\nHa} 5.1.2e\n\nZie bijgaande brief van IenW aan een burger. Zou jij bij jouw IenW-contact na kunnen gaan hoe dit tot stand is gekomen. De reactie\nvan IenW bevat namelijk fouten en zet de geadresseerde op het verkeerde been. Ik vraag mij af of deze (burger?) brief is afgestemd\nmet NS.\n\nEnkele inhoudelijke punten:\n\n1. In de brief staat dat artikel 18 PRR iets zegt over stakingen. Dat klopt niet;\n\n2. Het gaat niet om een vertraging van meer dan 60 minuten, maar indien bij vertrek redelijkerwijze kan worden\nverwacht dat als gevolg van vertraging, uitval o.i.d. bij aankomst op de eindbestemming een vertraging van 60\nminuten of meer is;\n\n3. De wijze waarop de brief is opgesteld wordt gesuggereerd dat de reiziger zelf op een andere manier naar de\neindbestemming mag reizen. Dat suggereert dus dat de reiziger zelf dit initiatief mag nemen. Dit is niet juist. Artikel\n18 zegt dat het vervoersbedrijf inderdaad de keuze moet voorleggen tussen geld terug of doorreizen (zo spoedig\nmogelijk of bij de eerste gelegenheid). Dat betekent niet dat de vervoerder op een of andere wijze verplicht is\nbijvoorbeeld bussen in te huren, je te laten reizen met een andere vervoerder of een taxi te regelen. In geval van\neen staking is het ook denkbaar dat de vervoerder zegt: prima, maar dan zal je moeten wachten tot morgen, dan\nrijdt er weer een trein. Artikel 18 lid 3 zegt nu ook juist expliciet dat de vervoerder de reiziger op zijn verzoek mag\ntoestaan overeenkomsten te sluiten met aanbieders van andere vervoersdiensten. Dit geeft al aan dat een reiziger\ndit niet zonder die toestemming mag doen;\n\n4. De brief stelt verder dat als een vervoerder niet binnen 100 minuten (vanaf welk moment?) een andere\nreismoge lijkheid biedt, de reiziger zelf zijn vervoer mag regelen (dat is dus op zich al strijdig met de rest van de\nbrief, waarin wordt gesuggereerd dat de reiziger dat sowieso mag doen in geval van vertraging van 60 minuten of\nmeer). Maar dit staat niet in artikel 18 lid 3 PRR. In dat artikel staat dat de vervoerder binnen 100 minuten na de\ngeplande vertrektijd van de vertraagde of geannuleerde dienst de reiziger moet meedelen wat de beschikbare\n\n963468 0005\n\nmogelijkheden voor vervoer langs een andere route. Kortom, het is niet zo dat vervoer langs een andere route\nbinnen 100 minuten moet plaatsvinden;\n\n5. Tenslotte wordt, met een verwijzing naar de 100-minutenbepaling, gesteld dat de reiziger dan een ‘andere trein,\nbus of taxi’ kan nemen en de kosten kan terugvragen. In het artikel staat evenwel uitdrukkelijk dat het moet gaan\nom ‘openbaarvervoersdiensten’, waarmee juist niet een taxi kan worden genomen c.q. moet worden vergoed.\n\nIk hoor graag.\n\nGroet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_24"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b4c6a265",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 31,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "544effbd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 147,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van 5.1.2i @ns.nl>\nVerzonden: woensdag 2 juli 2025 13:29\n\nAan: 5.1.2e @NS.NL>\n\nOnderwerp: Informatie vervoerdersrechten bij stakingen vanuit NS\n\nVertrouwelijk\n\nGoedemiddag) 5.1.2e\n\nIk ben op dit moment bezig met een klacht waarbij de klant extra restitutie verzoekt voor taxikosten op een stakingsdag.\nDit verzoek is afgewezen; wij honoreren enkel een restitutie van € 25,- voor alternatief vervoer, of een volledige restitutie\nvan het ongebruikte treinticket.\n\nDe reiziger zegt nu echter contact te hebben gehad met Het Ministerie van Infrastructuur en Waterstaat. Zij bevestigen in een\nofficiële brief dat ook op stakingsdagen alternatief vervoer vergoedt moet worden door NS. Zie de bijlage voor het officiële\nstatement. Hierin wordt de verordening ook meegenomen.\n\nZou jij kunnen meekijken en advies geven betreft een antwoord? Reiziger zegt juridische stappen te nemen indien wij nogmaals\nafwijzen.\n\nAlvast bedankt voor alle hulp! *\n\nMet vriendelijke groet,\n\nKind regards,\n\n963468 0005\n\n5.1.2e\n\nNS | Commercie & Ontwikkeling\nLaag Katreine | Stationshal 17\nPostbus 2534, 3500 GM Utrecht\n\nInternet Twitter (X) Facebook Linkedin YouTube\n\nDeze e-mail, inclusief eventuele bijlagen, is uitsluitend bestemd voor (gebruik door) de geadresseerde. De e-mail kan persoonlijke of vertrouwelijke\ninformatie bevatten. Openbaarmaking, vermenigvuldiging, verspreiding en/of verstrekking van (de inhoud van) deze e-mail (en eventuele bijlagen)\naan derden is uitdrukkelijk niet toegestaan. Indien u niet de bedoelde geadresseerde bent, wordt u vriendelijk verzocht degene die de e-mail\nverzond hiervan direct op de hoogte te brengen en de e-mail (en eventuele bijlagen) te vernietigen.\n\nInformatie vennootschap\n\n963468 0005",
+      "dossier_id": "2891498",
+      "email_id": "email_25"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "bc501675",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 30,
+              "end": 56,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "03b94ea8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 78,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "86f8506c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 143,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e L DGMo{ —§.12e _ \\@minienw.nll\nFrom: 5.1.2e DGMo\n\nSent: Tue 7/8/2025 2:14:24 PM\n\nSubject: RE: Antwoord vraag compensatie reizigers stakingen\nReceived: Tue 7/8/2025 2:14:25 PM\n\nJa hoor, dat is prima. Ik ontvang wel graag een afschrift voor het dossier.\n\nMvg,| 5-1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_26"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f3bfd9ad",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 41,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3535e5f0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 48,
+              "end": 59,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "adbc851c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 67,
+              "end": 90,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6309fc9f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 151,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e - DGMo ¢ 5.1.2e @minienw.nl>\nVerzonden: dinsdag 8 juli 2025 15:39\n\nAan: 5.1.2e LDGMo{ __ _512e —_ @minienw.nl>\n\nOnderwerp: RE: Antwoord vraag compensatie reizigers stakingen\n\nGoedemiddag|_5.1.2e\n\nIk heb een vraagje en ik hoop dat jij me verder kan helpen. Op 16 mei| 5.1.2e |het eerder gestuurde antwoord op een\nburgervraag genuanceerd, maar deze burger heeft 5.1.2e niet helemaal goed begrepen. Hij heeft hierna een\nklacht bij de NS ingediend en hij heeft hierbij 5.1.2e waar die nuancering niet in staat, als bewijs\naangeleverd. Via de NS komt dit} 5.1.2e erecht.\n\nAls 5.1.26 teruglees kan ik me voorstellen dat} het nog niet helemaal duidelijd5 1 2eluitgelegd, dus}+7jzou\ngraag | 5.1.2e jaan deze burger willen verduidelijken wat er wel en niet klopt.| 5.1.2e |hem hiervoor per mail\nbenaderen?\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_27"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "8a8504cc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 40,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "19a0be51",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 123,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ce9860f8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "bad6d83f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 135,
+              "end": 185,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e -DGMo{___51.2e __ \\@minienw.nl>\n\nVerzonden: vrijdag 16 mei 2025 15:54\nAar 5.1.2e - DGMo 5.1.2e minienw.nl>\nOnderwerp: RE: Antwoord vraag compensatie reizigers stakingen\n\nDank, dat betreft idd het juiste adres\n\nMvg, | 5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_28"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4673e595",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 43,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8c6944fb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 81,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "02244f77",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 130,
+              "end": 180,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Vani 5.1.2e - DGMo < 6.1.2e  Pminienw.nl>\n\nVerzonden: vrijdag 16 mei 2025 15:46\n\nAan: 5.1.26 + DGMo 5.1.2e minienw.nl>\n\nOnderwerp: FW: Antwoord vraag compensatie reizigers stakingen\n\nHal 5.1.2e\n\nHet mailadres dat{}in de cc [51 2eyezet is wel het juiste toch?\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_29"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b04fa35a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 79,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3d39bbad",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 86,
+              "end": 119,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "c31632d5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 131,
+              "end": 181,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e + DGMo\nVerzonden: vrijdag 16 mei 2025 14:23\n\nAan: 5.1.2e Byahoo.com>\ncci 5.1.2i DGMo {__s12i @minienw.nl>\n\nOnderwerp: RE: Antwoord vraag compensatie reizigers stakingen\n\nGoedemiddag 5.1.2e\n\n963462\n\n0006\n\nN.a.v. uw vraag heb ik contact met ILT opgenomen. Zij geven aan dat er inderdaad iets niet goed is gegaan in hun\neerdere beantwoording. Het antwoord dat je van mij hebt gekregen klopt dan ook. ILT geeft aan dat ze nu intern\nafstemmen dat er in het vervolg een ander antwoord op uw vraag wordt gegeven.\n\nWel geeft ILT de nuance dat er bij vervangend vervoer bij stakingen niet verplicht sprake hoeft te zijn van het aanbieden\nvan een bus of taxi, maar dat het hier meestal gaat over het aanbieden van een andere treinreis als vervangend vervoer.\nHet compenseren van kosten bij stakingen staat niet ter discussie. Daar heeft de reiziger recht op.\n\nHopelijk geeft dit verdere duidelijkheid. Mocht u nog vervolgvragen hebben, horen we het uiteraard graag.\n\nVriendelijke groet,\n\n5.1.2e\n\nDubbel\n\n963462 0006",
+      "dossier_id": "2891498",
+      "email_id": "email_30"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7a98e734",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 18,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8b63feb8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 118,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d8076f46",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 30,
+              "end": 55,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "d3e59b14",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 130,
+              "end": 180,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e lons.nl\nA,\nFrom: 51e DGMo\nSent: Tue 7/8/2025 2:27:02 PM\nSubject: RE: Nuancering antwoord compensatie reizigers stakingen\n\nReceived: Tue 7/8/2025 2:27:00 PM\n\nHal 5.1.2e\n\n5.1.2e [het voor de zekerheid nog even voor aan de juridische afdeling hier.) 5.1.2e |hetdus morgen of donderdag te\nversturen.\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_31"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f22d147a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 21,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "4aba7383",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 28,
+              "end": 36,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "dcf5473d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 43,
+              "end": 66,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f0d3c4e6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 131,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e j@ns.nl>\nVerzonden: dinsdag 8 juli 2025 15:24\nAan: 5.1.2e -DGMo d 5.1.2e @minienw.nl>\n\nOnderwerp: Re: Nuancering antwoord compensatie reizigers stakingen\n\nHa} 5.1.2e\n\nLijkt mij zo duidelijk zo. Wij zullen de burger dan ook terugmailen.\nDank voor het snelle schakelen!\n\nMet vriendelijke groet,\n\n5.1.2e\n\nZs\n\nNS | Stakeholder- en Concessiemanagement\nLaan van Puntenburg 100\nPostbus 2025, 3500 HA Utrecht",
+      "dossier_id": "2891498",
+      "email_id": "email_32"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "121db4a0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 20,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "73daf813",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 98,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "1a3ca689",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 32,
+              "end": 57,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b6c017e2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 110,
+              "end": 165,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van| 5.1.2e - DGMo 5.1.2e lominienw.nl>\n\nVerzonden: dinsdag 8 juli 2025 14:24\n\nAan: 5.1.2e lons.nl>\n\nOnderwerp: Nuancering antwoord compensatie reizigers stakingen\n\nU ontvangt niet vaak e-mail van 5.1.2e lominienwnl. Ontdek waarom dit belangrijk is\n\nHal 5.1.2e\n\nTer info: Onderstaande verduidelijking! 5.1.2e |van plan te sturen ter nuancering van het eerder gegeven antwoord. Op\ndeze manier zou het duidelijk moeten zijn toch?\n\n963469 0007\n\nVriendelijke groet,\n\n5.1.2e\n\nMinisterie van Infrastructuur en Waterstaat\nDirectie Openbaar Vervoer en Spoor\n\nRijnstraat 8 | 2515 XP | Den Haag | 10D\nPostbus 20901 | 2500 EX | Den Haag\n\n5.1.2e\n\n51.21, 5.2.1: Concept\n\n963469\n\n0007",
+      "dossier_id": "2891498",
+      "email_id": "email_33"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "eae0d7f3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c3d24f89",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 100,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "1f14e540",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 112,
+              "end": 163,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e LHBJz|  512e  @minienw.nll\n\nFrom: 5.1.2e DGMo\n\nSent: Fri 7/11/2025 10:30:49 AM\n\nSubject: RE: Bericht burgerbrief\n\nReceived: Fri 7/11/2025 10:30:00 AM\n\nHal 5.1.2e\n\nNogmaals heel erg veel dank!) 5.1.2e [het uit na verwerking van je opmerkingen.\n\nFijn weekend alvast en tot dinsdag!\n\nVriendelijke groet,\n\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_34"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "37be19f8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 37,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "090c4c87",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 56,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "3025d2ca",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 64,
+              "end": 89,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f9665f14",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 100,
+              "end": 123,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van! 5.12e |- HBIZ| 5.1.2e @minienw.nl>\nVerzonden: vrijdag 11 juli 2025 12:26\nAan: 5.1.2e DGMo 4 5.1.2e @minienw.nl>\n\nOnderwerp: RE: Bericht burgerbrief\n\nDag} 5.1.2e\n\nDit is een helder verhaal. Twee tekstuele opmerkingen:\n\n§.1.2i, 5.2.1: Concept\n\nVriendelijke groet,\n5.1.2e",
+      "dossier_id": "2891498",
+      "email_id": "email_35"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4ab02510",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 51,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "44075a28",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 83,
+              "end": 117,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "84f71bbe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 129,
+              "end": 152,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e - DGMo 4 5.1.2e leminienw.nl>\n\nVerzonden: vrijdag 11 juli 2025 12:14\n\nAan 5.1.2e | HBJZ 4 5.1.2e l@minienw.nl>\n\nOnderwerp: Bericht burgerbrief\n\nHal 5.1.2e\n\nN.a.v. ons gesprek van gisteren heb ik de structuur van de mail aangepast. Dit lijkt me duidelijker zo toch?\n\nNogmaals heel erg veel dank voor het meekijken en meedenken. Ik weet dat je het hier eigenlijk te druk voor hebt.\n\n5.1.2i, 5.2.1: Concept\n\n963465 0008",
+      "dossier_id": "2891498",
+      "email_id": "email_36"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "e0a776b3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 41,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "fc24970e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 80,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3e4a7f11",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 135,
+              "end": 154,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: _ 5.1.2e yahoo.com]\nCe: [61.21 DGMof 5.1.21 |@minienw.nl]\n\nFrom: 5.1.2e - DGMo\n\nSent: Fri 7/11/2025 1:05:00 PM\n\nSubject: RE: Antwoord vraag compensatie reizigers stakingen\nReceived: Fri 7/11/2025 1:05:00 PM\n\nGoedemiddag [size\n\nOp 2 april stuurde ik u een antwoord op uw vraag m.b.t. alternatief vervoer of compensatie bij stakingen met hierbij\nenkele links naar regelingen en verordeningen. Op 16 mei stuurden we hier een nadere nuancering op. Ik kan me\nvoorstellen dat dit voor onduidelijkheid zorgt dus graag zet ik de regelingen nog even op een rijtje ter verduidelijking:\n\nBij een geannuleerde dienst biedt de vervoerder de reiziger één van de volgende 3 opties:\n1. terugbetaling van de kostprijs van het vervoerbewijs.\n2. voortzetting van de reis of vervoer langs een andere route naar de eindbestemming bij de vroegste gelegenheid\nen onder dezelfde omstandigheden.\n3. voortzetting van de reis of vervoer langs een andere route naar de eindbestemming op een latere datum en\nonder dezelfde omstandigheden.\n\nArtikel 18 van de EU-verordening 2021/782 stelt daarnaast dat vervoerders binnen 100 min na de geplande vertrektijd,\nbeschikbare mogelijkheden voor vervoer langs een andere route moeten mededelen. Doen ze dit niet, dan heeft de\nreiziger de mogelijkheid een vergelijkbare overeenkomst te sluiten met ‘aanbieders van openbarevervoersdiensten’. Een\ntaxi valt hier bijv. niet onder.\n\nEen vervoerder is volgens de EU-verordening 2021/782 dan ook niet verplicht om bij stakingen de volledige kosten voor\nvervangend vervoer zoals een taxi te vergoeden. Wel heeft de reiziger, zoals aangegeven, ook bij stakingen recht op\ncompensatie van de kosten van de niet gemaakte treinreis.\n\nIk kan me voorstellen dat de vorige berichten voor onduidelijkheid hebben gezorgd, waarvoor mijn excuses. Hopelijk\ngeeft dit een helder beeld. Mocht u nog vervolgvragen hebben, horen we het uiteraard graag.\n\nVriendelijke groet,\n\n5.1.2e\n\nDubbel\n\n969028 0009",
+      "dossier_id": "2891498",
+      "email_id": "email_37"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d429df97",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 61,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3cc1cbea",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 69,
+              "end": 82,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "fdc5868b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 114,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "81939b80",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 125,
+              "end": 175,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To:\nCc:\nFrom:\nSent:\n\n5.1.2e - DGM 5.1.2e  @minienw.nl]\n5.4.21 IDGMof 5.1.21 minienw.nl]\n5.1.2e\nFri 7/11/2025 3:23:32 PM\n\nSubject: Re: Antwoord vraag compensatie reizigers stakingen\nReceived: Fri 7/11/2025 3:26:01 PM\n\nGeachte 5.1.2e\n\nMijn excuses voor de vergissing in mijn vorige e-mail.\n\nIk verwees daarin per abuis naar Verordening (EG) nr. 1371/2007, terwijl ik bedoelde te verwijzen naar Verordening (EU)\n2021/782.\n\nMet vriendelijke groet,\n\n5.1.2e\n\nOn Fri, Jul 11, 2025, at 17:20, 5.1.2e wrote:\n\nGoedemiddag 5.1.2e\n\nBedankt voor deze nuancering. Ik zou graag nog van u vernemen waarom het ministerie van mening is dat\nvervoerders niet verplicht zijn om bij stakingen de volledige kosten van vervangend vervoer te vergoeden.\n\nEen vervoerder is toch in principe altijd verplicht om de noodzakelijke kosten van vervangend vervoer te\nvergoeden? Dit staat expliciet in Artikel 18 van Verordening (EG) Nr. 1371/2007:\n\n[...] de reiziger heeft het recht een dergelijke overeenkomst te sluiten met andere aanbieders van\nopenbarevervoerdiensten per spoor, touringcar of autobus. De spoorwegonderneming betaalt\nde door de reiziger gemaakte noodzakelijke, passende en redelijke kosten terug.\n\nHet uitgangspunt is dus niet het vervoersmiddel op zich, maar of de gemaakte kosten noodzakelijk, passend\nen redelijk zijn. Als een taxi goedkoper is dan:\n\n* een hotelovernachting met aansluitend vervoer de volgende dag, of\n* een alternatieve treinroute.\n\ndan is het nemen van een taxi de passendste en redelijkste optie. De vervoerder is dan ook verplicht deze\nkosten te vergoeden, lijkt mij.\n\nBovendien vermeldt het standaard EU-formulier voor terugbetaling en compensatie ook taxi’s als optie voor\nalternatief vervoer:\nhttps: //europa.eu/youreurope/citizens/files/forms/reunbursement-compensation-railway/reimbursement-\n\nform _en.pdf\nDit suggereert dat taxivervoer in bepaalde gevallen juist wél als redelijk en passend wordt beschouwd.\n\nMet vriendelijke groet,\n\n§.1.2e\n\nDubbel\n\n963463. 0010",
+      "dossier_id": "2891498",
+      "email_id": "email_38"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3bc67ec1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 130,
+              "end": 180,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

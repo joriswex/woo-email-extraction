@@ -1,0 +1,5067 @@
+[
+  {
+    "data": {
+      "text": "To: 51 512e 512e @minbuza.nl]; 512, 5.1.2e[ 512e @minbuza.nl]; 5.1.2e , 5.1.2e [ 5.1.2e @minbuza.nl];\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl}; 5.1.2e „BD/DEIA/EU[ 512e @minjenv.nl]; 12e, 5.1.2e\nBD/DGM/BIM[ 5.1.2e @minjenv.nl] 5.1.2e BD/DEIA/EU[ 5.1.2e @minjenv.nl}; st, 5.12 5.1.2e\n5.1.2e J, 512e, 512e [ 5.1.2e @minbuza.nl]j; 512e , 512 5.1.2e @minbuza.nl};\n512e size [ 5.1.2e @minaz.nl]\nCe: §.1.2e - BD/DCOM/WS&O[ _512e @minjenv.nl}, 5.12e  , 512e.- BD/DGM/BIM[ 512e == @minjenv.nl];\n5.1.2e , 5120 -BD/DGM/BIM[ 5-1.2€ @minjenv.nl]\nFrom: 5.1.2e 512 - BD/DGM/BIM\nSent: Mon 9/16/2024 9:07:29 AM\nSubject: [actie] Kamerbrief opt-out | DL ma COB\nReceived: Mon 9/16/2024 9:07:30 AM\n\nHi allen,\n\nNog een opt-out verzoek: ik zette een (zeer summiere) Kamerbrief op de SWR, om de TK woensdagochtend te\ninformeren over de verzonden brief aan de CIE. Mochten jullie nog e.e.a. willen aanpassen, graag voor 15.00\nvandaag.\n\nVeel dank weer,\n\nGroet,\n\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_0"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "003661cf",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 539,
+              "end": 562,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "94f71164",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 569,
+              "end": 593,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ffdf5af4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 603,
+              "end": 641,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , $12, - BD/DGM/BIM\nVerzonden: maandag 16 september 2024 10:39\nAan 5.1.2e 5.12e < 512e  @minbuza.nl>; 512, 5.1.2e < 51.2e @minbuza.nl>; 5.1.2e , 5.1.2¢\n\n<  5.1.2e @ minbuza.nl>; 512e  @minbuza.nl; 512e 512°BD/DEIA/EU< 5.1.2e @minjenv.nl>; 512e, 512e 5.1.2e\nBD/DGM/BIM < 5,1.2e @minjenv.nl 5.1.2€  -BD/DEIA/EU< 5.12e @minjenv.nl>; 5+, 5,12e 5,1.2e\n5.1.2e >) 512e, 52e < 5.1.2e @minbuza.nl>; 5.128 , 512e512e<5.12e\n5.1.2e >; 512e, 512e 51.28 @minaz.nl>\n\nCC; 5.1.2e 512 §.4.2e BD/DCOM/WS&O< 5.1.2e @minjenv.nl>\nOnderwerp: RE: [actie] Woordvoering opt out | DL ma COB\n\nDag allen,\n\nNaast deze spreeklijnen voegde ik in hetzelfde document ook Q&As voor de APB voor MP toe. Ook daarop vandaag\ngraag jullie blik, betreft ook aantal verdragswijziging vragen..\n\nGroet,\n\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_1"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "716f3cc1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 31,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "eacf7acf",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 43,
+              "end": 74,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6170550f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 531,
+              "end": 575,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , $12, - BD/DGM/BIM\nVerzonden: donderdag 12 september 2024 20:08\nAar 5.12e 5.12e < 51.2e @minbuza.nl>;st2%, 5.1.2e < 5.1.2e minbuza.nl>; 51.2e , 5.1.2e\n\n< 5.1.2e minbuza.nl>; 5.1.2e @minbuza.nl; 5.1.2€ ‚512e3D/DEIA/EU< S5-12e @minjenv.nl>; 512, 5120 §.1.2e\nBD/DGM/BIM < 5.1.2e @minjenv.nl: 5.1.2e -BD/DEIA/EU< §1.2€ @minjenv.nl>; 51°, §.1.2e §.1.2e\n5.1.2e >; 6.1.2e, 6.1.2e < 5.1.2e minbuza.nl>; 6.1.2e , 5126 5.1.2e5.1.2e\n\n5.1.2e @minbuza.nl>; 5.1.2e 512e 512e,< 5.1.2e @minaz.nl>\nCC: 5.1.2e , st2e,-BD/DGM/BIM< 5.1.2e minjenv.nl>; 5.1.2e ,512e,-BD/DGM/BIM< 512e @minjenv.nl: 5.1.2e st2e,\n5.1.2e- BD/DCOM/WS&O < _ 5.1.2e minjenv.nl>\nOnderwerp: [actie] Woordvoering opt out | DL ma COB\n\nHi allen,\n\nGraag jullie blik op de Q&As die ik maakte voor woordvoering ná de publicatie van de opt-out brief. Nog niet voor\nmorgen dus, want na publicatie van het regeerprogramma kunnen we helaas nog niet zo veel meer, want de brief\nen inhoud zijn dan nog niet openbaar. Deze lijntjes zijn dus pas voor woensdag.\n\nIk zette de tekst op de SWR, kijken en schrijven jullie mee?\n\nSuper als dat lukt voor maandag einde dag.\n\nGroeten,\n5.1.2e\n\n167761961 0001 0001",
+      "dossier_id": "11715934",
+      "email_id": "email_2"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "cbd4f526",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 31,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "37b43e0e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 498,
+              "end": 645,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "d8b6caa5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 43,
+              "end": 76,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fffa9cff",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 657,
+              "end": 697,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.12e | 512. -BD/DGM/BIM[ 512e @minjenv.nll\n\nCc: 512e, 5.1.2e -BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5.1.20, 512, - BL/UGM/BIM\n\nSent: Wed 10/23/2024 7:39:26 AM\n\nSubject: [akkoord] feitelijke vragen begroting BZ opt-out\n\nReceived: Wed 10/23/2024 7:39:27 AM\n\nGraag zsm jouw akkoord + de check dat dit niet langs onze minister hoeft.\n\n67. Is het verlaten van Schengen als gevolg van een opt-out van het asielbeleid een mogelijkheid?\n\n5.1.21,5.2.1\n\n68. Bij wie zal het kabinet het verzoek voor een opt-out-clausule voor het Europese asiel- en migratiebeleid indienen? Wanneer\nverwacht u dat zoiets effectief in werking kan treden?\n\n5.1.21,5.2.1\n\n157. Wat is de stand van zaken van de uitvoering van de motie-Veldkamp c.s. (Kamerstuk 21501-20, nr. 1997) over bij\nverdragswijziging een clausule inbouwen waarmee een opt-out voor EU-afspraken op het gebied van asiel en migratie mogelijk\nwordt\n\n5.1.21,5.2.1\n\n158. Verwacht u binnen afzienbare tijd steun voor een verdragswijziging? En zo ja, verwacht u dan steun voor een Nederlandse opt-\nout op het asielbeleid?\n\n5.1.21,5.2.1",
+      "dossier_id": "11715934",
+      "email_id": "email_3"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "30f8c12d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 48,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "4d9b2721",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 53,
+              "end": 98,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "ed0dbbf4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 105,
+              "end": 130,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "de285c09",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 138,
+              "end": 163,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "8c192744",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 174,
+              "end": 222,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512°, 5.12e < 512e @minbuza.nl>\n\nVerzonden: vrijdag 18 oktober 2024 19:51\n\nAan: 512, 5. 5.1.2e Dminbuza.nl> 5.1.2e 5.12e < 5.1.2€ @minbuza.nl>; 5.1.2e , 5.1.2e\n\n< 5.1.2e @minbuza.nl>; 5.1.22, 612°, - BD/DGM/BIM < 5.1.2e @minjenv.nl>; 512e 5120 5.126 5.1.2e\n5.1.2e Dminbuza.nl>; §.1.2e 512e-BD/DEIA/EU < 512e @minjenv.nl 5.1.2e BD/DEIA/EU\n\n< 5.1.2e @minjenv.nl>; 5.1.2e, 5.1.2e < 5.1.2e @ minbuza.nl 5.1.2e $12e,< §.1.2€ @minaz.nl>\n\nCC: 512e, 5120 512e - BD/DGM/BIM < 5.1.2e @minjenv.nl>; 5.1.2e @ minbuza.nl\n\nOnderwerp: [verzoek, dl di COB] feitelijke vragen opt-out\n\nHi allen,\nTer voorbereiding op de begrotingsbehandeling BZ zijn er een aantal feitelijke vragen gesteld, waarvan 4 over de opt-out.\n\nIb hah biet Sen voorzetje gedaan op de iSWR: Feitelijke vragee == “egrotingsbehandeling BZ.docx (samenwerkruimten.nl)\n\n167761963 0002 0002\n\n\nZouden jullie voor dinsdag COB een blik willen werpen? Dank alvast!\nGroet,\n\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_4"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d81d932d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 36,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4df4ce39",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 85,
+              "end": 436,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "02951a3f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 441,
+              "end": 513,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "ee12825c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 78,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "03ec7a7e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 525,
+              "end": 571,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: DIE-CPK < 5.1.21 @minbuza.nl>\nSent: vrijdag 18 oktober 2024 15:16\n\nTo: 512e , 5.1.2e < 5.1.2e @minbuza.nl>; §.1.2e , 5.1.2e < 5.1.2e @minbuza.nl>; 512e, 5.1.2e 51.2e< 5.1.2e\n5.1.2e >;512e, 5.1.2e < 5.1.2e @ minbuza.nl>; §.1.2e | 5.1.26 < 5.1.2e minbuza.nl>; _5.1.2e\n\n§.1.2e «< 5.1.2e @minbuza.nl>\nCc: DIE-IN < 5.1.21 @minbuza.nl>; DIE-EX < 5.1.2i @minbuza.nl>; 512e, S12 < 5.1.2e minbuza.nl>; 5.1.2e , 5.1.2e\n\n< 5.1.28 @minbuza.nl>\n\nSubject: Uitzetmail vragen begrotingsbehandeling Buitenlandse Zaken - deadline woensdag 23 oktober om 10u\n\nBeste collega's,\n\nOp 19 en 21 november vindt de begrotingsbehandeling Buitenlandse Zaken plaats. Ter voorbereiding op de begrotingsbehandeling\nhebben de leden feitelijke vragen gesteld. Graag vragen wij jullie bijdragen aan de beantwoording van de vragen.\n\nDit is de link naar sharepoint: Vragen voor DIE.docx (buzaservices.nl\nHet gaat om de volgende vragen (originele nummering):\n\n5.1.2e 5.1.2e\n\nbuiten verzoek\n§.1.2e 5.1.2e\n\n5.1.2e 5. 512e\n67. Is het verlaten van Schengen als gevolg van een opt-out van het asielbeleid een mogelijkheid? >> DIE-IN/ 5.12e 512e\n\n68. Bij wie zal het kabinet het verzoek voor een opt-out-clausule voor het Europese asiel- en migratiebeleid indienen? Wanneer\nverwacht u dat zoiets effectief in werking kan treden? >> DIE-IN/ 5.1.2e 512e\n\n5.1.2e S5.512e\n5.1.2e 5. 512e\n\n5.1.2e 5.1.2e\n§.1.2e 5. 512e\n5.12e 5, 512e\nbuiten verzoek\n\n5.1.2e §.512e\n\n5.1.2e 5, 512e\n\n5.1.2e 5, 512e\n\n5.1.2e 5.1.2e\n\n167761963 0002 0003\n\n157. Wat is de stand van zaken van de uitvoering van de motie-Veldkamp c.s. (Kamerstuk 21501-20, nr. 1997) over bij\nverdragswijziging een clausule inbouwen waarmee een opt-out voor EU-afspraken op het gebied van asiel en migratie mogelijk\nwordt? >> DIE-IN/ 5.1.2e 512e\n\n158. Verwacht u binnen afzienbare tijd steun voor een verdragswijziging? En zo ja, verwacht u dan steun voor een Nederlandse opt-\nout op hetasielbeleid? >> DIE-IN/ 5.1.2e 512e\n\nbuiten verzoek\n§.1.2e 5.1.2e\n\nAdd\n\nTeam CPK/ 5.1.2e\n\nHelp save paper! Do you really need to print this email?\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\nresulting from the risks inherent in the electronic transmission of messages.\n\n167761963 0002 0004",
+      "dossier_id": "11715934",
+      "email_id": "email_5"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "790556b0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 35,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "aeb5aa59",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 302,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "84efc85a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 307,
+              "end": 438,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b758949c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 71,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "57183ca6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 448,
+              "end": 544,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.12e | 512. -BD/DGM/BIM[ 512e @minjenv.nll\n\nCc: 512e, _512e - BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5.1.2e | 512, - BD/DGM/BIM\n\nSent: Mon 8/19/2024 1:52:02 PM\n\nSubject: [graag reactie] Annotatie gesprek 5.1.2e met 512e inz. T&T\nReceived: Mon 8/19/2024 1:52:03 PM\n\nAgenda Stuurgroep TT EU 20240823.docx\n\nAgendapunt 3 Uitwerking EU prioriteiten HA (1).docx\n\nAgendapunt 2 Opzet Stuurgroep Ten T.docx\n\n240819 concept - Annotatie vooroverleg TT stuurgroep EU.docx\n\nHa 5.1.2e,\n\nMorgen is het vooroverleg T&T (zie de agenda + 2 twee stukken in de bijlage, zijn ongewijzigd tov vorige HA\noverleg), maar 5-1.2e zit dan met de minister en kan er dus niet bij zijn. Ze heeft daarom op woensdag een\ntelefonische bijpraat met 512e, Ik zal daarbij meeluisteren.\n\nIk maakte voor 5.1.2e een annotatie voor dat gesprekje, maar met weinig kennis van zaken van de ontwikkelingen\nvan de afgelopen drie weken, behalve dan dat de zin in het RP is aangepast, en we forwardleaning zijn tov een\nbriefje naar Brussel met onze wens tot opt-out. Daarmee is de T&T notitie ook niet meer helemaal in lijn met het\nRP, opt out staat immers helemaal onderaan en in het lijstje onder ‘lange termijn’. Ik kwam daarom op bijgaande\nannotatie, met verzoek die zin nog aan te passen voorafgaand aan het overleg met de BWP. Als jij het daarmee\neens bent dan is het wellicht wel handig dat ik dat ook alvast aan BZ laat weten, zodat ze dit morgen kunnen\nnoemen tijdens het overleg waar we niet bij zijn, en we woensdag snel kunnen (laten) aanpassen. Andere optie is\nom onze minister dit vrijdag te laten inbrengen, maar lijkt me fijner het vooraf te regelen?\n\nVind het lastig in te schatten hoe het gesprek zal gaan vrijdag, zal dat ook al gaan over timing van de diverse acties\nonder de diverse onderwerpen, en moeten we dus al vooruitlopen op prioritering van migratie tov landbouw bijv.?\nIk deed daartoe een voorzichtig aanzetje.\n\nHoor graag (als t even kan vandaag/morgenochtend) je gedachten,\n\nGroet,\n5.1.2e\n\n167761964 0003 0005",
+      "dossier_id": "11715934",
+      "email_id": "email_6"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "1cc1aa0a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 48,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "f9f33389",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 53,
+              "end": 98,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "42737606",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 105,
+              "end": 131,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2cd91982",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 139,
+              "end": 163,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f3d59da8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 174,
+              "end": 232,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e | 5.1.2e [ 5.1.2e @minbuza.nl}, 5-12e @minaz.nl[ 5.1.2e @minaz.nl}. 5.1.2e\nsize 5.1.2e @minbuza.nl]; 12e, 512e[ 5.1.2e @minbuza.nl]; 5-1.2e , 512. -BD/DGM/BIM[ 5.1.2e @minjenv.nl}\nCc: 5.12e 5.12ef[ 51.2e @minbuza.nl]; 5.1.2e @minbuza nil 5.1.2e @minbuza.nl};\n\n5.1.26 @minbuza.nl[ 5.1.2e @minbuza.nl]; 5.1.2e 512° size [ 5.1.2e @minaz.nl]; 512, 5.1.2e 51.20\nBD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5.1.2e 512e BD/SGC/DBO/ADV[ 512e @minjenv.nl]; 5.12e  , 512. -\nBD/DGM/BIM[  §.1.2e = @minjenv.nl]\n\nFrom: 9.1.2e  5.12e - BD/DGM/BIM\n\nSent: Tue 9/17/2024 3:47:00 PM\n\nSubject: [Info] Verzending opt-out brief morgen\n\nReceived: Tue 9/17/2024 3:47:01 PM\n\n4. Beslisnota bij Kamerbrief Opt-out EU Migratie- en asielacquis.docx\n3. Brief TK - Opt-out EU Migratie- en asielacquis.docx\n\n2. 2024-09-18 brief PJ - Johansson.docx\n\n1. Brief MA&M.pdf\n5 Opt out brief woordvoering 240916.docx\n\nBeste allen,\n\nHierbij een korte update over het proces van verzending van de opt-out brief morgen, nauw afgestemd en\nbesproken met de PV en BZ (DIE-IN en DJZ).\n\nIn de bijlage vinden jullie de getekende brief van MA&M aan Eurocommissaris Johansson (1), vergezeld door een\noplegbrief van de PV (2). Deze stukken worden morgenochtend om 08.30 door de PV aan de CIE aangeboden,\nwaarna A&M hier direct van op de hoogte wordt gesteld. Uiterlijk om 09.00 zal MA&M dan de TK informeren over de\nverzonden brief, voorafgaand aan de start van de APB. De korte Kamerbrief hierover, afgestemd met BZ en reeds\ngeaccordeerd door MA&M, vinden jullie ook in de bijlage (3 en 4).\n\nVerder zijn gezamenlijk Q&As voorbereid, zowel voor woordvoering van MA&M als t.b.v. MP tijdens de APB, zie ook\nbijgaand (5).\n\nMochten er verder nog vragen zijn, dan horen we het!\nMede namens 5.1.2e en 5.1.2e ,\n\nGroeten,\n5.1.2\n\n5.1.2e 5,1.2e\n\nBureau Internationaal Migratiebeleid | International Migration Office\n\nisterie van Asiel en Migratie | Ministry of Asylum and Migration\nDirectoraat-Generaal Migratie | Directorate-General for Migration\n\nDirectie Migratiebeleid | Migration Policy Department\n\nTurfmarkt 147 | 2511 DP | Den Haag\n\nPostbus 20301 | P.O. Box 20301 | 2500 EH | Den Haag | The Netherlands\n\nT +31 ( 5.1.26\n\n167761965 0007 0010",
+      "dossier_id": "11715934",
+      "email_id": "email_7"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ef390ea0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 190,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "8d95d86f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 195,
+              "end": 498,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "84fe8e03",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 506,
+              "end": 532,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e4f0fc73",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 540,
+              "end": 564,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ddae496d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 575,
+              "end": 613,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.12e | 512. -BD/DGM/BIM[ 512e @minjenv.nll\n\nCe: 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl}  5-1-2e\nsix. - BD/DEIAEU[ 5-1.2e @minjenv.nll; 512e, 5.1.2e 5.1.2e BD/DGM/BIM[\nBD/DGM/BIM[ 51.2e  @minjenv.nl]\n\nFrom: 5.1.2e 5.122, - BD/DGM/BIM\n\nSent: Mon 9/2/2024 3:56:58 PM\n\nSubject: [ter akkoord] Notitie opt out\n\nReceived: Mon 9/2/2024 3:56:59 PM\n\n240902 T&T Procesvoorstel opt-out 1.1.docx\n\nHa 5.1.2e,\n\nBD/DEIA/EU[  5-1.2e\n5.1,2e @minjenv.nl];\n\n@minjenv.nl], 5.1.2e\n5.1.2e ‚Sz, -\n\n512e\n\nGraag je akkoord op de aangepaste notitie voor het TenT overleg. Betreft kleine wijzigingen, zoals we vanochtend\n\nbespraken. Afgestemd met BZ, en 5.1.2e en 5.1.2e keken ook mee.\n\nVerzoek voor jouw akkoord komt al wat eerder dan gepland, omdat BZ graag akkoord van M wil vóór woensdag\n14.00 (DL om dit stuk te verzenden aan hoogambtelijke groep). 5.1.2e sprak M nog niet over het vraagstuk wie de\n\nbrief moet verzender/ontvangen, en wil dat nog wel graag toetsen.\n\nGraag dus jouw blik op bijgaande versie, indien akkoord dan stuur ik ‘m daarna naar 5.1.2e .\n\nLaten we nog even schakelen (en evt. met 5.1.2e ?) of wij deze tekst nog voor ‘t hoogambtelijke overleg langs MA&M\nwillen, of dat dat niet nodig is omdat jij vanochtend al bij MA&M toetste, en dat dat gelijktijdig kan.\n\nGroet,\n5.1.2e\n\n167761966 0013\n\n0019",
+      "dossier_id": "11715934",
+      "email_id": "email_8"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "119b13db",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 203,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d8f10ea5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 211,
+              "end": 237,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4cba4292",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 245,
+              "end": 268,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "5cd3be72",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 279,
+              "end": 308,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e 512e,- 512e [ 5.1.2e @minjenv.nl]\n\nCe: §.1.2e siz -BD/DGM/BIM[ 51-2e @minjenv.nl}, 5-12e  , s12e.- BD/DGM/DRM/B&S[ 5-12e @minjenv.nl};\nSecretariaat - DGM[ §.1.2i @minjenv.nl];  5.1.2e , §12e.-BD/DGM/BIM[ S12e @minjenv.nl}, $12e, 5.1.2e\nBD/DGM/BIM[ 5.1.2e @minjenv.nl]\n\nFrom: 5.1.2e , 5.12e. - BD/DGM/BIM\n\nSent: Wed 8/28/2024 3:33:45 PM\n\nSubject: [ter bespreking] Concept notitie opt-out tbv T&T\n\nReceived: Wed 8/28/2024 3:33:46 PM\n\n240828 T&T Procesvoorstel opt out CONCEPT.docx\n\nBeste 5.1.2e ,\n\nTer bespreking tijdens je PO met 5.12e morgen vind je bijgaand een conceptnotitie, getiteld ‘Procesvoorstel\nkenbaar maken wens EU opt-out migratie’, met het oog op de eerstvolgende Stuurgroep T&T. De Stuurgroep komt\nnaar verwachting weer bijeen in de week van 9 september - AZ is bezig met de planning. Zoals je weet werd de\nvorige keer afgesproken dat wij samen met BZ een procesvoorstel zouden doen.\n\nDeze notitie is op werkniveau met BZ, AZ en PV afgestemd, en zal daar morgen ook in de lijnen besproken worden\n(met 512e en 5.1.2e ), Het is dus nadrukkelijk nog een concept, maar we horen alvast graag je gedachten.\n\nGroeten,\n5.1.2e\n\n167761967 0015 0021",
+      "dossier_id": "11715934",
+      "email_id": "email_9"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "713a9458",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 278,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "66ed772e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 286,
+              "end": 314,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1eaa0551",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 322,
+              "end": 346,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6f58965e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 357,
+              "end": 405,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.12e | 512. -BD/DGM/BIM[ 512e @minjenv.nll\n\nCc: 512e, §.1.2e -BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5120, 512, - BD/DGM/BIM\n\nSent: Tue 8/20/2024 12:50:58 PM\n\nSubject: [ter reactie] T&T - Aanzet annotatie MAenM\n\nReceived: Tue 8/20/2024 12:50:59 PM\n\nAnnotatie MAenM stuurgroep EU Tactiek en Timing Europese inzet hoofdlijnenakkoord - 20240823.docx\nHa,\n\n5.1.2e wil graag einde dag vandaag al de concept annotatie ontvangen voor T&T voor MAenM, zodat ie morgen\ndirect na het overleg met 512e door kan naar de minister. Wat vind je van bijgaand? Mogelijk moeten we dit dus\nnog wat aanpassen nav het overleg 5.1.2e morgen.\n\nVind het lastig voorspellen hoe de discussie vrijdag zal gaan. buiten verzoek\n\nbuiten verzoek ’ Hoe concreet moeten we worden over\n\nujapad opt-out?\nGraag je blik, kunnen evt ook bellen als je het anders wil, dan hoef je niet in de pen te klimmen.\n\nGroet!\n5.1.2e\n\n167761968 0017\n\n0023",
+      "dossier_id": "11715934",
+      "email_id": "email_10"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f085fc60",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 48,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "bfc21803",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 53,
+              "end": 98,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "1c6bbb38",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 105,
+              "end": 128,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "7da90839",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 136,
+              "end": 161,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "5497b41d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 172,
+              "end": 214,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e 5.12e[ 512e @minbuzanl]; 512e , 51.2e[ 5.1.26 @minbuza.nl]; 52e , 512e 54365426\n\n5.1.2e Dminbuza.nl); 5-1-2e, 5.1.2e [ 5.1.2e Mminbuza.nl}; 512, 5.1.2e @minbuza.nl};\n5,1.2e ‚512 5120, - BD/DEINEU[ §.1.2e @minjenv.nl] S12 = BD/DEIA/EU[ 512e @minjenv.nl]; 512e 512e\nBD/DEIA/EU[ 5-1.2e @minjenv.nll; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl};\n\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl}; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl};\n\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl]; 5.1.2e, 5.1.2e [ 5.1.2e @minbuza.nll\nCe: 5.1.2e , 512.-BD/DGM/BIM[ 512e @minjenv.nl]; 51.2e , 512, 512 - BD/DEIA/EU[ 5-1.2€ @minjenv.nl]; 512,\n\n§.1.2e 5.1.2e - BD/DGM/BIM[ 5.1.2e @minjenv.nl];  5.1.2e , s12e.- BD/DGM/BIM[ _5.1.2e = @minjenv.nl]\nFrom: 5.1.2e 512, - BD/DGM/BIM\n\nSent: Mon 9/2/2024 11:26:20 AM\n\nSubject: [ter reactie] T&T notitie opt-out, DL morgen 10.00\n\nReceived: Mon 9/2/2024 11:26:21 AM\n\nHi allen,\n\nNa bespreking in de lijnen bij zowel BZ als MA&M kunnen we door met de notitie over de opt-out t.b.v. de\neerstvolgende bijeenkomst van de T&T Stuurgroep. Deze bijeenkomst is voor nu gepland op woensdag 11/9, met\nnaar verwachting een hoogambtelijk vooroverleg eind deze week.\n\nIk verwerkte enkele kleine wijzigingen nav de besprekingen met o.a. DGES en MA&M, de schone versie van het\ndocument is hier te vinden. De oude versie staat ook nog op de SWR (in dezelfde map), voor evt.\nvergelijkingsmateriaal. Belangrijkste wijziging is dat de verzender van de brief een bespreekpunt wordt.\n\nGraag jullie blik voor morgen 10.00, verwachting is namelijk dat de notitie morgen afgerond moet zijn om te\nverspreiden voor het hoogambtelijk vooroverleg eind deze week.\n\nVeel dank weer - en weet me te vinden bij vragen.\nMede namens 5.1.2e ,\n\nGroeten,\n5.1.2e\n\n167761969 0019 0025",
+      "dossier_id": "11715934",
+      "email_id": "email_11"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4a4a7050",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 718,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ffa062aa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 725,
+              "end": 749,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d54ffbc3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 757,
+              "end": 781,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7835aeff",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 792,
+              "end": 842,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: Secretariaat - DGM[ 5.1.2i @minjenv.nl]\n\nCe: 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl}; 512,  5.1.2e _ BD/DGM/BIM[ 5.1.2e\n§.1.2e | 512. - BD/DGM/DRM/B&S|[ 5.1.2e @minjenv.nl]\n\nFrom: 512e, 512, - BD/DGM/BIM\n\nSent: Fri 9/6/2024 12:13:41 PM\n\nSubject: Annotatie HA T&T\n\nReceived: Fri 9/6/2024 12:13:42 PM\n\n2. Procesvoorstel opt-out DEF .docx\n240904 Annotatie vooroverleg TT stuurgroep EU.docx\n\nHi 5.1.2e ,\n\nHierbij de annotatie voor 5.1.2e voor het Hoogambtelijk T&T van maandag 15.00. 5.1.2e is akkoord!\nGroeten,\n\n5.1.2e\n\n167761973 0022\n\n@minjenv.nl];\n\n0028",
+      "dossier_id": "11715934",
+      "email_id": "email_12"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "e2d65a60",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 176,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "9e2c0249",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 184,
+              "end": 207,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "bab6dbf3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 215,
+              "end": 239,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "913ec91e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 250,
+              "end": 266,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e ‚512 -BD/DGM/DRM/B&S[ 512e @minjenv.nl}, Staf DGM[ 5.1.2e @minjenv.nl]\n\nCc: 5.1.2e | 5122. -BD/DGM/BIM[ 5.1.2e @minjenv.nl}; 512, 5.1.2e 5.1.2e BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5120, 512, - BD/DGM/BIM\n\nSent: Mon 8/19/2024 5:15:34 PM\n\nSubject: Annotatie tbv gesprek 5.1.2e met DGES over T&T EU\n\nReceived: Mon 8/19/2024 5:15:36 PM\n\n240819 concept - Annotatie vooroverleg TT stuurgroep EU.docx\n\nAgenda Stuurgroep TT EU 20240823.docx\nAgendapunt 3 Uitwerking EU prioriteiten HA (1).docx\n\nAgendapunt 2 Opzet Stuurgroep TenT.docx\n\nHa 5.1.2e,\n\nHierbij ook de annotatie voor het gesprek van 5.1.26 met 5.1.2e woensdag in voorbereiding op de Stuurgroep T&T\nvan vrijdag. Zoals we bespraken schuif ik graag aan om mee te luisteren om zo gesprek snel te kunnen verwerken\nin de annotatie voor de Minister (concept daarvoor ontvang je langs bijgaande lijnen morgenmiddag).\n\nGroet,\n\n5.1.2e\n\n167761974 0025 0033",
+      "dossier_id": "11715934",
+      "email_id": "email_13"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "07b42d03",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 82,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "1897d099",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 87,
+              "end": 186,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "043691cb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 193,
+              "end": 216,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "faf4e754",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 224,
+              "end": 248,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "dcff4caa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 259,
+              "end": 308,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e ,st2.-BD/DGMBIM[ 512e @minjenv.nl]; 512, 5.1.2e 5.1.2e BD/DGM/BIM[ 5.1.2e @minjenv.nl}; 542,\n5.1.2e 512e BD/DGM/BIM[ 5-1-2e @minjenv.nl]; 5-12e 512 -BD/DGM/BIM[ 512e _@minjenv.nl]\n\nFrom: 5.12e, 512, - BD/DGM/BIM\n\nSent: Wed 7/10/2024 1:06:25 PM\n\nSubject: FW: 110724 Voorbereiding Stuurgroep TT\n\nReceived: Wed 7/10/2024 1:06:26 PM\n\n110724 Voorbereiding Stuurgroep TT.docx\n\nIk ben niet zo heel blij met het eruit halen van die verwijzing naar REA standpunt opt out in najaar + verwijzing\nnaar evaluatie van het Pact in 2027 ( 5.1.2e zei eerder; daar moeten we niet te veel aan ophangen, standaard\nevaluatiebepaling). Maar bZ heeft t er zelf ingezet en doorgezet, blijkbaar akkoord 51.2e reeds binnen, zegt 5.1.2e\nnet (snel gegaan blijkbaar)",
+      "dossier_id": "11715934",
+      "email_id": "email_14"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "7401eeac",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 190,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "64588116",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 198,
+              "end": 222,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "dd595454",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 230,
+              "end": 254,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "85dd88bc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 265,
+              "end": 303,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e, 5.12e < 51.2e @minbuza.nl>\nVerzonden: woensdag 10 juli 2024 14:44\n\nAan: 5.1.2e , $12, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\nOnderwerp: 110724 Voorbereiding Stuurgroep TT\n\nLigt nu bij onze directeur\nHelp save paper! Do you really need to print this email?\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\nresulting from the risks inherent in the electronic transmission of messages.\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u is toegezonden, wordt u verzocht dat aan de\nafzender te melden en het bericht te verwijderen. De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het\nelektronisch verzenden van berichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you by mistake, you are requested to inform the\nsender and delete the message. The State accepts no liability for damage of any kind resulting from the risks inherent in the electronic transmission of messages\n\n167761977 0028 0037",
+      "dossier_id": "11715934",
+      "email_id": "email_15"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "63602e56",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 37,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "5ec40017",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 83,
+              "end": 131,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "16b38e68",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 76,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "05ac16e5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 143,
+              "end": 177,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512e, §.1.2e .BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5.1.2e 512 - BD/DGM/BIM\n\nSent: Thur 7/25/2024 11:05:52 AM\n\nSubject: FW: concept verslag opt out overleg\n\nReceived: Thur 7/25/2024 11:05:53 AM",
+      "dossier_id": "11715934",
+      "email_id": "email_16"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "90d91054",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 49,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ffb85690",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 79,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "3a32943f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 87,
+              "end": 113,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "382aa435",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 124,
+              "end": 159,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e, 512e, - BD/DGM/BIM\n\nVerzonden: donderdag 25 juli 2024 12:41\n\nAan: 5.1.2e , stze,-BD/DGM/BIM< 5-12e @minjenv.nl>\nOnderwerp: concept verslag opt out overleg\n\nEven snelle dubbel check, akkoord zo? Of wil je er duidelijker in dat we tegenhingen op aantal elementen?\n\nOverleg opt-out migratie\n\n24 juli 2024\n\nDeelnemers:\n\nA&M: 5.1.2e 512e , 5.1.2e 512e 512 5.1.2e\n\nJ&V: 512e 5.1.2e\n\n« py: 512e 512e 512e 5.1.2\n\nBZ: 512e E£512e, 512e 5.151%, 512e 512e 512e,,,, 512e , 512e 512e en 512e size\n\nVerslag\n\n5.1.2i\n\n* Het is te verwachten dat tijdens de algemene politieke beschouwingen er vragen vanuit de Kamer gaan worden gesteld\nover dit onderwerp, het zou goed zijn daarvoor een gezamenlijke lijn te hebben. De T&T EU stuurgroep (23 aug) zal over de\ndrie hoofdthema’s (MFK, landbouw en migratie) gaan, dus dat zal naar verwachting de ministers de gelegenheid geven om\nover de opt-out te spreken. Tijdens de HCEU/REA van eind september staan nu de algemene lijnen t.a.v. deze dossiers in\nconcept op de agenda. Het voornemen van BZ is om de algemene lijnen verder uit te lopen en t.z.t. de kernboodschappen te\nformuleren.\n\ne A&M geeft aan behoefte te hebben aan meer inzicht wat het achterliggende doel van de opt-out is. Wat moet er gebeuren\nom de punten uit het HLA uit te werken en waar zou de opt-out bij moeten helpen. De opt-out kan niet als geïsoleerd\nonderwerp worden gezien, het hangt onlosmakelijk samen met de rest van de EU-migratie-inzet, en moet ook als zodanig\nbenaderd worden. Belangrijk onderwerp daarom strategisch te bezien en tijd voor te nemen.\n\n© BZ heeft in een eerder overleg proberen te achterhalen hoe MinBZ dat ziet, maar nog onduidelijk. Hij noemde wel dat NL\n\n5.1.21\n\n* Met MinBZ is afgesproken dat men eerst het (technisch) aspect t.a.v. verdragswijziging verder gaat uitlopen, en hij\ndaarover geïnformeerd wordt na zijn verlof. Proces stap voor stap. De indruk was dat hij een realistisch beeld heeft van de\nhaalbaarheid/gebrek aan momentum en potentiële negatieve consequenties. In voorbereiding hierop zullen we een\ngezamenlijke notitie en annotatie maken, en deze afstemmen met MA&M. DEIA en de PV kijken hier ook graag op mee. Ook\ntrekken we samen op voor de notitie in voorbereiding op de T&T EU stuurgroep.\n\n* Er wordt verder nog kort gesproken over mogelijke aanvliegroutes (brief naar CIE bijv., dan wel het onderwerp een plek\ngeven in discussie over hervormingen in het kader van TEU).\n\n« Afgesproken is om beginnende eind augustus, voorafgaand aan de stuurgroep, een structurele overlegreeks in te plannen.\n\n167761978 0030 0039",
+      "dossier_id": "11715934",
+      "email_id": "email_17"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6ef1d990",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 29,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8f4ae378",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 77,
+              "end": 122,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "5bd34c62",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 70,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "530d2b8b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 134,
+              "end": 165,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.12e | 512. -BD/DGM/BIM[ 512e @minjenv.nll\n\nCc: 512e, §412e -BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5.1.20 512, - 5 GM/BIM\n\nSent: Wed 7/24/2024 4:37:17 PM\n\nSubject: FW: overzicht HLA opt-out\n\nReceived: Wed 7/24/2024 4:37:18 PM\n\nOverzicht HLA aanpassingen.docx\n\nHier is BZ mee begonnen (volgens mij voordat 512e met haar instructies kwam, nav vraag M tijdens gesprek) —\nwillen we daarmee verder gaan?",
+      "dossier_id": "11715934",
+      "email_id": "email_18"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "005f4f8c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 48,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e213d485",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 53,
+              "end": 97,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "d663bab1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 104,
+              "end": 126,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "40a1f433",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 134,
+              "end": 158,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c64c260f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 169,
+              "end": 194,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 12, 5.1.2e < 512e @minbuza.nl>\nVerzonden: woensdag 24 juli 2024 18:04\n\nAan: 5.1.2e 912, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\nOnderwerp: overzicht HLA opt-out\n\nHi 512e,\n\nDit was nog het overzicht waar ik het over had, het was nog helemaal uit de losse pols en klopt waarschijnlijk van alles nog niet\n(dus ook goed om later te verwijderen dat er geen conceptversies gaan circuleren), maar om je alvast een inkijkje te geven. Kunnen\nevt morgen bespreken of dit een basisje is waar we iets mee kunnen?\n\nGroet,\n5.1.2e\n\n5.1.2e 512e\n5.1.2e\n\nDirectie Integratie Europa | DIE-IN\nMinisterie van Buitenlandse Zaken\nRijnstraat 8 | 2515 XP | Den Haag\n\nPostbus 20061 | 2500 EB | Den Haag\n\n1 2e 5.1.20\nM: 5.1.2e\n512e @minbuza.nl\n\nHelp save paper! Do you really need to print this email?\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\n\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\nresulting from the risks inherent in the electronic transmission of messages.\n\n167761979 0031 0040",
+      "dossier_id": "11715934",
+      "email_id": "email_19"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "eb245419",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 35,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2c304d8d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 81,
+              "end": 127,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "63d89274",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 47,
+              "end": 74,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "2d7d3de2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 139,
+              "end": 160,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl];\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl}; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl];  5.1.2e 512.\nS120. -BD/DEIA/EU[ 5.1.2e @minjenv.nl] 5.1.2e -BD/DEIA/EU[ 5-1.2e @minjenv.nl]; 5.1.2e 5.1.26 | -\nBD/DEINEU[ 5.1.2e @minjenv.nll\nCc: 5.1.2e ,s1z -BD/DGM/BIM[ 512e @minjenv.nl}, 512, 5.1.2e 5.1.2e BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5.12e, 512, - BD/DGM/BIM\nSent: Fri 8/23/2024 3:23:42 PM\nSubject: FW: Terugkoppeling Stuurgroep T&T EU\nReceived: Fri 8/23/2024 3:23:43 PM\n\nHi allen,\n\nZie de beknopte terugkoppeling van het T&T overleg van vanmiddag hieronder. We gaan dus samen met BZ aan de slag om bij het\nvolgend T&T overleg (voorafgaand aan APB) een voorstel voor proces t.a.v. de opt-out brief in te brengen. We zullen jullie\nmeenemen bij afstemming van het document.\n\nGroeten,\n\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_20"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "37ef9d8b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 268,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2ab3427b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 273,
+              "end": 367,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "eeaedb55",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 374,
+              "end": 398,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6b411b45",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 405,
+              "end": 429,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "89118436",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 439,
+              "end": 475,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e 5.1.2e sia. < 6.1.28 @minaz.nl>\nVerzonden: vrijdag 23 augustus 2024 16:21\n\nAan: 5.1.2e >; §5.1.2e @minbuza.n512e< 5.1.2e @minInv.nl>; 512e 5.1.2\n<5.1.2e @minaz.nl>; 5.1.2e , 5.1.2e,- 512e < 5.1.22  @minjenv.ni>; 512€ .,,,< 5.1.2e minfin.nl>;\n5.1.28 @minbuza.nl; 5.1.2e 5.1.2e < 5.1.2e minbuza.nl>\n\nOnderwerp: Terugkoppeling Stuurgroep T&T EU\nAllen,\n\nHierbij de actiepunten van de eerste stuurgroep tactiek en timing:\n« AZ plant de volgende bijeenkomst van de stuurgroep T&T EU vóór de APB; op de agenda: aanpak\nmest en opt-out-brief.\ne LVVN en A&M zorgen voor een ambtelijk afgestemde voorbereiding van de tactiek en timing op deze dossiers.\n\n« Departementen werken roadmaps uit per thema (ter bespreking in de derde bijeenkomst\nvan de stuurgroep).\n\nFijn weekend vast!\n\n5.1.2e\n\n167761980 0033 0047",
+      "dossier_id": "11715934",
+      "email_id": "email_21"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0b7f4fad",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 43,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "03d695ed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 309,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "6b7947f5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 85,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c62aaeed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 321,
+              "end": 353,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e , 5.1.2e . - BD/SGC/DBO/ADV[ 5.1.2e @minjenv.nll\n\nCc: 512e, §.1.2e -BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5-1.2e , 512. -BD/DGM/BIM[  5.1.2e @minjenv.nl]\nFrom: 5.12e, 512, - BD/DGM/BIM\n\nSent: Thur 9/12/2024 10:51:56 AM\n\nSubject: MR: spreektekst agendapunt Opt out\n\nReceived: Thur 9/12/2024 10:51:57 AM\n\nM AenM - Advies MR 13 september - opt-out biref (002).docx\n\nHi 5.1.2e\n\n1\n\nHierbij enkele bullets voor MA&M over de opt-outbrief t.b.v. de MR van morgen, zoals we telefonisch bespraken.\n\nLaat me vooral weten als er nog meer nodig is!\n\nGroeten,\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_22"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "301279da",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 60,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d6a8e78f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 159,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "64f93841",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 166,
+              "end": 190,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "028b7103",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 198,
+              "end": 224,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a9ac34ad",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 235,
+              "end": 269,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , stze.-BD/DGM/BIM < 51.2e @minjenv.nl>\n\nVerzonden: donderdag 12 september 2024 12:37\n\nAan: 5-12e,512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nCC: 5128 ,512°,-BD/DGM/BIM< 512e @minjenv.nl>; 5.1.2e @minbuza.nl; 512e, 5.1.2e 5.1.2e BD/DGM/BIM\n< 5.1.2e @minjenv.nl>\n\nOnderwerp: RE: [akkoord] Annotatie MR Opt out\n\nAkkoord\n\nVerzonden met BlackBerry Work\n(www. blackberry.com)",
+      "dossier_id": "11715934",
+      "email_id": "email_23"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "380f23f7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 51,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "995bb6e9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 104,
+              "end": 150,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "832d0b10",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 155,
+              "end": 271,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "7db598af",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 64,
+              "end": 97,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "55c690da",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 283,
+              "end": 317,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e ,512e,-BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nDatum: donderdag 12 512 2024, 12:35 PM\n\nAan: 5.1.2e , 512e,-BD/DGM/BIM< 5.1.2e minjenv.nl>\n\nKopie: 5.1.2e ,512e,-BD/DGM/BIM< 5.1.2e minjenv.nl>, 5.1.2e @minbuza.nl < 5.1.2e @minbuza.nl>, 52e,\n512e 5.1.2eBD/DGM/BIM< _ 5.1.2e minjenv.nl>\n\nOnderwerp: [akkoord] Annotatie MR Opt out\n\nHi 5.1.2e ,\n\nZou jij op korte termijn naar deze annotatie voor MA&M kunnen kijken (MR, opt-out)? Besprak met DBO dat\naangezien het een mondeling punt is we dit via de mail bij DBO kunnen aanleveren, liefst wel voor 14.00.\n\nGroeten,\n5.1.2e\n\n167761981 0034\n\n0048",
+      "dossier_id": "11715934",
+      "email_id": "email_24"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4007b2e8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 51,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e0171e95",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 98,
+              "end": 289,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "fb6f9dda",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 91,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7f5a8650",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 301,
+              "end": 331,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e | 512 -BD/DGM/DRM/B&S[ 512e @minjenv.nll, Staf DGM[ 5.1.2e @minjenv.nl]\n\nCe: 512e, 5.1.2e 5126 3D/DGM/BIM[ 5.1.2e @minjenv.nl] 5.12e -BD/DEINEU[ 51.2e @minjenv.nl]; 5.1.2e ,\n\ns12e,- BD/DGM/BIM[ 5.12e @minjenv.nl]\n\nFrom: 512e, 512, - BD/DGM/BIM\n\nSent: Thur 7/11/2024 11:50:01 AM\n\nSubject: Nieuwe versie - Annotatie Stuurgroep T&T\nReceived: Thur 7/11/2024 11:50:02 AM\n240711 Annotatie TT stuurgroep EU versie 2.docx\n\nExcuus 5.1.2e, er was nog een wijziging nodig. Hierbij de laatste versie voor het overleg van morgen 08.45.\n\nGroeten,\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_25"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0fdd8196",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 223,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2e1192df",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 231,
+              "end": 254,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8415ff69",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 262,
+              "end": 288,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "003fab6f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 299,
+              "end": 339,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e,512e, - BD/DGM/BIM\n\nVerzonden: donderdag 11 juli 2024 11:22\n\nAan: S12e ,s12,-BD/DGM/DRM/B&S< 5.12e @minjenv.nl>; Staf DGM < 5.1.2€ @minjenv.nl>\n\nCC: 512e, 512e 5.1.26 BD/DGM/BIM < 5.1.2e @minjenv.nl>. _ 5.1.2e = BD/DEIA/EU< 512e @minjenv.nl>\nOnderwerp: Annotatie Stuurgroep T&T\n\nHi 5.1.2e ,\n\nMet akk. 5.1.2e , hierbij de annotatie voor de Stuurgroep T&T EU inzet, voor 5.1.2e .\nBegrijp dat planning nog niet rond is, maar dan heb je deze maar alvast *\n\nGroet,\n5.1.2e\n\n167761982 0036\n\n0051",
+      "dossier_id": "11715934",
+      "email_id": "email_26"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "695d40e8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4ed6faf4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 154,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "6ebb2149",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 159,
+              "end": 251,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "354986f6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 41,
+              "end": 69,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "1169a362",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 263,
+              "end": 287,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512, 512e -BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5.1.2e , 512e.- BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5-1.2e\n512e BD/DGM/BIM[ 5-1.2e @minjenv.nl]; 5-1-2e @minaz.nl'[ 5.1.2e @minaz.nl];\n\n5.1.2 @minbuza.nl[ 5.1.2e @minbuza.nl}; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl]; 512e, 5.1.2e\n5.1.2e Ik 5.1.2e @minbuza.nl[ 5.1.2 @minbuza.nl]; +12 5.1.2e 5.1.2e\n5.1.2e @minbuza.nl]; 5.1.2e , 512 -BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5.1.2e ,s1ze.-BD/DGM/BIM[ 5-12e = @minjenv.nl];\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl]; s12, 5.1.2e, 5120 BD/DGM/BIM[ 5.12e @minjenv.nl};\n512e 512e°5.1.2e @minaz.nl]; 5.1.2e st» 5.1.2e BD/DGMBIM[  5-1.2e = @minjenv.nl: 5.1.2e @minbuza.nl'[ 512e\n5.1.2e @minbuza.nl}; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl}; 512e, 512 5.1.2e\nBD/DGM/BIM[ 5.1.2e = @minjenv.nl]; 5.12e | 512e[ 5.1.2e @minbuza.nl]; <12, 5.1.2e [ 5.1.2e @minbuza.nl];\n512e 5.1.2e [ 5.1.2e @minbuza.nl]; 512e | 5.1.2e[ 5.1.2e @minbuza.nl]; 5.1.2e 5.1.2e\n5.1.2e 5.1.2e @minbuza.nl}; 5.1.2e [ 5.1.2e @minbuza.nll; 5.1.2e\n§.1.2e [ 5.1.2e @minbuza nl]; 5.1.26 ,512e[ 5.1.2e @minbuza.nl]; 5.1.2e 512e 5.1.2e 5.1.20\n§.1.2e  Dminbuza.nl]; 5.1.2e , s1z.-BD/DEINEU[ 5.1.2e @minjenv.nll\nCc: Secretariaat - DMB[ 5.1.2i @minjenv.nl]; 512e , 51.2e BD/DGM/DMB/JAZ[ 5.1.2e @minjenv.nl]\n\nFrom: 5.12e, 51%, - BD/DGM/BIM\n\nSent: Wed 5/29/2024 6:53:43 AM\n\nSubject: Quickscan\n\nReceived: Wed 5/29/2024 6:53:44 AM\n\n240529 Quickscan hoofdlijnenakkoord Internationale Migratie.docx\n\nHi allen,\nMet excuses voor de vertraging, hierbij de (eerste) quickscan om zo samen door te nemen.\nGroeten,",
+      "dossier_id": "11715934",
+      "email_id": "email_27"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "071841c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 1148,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3fdcb7f5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1153,
+              "end": 1242,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "c021fd6d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1250,
+              "end": 1274,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e5f27642",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1282,
+              "end": 1306,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "aa32d014",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1317,
+              "end": 1326,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e, 512, - BD/DGM/BIM\nVerzonden: vrijdag 24 mei 2024 16:46\nAan: §12e, 51.2e 512e. BD/DGM/BIM < 5.1.2e @minjenv.nl>; 5.1.2e , §12°.-BD/DGM/BIM < 5.12e @minjenv.nl>; 9120,\n5.1.2e BD/DGM/BIM< 5.1.2e @minjenv.nl>; 5.12e @minaz.nl' < 5.1.2e @minaz.nl>; §.1.2e @minbuza.nl;\n5.1.2e @minbuza.nl; 512, 6.1.2e s12 < 5.1.2e @minbuza.nl>; 5.1.2e @minbuza.nl; S12 _5.1.2e\n5.1.2e < 5.1.2e @minbuza.nl>; 5.1.2e ,512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>; 5.1.2e , 512°, - BD/DGM/BIM\n<  §12e @minjenv.nl>; 5.1.2e )minbuza.nl; S12, 512e51.2e BD/DGM/BIM < 5.1.28 @minjenv.nl>; 5128,\n512e 5.1.2e @minaz.nl>; 5.1.2e ,s12e 5.1.2e - BD/DGM/BIM < 5.1.2e @ minjenv.nl>; 5.1.2e @minbuza.nl' < 5.1.2e\n5.1.2e >; 512e @minbuza.nl; 512e, 512 5.1.2e BD/DGM/BIM < 5.1.2€ @minjenv.ni>; _5-1.2e\n6.1.28 < 5.1.2e @minbuza.nl>; 12, 5.1.2e < 5.1.2e @minbuza.nl>; 512e, 5.12e <  5.1.2€ @minbuza.nl>;\n5.1.2e , 512e < 5.1.28 @minbuza.nl>; 5.1.2e 5.1.2e 5.1.2e @minbuza.nl>; 5.1.2e\n< 5.1.2e @minbuza.nl>; 5.1.2e 5.12e < 5.1.2e @minbuza.nl>; 5.1.2e , 51.2e < 5.1.28 @minbuza.nl>;\n512e 512e 51.2e 5.1.2e @minbuza.nl>; 5-1.2e , 512,-BD/DEIA/EU< 51.2€ @minjenv.nl>\nCC: Secretariaat - DMB < 5.1.21 @minjenv.nl>; 51.2e 512eBD/DGM/DMB/JAZ < 5.1.2e @minjenv.nl>\nOnderwerp: Fysieke SO sessie 29 mei\n\nBeste collega’s,\nZoals eerder gecommuniceerd vindt het volgende Strategisch Overleg fysiek plaats: woensdagochtend 09.00 op\nJenV (NO1-09 Jacob van Campen-zaal). We hopen veel van jullie daar te zien! We zullen zorgen voor een kopje\nkoffie/thee en wat lekkers. Voor (m.n.) de PV is er een inbelmogelijkheid.\nGraag bespreken we samen de ontwikkelingen rondom het hoofdlijnenakkoord, we dachten aan de volgende\nagenda:\n\n1. Rondje reacties op het HLA\n\n2. Doorlopen van de quickscan (zie hier op SWR, ik zal maandag einde dag laatste versie rondsturen)\n\n3. Vervolg\n\nTot woensdag,",
+      "dossier_id": "11715934",
+      "email_id": "email_28"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c0c6b981",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "37c2b00a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 1124,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3da5047b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1129,
+              "end": 1217,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "cd91a2bc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "90da660d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1229,
+              "end": 1253,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , 512, - BD/DGM/BIM\nVerzonden: dinsdag 21 mei 2024 12:06\nAan: 512e, 5.1.26 5.1.2e-BD/DGM/BIM < 5.1.2e @minjenv.nl>; 5-1.2e , §12°.-BD/DGM/BIM < 5.1.2€ @minjenv.nl>; 5.1.2e,\n\n5.1.2e-BD/DGM/BIM< 512e @minjenv.nl>; 5.1.2€ @minaz.nl' < §.1.2@ @minaz.nl>; §.1.2e @minbuza.nl;\n5.1.2 minbuza.nl; 512e, 5.1.2e S12 < §.1.2e minbuza.nl>; 5.1.2e @minbuza.nl; S1% 5.1.2e\n5.1.2e 5.1.2e @minbuza.nl>; 5.1.2e ,512¢ - BD/DGM/BIM < 5.1.2e minjenv.nl>; 5.1.2e ,512e,- BD/DGM/BIM\n<  §.1.2e minjenv.nl>; 5.1.2e @minbuza.nl; 542, 512e51.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>; 5.1.2e,\n5125.1.2e @minaz.nl>; 5.1.2e 512 5.1.2e - BD/DGM/BIM < 5.1.2e minjenv.nl>; 5.1.2e @minbuza.nl' < 5.1.2e\n5.1.2e minbuza.nl>; _5.1.2e minbuza.nl; S12e,51251.2e BD/DGM/BIM < _5.1.2e minjenv.nl>; _ 5-1.2e\n\n5.1.2e < 5.1.2e @minbuza.nl>; $12, 5.1.2e < 512e @minbuza.nl>; 512, 512e <  5.1.2e minbuza.nl>;\n\n167761988 0040 0058\n\n§.1.2e | 512e < 5.1.2e @minbuza.nl>; 5.1.2e 5.1.2e 5.1.2e @minbuza.nl>; 5.1.2e\n\n< 5.1.2e minbuza.nl> 5.1.2e §.1.2e < 5.1.2e @minbuza.nl>; 6.1.2e ,512e < 5.1.2e minbuza.nl>;\n5.1.2e 5.1.2e 5.12e < 5.1.2e minbuza.nl>\n\nCC: Secretariaat - DMB < 5.1.2i minjenv.nl>; 5.1.2e 5.1.2e BD/DGM/DMB/JAZ < 5.1.2e minjenv.nl>\nOnderwerp: Fysieke SO sessie verplaatst naar 29 mei\n\nBeste allen,\n\nVanwege afwezigen verzetten we deze sessie naar volgende week (29 mei). Locatie: NO1-09 Jacob van\nCampen-zaal. We horen graag indien je niet aanwezig kunt zijn.\n\nMorgen komt het SO te vervallen.\n\nHartelijke groet,",
+      "dossier_id": "11715934",
+      "email_id": "email_29"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "820cfe57",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 31,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "5a32295b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 1107,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "42bb4450",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1112,
+              "end": 1202,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "192758b9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 43,
+              "end": 68,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "42baf9b5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1214,
+              "end": 1254,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e, 512, - BD/DGM/BIM\nVerzonden: vrijdag 17 mei 2024 17:29\nAan: 12e, 512e 512e-BD/DGM/BIM < 5.1.2e @minjenv.nl>; 5.1.2e , S12,-BD/DGM/BIM < 5.1.2e @minjenv.nl>; 512e,\n\n5.12e.BD/DGM/BIM< S12e @minjenv.nl>; 5.1.2€ @minaz.nl' < 5.1.2 @minaz.nl>; 5.1.2e @minbuza.nl;\n5.1.2e minbuza.nl; 512e, S.12e stee < 5.1.2e minbuza.nl>; 5.1.2e @minbuza.nl; $12 5.1.2e\n5.1.2¢ ; 5.1.2e @minbuza.nl>; 5.1.2e , $12, -BD/DGM/BIM< 5.1.2e @minjenv.nl>; 512e , 512°, - BD/DGM/BIM\n<  5.1.2e minjenv.nl>; 5.1.2e @minbuza.nl; $12, 51.2e 512e BD/DGM/BIM < 5.1.2e @minjenv.nl>; 512e,\n512e 5.1.2e @minaz.nl>; 5.1.2e ‚siz 5.12e BD/DGM/BIM < 5.1.2e minjenv.nl>; 5.1.2e @minbuza.nl' <512e\n5.1.2e minbuza.nl>;  5.1.2e = @minbuza.nl; 512e, 512° §.1.2e BD/DGM/BIM <__ 5.1.2e minjenv.nl>;  5.1.2e\n§.1.2e < 5.1.2e @minbuza.nl>; $17, 5.1.2e < 5.1.2e @minbuza.nl>; 512e, 5.1.2e < 5.1.2e minbuza.nl>;\n5.1.2e ,512e < 5.1.2e @minbuza.nl>; 5.1.2e 5.1.2e 5.1.2e @minbuza.nl>, 5.1.2e\n< 5.1.2e minbuza.nl>; 5.1.2e §.1.2e < 5.1.2e @minbuza.nl>; 5.1.2e , 512e <  5.1.2e minbuza.nl>;\n§.1.2e 512e 51.2e 5.1.2e @minbuza.nl>\nCC: Secretariaat - DMB < 5.1.2i minjenv.nl>; 5-1.2e §4.2e -BD/DGM/DMB/JAZ< _ 5.1.2e minjenv.nl>\n\nOnderwerp: (Fysiek) SO 22 mei\n\nBeste collega’s,\n\nWoensdag 22 mei is er weer een strategisch overleg, graag bespreken we samen het hoofdlijnenakkoord. Een\naantal collega’s zijn afwezig ivm verloven en dienstreizen, toch leek het ons goed met wie er wel is even samen te\nkomen. De vergadering zal fysiek zijn (N36-10 Noord-Brabant, JenV), al blijft er ook de mogelijkheid om in te\nbellen.\n\nVoor toegang tot het gebouw kun je je aanmelden bij 5.1.2e 5.12e (cc).\n\nFijn lang weekend gewenst,\n\n5.1.2e\n\n167761988 0040 0059",
+      "dossier_id": "11715934",
+      "email_id": "email_30"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "1e1f089d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8c1785f1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 1078,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "719c88d7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1083,
+              "end": 1175,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "ade91b15",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ab9409f9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 1187,
+              "end": 1205,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512, 512e _BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 512e, 51.2e[ 512e @minbuza.nl];\n5.1.2 @minbuza.nl[ 5.1.2e @minbuza.nl]\n\nFrom: S126, 5.1.2e\n\nSent: Mon 12/9/2024 4:46:36 PM\n\nSubject: RE: [Re] Letter from minister of Asylum and Migration of NL - Ares(2024)8256872\n\nReceived: Mon 12/9/2024 4:47:04 PM\n\nOke thanks!",
+      "dossier_id": "11715934",
+      "email_id": "email_31"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "94ecd8c2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 118,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "bd80e9de",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 126,
+              "end": 138,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "9cc7b134",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 146,
+              "end": 170,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "191da818",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 181,
+              "end": 260,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: 512e, 5.1.2e 5.1.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nSent: maandag 9 december 2024 17:26\n\nTo: Siz, 5.12e < 512e @minbuza.nl>; 512e, 5.1.2e < 5.1.2e @minbuza.nl>; 5.1.2e , 5.1.2e < 5.1.2e @minbuza.nl>\nSubject: RE: [Re] Letter from minister of Asylum and Migration of NL - Ares(2024)8256872\n\nIk heb dit trouwens nog genoemd. 5.1.2a\n5.1.2a",
+      "dossier_id": "11715934",
+      "email_id": "email_32"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d8d64924",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 58,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1ab3e5c1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 206,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e2e95c38",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 66,
+              "end": 95,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e9ab41a9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 216,
+              "end": 295,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5128, 5.1.2e < 51.2e @minbuza.nl>\nVerzonden: maandag 2 december 2024 16:18\nAan: 512e, 512e.51.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>; 512e, 5.1.2e < 51.2e @minbuza.nl>;\n\n5.1.2e @minbuza.nl\nOnderwerp: RE: [Re] Letter from minister of Asylum and Migration of NL - Ares(2024)8256872\n\nYes dat zou denk ik top zijn, kan idd kort, maar dan kunnen we daar op terugvallen mocht dat nodig zijn.",
+      "dossier_id": "11715934",
+      "email_id": "email_33"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "9d34a1b0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 38,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "e943de57",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 85,
+              "end": 190,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ed1aa39e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 50,
+              "end": 79,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "efd663b2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 202,
+              "end": 281,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: 512e, 5.1.2e 5.1.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>\nSent: vrijdag 29 november 2024 19:12\nTo: 817, 5.1.2e < 5.1.2e minbuza.nl>; §.1.2e , 51.28 < 5.1.2e minbuza.nl>; 5.1.2e , 5.1.2e\n\n< 5.1.2e @minbuza.nl>\nSubject: RE: [Re] Letter from minister of Asylum and Migration of NL - Ares(2024)8256872\n\nHey, sorry voor late Antwoord. 5.1.2e spreekt volgende week met 5.1.28 misschien kunnen we dan dit kort\neven verhelderen?",
+      "dossier_id": "11715934",
+      "email_id": "email_34"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d01cc396",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 58,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "466f857a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 100,
+              "end": 209,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2e2dec4c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 95,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c64129c7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 219,
+              "end": 298,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512, 5.1.2e < 5.1.2e minbuza.nl>\nVerzonden: vrijdag 22 november 2024 11:51\nAan: 5.1.2e @minbuza.nl; 512, 5.1.2e .5,.1.2e BD/DGM/BIM < 5.1.2e minjenv.nl>\n\nOnderwerp: FW: [Re] Letter from minister of Asylum and Migration of NL - Ares(2024)8256872\n\nHi 5.1.2e en 5.1.2e\n\n,\n\nLaatste loodjes nog 5.1.2e ! Heb je nog verlof voordat je terugkomt? Of tot 1 december aan het werk?\n\nIk zag deze brief, die inderdaad kort en procedureel is, maar het heeft over een opt-out op alleen het Pact.. Denk niet opportuun\nom meteen in de pen te klimmen, maar moeten we hier (mondeling) nog iets mee? Hoe zien jullie dit?\n\nGroet,\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_35"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ff7116bc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 37,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "40cbd647",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 85,
+              "end": 158,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "28a287c9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 79,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c46dfab3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 170,
+              "end": 249,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From 5-1.2€ < 5.1,2e minbuza.nl>\nSent: woensdag 20 november 2024 16:50\nTo: 5.1.2e ,stz,-BD/DEIA/EU< 512e @minjenv.nl>; 5.1.2e , 5.1.2e < 5.1.2e = @minbuza.nl>; 512e, 512\n\n< 5.1.2e minbuza.nl>; 5.1.2e 5.1.2e 5.1.2e @minaz.nl: 5.1.2e : §1.2e minbuza.nl>; 5.1.2e „sie,\n< 5.1.2e minbuza.nl>\n\nCc: 5.1.2e , 5.1.2e < 5.1.2e @minbuza.nl>; 512e, 5.1.2e 5,1.2e 5.1.2e minbuza.nl>; 5,1.2e\n\n<  512e minbuza.nl>; 512e «< 5.1.21 @minbuza.nl>; 12%, 512e 54.26 5.1.2e minbuza.nl>; 5.1.2e , 5.1.2e\n\n< 5.1.2e @minbuza.nl>; 512e , 51.2e < 5.1.2e @ minbuza.nl>; §.1.2e , 5.1.2e\n167761990 0042 0067\n\n< 5.1.2e @minbuza.nl>\nSubject: [Re] Letter from minister of Asylum and Migration of NL - Ares(2024)8256872\n\nKort procedureel antwoord op de ‘opt out brief’\n\n51.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_36"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "b40f1af0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 287,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "cf958f66",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 292,
+              "end": 600,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "2b588534",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 70,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "46586f20",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 610,
+              "end": 685,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: 512e 512e VDL-CA-21)< 5.1,2e @ec.europa.eu>\n\nSent: woensdag 20 november 2024 15:49\n\nTo: FABER-VAN DE KLASHORST Marjolein (EERSTE KAMER = SENATE OF THE STATES GENERAL = PREMIERE CHAMBRE DES ETATS-\nGENERAUX) < 5.1.21 @eerstekamer.nl>; 512e «< 5.1.21 @minbuzanl> 51.2e 5.1.2e minbuza.nl>\n\nSubject: [Re] Letter from minister of Asylum and Migration of NL - Ares(2024)8256872\n\nDear 5.1.2e\n\nOn behalf of the European Commissioner for Home Affairs, Mrs Ylva Johansson, | would like to ask you to transmit the enclosed\nletter to H.E. Mrs M.H.M. Faber-van de Klashorst, Minister of Asylum and Migration of the Kingdom of the Netherlands.\n\nYours sincerely,\n[e-signed]\n5.1.2e\n\nHelp save paper! Do you really need to print this email?\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\nresulting from the risks inherent in the electronic transmission of messages.\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nMinisterie van Justitie en Veiligheid\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\n\nresulting from the risks inherent in the electronic transmission of messages.\n\nMinistry of Justice and Security\n\nHelp save paper! Do you really need to print this email?\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\n\n167761990 0042 0068\n\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\nresulting from the risks inherent in the electronic transmission of messages.\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nMinisterie van Justitie en Veiligheid\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\n\nresulting from the risks inherent in the electronic transmission of messages.\n\nMinistry of Justice and Security\n\nHelp save paper! Do you really need to print this email?\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht\nabusievelijk aan u is toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat\naanvaardt geen aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het\nelektronisch verzenden van berichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was\n\nsent to you by mistake, you are requested to inform the sender and delete the message. The State accepts no liability for\ndamage of any kind resulting from the risks inherent in the electronic transmission of messages.\n\n167761990 0042 0069",
+      "dossier_id": "11715934",
+      "email_id": "email_37"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "acc5f089",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 49,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6dbd456d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 291,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "638c169e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 88,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "569d0b0e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 301,
+              "end": 376,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512e, 512, - BD/DGM/BIM[ 5.1-2e @minjenv.nl]\n\nCc: 5.1.2e 512 -BD/DGM/BIM[ 5-1-2e @minjenv.nl}, 512, 5.1.2e 5.1.2e BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: §.1.2e , s12, - BD/DGM/BIM\n\nSent: Mon 9/16/2024 5:12:52 PM\n\nSubject: RE: [ter akk] lijntjes opt out\n\nReceived: Mon 9/16/2024 5:12:52 PM\n\nJa eens ben benieuwd\n\nVerzonden met BlackBerry Work\n(www.blackberry.com)",
+      "dossier_id": "11715934",
+      "email_id": "email_38"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "5b450bc7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 49,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "172d1f02",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 149,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "4ab51b05",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 156,
+              "end": 182,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "5e31e972",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 190,
+              "end": 214,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "da230453",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 225,
+              "end": 255,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 9.12e 512, -BD/DGM/BIM < 5.1.2€ @minjenv.nl>\n\nDatum: maandag 16 sep 2024. 7:05 PM\n\nAan: 512e | stze,-_BD/DGM/BIM< 5128 @minjenvnl>\n\nKopie: 5-1.2e s12 _BD/DGM/BIM < 5-12e @minjenv.nl>, 5120, 5.1.2e 51.2e BD/DGM/BIM < 5.1.2e @minjenv nl>\nOnderwerp: [ter akk] lijntjes opt out\n\nHa 5.1.2e,\nGraag je akkoord op bijgaande woordvoeringslijnen over de opt-out (zowel voor MA&M bij pers en MP bij APB).\nAfgestemd met BZ.\n\nGroeten,\n5.1.2e\n\n167761991 0043 0070",
+      "dossier_id": "11715934",
+      "email_id": "email_39"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "af182307",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 49,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2f561843",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 93,
+              "end": 240,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "0c04f868",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 86,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ebcf628d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 252,
+              "end": 278,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512e, 512, - BD/DGM/BIM[ 5.1.2e @minjenv.nl]\n\nCc: 512e, §1.2e -BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5-1-2e  , 512e.- BD/DGM/BIM[ 512e = @minjenv.nl]\nFrom: §.1.2e , s12, - BD/DGM/BIM\n\nSent: Wed 7/10/2024 7:56:05 AM\n\nSubject: RE: Akkoord; BZ opt-out fiche\n\nReceived: Wed 7/10/2024 7:56:06 AM\n\nJa ik vind te toevoeging wel verhelderend en ik denk dat Schengen (en Dublin) ook wel vet gemaakt mag worden.\nHet geeft wel de reikwijdte van het besluit goed aan.",
+      "dossier_id": "11715934",
+      "email_id": "email_40"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0031055b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 49,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "422fd806",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 54,
+              "end": 148,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "ce611a2d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 155,
+              "end": 181,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1311c9ff",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 189,
+              "end": 213,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "27748b8e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 224,
+              "end": 253,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e,512,- BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nVerzonden: woensdag 10 juli 2024 09:21\n\nAan: 5.1.2e , stze,-BD/DGM/BIM< 512e @minjenv.nl>\n\nCC: 512e, 512e 54.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>; 5.1.2e ,s1z,-BD/DGM/BIM< 512e @minjenv.nl>\nOnderwerp: Akkoord; BZ opt-out fiche\n\nBijgaand laatste versie, daarin staat dit nog;\n\nBij een opt-out op asiel en migratie treedt men ook uit Schengen en is het Dublin acquis niet (meer) van toepassing. Wil men\nkomen tot de Deense situatie dan moet tegelijkertijd een opt-in op Schengen en Dublin onderhandeld worden.\n\nVoldoet dat? Of moet daaraan nog iets worden toegevoegd als; Uittreding uit Schengen betekent herinvoering van\ngrenscontroles. Een opt-in op Schengen betekent dat alle Europese regelgeving over o.a. grensbeheer, screening en Eurodac,\nvan toepassing blijft ?\n\nEn, 5.1.2e graag je akkoord op deze versie, die nu tegelijkertijd bij 5.1.2e voorligt, en daarna naar 5.1.2e gaat!\n\nGroet,\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_41"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f8978d89",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 50,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "327e7207",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 142,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ae582ff4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 147,
+              "end": 240,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "274252ce",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 90,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "734ee1bd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 252,
+              "end": 277,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , 512e.-BD/DGM/BIM< 5.1.2e minjenv.nl>\n\nVerzonden: woensdag 10 juli 2024 07:23\n\nAan: 912e,512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nCC: 5120, 5120 51.2e BD/DGM/BIM < 5.1,2e @minjenv.nl>; 5:1.2e , 512e.-BD/DGM/BIM< 512e @minjenv.nl>\nOnderwerp: RE: BZ opt-out fiche\n\nGoedemorgen!\n\nIk bedacht me nog ik heb hier ook nog met 5.1.2e over gesproken. Hij noemde twee grote brokken die een optout in de weg staan:\nDublin en Schengen. Ik denk dat we moeten toevoegen bij de overwegingen dat een effectieve optout ook een uittreden uit\nSchengen betekent. Of positiever geformuleerd: indien nederland wel wil blijven deelnemen aan Schengen dan zullen we aan veel\nvan de Europese regels gebonden blijven.\n\nSorry voor deze late oprisping, maar ik denk wel relevant.\n\nVerzonden met BlackBerry Work\n(www. blackberry.com)",
+      "dossier_id": "11715934",
+      "email_id": "email_42"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4a087a00",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 50,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "fac850a5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 142,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e12bb5d8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 147,
+              "end": 242,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "157711d8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 90,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "dbd9c899",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 254,
+              "end": 274,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e ,512e,- BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nDatum: dinsdag 09 jul 2024, 4:25 PM\n\nAan: 5.1.2e , 512e,-BD/DGM/BIM< __ 5.1.2e minjenv.nl>\n\nKopie: 5.12e, 5.1.2e , 512e- BD/DGM/BIM < 5.1.2e minjenv.nl>, 5.1.2e ,512e,-BD/DGM/BIM< _5.12e minjenv.nl>\nOnderwerp: BZ opt-out fiche\n\nCf. besproken\n\n167761992 0044 0071",
+      "dossier_id": "11715934",
+      "email_id": "email_43"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d84f6fa0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 52,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ea25eed0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 96,
+              "end": 252,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "89904082",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 89,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "c7d91c39",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 264,
+              "end": 280,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 912e, 512, - BD/DGM/BIM[ 5.1-2e @minjenv.nl]; Staf DGM[ 5.1.2e @minjenv.nl]\n\nCe: §.1.2e 512 -BD/DGM/BIM[ 512e @minjenv.nl]; 5-12e , st: -BD/DGM/BIM[ 512e @minjenv.nl}; 512,\n§.1.2e BD/DGM/BIM[ 5.1.2 @minjenv.nl]; 5.1.2e , 512e.- BD/DGM/BIM[ §.1.2e @minjenv.nl]; 12, 5.1.2e\n\nBD/DGM/BIM[  5.1-2e _ @minjenv.nl]\n\nFrom: size, §.1.2e 512e BD/DGM/BIM\n\nSent: Tue 6/25/2024 10:12:14 AM\n\nSubject: RE: Slides voorbereiding nieuwe bwp\n\nReceived: Tue 6/25/2024 10:12:15 AM\n\n240625 Slide nieuwe bwp.pptx\n\nGraag ook even met onze andere 5.15.1.2e in cc zodat zij ook de latest heeft.",
+      "dossier_id": "11715934",
+      "email_id": "email_44"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "a7c32d4e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 311,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "35d7ebcd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 319,
+              "end": 347,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "79851f39",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 355,
+              "end": 380,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f7cdb80b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 391,
+              "end": 426,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e,512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nVerzonden: dinsdag 25 juni 2024 12:00\n\nAan: Staf DGM < 5.1.21 @minjenv.nl>\n\nCC: 5.12e , st2e,-BD/DGM/BIM< 512e @minjenv.nl>; 5.1.2e ,512,.-BD/DGM/BIM< 512e @minjenv.nl>; 512e,\n5.1.28 ,512e BD/DGM/BIM < 5.1.2e @minjenv.nl>; 512, 5.12e5,1.2e BD/DGM/BIM <  5.1.2€ @minjenv.nl>; 5.1.2e , 5122, -\nBD/DGM/BIM < 5.1.2€ @minjenv.nl>\n\nOnderwerp: Slides voorbereiding nieuwe bwp\n\nHa 512e, 5.1.2e,\n\nZoals besproken hierbij de slides van BIM ter voorbereiding van de nieuwe BWP. Betreft een eerste slide voor de\nbwp, en een tweede voor ambtelijke acties.\n\nGroeten, ook namens de andere BIMmers,\n5.1.2e\n\n167761994 0045 0072",
+      "dossier_id": "11715934",
+      "email_id": "email_45"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "55bc9489",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 49,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "20ca27b4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 95,
+              "end": 126,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "dab785be",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 131,
+              "end": 376,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "107934fb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 88,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "8be6fb0c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 388,
+              "end": 419,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 51.2e . 512,-BD/DEINEU[ 512e @minjenv.nl. “12e _BD/DEINEU[ 512e @minjenv.nl 52e -\n\nBD/DEIA/EU| 5-1.2e @minjenv.nl}; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl];\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl]; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl};\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl]\nCc: 5.1.2e 512. -BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5.1.2e 5122, s1ze.- BD/DEINEU[ 5.1.2e @minjenv.nl]; 512,\n\n5.12e  - BD/DGM/BIM[ 5.1.2 @minjenv.nl]\nFrom: 9.1.2e  5.12e - BD/DGM/BIM\nSent: Wed 8/28/2024 3:52:50 PM\nSubject: RE: Spoed verzoek: T&T notitie opt-out, DL morgen 17.00\nReceived: Wed 8/28/2024 3:52:51 PM\n\n240828 T&T Procesvoorstel opt out CONCEPT.docx\n\nVeel dank voor alle snelle reacties, deze zijn verwerkt. Bijgaand wordt morgen besproken tot en met DG-niveau bij\nBZ en A&M.\nWe houden jullie op de hoogte van de vervolgstappen!\n\nGroet,\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_46"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "004ac3ad",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 282,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2dc78a9b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 287,
+              "end": 430,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "90970276",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 437,
+              "end": 463,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "59080928",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 470,
+              "end": 494,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "908392b3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 504,
+              "end": 559,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e ,512e,- BD/DGM/BIM\nVerzonden: dinsdag 27 augustus 2024 18:16\nAan: 5-1.2e 512e 512e,-BD/DEIA/EU< 512e @minjenv.nl> %12° -BD/DEIA/EU< 5.1.2e @minjenv.nl>; 5.1.2e 5.1.2e\n\nBD/DEIA/EU < 5.1.2e @minjenv.nl>; 5.1.2 @minbuza.nl; 5.1.2e @minbuza.nl;\n5.1.2e @minbuza.nl; 5.1.2e @minbuza.nl; 5.1.2e ; 512e | 5.1.2e\n< 5.1.2e @minbuza.nl>; 5.1.2e, 5.1.2e < 5.1.2e @minbuza.nl>; 517, §.1.2€ 5.1.2e\n\n5.1.2es ninbuza.nl>\n\nCC: 5.1.2e , 512e,-BD/DGM/BIM< 512e @minjenv.nl>; 5.1.2e ,512e, s1ze,-BD/DEIA/EU< 5.1.2e @minjenv.nl>; 512¢,\n5.1.2e 51.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nOnderwerp: Spoed verzoek: T&T notitie opt-out, DL morgen 17.00\n\nHi allen,\n\nZoals jullie weten vond afgelopen vrijdag de stuurgroep EU Tactiek en Timing (Europese inzet hoofdlijnenakkoord)\nplaats, o.l.v. MP. Hierbij is afgesproken dat bij de volgende bijeenkomst van de stuurgroep o.a. de tactiek en timing\nrondom de opt-out brief besproken wordt. Deze bijeenkomst wordt naar verwachting op korte termijn ingepland\n(eerder sprak men over 6/9, wordt nu naar nieuw moment gezocht). Dat betekent dat we in korte tijd een voorstel\nhiertoe moeten opstellen en afstemmen, en politiek moeten toetsen.\n\nSamen met de BZ-collega’s zetten we vanmiddag een eerste draft voor deze notitie op de SWR. Graag ook jullie\nblik. Donderdag is hierover een bespreking met onze DG voorzien, waarna toetsing verder in de lijnen op beide\ndepartementen nodig zal zijn. Daarom de vraag of jullie voor morgen 17.00 willen meekijken en -schrijven.\nNadrukkelijk ook een verzoek aan de collega’s van de PV om mee te lezen, gezien het voorwerk dat in Brussel zal\nplaatsvinden om te zorgen voor een goede landing van de brief. Hierover staat nu kort e.e.a. in de notitie, maar\ngraag jullie blik en aanvullingen.\n\nAlvast veel dank en weet me te vinden bij vragen,\n\nGroeten,\n5.1.2e\n\n167761995 0047 0076",
+      "dossier_id": "11715934",
+      "email_id": "email_47"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "00d77280",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "806f9a48",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 417,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "9086133d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 422,
+              "end": 573,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "6b139b8b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 72,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6a964435",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 585,
+              "end": 636,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512e, 512e, 512e BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nCe: 5.1.2e 512e 54 2e- BD/DCOM/WS&O[ 5-12e = @minjenv.nl]\nFrom: 5.12e , 512. - BD/DCOM/C&R\n\nSent: Mon 9/16/2024 5:49:57 PM\n\nSubject: RE: Tweet informeren EU-commissie\n\nReceived: Mon 9/16/2024 5:49:59 PM\n\nSlider AenM.jpeg\n\nHi 5.1.2e\n\nr\n\nIk begreep vanmiddag van 5.1.2e dat ze de vraag over de slider bij jou had neergelegd. Intussen heb ik de minister\nook geïnformeerd over de slider en ze is hiermee akkoord.\n\nFijne avond!\nMet vriendelijke groet,\n\n512e §.1.2e\n5.1.2e\n\nMinisterie van Asiel en Migratie\nDirectie Communicatie\n\nTurfmarkt 147 | 2511 DP | Den Haag\nPostbus 20301 | 2500 EH | Den Haag\n\n5.1.2e\nM 5.1.2e\n\n5.1.2e @minjenv.nl\n\nwww.rijksoverheid.nl/jenv\n\nOp vrijdag afwezig",
+      "dossier_id": "11715934",
+      "email_id": "email_48"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "69dddc45",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 110,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "5d6aab92",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 117,
+              "end": 143,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "3c143383",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 151,
+              "end": 175,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "076141ab",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 186,
+              "end": 219,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e ,s12,-BD/DCOM/C&R\n\nVerzonden: maandag 16 september 2024 12:06\n\nAan: 5.1.2e 512, - BD/DGM/BIM < 5.12e @minjenv.nl>\n\nCC: 5.1.2e 512 5 4.2e BD/DCOM/WS&O< _5.12e @minjenv.nl>; 512e, 5.1.2e 512e- BD/DGM/BIM < 5.1.2e @minjenv.nl>;\n5.1.2e -BD/DCOM/C&R< 5.1.2e @minjenv.nl>\n\nOnderwerp: RE: Tweet informeren EU-commissie\n\nHi 5.1.2e\n\nr\n\nVanochtend heb ik het voorstel met de minister besproken. Ze gaf aan korter en daadkrachtiger te willen zijn in de\ntweet. Ook wil zij de focus enkel op de opt-out hebben. Ik heb de beweegredenen om uitgebreider te zijn met haar\ngedeeld, maar ze wil graag het onderstaande plaatsen.\n\nbuiten verzoek\n\nHoor graag!\n\nMet vriendelijke groet,\n\n167761996 0049 0078\n\n512e §.1.2e\n5.1.2e\n\nMinisterie van Asiel en Migratie\nDirectie Communicatie\n\nTurfmarkt 147 | 2511 DP | Den Haag\nPostbus 20301 | 2500 EH | Den Haag\n\nM 5.1.2e\n\n5.1.2e @minjenv.nl\nwww.rijksoverheid.nl/jenv\n\nOp vrijdag afwezig",
+      "dossier_id": "11715934",
+      "email_id": "email_49"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "89b39260",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 27,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "48ea50fe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 78,
+              "end": 124,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "f265f4e4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 129,
+              "end": 276,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b3609680",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 71,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "1b56e819",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 288,
+              "end": 321,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , 512, - BD/DCOM/C&R\n\nVerzonden: vrijdag 13 september 2024 09:27\n\nAan: 512e,512, - BD/DGM/BIM < 5.1.2e minjenv.nl>\n\nCC 512e #12, 5,1.2e3D/DCOM/WSRO< _ 5.12e @minjenv.nl>; 512, 5.1.2e 5.1.2e BD/DGM/BIM< _ 5.1.2e minjenv.nl>;\n5.1.2e BD/DCOM/C&R < 5-1.2e @minjenv.nl>\n\nOnderwerp: RE: Tweet informeren EU-commissie\n\nAh super, dankjewel. Ik leg deze varianten bij de minister voor. Ik heb alleen in de Engelse variant er our\ngovernment van gemaakt ipv the NL government. Anders kwam ik niet uit in de tekens*.\n\nMet vriendelijke groet,\n\n512e 5.1.2e\n5.1.2e\n\nMinisterie van Asiel en Migratie\nDirectie Communicatie\n\nTurfmarkt 147 | 2511 DP | Den Haag\nPostbus 20301 | 2500 EH | Den Haag\n\n5.1.2e\nM 5.1.2e\n512e @minjenv.nl\n\nwww.rijksoverheid.nl/jenv\n\nOp vrijdag afwezig",
+      "dossier_id": "11715934",
+      "email_id": "email_50"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f590a807",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 32,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ab1a6a9c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 83,
+              "end": 277,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "168c0393",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 45,
+              "end": 76,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "4665ceaf",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 289,
+              "end": 322,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e,512e,- BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nVerzonden: donderdag 12 september 2024 21:05\n\nAan: 512e ‚512 -BD/DCOM/C&R< 5.1.28 @minjenv.nl>\n\nCC 5120 S12512e-BD/DCOM/WS&O< 51.2e @minjenv.nl>; 512e, 5.1.2e, 51.20 BD/DGM/BIM < 5.1.2e minjenv.nl>;\n51.2e -BD/DCOM/C&R< 5.1.2e @minjenv.nl>\n\nOnderwerp: RE: Tweet informeren EU-commissie\n\nEn hierbij ook nog een Engelse tweet om er onder te hangen\n\nI have just informed the @EU Commission that the NL government wants an opt-out from the European asylum\nrules in case of treaty amendment, to ensure that we can make our own rules in the future. As long as NL doesn't\nhave an opt-out, I will continue our work on the Migration Pact.\n\n167761996 0049 0079",
+      "dossier_id": "11715934",
+      "email_id": "email_51"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "fee0da8e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 49,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "069e5fcd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 102,
+              "end": 290,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "96945158",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 95,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "00a7a183",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 302,
+              "end": 335,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , 512, - BD/DGM/BIM\n\nVerzonden: donderdag 12 september 2024 20:22\n\nAan: 5.1.2e 51%, -BD/DCOM/C&R< 5.1.2e minjenv.nl>\n\nCC: 5.1.2e 512 512e - BD/DCOM/WS&O < 5.1.2e @minjenv.nl>; 512e, 5.1.2e 54 2e - BD/DGM/BIM < 5.1.2e\n5.1.2e BD/DCOM/C&R < 5.1.2e @minjenv.nl>\n\nOnderwerp: RE: Tweet informeren EU-commissie\n\nHa 512e,\n\nDit lijkt me goed, met één mini aanpassing (die leidt tot minder tekens, dus dat lijkt me top).\nIk dubbelcheck nog even bij 5.1.2e .\n\nGroet,\n\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_52"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "e7e370bd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 31,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "c170ac66",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 129,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "c1260017",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 134,
+              "end": 270,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "d649613b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 44,
+              "end": 77,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "74695f02",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 282,
+              "end": 315,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e ,512,-BD/DCOM/C&R< 5.1.2e minjenv.nl>\n\nVerzonden: donderdag 12 september 2024 17:57\n\nAan: 5.1.2e 512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nCC 5.1.2e 512%, 5.1.2eBD/DCOM/WS&O< = 5.1.28 @minjenv.nl>; 512e, 5.1.2e, 5,1.2e BD/DGM/BIM < 5.1.2e\n5.1.2e BD/DCOM/C&R < 5.1.28 @minjenv.nl>\n\nOnderwerp: RE: Tweet informeren EU-commissie\n\nHi 5.1.2e,\nGoed je zojuist telefonisch gesproken te hebben. Ik kom uit op de onderstaande tweet!\n\n*X*\n\nIk heb zojuist mijn collega van de @EU_Commission geïnformeerd dat ik een migratie opt-out binnen Europa wil. Bij\n\n@minjenv.nl>;\n\n@minjenv.nl>;\n\nverdragswijziging zal het kabinet hiervoor pleiten. Nederland moet weer eigen migratieregels kunnen maken. Tot die tijd werk ik\n\naan het Europese Migratiepact.\nIs dit voor jullie ook ok op deze manier?\n\nGroeten,\n5.1,2e\n\nVerzonden met BlackBerry Work\n(www.blackberry.com)\n\n§.1.2e 5.1.26 5.1.2e\n5.1.2e\n512e $1.26 5.1.2e\n5.1.26 5.1.2e 512e 512e 5.1.2e\n5.1.2e\n5.1.2e\n\nDubbele mail, zie document met ID-nummer 167761997 en de gegevens van de mail hierboven.\n\n167761996 0049\n\n0080",
+      "dossier_id": "11715934",
+      "email_id": "email_53"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c6687988",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 47,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8ef8d544",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 100,
+              "end": 289,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "83f55fc8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 93,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "677dfe02",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 301,
+              "end": 334,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e | 512. -BD/DGM/BIM[ 512e @minjenv.nll\n\nCe: 5.1.2e size -BD/DGMBIM[ 5-1.2e @minjenv.nl}; 512, 5.1.2e 5.1.2e BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 5.12e, 512, - BD/DGM/BIM\n\nSent: Thur 9/12/2024 7:04:03 PM\n\nSubject: RE: Tweet opt-out\n\nReceived: Thur 9/12/2024 7:04:04 PM\n\nJa beter idd. Ik zet dit door naar DCOM (moest wat inschikken ivm aantal woorden)\n\nI have just informed the @EU_Commission that the NL government wants an opt-out from the European asylum\nrules in case of treaty amendment, to ensure that we can make our own rules in the future. As long as NL doesn’t\nhave an opt-out, I will continue our work on the Migration Pact.",
+      "dossier_id": "11715934",
+      "email_id": "email_54"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "2160618b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 149,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "787ba6dd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 156,
+              "end": 180,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d98585c1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 188,
+              "end": 213,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "16150108",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 224,
+              "end": 241,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e , 512e,-BD/DGM/BIM<  5.1.2e @minjenv.nl>\n\nVerzonden: donderdag 12 september 2024 20:57\n\nAan: 5.1.28 , 512°, - BD/DGM/BIM < 5.1.28 @minjenv.nl>\n\nCC: 5.1.2e ,512,-BD/DGM/BIM<  §.1.2e @minjenv.nl>; §12e, 5.1.2e 5.4.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>\nOnderwerp: RE: Tweet opt-out\n\nZouden we niet dichter op de Nederlandse tweet moeten blijven: this is to ensure we can make our own rules in the future\nOf zoiets ?\n\nVerzonden met BlackBerry Work\n(www. blackberry.com)",
+      "dossier_id": "11715934",
+      "email_id": "email_55"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "bd54e844",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 52,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "48ac1a40",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 105,
+              "end": 155,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "298217e3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 160,
+              "end": 259,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "22ec99d9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 98,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ec5c5c90",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 271,
+              "end": 288,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e ,512e,- BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nDatum: donderdag 12 sep 2024, 8:21 PM\n\nAan: 5.1.2e , 512e,-BD/DGM/BIM<__ 5.1.2e minjenv.nl>\n\nKopie: 5.1.2e ‚stze,-BD/DGM/BIM< 5.1.2e @minjenv.nl>, 5120, 5.1.2e 5.1.2e BD/DGM/BIM < 5.1.2e @minjenv.nl>\nOnderwerp: RE: Tweet opt-out\n\nWellicht ook goed om de tweet ook in het Engels te doen?\nMisschien even afwegen. Vestigt wel de aandacht erop maar is wel helder wat dan de lijn is..?\n\n5.1.21,5.2.1\n\nIk heb zojuist mijn collega van de @EU Commission geïnformeerd dat ik een migratie opt-out binnen Europa wil. Bij\nverdragswijziging zal het kabinet hiervoor pleiten. Nederland moet weer eigen migratieregels kunnen maken. Tot die tijd werk ik\nmee aan het Europese Migratiepact.",
+      "dossier_id": "11715934",
+      "email_id": "email_56"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "90bc0076",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 52,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "c7604be7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 98,
+              "end": 253,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "fc5237d9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 91,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "210210e0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 265,
+              "end": 282,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 51.20, 512, - BD/DGM/BIM\n\nVerzonden: donderdag 12 september 2024 20:10\n\nAan: 5.1.2e , s1ze,-BD/DGM/BIM< 5.1.2e minjenv.nl>\nCC: 5.1.2e ,512,-BD/DGM/BIM< 5.1.2e minjenv.nl>\nOnderwerp: Tweet opt-out\n\nMet één aanpassing lijkt me dit oke?\nGroet,\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_57"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6bbb1a01",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 29,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "a144b2a2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 82,
+              "end": 127,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "bff949fc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 132,
+              "end": 175,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "7ed1b50e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 75,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "363a3e24",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 187,
+              "end": 200,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e ,512,-BD/DCOM/C&R< 5.12e minjenv.nl>\n\nVerzonden: donderdag 12 september 2024 17:57\n\nAan: 512e,s12, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nCC: 5.1.2e *12e,'st2e- BD/DCOM/WS&O< 5.1.28 @minjenv.nl>; §12e, 5.1.2e 512e- BD/DGM/BIM < 5.1.2e minjenv.nl>;\nArrjai, C.S. - BD/DCOM/C&R < 5.1.28 @minjenv.nl>\n\n167761997 0051 0083\n\nOnderwerp: RE: Tweet informeren EU-commissie\nHi 5.1.2e,\n\nGoed je zojuist telefonisch gesproken te hebben. Ik kom uit op de onderstaande tweet!\n\ndl\n\nIk heb zojuist mijn collega van de @EU Commission geïnformeerd dat ik een migratie opt-out binnen Europa wil. Bij\nverdragswijziging zal het kabinet hiervoor pleiten. Nederland moet weer eigen migratieregels kunnen maken. Tot die tijd werk ik\nmee aan het Europese Migratiepact.\n\nIs dit voor jullie ook ok op deze manier?\n\nGroeten,\n51.2e\n\nVerzonden met BlackBerry Work\n(www.blackberry.com)",
+      "dossier_id": "11715934",
+      "email_id": "email_58"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "cc217468",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 48,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "72c4db48",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 146,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "4d08c241",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 151,
+              "end": 327,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "998a2207",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 61,
+              "end": 94,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "648638c9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 339,
+              "end": 372,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e ‚512 -BD/DCOM/C&R< 512e @minjenv.nl>\n\nDatum: donderdag 12 sep 2024, 5:19 PM\n\nAan: 512e ,512e,- BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nKopi 5.1.2e 512°5.1.2e BD/DCOM/WS&O < _512e @minjenv.nl>, 512e, 512e §.12e - BD/DGM/BIM < 5.1.2e minjenv.nl>,\n5.1.2e BD/DCOM/C&R< 5.1.2e @minjenv.nl>\n\nOnderwerp: RE: Tweet informeren EU-commissie\n\nHi 5.1.2e ,\n\nBedankt voor het snelle werk! Ik wil twee opties bij de minister voorleggen. Dan kan ze zelf kiezen welke haar\naanspreekt. Hebben jullie nog aanvulling op deze varianten?\n\nOptie 1\n\n5.1.21,5.2.1\n\nOptie 2\n\n5.1.21,5.2.1\n\nMet vriendelijke groet,\n\n512e §,1.2e\n5.1.2e\n\nMinisterie van Asiel en Migratie\nDirectie Communicatie\n\nTurfmarkt 147 | 2511 DP | Den Haag\nPostbus 20301 | 2500 EH | Den Haag\n\nM 5.1.2e\n\n5.1.2e @minjenv.nl\nwww.rijksoverheid.nl/jenv\n\nK12a\n\n167761997 0051 0084",
+      "dossier_id": "11715934",
+      "email_id": "email_59"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f73aba93",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 48,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2bc90f81",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 94,
+              "end": 291,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "237058bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 87,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "dddce7b4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 303,
+              "end": 336,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5-1.2e,512e,- BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nVerzonden: donderdag 12 september 2024 13:09\n\nAan: 5.1.2e 512, -BD/DCOM/C&R< 5.128 minjenv.nl>\n\nCC: 5.1.2e 512, 5.4.2eBD/DCOM/WS&O< _512e @minjenv.nl>; 512e, 5.1.2e 5.1.2e ;D/DGM/BIM < 5.1.2e minienv.nl>\nOnderwerp: RE: Tweet informeren EU-commissie\n\nHa 512,\n\nVeel dank voor de voorzet en het afstemmen!\nEven snel gecheckt met BZ, AZ en PV te Brussel ook (die allemaal ook nauw betrokken waren bij de brief). Komen\nop onderstaand. Korte toelichting bij de drie wijzigingen:\n\n1. Er is uitgebreid op politiek niveau gesproken over naar wie de brief gaat. Dat is niet naar de voorzitter van\n\nde Europese Commissie maar naar Eurocommissaris Johansson. Daarom goed niet te insinueren dat het wel\n5.1.21,5.2.1\n\n2. Opt out gaat over migratie, goed om te benoemen\n3. We vragen niet aan de Commissie nu het verdrag te wijzigen. Dat kan de Commissie ook niet. NL zal bij\nverdragswijziging pleiten voor de opt-out\n\nAlle wijzigingen zijn echt belangrijk, maar die laatste is echt essentieel. Anders krijgt ze direct deksel op de neus\nvan de Europese Commissie en zullen ze negatief reageren. Ik bel 512e nog even hierover om toe te lichten, want\nzal in verdere woordvoering ook heel belangrijk zijn.\n\nGroeten,\n5.1.2e\n\n5.1.2i,5.2.1",
+      "dossier_id": "11715934",
+      "email_id": "email_60"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0b7b4e69",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 51,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "780e39f3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 104,
+              "end": 148,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d7a13133",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 153,
+              "end": 256,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "04bdead5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 64,
+              "end": 97,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "5df445bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 268,
+              "end": 301,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e  ,512e,- BD/DCOM/C&R< 5.1.2e minjenv.nl>\n\nVerzonden: donderdag 12 september 2024 11:32\n\nAan: 5.1.2e 512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nCC: 5.1.2e 12,512e-. BD/DCOM/WS&O< _ 5.1.2e @minjenv.nl>; 512e, 5.1.2e 5.1.2e BD/DGM/BIM < 5.1.2e minjenv.nl>\nOnderwerp: RE: Tweet informeren EU-commissie\n\nSnap ik! Helemaal goed.\n\nMet vriendelijke groet,\n\n§12e §.1.2e\n5.1.2e\n\nMinisterie van Asiel en Migratie\nDirectie Communicatie\n\nTurfmarkt 147 | 2511 DP | Den Haag\nPostbus 20301 | 2500 EH | Den Haag\n\nT 5.1.2e\nM 5.1.2e\n\n5.1.2e @minjenv.nl\nwww.rijksoverheid.nl/jenv\n\nOp vrijdag afwezig",
+      "dossier_id": "11715934",
+      "email_id": "email_61"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c6c161ae",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 52,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "407e9ebc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 105,
+              "end": 152,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "0cb04a52",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 157,
+              "end": 262,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "5a3da44b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 65,
+              "end": 98,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "361312f0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 274,
+              "end": 307,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e,512°,- BD/DGM/BIM < 5.128 @minjenv.nl>\nVerzonden: donderdag 12 september 2024 11:30\n167761997 0051 0085\n\nAan: 512e ,512.-BD/DCOM/C&R< 5.1.28 @minjenv.nl>\nCC:5.1.2e 512, 512. BD/DCOM/WS&O< _ 512e @minjenv.nl>; 512, 5.1.2e 5.1.2e- BD/DGM/BIM < 5.1.2e minjenv.nl>\nOnderwerp: RE: Tweet informeren EU-commissie\n\nHa 512e, thanks voor de afstemming en snap dat de minister dit wil. Geheel ligt nogal gevoelig dus ik ga even goed\nnaar de tekst kijken en afstemmen. Kom bij je terug.\n\nGroet!\n\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_62"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "32685c74",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 50,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f3b1f098",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 122,
+              "end": 165,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "44141841",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 169,
+              "end": 272,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "159ff2ea",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 62,
+              "end": 95,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "21429ab1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 284,
+              "end": 317,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.1.2e ,512e,- BD/DCOM/C&R< 5.1.2e minjenv.nl>\nVerzonden: donderdag 12 september 2024 11:29\n\nAan: 5.1.2e , 512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\n\nCC: 5.1.2e , 512 §.1.2e- BD/DCOM/WS&O0 < _ 5.12e minjenv.nl>\nOnderwerp: Tweet informeren EU-commissie\n\nHa 5.1.2e\n\n1\n\nDe minister heeft aangegeven dat ze volgende week woensdagochtend een tweet wil uitdoen over het informeren\nvan Europese Commissie over de opt-out. Hieronder een eerste opzetje. Wil jij meekijken?\n\n5.1.21,5.2.1\n\nMet vriendelijke groet,\n\n512e §.1.2e\n\n5.1.2e\n\nMinisterie van Asiel en Migratie\nDirectie Communicatie\n\nTurfmarkt 147 | 2511 DP | Den Haag\nPostbus 20301 | 2500 EH | Den Haag\n\nM 5.1.2e\n512e @minjenv.nl\n\nwww.rijksoverheid.nl/jenv\n\nOp vrijdag afwezig\n\n167761997 0051 0086",
+      "dossier_id": "11715934",
+      "email_id": "email_63"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "50e6f651",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 51,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2755013e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 103,
+              "end": 152,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "487d329e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 157,
+              "end": 213,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "53c41a88",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 63,
+              "end": 96,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a3451678",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 225,
+              "end": 254,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl}; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl];\n5.1.2 @minbuza.nl[ 5.1.2 @minbuza.nl]\n\nCc: 512e, §.1.2e [ 5.1.2e @minbuza.nl}; 12, §.1.2e[ 5.1.2e @minbuza.nl]; 512e, 5.1.2e\n\nBD/DGM/BIM[ 5.1.2e @minjenv.nl]\n\nFrom: 5.1.2e , 5.12e. - BD/DGM/BIM\n\nSent: Wed 7/10/2024 4:27:04 PM\n\nSubject: Re: Voorbereiding Stuurgroep EU hoofdlijnenakkoord\n\nReceived: Wed 7/10/2024 4:27:06 PM\n\n110724 Voorbereiding Stuurgroep TT.docx\n\n240710 Fiche opt-out.docx\n\nDank voor doorzetten 5.1.2e | Hierbij ook nog de fact-sheet over de opt-out - wederom een coproductie. Ligt bij\n5.1.2e /oor akkoord. Was besteld door MBZ en zal volgende week met hem besproken worden, zo begreep ik. Gaat\nbij ons mee in de vakantietas van MA&M.\n\nGroet,\n5.1.2e",
+      "dossier_id": "11715934",
+      "email_id": "email_64"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ba2fbb3b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 124,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "90e22a42",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 129,
+              "end": 243,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b463de26",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 251,
+              "end": 279,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "34fc8211",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 287,
+              "end": 311,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6bb41eac",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 322,
+              "end": 372,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e, 5.12e < 512e @minbuza.nl>\n\nVerzonden: woensdag 10 juli 2024 16:33\n\nAan: 5.1.2e @ minbuza.nl\n\nCC: 5.12e, 512, - BD/DGM/BIM < 5.1.2e @minjenv.nl>\nOnderwerp: Voorbereiding Stuurgroep EU hoofdlijnenakkoord\n\nHi 5.1.2e,\n\nZoals vanochtend in SO besproken deel ik het stuk (w.o. paragraaf over migratie) t.b.v. een hoogambtelijk overleg dat uitvoering\nwil geven aan het hoofdlijnenakkoord. Vrijwel alles is al bestaand beleid, gegoten in de mal van het HLA. J&V/BIM heeft enkele\nnabranders en zullen die tijdens het hoogambtelijk overleg inbrengen, stuk is dus nog niet de versie die naar de ministers gaat.\n\nGroet, 5.1.2e\nHelp save paper! Do you really need to print this email?\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u\nis toegezonden, wordt u verzocht dat aan de afzender te melden en het bericht te verwijderen. De Staat aanvaardt geen\naansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het elektronisch verzenden van\nberichten.\n\nThis message may contain information that is not intended for you. If you are not the addressee or if this message was sent to you\nby mistake, you are requested to inform the sender and delete the message. The State accepts no liability for damage of any kind\nresulting from the risks inherent in the electronic transmission of messages.\n\nDit bericht kan informatie bevatten die niet voor u is bestemd. Indien u niet de geadresseerde bent of dit bericht abusievelijk aan u is toegezonden, wordt u verzocht dat aan de\nafzender te melden en het bericht te verwijderen. De Staat aanvaardt geen aansprakelijkheid voor schade, van welke aard ook, die verband houdt met risico's verbonden aan het\nelektronisch verzenden van berichten.\n\nThis ge may contain information that is not intended for you. If you are not the addressee or if this message was sent to you by mistake, you are reque\nsender and delete the message. The State accepts no liability for damage of any kind resulting from the risks inherent in the electronic transmission of mess:\n\ned to inform the\nes\n\n167761998 0052 0087",
+      "dossier_id": "11715934",
+      "email_id": "email_65"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "fd27a173",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 36,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "d2c415ed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 83,
+              "end": 103,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "701de399",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 108,
+              "end": 154,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "a5a89a96",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 49,
+              "end": 76,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a71b4afb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 166,
+              "end": 212,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512e §.1.2e[ 512e @minbuza.nl]; 512e , 5.1.2e [ 5.1.2e @minbuza.nl];\n5.1.2 @minbuza.nl[ 5.1.2e @minbuza.nl] 5.1.2e -BD/DEIA/EU[ 5-1-2e @minjenv.nl]; 5.1.2e .5.1.2e\n\nBD/DEINEU[ 5.1.2e @minjenv.nl]; 512, f 5.1.2e Dminbuza.nl]; 5.1.2e ,\n5.1.2e [ 5.1.2e @minbuza.nl];  5.1.2e , 512e 5426 5.1.2e Dminbuza.nl];\n5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl]; 5.1.2e,5.12e siz [ 5.1.2e @minaz.nl}; s.12e,\n§.1.2e[ 51.2e @minbuza.nl]; §.1.2e , 512 st2,- BD/DEINEU[ §.1.2e @minjenv.nll\nCc: 5.1.2e 512 -BD/DGM/BIM[ 512e @minjenv.nl}; 5.1.2e @minbuza.nl[ 5.1.2e @minbuza.nl};\n\n5.1.2e , si -BD/DGM/BIM[ 51.2e @minjenv.nl}, 512, 5.1.2e 5.1.2e- BD/DGM/BIM[ 5.1.2e @minjenv.nl]\nFrom: 9.1.2e | 512, - BD/DGM/BIM\nSent: Wed 9/11/2024 1:01:34 PM\nSubject: Spoed: opt out brief [graag reactie voor 16.00]\nReceived: Wed 9/11/2024 1:01:35 PM\n\nHi allen,\n\nVandaag is tijdens het T&T besloten dat vrijdagochtend de opt-out brief in de MR dient te liggen. We gingen hier\naan de slag; zoals verzocht is het een korte brief geworden, nauw aangesloten bij de tekst die we al schreven voor\nde notitie.\n\nGraag jullie spoedige blik op de aanzet, voor 16.00:\n240911 opt out brief v1.0.docx (samenwerkruimten.nl)\n\nDaarna zullen we eerst in onze lijn toetsen, vervolgens dan ook in goede afstemming bij BZ, AZ en PV - en dat\nnatuurlijk allemaal voor de MR. ??\n\nGroeten,\n5.1.2e\n\n167762000 0054 0089",
+      "dossier_id": "11715934",
+      "email_id": "email_66"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "0dc4b07d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 472,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "9ea32815",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 477,
+              "end": 658,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "63c7a485",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 665,
+              "end": 691,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "846037fa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 698,
+              "end": 722,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "d262f99f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 732,
+              "end": 779,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: Secretariaat - DMB[ 5.1.2i @minjenv.nl]\n\nCe: §.1.2e siz - BD/DGM/BIM[ 5.1.2e @minjenv.nl]; 5.1.2e , 512°. -BD/DGM/BIM[  5-1.2e @minjenv.nl}; 5-1.2e, 512. -\nBD/DGM/BIM[ 5.1.2e @minjenv.nl]\n\nFrom: 512e, 5,12e 5.1.2e BD/DGM/BIM\n\nSent: Fri 8/2/2024 11:38:35 AM\n\nSubject: stukken ibabs 5.1.2e en 5.1.2e voor briefing internationaal (6/8)\nReceived: Fri 8/2/2024 11:38:00 AM\n\n240711 introductienotitie BIM nieuwe bwp.docx\n\n240711 Factsheet EU opt-out.docx\n\nNota Strategische Reisagenda MAenM.docx\n\nAnnotatie voor pDGIM - inwerksessie internationaal.docx\n\nHa secretariaat,\n\nHierbij een aantal stukken voor de BIM-briefing aan MAenM van as. dinsdag (09.30u — 10.30u). Zouden jullie deze in ibabs van\n5.1.2e en 5.1.2e willen hangen? De stukken voor de minister worden via 5.1.2e klaargezet.\n\nGroeten, 5.1.2e\n\n5.1.2e 5.15.1.2e\nBureau Internationaal Migratiebeleid\nMinisterie van Asiel en Migratie\nTurfmarkt 147 | 2511 DP | Den Haag\nPostbus 20301 | 2500 EH | Den Haag\n\n167762001 0055 0090",
+      "dossier_id": "11715934",
+      "email_id": "email_67"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ae0b3a91",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 191,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "e9736146",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 199,
+              "end": 228,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1f0a2eac",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 236,
+              "end": 260,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e29fc05a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 271,
+              "end": 336,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "To: 512e _ BD/DEIA/EU[ 512e @minjenv.nl]: 5.1.2e\nBD/DEINEU[ 5-12e @minjenv.nl]\n\nCc: 512e, §.1.2e 512e- BD/DGM/BIM[ 5.1.2e @minjen v.nl};\n\nFrom: 512e, 512, - BD/DGM/BIM\n\nSent: Mon 9/9/2024 2:25:55 PM\n\nSubject: T&T annotatie MA&M\n\nReceived: Mon 9/9/2024 2:25:56 PM\n\nNota MAenM - Stuurgroep T&T EU op 20240911 .docx\n\nDit zit nu in de lijn!\n\nGroet,\n5.1.2e\n\n5.1.2e 5.1.2e\n\nBureau Intemationaal Migratiebeleid | International Migration Office\n\ninistry of Asylum and Migration\nDirectoraat-Generaal Migratie | Directorate-General for Migration\n\nDirectie Migratiebeleid | Migration Policy Department\n\nTurfmarkt 147 | 2511 DP | Den Haag\n\nPostbus 20301 | P.O. Box 20301 | 2500 EH | Den Haag | The Netherlands\n\nT +31 ( 5.1.2e\n\n167762002 0059\n\n@minbuza.nl[ 5.1.2e @minbuza.nl];\n\n5.1.2e\n\n, 512, - BD/DGM/BIM[\n\n§.1.2e\n\n@minjenv.nl]\n\n5.1.2e 512e\n\n0106",
+      "dossier_id": "11715934",
+      "email_id": "email_68"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "28dd2471",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 4,
+              "end": 79,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "b4605cc3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 84,
+              "end": 136,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "d49829ea",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 144,
+              "end": 167,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "2e624f34",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 175,
+              "end": 198,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "35f899fd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 209,
+              "end": 227,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

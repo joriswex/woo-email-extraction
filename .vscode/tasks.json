@@ -8,9 +8,21 @@
       "problemMatcher": []
     },
     {
-      "label": "Thesis: Pre-annotate all new dossiers (OCR)",
+      "label": "Thesis: Pre-annotate Stage 1 (email-only, no OCR rerun)",
+      "type": "shell",
+      "command": "python scripts/preannotate.py --email-only data/raw/*.pdf",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Pre-annotate full (EMAIL + fields, OCR)",
       "type": "shell",
       "command": "python scripts/preannotate.py data/raw/*.pdf",
+      "problemMatcher": []
+    },
+    {
+      "label": "Thesis: Generate Stage 2 import tasks",
+      "type": "shell",
+      "command": "python scripts/labelstudio/export_stage1_to_stage2.py --input data/annotations/stage1.json",
       "problemMatcher": []
     },
     {
@@ -46,7 +58,7 @@
     {
       "label": "Label Studio: Start",
       "type": "shell",
-      "command": "LABEL_STUDIO_BASE_DATA_DIR=/tmp/label-studio-data label-studio start",
+      "command": "source $(conda info --base)/etc/profile.d/conda.sh && conda activate base && LABEL_STUDIO_BASE_DATA_DIR=/tmp/label-studio-data label-studio start",
       "problemMatcher": []
     }
   ]

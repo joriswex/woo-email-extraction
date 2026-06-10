@@ -1,0 +1,3221 @@
+[
+  {
+    "data": {
+      "text": "From: “Size ud\n\nSent: Mon, 13 Mar 2023 11:48:37 +0100\n\nTo: W5i2e \" size @minszw.nl>\n\nCe: \"Size \" <bize @minszw.nl>; \"Size \"ize @minszw.nl>\nSubject: FW: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\nAttachments: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening (1).docx\n\nDank! Ik ben blij met de heldere reactie van PDV. Het haalt inderdaad de scherpe randjes eraf, het blijft wel belangrijk om de\nandere belangen ook te benoemen en goed mee te wegen.\n\nGroeten,\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_0"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "a23d88e3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 14,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "0f9dec49",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 59,
+              "end": 138,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "17691f15",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 53,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "158fe265",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 148,
+              "end": 213,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "2c7b7914",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 227,
+              "end": 297,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: (128 <te @minszw.nl>\nVerzonden: maandag 13 maart 2023 11:01\n\nAan: 12e <512e @minszw.nl>\n\nCC: 8128 <&t2ze @minszw.nl>\n\nOnderwerp: FW: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\n\nHa [5t2e nabrander: zojuist kreeg ik deze mail binnen; voorstel wordt nu optie 2. Dat haalt de scherpe randjes van je\neerdere opmerking af, maar optie 3 verkenning wordt natuurlijk nog steeds genoemd. En de verkenning naar optie 2 vindt\nnog steeds plaats in samenhang met Pwet.\n\nGroet,\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_1"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "123384f3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "5906d108",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 93,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "447d557e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 98,
+              "end": 122,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "1a623b66",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a6d3b085",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 134,
+              "end": 199,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5128 < size minszw.nl>\n\nVerzonden: maandag 13 maart 2023 10:51\n\nAan: 5122 <512e @minszw.nl>; 512e <512e minszw.nl>\n\nOnderwerp: FW: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\n\nTer info: op verzoek van PDV hebben we nog wat aangepast/aangevuld, alle opmerkingen van jullie hebben we al\n\novergenomen.\n\nGroet 52e",
+      "dossier_id": "230911848",
+      "email_id": "email_2"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "60ee6a82",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 27,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8da8c448",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 120,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "0fd7ae2e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 67,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7f479a4b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 132,
+              "end": 197,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e\n\nVerzonden: maandag 13 maart 2023 10:50\n\nAan: 512¢ <512e MINSZW.NL>\n\nCC: 5126 <512e @minszw.nl>; 512e <512e minszw.nl>\n\nOnderwerp: RE: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\n\nDag Sie\n\nDank voor je mail en voicemail. Volgens mij zeer zinnige opmerkingen van oa &12e we hebben geprobeerd die zo goed\nmogelijk te verwerken in digidoc in de zowel de startnota als de oplegger. Het gaat om de onderstaande toevoegingen (en\nnog enkele kleine aanpassingen), waarbij ik overigens zo vrij ben geweest om het advies in de oplegger nu zo te maken dat\nwe adviseren om optie 2 te doen (ipv optie 3) omdat ik denk dat dat al ingewikkeld genoeg gaat zijn. Mochten jullie liever\ntoch iets anders adviseren, dan hoor ik het ook graag.\n\nSowieso gaat S12e graag een keer met &t2e overleggen zodra ze terug is van vakantie en werken we aan een plan van\naanpak voor de hele actielijn proactieve dienstverlening in de modernisering SUWI: ik denk dat het goed is om te kijken wie\nvan PDV daar het beste een bijdrage aan kan leveren en vice versa voor Pwet in balans/Aanpak Geldzorgen.\n\nOpgenomen in de oplegnota:\n\ne Optie 2 betreft nog steeds sprake van een wetstechnisch relatief eenvoudige en overzichtelijke wijziging binnen het\nSUWI-stelsel. Het toevoegen van de Participatiewet aan de reikwijdte van dit voorstel levert echter wel een\nspanningsveld op met de beleidsuitgangspunten en financieringssystematiek van de Participatiewet zelf. De eigen\nverantwoordelijkheid van de burger is daarin immers het uitgangspunt en dat is wezenlijk anders dan proactieve\ndienstverlening. In het kader van PWet in balans kijken we naar de scherpe randjes van dit uitgangspunt, maar bestaat\n\nvooralsnog niet de intentie dat helemaal te verlaten. Dit is politiek controversieel. Mocht u hiervoor kiezen, dan doen\nwe het verkennen van deze optie in samenhang met PWet in balans. Deze optie vereist sowieso afstemming en\nuitwerking samen met gemeenten en de VNG;\n\nOpgenomen in de startnota onder (7):\n\n12. Een taak tot proactieve dienstverlening kan een fors spanningsveld opleveren met de huidige inrichting van\nsociale zekerheidswetten en uitvoeringspraktijk, met name bij regelingen die — ook los van de aanvraag — in\nde kern sterk uitgaan van de eigen verantwoordelijkheid van de burger (zoals de Participatiewet als vangnet).\nDit vergt in elk geval nauwe afstemming met het traject Participatiewet in balans.\n\nGroet, 512e",
+      "dossier_id": "230911848",
+      "email_id": "email_3"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "92c69edc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "9e50bdf9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 78,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "9a302a46",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 83,
+              "end": 129,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "83cc8960",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 49,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "6b3ca068",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 141,
+              "end": 206,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: S12e <5120 MINSZW.NL>\n\nVerzonden: vrijdag 10 maart 2023 14:53\n\nAan: 512¢ </bi2e @minszw.nl>; St2e @minszw.nl>\n\nOnderwerp: FW: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\nHoi 512e en 512¢\n\nHierbij de reactie van onze collega’s.\nZouden jullie die nog kunnen verwerken? Dan geef ik daarna een medeparaaf.\n\nIk kan me ook goed voorstellen dat jullie nog even willen bellen.\n\nHartelijk dank!\n\nMvg, 5126\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_4"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "bd0f1d0c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "0e75a59f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 73,
+              "end": 115,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "6c115b4a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 66,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "689b2144",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 127,
+              "end": 192,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: S12e <512e minszw.nl>\n\nDatum: vrijdag 10 mrt. 2023 10:28 AM\n\nAan: 512¢ <512e @MINSZW.NL>, 5428 < Size @minszw.nl>\nKopie: 512e < 541.26 minszw.nl>, [542 <S126 minszw.nl>\n\nOnderwerp: RE: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\nHoi &rze\n\nOnze reactie is als volgt:\n\nDe keuze in de nota is vanuit de optiek van gegevensuitwisseling begrijpelijk. In de nota wordt echter niet duidelijk of hierbij\nook voldoende bewustzijn is van het spanningsveld tussen pro-actieve dienstverlening en bijstandsverlening. Anders gezegd:\nde huidige wet (en ook de eronder liggende financieringssystematiek) is niet gemaakt op pro-actieve dienstverlening. Op dit\nmoment is in de wet (4 weken zoekperiode/geen terugwerkende kracht), maar ook in de uitvoeringspraktijk (veelvuldig\ngebruik buiten behandeling stellen van aanvragen, re-integratie voor aanvraag plaatsen) vanuit het eigen\nverantwoordelijkheid-denken, juist een situatie ontstaan waarbij burgers toch vaak van een aanvraag worden afgehouden,\nom hen te bewegen zo veel mogelijk hun eigen verantwoordelijkheid te nemen (lees: zelfstandig in hun bestaan te voorzien).\nMet het huidige traject Pw in Balans halen we wel de scherpe randjes er een beetje vanaf (en hebben we met spoor 2\nambities om de beleidsuitgangspunten te heroverwegen), maar dan blijft vooralsnog de teneur dat het in beginsel aan\nbetrokkene is om zijn verantwoordelijkheid te nemen.\n\nSchakel je om naar pro-actieve dienstverlening, dan vraagt dat een echt wezenlijk andere cultuur en dito\nfinancieringssystematiek. De nota wekt de indruk dat de opties nu enkel zijn aangevlogen vanuit een\ngegevenswisselingsoptiek (wens om data te kunnen wisselen combineren met een wettelijk te verankeren taak). Natuurlijk is\nhet zo dat een verdere verkenning zoals de nota nu voorstelt bovengeschetst spanningsveld waarschijnlijk wel in beeld zal\nbrengen, maar door de verkenning zo in te zetten schep je politiek wel verwachtingen, die je — vrezen we - binnen het huidig\n\nbestel niet waar gemaakt krijgt. En vragen wij ons af of je - gezien bovenstaande — optie drie dan wel moet adviseren (of\nanders de bijstand daar buiten moet houden)?\n\nOns voorstel voor nu:\n\ne Medeparaaf kan worden gegeven als in de nota wel eerst nog uiting wordt gegeven aan bovenstaand dilemma: een\ntoelichting op het geschetste spanningsveld. En dat, gezien dit spanningsveld, de geadviseerde optie 3 vraagt om\naanpassing grondhouding Participatiewet en financieringssystematiek (dit maakt het dus controversieel). Alsmede dat\ndit bij de uitwerking dan nader onderzocht moet worden, in samenspraak met gemeenten.\n\ne De uitwerking moet ook plaatsvinden in samenhang met spoor 2 van Participatiewet in balans (waarbij\nuitgangspunten van de Participatiewet ook opnieuw onder de loep worden genomen).\n\nGroet, 51.2e",
+      "dossier_id": "230911848",
+      "email_id": "email_5"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "24899887",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "a2261729",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 174,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "243207ae",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 35,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "237a1310",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 186,
+              "end": 251,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: S12e <tze @MINSZW.NL>\n\nVerzonden: donderdag 9 maart 2023 23:57\n\nAan: 512 <5i2e @minszw.nl>; [Size <512¢€ minszw.nl>\nCC: 512 < 5126 @minszw.nl>; 512e < size minszw.nl>\n\nOnderwerp: RE: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\n\nJa dat is goed! Ik doe morgenochtend vrijwilligerswerk dus zal zeggen dat ik morgenmiddag pas een medeparaaf kan geven.\n\nMvg, 51.2e\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_6"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "57c034a3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8ee030a5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 120,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2093dc1f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 125,
+              "end": 172,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "0fd5937c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 67,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fe44c711",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 184,
+              "end": 249,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512 <512e minszw.nl>\n\nDatum: donderdag 09 mrt. 2023 6:28 PM\n\nAan: S12e <512e @MINSZW.NL>, 542 < Size @minszw.nl>\nKopie: 512e < Size @minszw.nl>, 512e <512e minszw.nl>\n\nOnderwerp: RE: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\nHoi 512\nBedankt dat je dit nog aan ons voorlegt!!\n\nIk heb er even een snelle blik op geworpen. Ben nog niet bekend met deze voorstellen. Mooi doel natuurlijk om te werken\naan meer pro-actieve dienstverlening. Dat kunnen we natuurlijk steunen. Maar ik zie nu in de nota hoe prominent een\nwijziging van de Participatiewet wordt geadviseerd — optie 3 (controversieel). Ik kan nu even niet snel overzien of wij deze\nroute beleidsmatig wenselijk vinden. se is ook niet eerder betrokken. En zijn gemeenten al betrokken hierin (lees ik ook\nniet terug)?\n\nHet lijkt mij verstandig hier morgen nog even rustig naar kijken. Kan dat?\nIk snap ook niet hoe er vanuit de Pw niet eerder betrokkenheid is geweest als ik die zo zie (vraag aan SV dan met name\nhoor®).\n\nGroet, 51.2e",
+      "dossier_id": "230911848",
+      "email_id": "email_7"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6b279968",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6a996eca",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 172,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d8bf5711",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a778a765",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 184,
+              "end": 249,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512¢ <S128 MINSZW.NL>\n\nVerzonden: donderdag 9 maart 2023 18:05\n\nAan: S12e < 5126 @minszw.nl>; |§128 < Size minszw.nl>\nCC: 5126 < 5126 @minszw.nl>; 512e <512e minszw.nl>\n\nOnderwerp: Oplegnota - Startnota wetsvoorstel proactieve dienstverlening\n\nHi 542e hierbij de stukken.\nOok spoor 2 is mogelijk van belang.\n512e zou jij ook kunnen scannen of dit goed gaat zo en ik een medeparaaf kan geven?\n\nDank!\nMvg, 51.2e\n\nDoenr11",
+      "dossier_id": "230911848",
+      "email_id": "email_8"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "217b2a32",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f9b933ed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 122,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "12de91ce",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 127,
+              "end": 174,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "2a080c5a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 67,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "35370ecd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 186,
+              "end": 247,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: “S426 a\n\nSent: Thu, 24 Oct 2024 08:52:45 +0200\n\nTo: \"542 \"<512e  @minszw.nl>; \"542e \" <Si2e @minszw.nl>; \"512 hag\n\n<512e @minszw.nl>; \"5126 Wize @minszw.nl>; \"542 \" <bi2e @minszw.nl>\nSubject: RE: Terugkoppeling CSD proactieve dienstverlening 21 okt\n\nDe insteek bij de CSD was niet om het in dit voorstel mee te nemen, maar de onderraad de wens te laten uitspreken om voor\nde andere regelingen ook een wetsvoorstel te maken. Kunst is dat we het ook goed verwoorden in de\noplegger/aanbiedingsformulier en AZ heeft aangeboden ons daarbij te helpen.\n\nVerder: bij de monitoring werd vooral gevraagd ook te lettten op de aard van populatie bij gemeenten.\nEn qua uitvoerbaarheid vooral zorgen of we iedereen wel vroeg genoeg en goed genoeg betrekken\n\nVerder mogen we inderdaad zelf het tempo bepalen, dus als we liever de eerstvolgende vergadering na 5 november benutten is\ndat ook goed.\n\nGroet 512¢",
+      "dossier_id": "230911848",
+      "email_id": "email_9"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3ee10159",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 13,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "37a7756e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 188,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "a7f87c95",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 21,
+              "end": 52,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9b9a746f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 198,
+              "end": 254,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512° <5128 _ @minszw.nl>\n\nVerzonden: woensdag 23 oktober 2024 13:47\n\nAan: 5122 <512e @minszw.nl>; 512¢ <5i2e @minszw.nl>; 542¢ <s12e @minszw.nl>; S12e\nsize < 5.120 @minszw.nl>; 5126 <5t2e @minszw.nl>\n\nOnderwerp: RE: Terugkoppeling CSD proactieve dienstverlening 21 okt\n\nHoi 52e\n\nKlopt en we zijn nu al heel ver. Ik denk dat het goed is om consequenties mee te geven aan de minister en het laatste punt\nover monitoring kunnen we ook meenemen.\n\nGroet,\n\n51260",
+      "dossier_id": "230911848",
+      "email_id": "email_10"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "fad26508",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 29,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f41e6f69",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 79,
+              "end": 205,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "a249ffd2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 72,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b3c84aab",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 217,
+              "end": 273,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5128 </5122)) @minszw.nl>\n\nVerzonden: woensdag 23 oktober 2024 13:36\n\nAan: 5122 <&tze  @minszw.nl>; 542 <s12e @minszw.nl>; Size <512e @minszw.nl>; [Size\n512e <512e @minszw.nl>; 512e <512e @minszw.nl>\n\nOnderwerp: RE: Terugkoppeling CSD proactieve dienstverlening 21 okt\n\nHoi allen,\n\nBedankt voor de terugkoppeling [512\nIk hoop toch dat er in een hoger gremium niet wordt besloten om de bevoegdheid breder te trekken, dat zou echt voor jaren\nvertraging zorgen. Liefst eerst kijken hoe dit in de praktijk uitpakt en daarna breder uitrollen.\n\nOver monitoring en evaluatie is opgenomen:\n\nDit wetsvoorstel zal na inwerkingtreding in eerste instantie worden geëvalueerd door middel van een invoeringstoets. Met deze\ntoets wordt bekeken of de uitwerking van het voorstel in de praktijk uitpakt zoals beoogd. Vervolgens zal de wetgeving steeds\nna vijf jaar op effectiviteit worden geëvalueerd, als onderdeel van de verplichte evaluaties op grond van artikel 86, eerste lid,\nWet SUWI.\n\nWe kunnen toezeggen om daarbij expliciet aandacht te besteden aan uitvoeringsverschillen tussen gemeenten.\n\nGroet,\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_11"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "4ed16235",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "aaf56453",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 80,
+              "end": 205,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "dab40549",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 43,
+              "end": 73,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "0e8566a9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 217,
+              "end": 273,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: $12e <512e minszw.nl>\nVerzonden: woensdag 23 oktober 2024 13:29\n\nAan: 512¢ <5128 @minszw.nl>; $428 < 5126 @minszw.nl>; |§128 < 51260 minszw.nl>;\n512e < 5126 @minszw.nl>; 512e <512e @minszw.nl>\n\nOnderwerp: Terugkoppeling CSD proactieve dienstverlening 21 okt\n\nHoi allen,\n\nHierbij een korte terugkoppeling van de CSD.\ne Uitvoering en uitvoerbaarheid van de uitwerking AMvB wordt meegegeven als aandachtspunt.\n\ne VWS, OCW en Dienst Toeslagen vinden dat andere uitvoerders ook de bevoegdheid krijgen om het niet- gebruik van\nregelingen terug te dringen, bijvoorbeeld zorgtoeslag.\n\ne In de CSD is afgesproken om in de oplegger richting de RSD/ MR de wens van de CSD om de brede bevoegdheid\nvoor andere bestuursorganen mee te nemen.\n\ne Fin had een opmerking over de wettelijke grondslag art 73b wet SUWI (was al eerder bekend).\n\ne BZK mist in de MvT een analyse over monitoring en evaluatie. Er kan ongelijkheid ontstaan tussen gemeenten omdat\nhet een kan-bepaling is. De vraag is hoe dit wordt gemonitord?\n\ne Het voorstel wordt niet meer geagendeerd in de CSD, S12e  512e (AZ) laat ons weten welke route voor ons van\ntoepassing is. Het kan naar de RSD -> MR. Het kan ook worden geagendeerd in de ministeriële commissie publieke\ndienstverlening. De tempo mogen wij zelf bepalen.\n\n@512e heb jij nog aanvullingen?\n\nGroet,\n\n512e\n\nDoenr12",
+      "dossier_id": "230911848",
+      "email_id": "email_12"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "95599b08",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "53e47505",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 198,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "03bb82fe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 68,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "ba7a3011",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 210,
+              "end": 262,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: \"642 he\n\nSent: Mon, 28 Oct 2024 07:25:17 +0100\n\nTo: \"Bide \" <5i2e @minszw.nl>\n\nCc: Wize \" 52e @minszw.nl>; W5ize \" 5ize @minszw.nl>; W5ize u\n<512e _@minszw.nl>; \"st2e \"<te @minszw.nl>\n\nSubject: RE: wetsvoorstel proactieve dienstverlening: ter bespreking donderdag\n\nBeste 512e\n\nDank voor je update. Ik lees dat jullie een stuk verder zijn. Laat het vooral weten als er de komende weken een hobbel bij FIN\nontstaat, dan wil ik gericht reageren.\n\nHartelijke groet,\n\n6120",
+      "dossier_id": "230911848",
+      "email_id": "email_13"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3d552398",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 13,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6ddaedda",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 84,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "6e091620",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 89,
+              "end": 190,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "c3e7d9cd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 21,
+              "end": 52,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "02fe7466",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 200,
+              "end": 269,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 12¢ </5126 @minszw.nl>\n\nVerzonden: vrijdag 25 oktober 2024 12:50\n\nAan: 512¢ < S126 @minszw.nl>\n\nCC: S122 <512e @minszw.nl>; 512e <512e @minszw.nl>; 512e <512e @minszw.nl>; 512e\n< 5126 @minszw.nl>\n\nOnderwerp: FW: wetsvoorstel proactieve dienstverlening: ter bespreking donderdag\nDag 52e\n\nNog even een korte terugkoppeling van de stand van zaken. Mocht jij nog iemand spreken van DGFZ de komende week, dan\nzou het best kunnen helpen als je nog een goed woordje kan doen voor het wetvoorstel.\n\nAfgelopen maandag was de CSD bespreking heel positief en een roep om bredere kaders hiervoor dan alleen voor SUWI (ook\nvoor Toeslagen/Stufi) was er vanuit diverse ministeries. Alleen FIN had hun bezwaar over geheimhouding en daarmee is het\ndoorgeleid naar de MCPD met de kanttekening dat we daar nog over in gesprek moeten met FIN. We hebben dat gesprek\ngisteren gevoerd en hieronder staan de uitkomsten.\n\nHoewel ze vooral zeiden dat het hen ging om de juridische haalbaarheid, denk ik dat wij echt een goed verhaal hebben waarom\nwe het zo regelen als we doen (hieronder ook uitgelegd: we maken het echt specifieker dan 54 SUWI nu is door de inkadering in\nde AMvB). Hun bezwaren/suggesties gingen van dat de gegevens specifieker moesten, tot aan dat het doel specifieker moest,\ntot aan het opnemen van proactieve dienstverlening in het artikel over de polisadministratie (maar dat hebben wij nooit\ngewild). Ik (en WBJA ook) denk echt we juridisch de ruimte hebben (ook met advies AP in de hand) om het te doen zoals we het\nhebben bedacht en niets aan het voorstel aan te passen. Het is een beleidsmatige keuze om voor de fiscale geheimhouding\nstrengere voorwaarden te hanteren dan voor de AVG.\n\nOmdat de uitvoerbaarheid voor de BD voor hen ook een vraagteken was, hebben we afgesproken dat we met de BD daar de\nkomende week een verkennend gesprek over zullen voeren. Voor zover we het nu weten dan, want de cocneptAMVB is nog\nniet zover dat we concrete gegevens kunnen benoemen voor concrete regelingen.\n\nVanmiddag en maandag ben ik vrij, vanaf dinsdag ben ik er weer. Fijn weekend!\n\nGroet 512¢",
+      "dossier_id": "230911848",
+      "email_id": "email_14"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "912d2164",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 27,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "82034f20",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 100,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "14e69745",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 105,
+              "end": 201,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "96243104",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 69,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "775390f8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 213,
+              "end": 282,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512\n\nVerzonden: vrijdag 25 oktober 2024 10:06\n\nAan: 5122 512e <512¢€ minfin.nl>\n\nCC: S428 <512e @minszw.nl>; 5A2e <512e @minszw.nl>; 512e <512e @minszw.nl>; 5A2e\n<5126€ @minszw.nl>; 51.2. <512e @minfin.nl>; 51.2.e\n\n<stze minfin.nl>\n\nOnderwerp: RE: wetsvoorstel proactieve dienstverlening: ter bespreking donderdag\n\nDag allen,\n\nDank voor het goede gesprek gisteren.\nWat we hebben afgesproken:\n\ne We gaan een verkennend gesprek voeren met de BD over het wetsvoorstel (“vingeroefening”): wij zullen kijken waar\nwe specifieker kunnen worden in welke gegevens er nodig zijn voor wie en welk doel om dat gesprek voor te bereiden.\nUiteraard gaan we de BD om U-toets vragen als zij er inderdaad gegevens van hen nodig zijn voor de uitvoering van de\nAMvB. We hopen de U-toetsen eind dit jaar of begin volgend jaar uit te kunnen vragen.\n\ne Wij kunnen de gegevens niet zodanig specifiek omschrijven in het wetsvoorstel zelf en bereiden behandeling in de\nMCPD of RSD voor. Omdat we het gesprek met de BD eerst willen laten plaatsvinden, komen de onderraden van 5\nnovember te vroeg (stukken moeten dan volgende week al gereed zijn). Daarom mikken we op de onderraad daarna\n(we gaan nog na welke datum die is).\n\ne Mocht dit niet tot instemming van jullie zijde leiden, dan zullen wij een nota gaan maken en met jullie afstemmen om\nonze minister te adviseren met jullie stas te bellen of een BWO te laten plannen.\n\nGroet 512e",
+      "dossier_id": "230911848",
+      "email_id": "email_15"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "9aaa8fc9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4606a337",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 57,
+              "end": 85,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "87c5c92f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 237,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "cb3facf8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 21,
+              "end": 50,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9253b29e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 249,
+              "end": 318,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: St2e minfin.nl>\n\nVerzonden: woensdag 23 oktober 2024 13:03\n\nAan: 512e <512e minszw.nl>\n\nCC: 512e <512¢€ @minszw.nl>; 512e < 5122) @minszw.nl>; Size <5422)) @minszw.nl>; Size\n<5126€ @minszw.nl>; 512.e <512e @minfin.nl>; 5.1.2.6\n\n< 5120 minfin.nl>\n\nOnderwerp: RE: wetsvoorstel proactieve dienstverlening: ter bespreking donderdag\n\nBeste 512e\n\nDank voor de mail met daarin wat achtergrondinformatie over de keuzes. Voorstel voor agenda vormt een goede basis voor het\n\noverleg morgen en is wat ons betreft prima. De huidige beleidsregels over de doorbreking van de fiscale geheimhoudingsplicht,\nzullen we kort in bullets hieronder uiteenzetten.\n\nDe fiscale geheimhoudingsplicht\n\ne Het beleid voor het verstrekken van gegevens door de Belastingdienst is dat de verstrekkingsgrondslag specifiek moet\nzijn en tevens een wet in formele zin.\n\no Met een specifieke grondslag wordt bedoeld dat de specifieke gegevens, het specifieke doel waarvoor de\ngegevens worden gebruikt en de ontvanger opgenomen staan in de grondslag.\n\no Wanneer het niet mogelijk is om de gegevens limitatief op te nemen in een wet in formele zin, kan de\nspecificatie van de gegevens bij AMvB.\n\ne In januari 2023 is het Kader Verstrekkingen geïntroduceerd om goed te kunnen borgen dat het beleid wordt\ngehanteerd bij verstrekkingen van gegevens door de Belastingdienst. Dit kader is onderdeel van de niet-fiscale\ntakentoets.\n\no Zie bijgaand ter achtergrondinformatie het aanvraagformulier niet-fiscale taken Belastingdienst.\n\nMochten jullie naar aanleiding hiervan nog vragen hebben, dan horen we dat natuurlijk graag. Tot morgen!\n\nGroeten, mede namens 512° _ en S12e\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_16"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "03d19843",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 20,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "df811ddd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 70,
+              "end": 92,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "69721286",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 97,
+              "end": 251,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b66ce29f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 33,
+              "end": 63,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "abee75f5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 263,
+              "end": 332,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512 <5i2ze minszw.nl>\n\nVerzonden: dinsdag 22 oktober 2024 09:09\n\nAan: §12¢ <512e @minfin.nl>; |§t2e\n\n</5126 @minfin.nl>; St2e < 51206 minfin.nl>\n\nCC: 5126 <512e @minszw.nl>; 512e < 5126 @minszw.nl>; 512e <s12e @minszw.nl>; 512e\n\n<512e minszw.nl>\nOnderwerp: wetsvoorstel proactieve dienstverlening: ter bespreking donderdag\n\nBeste Size 5120 en 512¢\nCc Size 512e 512e 51.2e 512e EN 5126,\n\nBij deze alvast enige voorbereiding voor donderdag. Ik begreep dat we maar een uur hebben, dus we moeten gelijk de diepte\nin. Is het mogelijk om de huidige beleidsregels over de fiscale geheimhoudingsplicht van tevoren te delen?\n\nVoorstel voor een agenda:\ne Kort kennismakingsrondje\ne Feitelijke vragen / verduidelijking\ne Waar zit ruimte voor een oplossing? Hebben jullie een concreet tekstvoorstel? > Randvoorwaarden voor ons: het mag\nart. 54 SUWI niet (verder) ondergraven en we kunnen in deze fase niet voor alle mogelijke partijen meer in detail in de\nwet zelf regelen.\ne Vervolgacties\n\nInhoudelijke context (met dank aan 512° _5t2e):\n\nIn de Wet SUWI zijn er al sinds 2002 enkele ‘kernartikelen’ op grond waarvan veel gegevensverstrekkingen plaatsvinden:\nArtikel 54, voor de meeste ‘inkomende’ verstrekkingen aan UWV en de SVB, onder meer door de Belastingdienst (zie lid 3) — zie\nbijlage (als je het print is het al 2 A4...);\n\nArtikel 62, voor verstrekkingen door UWV, de SVB en gemeenten onderling;\n\nArtikel 73, met o.a. verstrekkingen door MinSZW aan de uitvoerders.\n\nDie bepalingen zijn vrij breed geformuleerd. Hoewel zij specificeren welke partijen gegevens verstrekken en ontvangen, zijn de\ndoeleinden breed opgezet (‘voor alle wettelijke taken’) en de te verstrekken gegevens eveneens (‘alle noodzakelijke gegevens’).\nDaar zijn we ons van bewust, en daar heeft de AP inmiddels ook op gewezen. Daarom zijn we een langlopend traject begonnen\n(‘Zorgvuldige gegevensuitwisseling’/modernisering grondslagen gegevensverwerking SUWI) om deze bepalingen te\nmoderniseren, en zo specifiek en transparant te maken dat ze volledig in lijn zijn met de AVG.\n\nBij de uitwerking van een gegevensverwerkingsbepaling voor proactieve dienstverlening plaatste dit ons voor een dilemma.\n\nWe zouden bijvoorbeeld alleen de taak van proactieve dienstverlening op kunnen nemen in de Wet SUWI, waarbij alle\nbenodigde gegevensverwerking voort zou vloeien uit de bovenstaande drie bepalingen. Die optie viel voor ons echter af, omdat\nwe die bepalingen zelf niet voldoende specifiek vinden, in die zin dat er niet uit kan worden afgeleid welke gegevens dan door\nwie aan wie worden verstrekt voor het doeleinde van proactieve dienstverlening.\n\nEen andere optie was om af te wijken van die drie artikelen, en een heel nieuw artikel schrijven voor proactieve\ndienstverlening. De artikelen 54, 62 en 73 zouden dan niet van toepassing zijn, en uit een nieuwe bepaling zou precies\nvoortvloeien wat er mogelijk is in dit verband. Ook die optie viel af; zo gooien we het kind met het badwater weg. Het zou\nnamelijk de vraag oproepen of de bestaande verwerkingen die nog wel plaatsvinden op basis van die artikelen dan niet meer\ntoegestaan zouden zijn totdat daar ook een op maat gesneden bepaling voor zou worden gemaakt.\n\nUiteindelijk is daarom gekozen voor een mengvorm, art. 73b in het voorstel. In lid 2 staat in feite, dat gegevensverstrekking op\ngrond van artikel 54, 62 of 73 aan UWV, de SVB of gemeenten toegestaan is voor proactieve dienstverlening, maar dat in dat\ngeval wel verplicht is om die verstrekking heel specifiek te maken bij AMvB.\n\nTelkens als een gemeente, het UWV of de SVB dus een initiatief zal willen ontplooien op het gebied van proactieve\ndienstverlening, waar ze gegevens van een andere partij (zoals de BD) voor nodig hebben, zal in het Besluit SUWI dus moeten\nworden vastgelegd:\n\nOm welke gegevens gaat het exact, en van welke partij;\n\nHoe ziet de proactieve dienstverlening er precies uit die met die gegevens wordt uitgevoerd;\n\nWelke bewaartermijnen gelden daarbij; en\n\nWelke technische en organisatorische maatregelen moeten daarbij in acht worden genomen?\n\nDeze optie is met de privacy-experts van UWV, de SVB en de VNG besproken, en voorgelegd aan de AP tijdens een informeel\nvoortraject en bij de officiële adviesaanvraag. Dat leidde tot bijgaand advies (zie bijlage). De AP zegt daarin met zoveel\nwoorden: maak de verstrekkingen concreet in deze wet of in lagere regelgeving. Onderbouw de noodzaak in de toelichting, of\n\nonderbouw waarom een limitatieve opsomming op wetsniveau niet mogelijk is. Dat is hier het geval, omdat de veelheid aan\n(nog uit te werken) vormen van proactieve dienstverlening maakt dat dit op voorhand onmogelijk valt op te sommen. Het\nvarieert van een warme overdracht van UWV aan gemeenten tot aan vooringevulde aanvraagformulieren tot gerichte\nbenadering van mensen.\n\nTot slot vindt de AP, dat als er voor uitwerking op lager niveau wordt gekozen, AMvB-niveau dan passend is. Ons eerdere\nconcept ging nog uit van uitwerking bij ministeriële regeling, dus hiermee komen we wat ons betreft op een nette manier aan\nde AP tegemoet, door concessies te doen aan de flexibiliteit ten gunste van de waarborgen voor de privacy.\n\nOok de afdeling WKB van J&V heeft het voorstel uitgebreid getoetst en is akkoord met deze constructie.\n\nWe willen dus benadrukken dat de bepaling op zichzelf inderdaad niet heel specifiek is, maar dat we die mate van\nnauwkeurigheid kunnen bieden met deze verplichte, gedetailleerde uitwerking bij AMvB. Bij die uitwerking zal de\nBelastingdienst uiteraard worden betrokken, als verstrekking aan het UWV of de SVB noodzakelijk blijkt (verstrekking aan\ngemeenten is niet aan de orde, omdat de Wet SUWI dit niet mogelijk maakt).\n\nTot slot is art 54 SUWI al heel lang een bepaling die de BD verplicht om gegevens te verstrekken aan UWV en SVB en daarmee\nde fiscale geheimhouding doorbreekt. Op grond daarvan worden nu ook gegevens uitgewisseld. Hoewel ik begrijp dat jullie niet\nlanger grondslagen willen op niveau van ministeriele regeling (URAWR), is dat ook zeker niet wat we hier doen: artikel 73b jo 54\nSUWI is een wettelijke plicht in de WIFZ waarin zowel partijen als doel genoemd zijn. De gegevens etc worden uitgewerkt in de\nAMvB. Ik begrijp vooralsnog niet goed wat in artikel 67 AWR eraan in de weg staat dat we dat zo regelen? Hopelijk kunnen\ndonderdag scherp krijgen of dit nu echt problematisch is of dat hier misschien toch ruimte zit voor een oplossing?\n\nAls je wil dat we de gegevens op wetsniveau voor de BD verder uitwerken, dan moeten we dan voor alle andere partijen artikel\n54 SUWI net zo goed doen. Dat is wat we pogen in het nieuwe wetsvoorstel te gaan doen (maar ook daar zal een deel op AMvB\nniveau geregeld gaan worden en niet alles tot in detail in de WIFZ omdat dat alles vastzet). Zoals jullie zelf denk ik ook hebben\nondervonden bij de WGBTD, is dat een traject van de langere adem: het uitzoekwerk vergt echt nog enkele maanden en ik hoop\ndat we in 2025 een concept voorstel met jullie kunnen bespreken. Binnenkort gaan we hierover sowieso alvast met jullie in\ngesprek zodat goed rekening kunnen houden met jullie beleid. Vooralsnog kunnen we dit wetsvoorstel over proactieve\ndienstverlening, dat onderdeel is van het regeerprogramma, niet laten wachten op dat andere voorstel.\n\nMochten jullie nog behoefte hebben aan andere informatie van tevoren, laat het vooral weten!\nTot donderdag!\n\nG roet, 512¢\n\n512e 512e 512e 512e\n\n512612e\n\ndirectie Stelsel & Volksverzekeringen\n\nafdeling Gegevensbeleid\n\nMinisterie van Sociale Zaken en Werkgelegenheid\nbezoekadres: Parnassusplein 5 | 2511VX| Den Haag | 12e\n\nT 512e\n\nM ae @minszw.nl\n\n512e\n\nDoenr15",
+      "dossier_id": "230911848",
+      "email_id": "email_17"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "2ece8747",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8a43523d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 150,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "eaffe3e2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 155,
+              "end": 250,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "cc5b252e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 68,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "5b749d96",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 262,
+              "end": 327,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: \"512\n\nSent: Wed, 12 Feb 2025 11:57:31 +0100\n\nTo: \"5120 \"<512e  @minszw.nl>; \"512¢ \"<612e @minszw.nl>; \"512¢ i\n<51206 @minszw.nl>; \"512¢ \"<s12e @minszw.nl>\n\nSubject: MCPD - proactieve dvl\n\nZonet 51.2¢ van WaU kunnen spreken die bij de MCPD was:\n\nBelangrijkste: Steun en door naar RvS. Komende vrijdag in MR.\n\nOpmerkingen:\ne Dit is eerste stap, volgende stap meer (NPD en VNG), ook gegevensdeling BD en DUO nog voor tegengaan niet-gebruik\nbijstand (VNG).\ne Kosten zijn gedekt voor wet, maar niet voor meer (s12e namens MFIN). Als we meer willen ons\nrealiseren dat het meer kost (MSZW).\ne Verschil tussen gegevens en informatie maken. Info delen kan sneller ( 512¢ ).\n\nDoenr17",
+      "dossier_id": "230911848",
+      "email_id": "email_18"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "d9b8896e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 10,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "ea72b5f6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 161,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "a57ce7d1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 18,
+              "end": 49,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "660d2e30",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 171,
+              "end": 192,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: \"st2e Ii\n\nSent: Tue, 22 Apr 2025 11:05:45 +0200\n\nTo: \"S12 \" <612¢e @minbzk.nl>; \"s12e @VNG.NL\"\n\n<512e @VNG.NL>; \"5426 \" </bi2e @vng.nl>; \"'512¢ \" </bi2e @vng.nl>; \"512e bn\n<512e @vng.nl>\n\nCc: \"52e \"<842e  @minszw.nl>; \"St2e \" <6120 @minszw.nl>\n\nSubject: RE: Verslag doorspreken UDO/Beleidskompas proactieve dienstverlening VNG-SZW-BZK\nAttachments: 20250408 Verslag UDO proactieve dienstverlening - definitief.docx\n\nHierbij het definitieve verslag. Met dank aan size inclusief enkele aanvullingen.",
+      "dossier_id": "230911848",
+      "email_id": "email_19"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "bf721004",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 14,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "8a710184",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 59,
+              "end": 193,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ee5414d9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 198,
+              "end": 250,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "1c7199f7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 53,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "3f5611b6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 260,
+              "end": 340,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "6926c04a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 354,
+              "end": 419,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e\n\nVerzonden: donderdag 10 april 2025 11:57\n\nAan: 512 < size @minbzk.nl>; 5122 @VNG.NL; 542 <512€ @vng.nl>; 512e\n512e < 52e @vng.nl>; 512e <512e @vng.nl>\n\nCC: 512e <512e @minszw.nl>; 512e <5i2e @minszw.nl>\n\nOnderwerp: Verslag doorspreken UDO/Beleidskompas proactieve dienstverlening VNG-SZW-BZK\n\nBijgevoegd verslag bevat de belangrijkste punten uit ons overleg dinsdag over de UDO proactieve dienstverlening SZW. Ik\nhoor het graag als jullie aanvullingen of opmerkingen hebben.",
+      "dossier_id": "230911848",
+      "email_id": "email_20"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "c674c96c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "6816406a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 58,
+              "end": 162,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "8a8a8686",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 167,
+              "end": 214,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "9b16cbb6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 51,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "856380b1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 226,
+              "end": 302,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e\n\nVerzonden: dinsdag 8 april 2025 16:48\n\nAan: 512 <512e @minbzk.nl>; 512e @VNG.NL; 5428 <512€ @vng.nl>; 512e\n512e <512e vng.nl>\n\nCC: 5122 <512e @minszw.nl>; 512e <512e @vng.nl>; 5,12.e <512e minszw.nl>\n\nOnderwerp: RE: Definitief doorspreken UDO/Beleidskompas proactieve dienstverlening VNG-SZW-BZK\n\nHierbij mijn presentatie van zonet.",
+      "dossier_id": "230911848",
+      "email_id": "email_21"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "9d0a8dd1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "0dcedd9c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 137,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "654748be",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 142,
+              "end": 211,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "905bacdb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 48,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "687eab89",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 223,
+              "end": 306,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e\n\nVerzonden: woensdag 2 april 2025 16:02\n\nAan: 512 <512e @minbzk.nl>; 512e @VNG.NL; [S428 @vng.nl; 512e\n\n<5i2e @vng.nl>; 512e <512e @vng.nl>\n\nCC: 512e size @minszw.nl>; 5422 < 512 @vng.nl>; Size <512e @vng.nl>;\n512e <512e minszw.nl>\n\nOnderwerp: RE: Definitief doorspreken UDO/Beleidskompas proactieve dienstverlening VNG-SZW-BZK\n\nGoedemiddag allemaal,\n\nTer voorbereiding op ons gesprek op 8 april over de UDO / het Beleidskompas proactieve dienstverlening stuur ik jullie een\nstapeltje documenten:\n\nBeleidskompas Besluit proactieve dienstverlening SZW\n\nBeleidskompas wetsvoorstel proactieve dienstverlening SZW\n\nGetekende brief VNG verzoek uitvoeringstoets Besluit proactieve dienstverlening SZW\n\nConsultatieversie Besluit proactieve dienstverlening SZW\n\nWetsvoorstel proactieve dienstverlening SZW — na consultatie (zie onder meer hoe de u-toets van VNG is verwerkt\nen de paragraaf financiële gevolgen)\n\n20250402 Ramingen VNG\n\n. 2024 wetsvoorstel proactieve dienstverlening gemeenten\n\nSn NE\n\nNO\n\nNrs. 6 en 7 gaan over de financiéle gevolgen. Volgens mijn financiéle collega’s is nr. 7 vorig jaar met VNG gedeeld, maar wij\nweten niet meer met wie. Nr. 6 is de actualisatie voor 2025. Zoals gezegd loopt het gesprek over de financiéle gevolgen van\nproactieve dienstverlening interdepartementaal nog. Ik zal dinsdag de stand van zaken toelichten. Dat is ook relevant voor\neen kleinere variant, waarover in de brief over de uitvoeringstoets een vraag wordt gesteld.\n\nGroet,\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_22"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "34fb4faa",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b708fb50",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 150,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d974dd3b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 155,
+              "end": 242,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "82ef1abe",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 49,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "724a6a7c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 254,
+              "end": 337,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512\n\nVerzonden: woensdag 19 maart 2025 16:38\n\nAan: 512e ; 51260 ; S42e ;St2e @VNG.NL; |542¢ @vng.nl; 512e ; St2e\n512e\n\nCC: 512e ; Size ; Size\n\nOnderwerp: Definitief doorspreken UDO/Beleidskompas proactieve dienstverlening VNG-SZW-BZK\nTijd: dinsdag 8 april 2025 14:30-16:00 (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen.\nLocatie: SZW C-12.06 of teams\n\nIk heb een ruimte bij SZW gereserveerd, maar we zijn natuurlijk bereid naar VNG te komen. Laat maar weten, stze\n\nEen tweede reservering. Graag accepteren of weigeren. Dan kijk ik op welk moment de meeste deelnemers kunnen.\n\nMet vriendelijke groet,\n\nAfdeling Gegevensbeleid\n\nDirectoraat-Generaal Sociale Zekerheid en Integratie\nMinisterie van Sociale Zaken en Werkgelegenheid\nBezoekadres | Parnassusplein 5 | Den Haag | 512e\nCorrespondentieadres | Postbus 90801 | 2509LV | Den Haag\n\n512e @minszw.nl\nMinisterie van Sociale Zaken en Werkgelegenheid | Rijksoverheid.nl\n\nMicrosoft Teams „eet u hulp nodig?\n\nNu deelnemen aan de vergadering\nVergadering-id: 329 004 852 747\n\nWachtwoordcode: GJ75xw6r\n\nDeelnemen op een apparaat voor videovergaderingen\n\nTenantsleutel: rijksoverheid@m.webex.com\nVideo-id: 128 073 767 4\n\nMeer informatie\n\nVoor organisatoren: Vergaderopties\n\n\nDoenr20",
+      "dossier_id": "230911848",
+      "email_id": "email_23"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "5f883797",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f60606a2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 56,
+              "end": 123,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2c982ec9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 128,
+              "end": 147,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "bcac2250",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 21,
+              "end": 49,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "5834135e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 159,
+              "end": 238,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "From: \"5126 les\n\nSent: Fri, 20 Jun 2025 12:35:57 +0200\n\nTo: \"S12 \" 612 @minszw.nl>; \" 512¢ \" <512e @minszw.nl>\nSubject: FW: Conceptverslag bestuurlijk overleg SZW/VNG 11 juni jl.\n\nAttachments: conceptverslag BO SZW en VNG 11 juni 2025 na afstemming met vng.docx\n\nHoi,\n\nHebben jullie het BO verslag SZW/VNG ontvangen? Zo niet, zie bijlage voor het volledig verslag.\n\nWetsvoorstel proactieve dienstverlening\n\nDe minister licht toe dat tijdens de voorjaarsbesluitvorming geen akkoord was om de regelingen voor bijzondere bijstand,\nkwijtschelding gemeentelijke belastingen en minimaregelingen op te nemen in het besluit voor internetconsultatie. Voor de\nuitvoeringstoets zijn er aan de VNG twee varianten voorgelegd. SZW voert momenteel overleg met Financiën om de\nfinanciële gevolgen van de regelingen te bespreken.\n\n512e geeft aan dat de VNG graag ziet dat SZW echt snelheid maakt om het wetsvoorstel verder te brengen, bij\nvoorkeur op een zo fundamenteel mogelijke manier. Wat de VNG betreft is het van belang dat ook de bijzondere bijstand, de\nkwijtschelding en de minimaregelingen worden meegenomen en dat ook gegevensdeling met DUO en de Belastingdienst\nmogelijk wordt gemaakt. Als dat lukt helpt dit gemeenten om het verschil te maken voor mensen.\n\nDe minister geeft aan dat hij inhoudelijk niet van mening verschilt met de VNG, maar dat het vooral de vraag is wat er op dit\nmoment haalbaar is. Bij het meenemen van de lokale regelingen gaat het vooral om het financiële aspect, bij de\ngegevensdeling met DUO en Belastingdienst speelt ook de uitvoerbaarheid een rol.\n\n512e illustreert het belang van proactieve dienstverlening aan de hand van het voorbeeld van de individuele\nstudietoeslag. De staatssecretaris geeft aan dat, ook in de Tweede Kamer, de vraag voorligt of deze niet beter landelijk kan\nworden uitgevoerd (door DUO). 512e 51.26 voegt toe dat hierbij ook de vraag van uitvoerbaarheid speelt.\n\nDe minister wil proberen met dit wetsvoorstel in de maximale vorm zo ver mogelijk te komen. SZW verwacht het advies van\nde Raad van State over het wetsvoorstel op korte termijn. Het streven is om het wetsvoorstel kort daarna aan de Tweede\nKamer aan te bieden. De onderliggende besluiten zullen hier nog niet bijgevoegd worden, omdat de afstemming hierover nog\nloopt.\n\nGroet,\n\n512e 512e\n\n512e\n\nAfdeling Gegevensbeleid\n\nDirectie Stelsel & Volksverzekeringen\n\nMinisterie van Sociale Zaken en Werkgelegenheid\nBezoekadres: Parnassusplein 5 | 2511 VX Den Haag\nPostadres: Postbus 90801 | 2509 LV Den Haag\n\nM: 512e |E: &42e @minszw.nl\n\n51.2e",
+      "dossier_id": "230911848",
+      "email_id": "email_24"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "3b85fad3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 6,
+              "end": 15,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "68ba8841",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 60,
+              "end": 110,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "2c8633d7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 23,
+              "end": 54,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "7862ce40",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 120,
+              "end": 178,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "5e6f8a3d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 193,
+              "end": 261,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512¢ <5126 @MINSZW.NL>\n\nVerzonden: donderdag 19 juni 2025 09:15\n\nAan: 512¢ <s12e @minszw.nl>; 512e <512e @minszw.nl>; 512e\n\n<st2e @minszw.nl>; 512e <512e @minszw.nl>; S12e\n\n< 5126 @minszw.nl>; 512e <512e @minszw.nl>; 512e <512e @MINSZW.NL>; 512e\n<512¢€ @MINSZW.NL>; 542¢ <512e @minszw.nl>; 5422 <512e @minszw.nl>; S12e\n<512¢ @minszw.nl>; 512¢ <512e @minszw.nl>; 512¢ <512¢ @minszw.nl>; 512\n\n< 5126 @MINSZW.NL>; 512¢ <512e _ @minszw.nl>\n\nCC: (S126 <a @minszw.nl>\n\nOnderwerp: Conceptverslag bestuurlijk overleg SZW/VNG 11 juni jl.\n\nGoedemorgen allemaal,\n\nIn de bijlage treffen jullie, met dank aan (542e\n11 juni jl. heeft plaatsgevonden.\nHet verslag is met ambtelijk VNG afgestemd.\n\nMede namens $12e\n\nMet vriendelijke groet,\n\n51.2e\n\nDirectie Participatie en Decentrale Voorzieningen\nAfdeling Specifieke Participatievoorzieningen\nTelefoonnr: SA2e\n\nB.g.g. 512e\n\nEmail: 542¢€ @minszw.nl\n\n512e\n\nhet conceptverslag aan van het bestuurlijk overleg SZW/VNG dat op\n\nDoenr47",
+      "dossier_id": "230911848",
+      "email_id": "email_25"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "a2caeb6b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 27,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "92f95c3c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 441,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "96ae1003",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 446,
+              "end": 467,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b0ebad61",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 68,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "d49b3571",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 479,
+              "end": 533,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 52e\n\nAan: 5.12e 52e\n\nOnderwerp: RE: Nota wetsvoorstel proactieve dienstverlening\nDatum: maandag 13 maart 2023 10:50:18\n\nHa 52e\n\nVeel dank voor je reactie! Ik denk dat het, omdat er zo nadrukkelijk wordt gesproken over de P-\nwet, wel handig is als jouw cluster inderdaad iets meer betrokken raakt bij dit onderwerp. Dat\nkan denk ik grotendeels beperkt blijven tot meelezen, en &t2e | kan e.e.a. dan afstemmen. Ik\nzal je reactie nu meegeven aan SV. Vind je het ok als ik de stukken daarna afdoe, of wil je\ne.e.a. nog zien na aanpassingen?\n\nGroet,\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_26"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "79775a83",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "fe856c0a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 15,
+              "end": 25,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "f2008637",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 93,
+              "end": 123,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "e828cab5",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 37,
+              "end": 85,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e Sao )minszw.nl>\n\nVerzonden: maandag 13 maart 2023 10:42\n\nAan: 512° Jetze @minszw.nl>\n\nOnderwerp: RE: Nota wetsvoorstel proactieve dienstverlening\n\nHallo 52e\n\nWat mij (waarschijnlijk niet heel verrassend) opvalt aan de nota is de zin bij optie 3:\nVermoedelijk vergt dit niet alleen een wijziging van de Wet SUWI, maar ook een controversiële\nwijziging van de Participatiewet. In de uitleg wordt beperkt ingegaan op de achterliggende\nproblematiek, waardoor ik de afwegingen in de nota niet goed kan volgen. Zit hierachter dat het\nlokale armoedebeleid een autonome bevoegdheid is van gemeenten? Als dat zo is, ligt het dan\nniet meer voor de hand om de oplossing in de gemeentewet te zoeken of de wijze waarop\ngemeenten uitvoering geven aan deze bevoegdheid, ipv aan de aard van de bevoegdheid te\nkomen? En als dat niet zo is, is het dan een reële optie om de Pwet op deze manier aan te\npassen?\n\nBij de conclusie (laatste alinea) wordt nu vrij snel gezegd: een grote doelgroep is belangrijk dus\nlaten we optie 3 onderzoeken. Dan worden alleen de voordelen meegewogen. M.i. moeten we\ndaarbij ook aangeven waarom we nu denken dat dit opweegt tegen de nadelen.\n\nIs het handig dat jij deze reactie meeneemt? Of moeten we vanuit mijn cluster meer betrokken\nzijn over wijzigingen van de Pwet? Het is natuurlijk fijn als we er niet allemaal bovenop hoeven\nte zitten maar het is ook niet handig als jij te veel als doorgeefluik fungeert. Wat denk jij!\n\nGroeten,\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_27"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "73b3a670",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 25,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "542dcb63",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 95,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d8dafdee",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "81c3311c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 107,
+              "end": 155,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512¢ <&tze @minszw.nl|>\nVerzonden: vrijdag 10 maart 2023 15:59\n\nAan: %12e <2 @minszw.nl>\n\nOnderwerp: Nota wetsvoorstel proactieve dienstverlening\n\nHa |512¢ een tijdje geleden heeft 512° je bijgepraat over de plannen van SV rond proactieve\ndienstverlening. Daaruit is naar voren gekomen dat er overlap is met de plannen van PDV op dit\npunt. Naar aanleiding hiervan heeft SV contact opgenomen met PDV, en is er wat aan bijgaande\nnota geschaafd. Zou jij nog kort kunnen meekijken op bijgaande nota, m.n. de geel gearceerde\ndelen? Het stuk is inmiddels afgestemd met PDV. Lukt dit maandag in de loop van de dag? Dan\nkan ik de nota doorzetten.\n\nGroet,\n\n5.1.2¢€\n\nDocnr49",
+      "dossier_id": "230911848",
+      "email_id": "email_28"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f13a1f5c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "80335606",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 94,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3162f877",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 67,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "8feabd0e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 106,
+              "end": 150,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: BAe\n\nAan: 52e\n\nOnderwerp: RE: Plannen aanpak actielijn 1 en 4 werkagenda SUWI\nDatum: vrijdag 7 april 2023 11:58:52\n\nBijlagen: Akkoord Min SV 1203.pdf\n\nHi seen\n\nEr is een beetje een update. S12e 52e —\nDeze week kwam akkoord van MSZW\n\n(met nauwelijks opmerkingen) binnen, we wachten nog op akkoord MAPP. Dat akkoord is eens\nte belangrijker omdat MSZW de vraag of de Pwet hierin mee moet lopen aan MAPP laat.\n\nDat laatste staat nu ook nadrukkelijk op de agenda tussen PDV en SV, waarbij we met Pwet in\nbalans samenhang gaan zoeken. Wat ik me — misschien naïef — tot dusver nog niet zo scherp\ngerealiseerd had is hoe enorm de Pwet zelf eigenlijk is ingericht op het dichthouden van de\npoorten naar een uitkering. Pwet in balans haalt scherpe kanten daarvan af, maar de vraag is of\nhet fundament van de Pwet echt verandert. De verwachting is van niet. En dan zie in dit traject\ndus de vraag opdoemen of het een gelukkig idee is om een aanmoedigende, drempelverlagende\ntool als proactieve dienstverlening een plek te geven in een bouwwerk met een ‘afwerend’\nfundament. Dat worden dus nog wel interessante gesprekken\n\nGroeten,",
+      "dossier_id": "230911848",
+      "email_id": "email_29"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "16effc97",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "cedf292d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 15,
+              "end": 19,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "01af2f2c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 90,
+              "end": 119,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f82bf5d7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 31,
+              "end": 82,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "c64f2ab3",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 131,
+              "end": 154,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 12e <542e @minszw.nl>\nVerzonden: donderdag 6 april 2023 15:35\n\nAan: 828) <8) @minszw.nl>\n\nOnderwerp: RE: Plannen aanpak actielijn 1 en 4 werkagenda SUWI\n\nHa aaa\n\nValt er al een update te melden over de startnota?\n\nGroet,\nS42e",
+      "dossier_id": "230911848",
+      "email_id": "email_30"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "5ee1be35",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "b75444cd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 73,
+              "end": 94,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "1b527236",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 38,
+              "end": 66,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "a6cfc729",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 106,
+              "end": 157,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 8128 < minszw.nl>\nVerzonden: maandag 3 april 2023 16:52\n\nAan: Ba ER @minszw.n|>; 5122 <ERE@minszw.nl>;\nEe <2. @minszw.n|>; F722 <EERL@ minszw.nl>; en\n<Er @minszw.nl>\n\nOnderwerp: Plannen aanpak actielijn 1 en 4 werkagenda SUWI\nHoi iedereen,\n\nBijgaand de laatste versie van de plannen van aanpak van actielijn 1 en 4.\n\nGroet,\nS120\n\nDoenr50",
+      "dossier_id": "230911848",
+      "email_id": "email_31"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6ec8ebac",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 22,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "104292ed",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 67,
+              "end": 171,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "ef793a92",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 34,
+              "end": 60,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "9d77a52c",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 183,
+              "end": 230,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: S12e\n\nAan: S12e = St2e = St2e __ Si2e Size\n\nCet ($120 ADO\n\nOnderwerp: FW: 1203 Startnota wetsvoorstel proactieve dienstverlening (bevorderen bestaanszekerheid)\nDatum: woensdag 12 april 2023 11:27:16\n\nBijlagen: Opmerking MIn APP SV 1203.pdf\n\nBeste allen,\n\nBeide bwp hebben akkoord gegeven op de startnota voor het traject proactieve dienstverlening,\nspoor 2 van de Werkagenda SUWI.\n\nMSZW heeft de vraag of de P-wet meegenomen zou moeten worden in het onderzoek naar de\nscope van proactieve dienstverlening aan MAPP gelaten.\n\nDie is hier duidelijk over, zie ook hieronder. Het voor nu buiten beschouwing laten van optie 3\nbetekent ook dat we nu niet verder verkennen of we lokale inkomensregelingen in het voorstel\nbetrekken, en ook niet-SUWI partijen als Toeslagen blijven nu buiten de reikwijdte.\n\nMet 52e en 24229) van Pwet in balans spreken (5428) en ik a.s. vrijdag, op het\nderde punt van MAPP heb ik dus nog geen antwoord. Dit zal vast ons laatste gesprek niet zijn.\n\nWe gaan de uitwerking van spoor 2 in!\n\nGroeten,\n\nAfdeling Gegevensbeleid\n\nDirectie Stelsel & Volksverzekeringen\n\nMinisterie van Sociale Zaken en Werkgelegenheid\nBezoekadres: Parnassusplein 5 | 2511 VX Den Haag\nPostadres: Postbus 90801 | 2509 LV Den Haag\n\nM: raa | E: minszw. nl",
+      "dossier_id": "230911848",
+      "email_id": "email_32"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "f49ec457",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1d227690",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 16,
+              "end": 63,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "03f0a6db",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 172,
+              "end": 203,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "55873310",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 75,
+              "end": 164,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "1a7f16bd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 215,
+              "end": 244,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5428) <&2e __@MINSZW.NL>\n\nVerzonden: dinsdag 11 april 2023 15:13\n\nAan: 5428 <5428 | @minszw.nl>\n\nCC: 5428 < 8428 @minszw.nl>;/8422 <Stze _____\\@minszw.nl>\n\nOnderwerp: RE: 1203 Startnota wetsvoorstel proactieve dienstverlening (bevorderen\nbestaanszekerheid)\n\nHa SEE\nMinister Schouten merkt het volgende op:\n\ne P-wet juist wel meenemen, dit betreft de meest kwetsbare huishoudens;\n\ne Ik zou nu zelf eerst voor optie 1 gaan, optie 3 kan eventueel later aangehaakt worden.\nHet gevaar is, als we alles in één keer oppakken, dat het te lang gaat duren. Daarom\nstarten met optie 1.\n\ne Wat betekent dit voor wetsvoorstel P-wet in balans? Moeten we dat nu nog aanpassen?\n\nDirectie Bestuursondersteuning\n\nMinisterie van Sociale Zaken en Werkgelegenheid\n\nBess @minszw.nl sen (=)",
+      "dossier_id": "230911848",
+      "email_id": "email_33"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "9efd0b2d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 29,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "34f2cc7d",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 76,
+              "end": 101,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "8b33625e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 106,
+              "end": 160,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "4d8eddd1",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 69,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "65bb11a6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 172,
+              "end": 242,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van rn ee\n\nVerzonden: maandag 3 april 2023 10:36\n\nAan: SE <ins>; CN <2 @minszw.nl>\nCC: BAZ <2 @ minszw.nl>\n\nOnderwerp: 1203 Startnota wetsvoorstel proactieve dienstverlening (bevorderen\nbestaanszekerheid)\n\nHa,\n\nMSZW is akkoord. Wel heeft ze een aantal opmerkingen bij de nota. We zetten zo een scan van\nhaar opmerkingen in Digidoc.\n\nGroet,\n\nMet vriendelijke groet,\n\nDirectie Bestuursondersteuning\nMinisterie van Sociale Zaken en Werkgelegenheid\nParnassusplein 5 | 2511 VX | Den Haag | Locatie: BEE\n\n1\nE minszw.nl\n\nDoenr52",
+      "dossier_id": "230911848",
+      "email_id": "email_34"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "793bf8bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 22,
+              "end": 48,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "83863ab7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 82,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d157d8cc",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 87,
+              "end": 107,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "62be6ec4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 119,
+              "end": 185,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 52e\n\nAan: 52e 5.12e\n\nCe: 512e\n\nOnderwerp: RE: Nieuwe KIWI-regeling\nDatum: vrijdag 9 juni 2023 16:50:00\n\nHoi S1ze en [saz\n\nIn de map in digidoc heb ik ook vast een document aangemaakt met een voorzichtige aanzet\n\ntot een conceptwetsvoorstel: [Co cept Wetsvoorstel tot wij zigi g va de Wet structuu\n\nuitvoeringsorganisatie werk en inkomen in verband met proactieve dienstverlening\n\nEr zijn nu drie denkrichtingen geschetst voor een taakstelling. Als we voor grondslagen in de\nWet SUWI gaan, lijkt het niet nodig om nog veel aanvullends te regelen voor de benodigde\ngegevensverwerking. Mogelijk geldt dat ook voor een variant met een grondslag in elk van de\nbetrokken materiewetten, al zal een DPIA dat duidelijker moeten uitwijzen zodra het wat\nconcreter wordt.\n\nBij het schetsen stuitte ik ook op een aantal beleidsmatige knopen die nog moeten worden\ndoorgehakt, zie daarvoor onder ‘open eindjes’ in het document.\n\nMisschien loop ik hiermee al wat te veel op de zaken vooruit, maar hopelijk helpt het om het\ndenken te structureren, ook over waarmee we de uitvoering benaderen.\n\nGroet,\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_35"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "15472ac2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 8,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "695dbf54",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 15,
+              "end": 35,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "169e6145",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 79,
+              "end": 107,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "281911ec",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 47,
+              "end": 71,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 12e <tze :@minszw.nl>\n\nVerzonden: woensdag 7 juni 2023 09:05\n\nAan: 512 < 5122 @minszw.nl>;St2e < 5128 @minszw.nl>\nCC: Bae < S126 @minszw.nl>\n\nOnderwerp: RE: Nieuwe KIWI-regeling\n\nDag 512 (best verwarrend hoor twee |542e\n\nDank voor je vraag; ik denk dat het handiger is om S42e ’ suggestie over te nemen. Dus\ndan in het systeem deze “werktitel”. We krijgen teveel vragen over de titel met het\nachterliggende doel\n\nGroet 52e",
+      "dossier_id": "230911848",
+      "email_id": "email_36"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "39c3d163",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 26,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "f18e1889",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 118,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "17122c48",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 123,
+              "end": 146,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "b05d926a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "30eb8bc9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 158,
+              "end": 182,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512 </5i2e @minszw.nl>\nVerzonden: dinsdag 6 juni 2023 17:23\n\nAan: 512 <te @minszw.nl>\nOnderwerp: RE: Nieuwe KIWI-regeling\n\nIk vind duidelijker: Wijziging Wet SUWI i.v.m. proactieve dienstverlening",
+      "dossier_id": "230911848",
+      "email_id": "email_37"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "2065770e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 27,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "4465d945",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 71,
+              "end": 90,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "d9803407",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 39,
+              "end": 64,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "f34c1499",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 102,
+              "end": 126,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512 </Bi2e | -@minszw.nl>\nVerzonden: dinsdag 6 juni 2023 17:02\n\nAan: 512e </Bize ‘@minszw.nl>\nOnderwerp: FW: Nieuwe KIWlI-regeling\n\nWat vind jij? Werktitel zo houden of er iets van proactieve dienstverlening van maken? Groet\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_38"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "8985804f",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 30,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "318d395a",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 74,
+              "end": 98,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "3d2765a4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 42,
+              "end": 67,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "b68fb0a2",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 110,
+              "end": 135,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5422 <512e (@minszw.nl>\nVerzonden: dinsdag 6 juni 2023 15:21\n\nAan: 5122 < 51e _@minszw.nl>\n\nCC: 5422 </5426 L@minszw.nl>\nOnderwerp: FW: Nieuwe KlWl-regeling\n\nHi 512e\n\nWeet jij of er toevallig al een Digidoc-dossier is aangemaakt voor proactieve dienstverlening? Zo\nniet, dan kan ik dat wel aanvragen. Het voornemen is om dat te doen onder:\n\n1.2.060 (nationale regelingen) > Stelsel en volksverzekeringen > 2023 Wijziging Wet SUWI in\nverband met de bevordering van bestaanszekerheid (KIWI 25463)\n\nAkkoord (of bv onder een andere titel waarin proactieve dienstverlening ook wordt vermeld)?\nDan kunnen we die map vast vullen met de voorbereidende stukken.\n\nGroet,\n\n512e",
+      "dossier_id": "230911848",
+      "email_id": "email_39"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "ad7fc2fb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 28,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "c2a958bb",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 72,
+              "end": 96,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "91353fbd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 101,
+              "end": 125,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "cb43326e",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 40,
+              "end": 65,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "2369eab6",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 137,
+              "end": 161,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512¢ _<512e >\nVerzonden: donderdag 1 juni 2023 14:40\n\nAan: 512 < Size i@minszw.nl>\nCC: EEE <[etze \\@minszw.nl>\n\nOnderwerp: Nieuwe KlWl-regeling\n\nKenniscentrum wetgeving\n\nKiwi, nieuwe zaak aangemaakt\n\nWijziging Wet SUWI in verband met de bevordering\nvan bestaanszekerheid\n\nZaak (Wet) aangemaakt met titel: Wijziging Wet SUWI in verband met de\n\nbevordering van bestaanszekerheid en KetenID: &t2e _ Eigenaar is 542e\nOm naar de regeling te gaan klik op onderstaande link:\n\n\nDoenr55",
+      "dossier_id": "230911848",
+      "email_id": "email_40"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6c41d5ef",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 18,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "00a14be9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 64,
+              "end": 87,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "9f8479a8",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 92,
+              "end": 116,
+              "labels": [
+                "CC"
+              ]
+            }
+          },
+          {
+            "id": "a6cf75cd",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 30,
+              "end": 57,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "fb389904",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 128,
+              "end": 148,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 5.12e\n\nAan: 512e 512e 5.12e 512e 5.12e\nOnderwerp: Agenda kerngroep werkagenda SUWI 26 juni\n\nDatum: donderdag 22 juni 2023 13:56:37\n\nBijlagen: ij\n\n20230619 Plan van aanpak Meer proactieve dienstverlening.docx\n\nPlan van Aanpak actielijn 1 Werkagenda SUWI 2023-06-08.docx\n\nHoi iedereen,\n\nHierbij de agenda voor het overleg op 26 juni:\n1. Terugkoppeling MT Sv en MT WR\n\n2. Presentatie UWV\n3. Planning eerste wetsvoorstel\n4. Stand van zaken actielijnen\n\nTer info zijn de laatste versies van de plannen van aanpak van actielijn 1 en 2 toegevoegd als\nbijlage.\n\nTot maandag!\n\nGroet,\n512e\n\nDoenr57",
+      "dossier_id": "230911848",
+      "email_id": "email_41"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "6cebeda9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 10,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "1c5c4a90",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 17,
+              "end": 43,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "6857d3c9",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 104,
+              "end": 135,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "154ccab4",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 55,
+              "end": 95,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "1e6dd9c0",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 147,
+              "end": 149,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Van: 512e\nAan: 512e 512e 512e ;512e 512e\nOnderwerp: 5 juli verslag bespreking wetsvoorstel proactieve dvl\n\nDatum: woensdag 5 juli 2023 16:29:58\n\nBijlagen: Agenda + Verslag bespreking wetvoorstel proactieve dvl - 5 juli.docx\n\nHierbij het verslag van ons overleg vanochtend inclusief aanvullingen uit de ‘normale’\nwerkgroepbijeenkomst. Aanvullingen en opmerkingen welkom. Het verslag staat ook in digidoc\n\nin de werkmap: S1 Voorbereiding",
+      "dossier_id": "230911848",
+      "email_id": "email_42"
+    },
+    "predictions": [
+      {
+        "model_version": "regex-v1",
+        "score": 0.7,
+        "result": [
+          {
+            "id": "e5500226",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 5,
+              "end": 9,
+              "labels": [
+                "FROM"
+              ]
+            }
+          },
+          {
+            "id": "3bb031d7",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 15,
+              "end": 40,
+              "labels": [
+                "TO"
+              ]
+            }
+          },
+          {
+            "id": "25e39a90",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 114,
+              "end": 143,
+              "labels": [
+                "DATE"
+              ]
+            }
+          },
+          {
+            "id": "50486896",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 52,
+              "end": 105,
+              "labels": [
+                "SUBJECT"
+              ]
+            }
+          },
+          {
+            "id": "5e5a785b",
+            "type": "labels",
+            "from_name": "label",
+            "to_name": "text",
+            "value": {
+              "start": 155,
+              "end": 223,
+              "labels": [
+                "ATTACHMENT"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
