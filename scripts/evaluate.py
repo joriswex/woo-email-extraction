@@ -82,7 +82,7 @@ _RUN_TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
 
 STAGE1_TOKEN_LABEL = "RobBERT (token BIO)"
 STAGE1_LINE_LABEL = "RobBERT (line)"
-STAGE1_LINE_FILTER_LABEL = "RobBERT (line + proximity filter)"
+STAGE1_LINE_FILTER_LABEL = "RobBERT (line, unfiltered)"
 STAGE1_GPT_TEXT_LABEL = "GPT-5.5 (text)"
 STAGE1_GPT_VISION_LABEL = "GPT-5.5 (vision+text)"
 

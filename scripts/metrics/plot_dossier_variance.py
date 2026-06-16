@@ -36,16 +36,13 @@ from eval_metrics import accumulate_field_counts, empty_counts, prf_from_counts
 DATA_DIR = _ROOT / "data"
 RESULTS = DATA_DIR / "results"
 
-# Stage 1: key is the CSV label from evaluate.py; STAGE1_APPROACH_LABELS remaps it for display
 STAGE1_APPROACHES = [
     ("Regex", "#1b9e77"),
-    ("RobBERT (line + proximity filter)", "#d95f02"),
+    ("RobBERT (line, unfiltered)", "#d95f02"),
     ("GPT-5.5 (text)", "#7570b3"),
     ("GPT-5.5 (vision+text)", "#e7298a"),
 ]
-STAGE1_APPROACH_LABELS = {
-    "RobBERT (line + proximity filter)": "RobBERT (line, unfiltered)",
-}
+STAGE1_APPROACH_LABELS: dict[str, str] = {}
 
 STAGE2_APPROACHES = [
     ("Regex", "#1b9e77"),

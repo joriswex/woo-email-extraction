@@ -149,53 +149,53 @@ GPT-5.5 (vision+text),21390238,1.0,0.2368,0.1875,0.2093
 GPT-5.5 (vision+text),230911848,1.0,0.7209,0.7209,0.7209
 GPT-5.5 (vision+text),994819,1.0,0.9655,0.9333,0.9492
 GPT-5.5 (vision+text),12890358,1.0,0.0,0.0,0.0
-RobBERT (line + proximity filter),4110332,0.3,0.3552,0.9917,0.5231
-RobBERT (line + proximity filter),108997013,0.3,0.3656,0.968,0.5307
-RobBERT (line + proximity filter),9585044,0.3,0.8849,0.8425,0.8632
-RobBERT (line + proximity filter),269893775,0.3,0.8839,0.9786,0.9288
-RobBERT (line + proximity filter),22324346,0.3,0.6824,0.9018,0.7769
-RobBERT (line + proximity filter),32680869,0.3,0.8451,0.8333,0.8392
-RobBERT (line + proximity filter),21390238,0.3,0.4945,0.9375,0.6475
-RobBERT (line + proximity filter),230911848,0.3,0.9524,0.9302,0.9412
-RobBERT (line + proximity filter),994819,0.3,1.0,0.9667,0.9831
-RobBERT (line + proximity filter),12890358,0.3,0.6364,0.9333,0.7568
-RobBERT (line + proximity filter),4110332,0.5,0.3552,0.9917,0.5231
-RobBERT (line + proximity filter),108997013,0.5,0.3575,0.9466,0.519
-RobBERT (line + proximity filter),9585044,0.5,0.8777,0.8356,0.8561
-RobBERT (line + proximity filter),269893775,0.5,0.8774,0.9714,0.922
-RobBERT (line + proximity filter),22324346,0.5,0.6757,0.8929,0.7692
-RobBERT (line + proximity filter),32680869,0.5,0.7887,0.7778,0.7832
-RobBERT (line + proximity filter),21390238,0.5,0.4835,0.9167,0.6331
-RobBERT (line + proximity filter),230911848,0.5,0.9524,0.9302,0.9412
-RobBERT (line + proximity filter),994819,0.5,1.0,0.9667,0.9831
-RobBERT (line + proximity filter),12890358,0.5,0.6364,0.9333,0.7568
-RobBERT (line + proximity filter),4110332,0.7,0.3522,0.9833,0.5187
-RobBERT (line + proximity filter),108997013,0.7,0.332,0.879,0.482
-RobBERT (line + proximity filter),9585044,0.7,0.8129,0.774,0.793
-RobBERT (line + proximity filter),269893775,0.7,0.8516,0.9429,0.8949
-RobBERT (line + proximity filter),22324346,0.7,0.6081,0.8036,0.6923
-RobBERT (line + proximity filter),32680869,0.7,0.7042,0.6944,0.6993
-RobBERT (line + proximity filter),21390238,0.7,0.4505,0.8542,0.5899
-RobBERT (line + proximity filter),230911848,0.7,0.881,0.8605,0.8706
-RobBERT (line + proximity filter),994819,0.7,1.0,0.9667,0.9831
-RobBERT (line + proximity filter),12890358,0.7,0.5,0.7333,0.5946
-RobBERT (line + proximity filter),4110332,0.9,0.3015,0.8417,0.444
-RobBERT (line + proximity filter),108997013,0.9,0.1734,0.4591,0.2517
-RobBERT (line + proximity filter),9585044,0.9,0.7122,0.6781,0.6947
-RobBERT (line + proximity filter),269893775,0.9,0.8129,0.9,0.8542
-RobBERT (line + proximity filter),22324346,0.9,0.5203,0.6875,0.5923
-RobBERT (line + proximity filter),32680869,0.9,0.6056,0.5972,0.6014
-RobBERT (line + proximity filter),21390238,0.9,0.3187,0.6042,0.4173
-RobBERT (line + proximity filter),230911848,0.9,0.881,0.8605,0.8706
-RobBERT (line + proximity filter),994819,0.9,0.931,0.9,0.9153
-RobBERT (line + proximity filter),12890358,0.9,0.4545,0.6667,0.5405
-RobBERT (line + proximity filter),4110332,1.0,0.0,0.0,0.0
-RobBERT (line + proximity filter),108997013,1.0,0.0027,0.0071,0.0039
-RobBERT (line + proximity filter),9585044,1.0,0.6043,0.5753,0.5895
-RobBERT (line + proximity filter),269893775,1.0,0.7419,0.8214,0.7797
-RobBERT (line + proximity filter),22324346,1.0,0.3243,0.4286,0.3692
-RobBERT (line + proximity filter),32680869,1.0,0.5211,0.5139,0.5175
-RobBERT (line + proximity filter),21390238,1.0,0.011,0.0208,0.0144
-RobBERT (line + proximity filter),230911848,1.0,0.8571,0.8372,0.8471
-RobBERT (line + proximity filter),994819,1.0,0.8966,0.8667,0.8814
-RobBERT (line + proximity filter),12890358,1.0,0.0,0.0,0.0
+RobBERT (line, unfiltered),4110332,0.3,0.3552,0.9917,0.5231
+RobBERT (line, unfiltered),108997013,0.3,0.3656,0.968,0.5307
+RobBERT (line, unfiltered),9585044,0.3,0.8849,0.8425,0.8632
+RobBERT (line, unfiltered),269893775,0.3,0.8839,0.9786,0.9288
+RobBERT (line, unfiltered),22324346,0.3,0.6824,0.9018,0.7769
+RobBERT (line, unfiltered),32680869,0.3,0.8451,0.8333,0.8392
+RobBERT (line, unfiltered),21390238,0.3,0.4945,0.9375,0.6475
+RobBERT (line, unfiltered),230911848,0.3,0.9524,0.9302,0.9412
+RobBERT (line, unfiltered),994819,0.3,1.0,0.9667,0.9831
+RobBERT (line, unfiltered),12890358,0.3,0.6364,0.9333,0.7568
+RobBERT (line, unfiltered),4110332,0.5,0.3552,0.9917,0.5231
+RobBERT (line, unfiltered),108997013,0.5,0.3575,0.9466,0.519
+RobBERT (line, unfiltered),9585044,0.5,0.8777,0.8356,0.8561
+RobBERT (line, unfiltered),269893775,0.5,0.8774,0.9714,0.922
+RobBERT (line, unfiltered),22324346,0.5,0.6757,0.8929,0.7692
+RobBERT (line, unfiltered),32680869,0.5,0.7887,0.7778,0.7832
+RobBERT (line, unfiltered),21390238,0.5,0.4835,0.9167,0.6331
+RobBERT (line, unfiltered),230911848,0.5,0.9524,0.9302,0.9412
+RobBERT (line, unfiltered),994819,0.5,1.0,0.9667,0.9831
+RobBERT (line, unfiltered),12890358,0.5,0.6364,0.9333,0.7568
+RobBERT (line, unfiltered),4110332,0.7,0.3522,0.9833,0.5187
+RobBERT (line, unfiltered),108997013,0.7,0.332,0.879,0.482
+RobBERT (line, unfiltered),9585044,0.7,0.8129,0.774,0.793
+RobBERT (line, unfiltered),269893775,0.7,0.8516,0.9429,0.8949
+RobBERT (line, unfiltered),22324346,0.7,0.6081,0.8036,0.6923
+RobBERT (line, unfiltered),32680869,0.7,0.7042,0.6944,0.6993
+RobBERT (line, unfiltered),21390238,0.7,0.4505,0.8542,0.5899
+RobBERT (line, unfiltered),230911848,0.7,0.881,0.8605,0.8706
+RobBERT (line, unfiltered),994819,0.7,1.0,0.9667,0.9831
+RobBERT (line, unfiltered),12890358,0.7,0.5,0.7333,0.5946
+RobBERT (line, unfiltered),4110332,0.9,0.3015,0.8417,0.444
+RobBERT (line, unfiltered),108997013,0.9,0.1734,0.4591,0.2517
+RobBERT (line, unfiltered),9585044,0.9,0.7122,0.6781,0.6947
+RobBERT (line, unfiltered),269893775,0.9,0.8129,0.9,0.8542
+RobBERT (line, unfiltered),22324346,0.9,0.5203,0.6875,0.5923
+RobBERT (line, unfiltered),32680869,0.9,0.6056,0.5972,0.6014
+RobBERT (line, unfiltered),21390238,0.9,0.3187,0.6042,0.4173
+RobBERT (line, unfiltered),230911848,0.9,0.881,0.8605,0.8706
+RobBERT (line, unfiltered),994819,0.9,0.931,0.9,0.9153
+RobBERT (line, unfiltered),12890358,0.9,0.4545,0.6667,0.5405
+RobBERT (line, unfiltered),4110332,1.0,0.0,0.0,0.0
+RobBERT (line, unfiltered),108997013,1.0,0.0027,0.0071,0.0039
+RobBERT (line, unfiltered),9585044,1.0,0.6043,0.5753,0.5895
+RobBERT (line, unfiltered),269893775,1.0,0.7419,0.8214,0.7797
+RobBERT (line, unfiltered),22324346,1.0,0.3243,0.4286,0.3692
+RobBERT (line, unfiltered),32680869,1.0,0.5211,0.5139,0.5175
+RobBERT (line, unfiltered),21390238,1.0,0.011,0.0208,0.0144
+RobBERT (line, unfiltered),230911848,1.0,0.8571,0.8372,0.8471
+RobBERT (line, unfiltered),994819,1.0,0.8966,0.8667,0.8814
+RobBERT (line, unfiltered),12890358,1.0,0.0,0.0,0.0

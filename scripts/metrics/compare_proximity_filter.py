@@ -58,7 +58,7 @@ STAGE1_TEST_ANN = DATA_DIR / "annotations" / "stage1_test.json"
 RAW_PREDS = DATA_DIR / "results" / "stage1_raw_predictions.json"
 OUT_CSV = DATA_DIR / "results" / "stage1_proximity_filter_comparison.csv"
 
-UNFILTERED_LABEL = "RobBERT (line + proximity filter)"
+UNFILTERED_LABEL = "RobBERT (line, unfiltered)"
 
 
 def main() -> None:
