@@ -13,8 +13,8 @@ data/results/stage1_proximity_filter_comparison.csv.
 
 Usage
 -----
-    python scripts/compare_proximity_filter.py
-    python scripts/compare_proximity_filter.py --max-lines 8
+    python scripts/metrics/compare_proximity_filter.py
+    python scripts/metrics/compare_proximity_filter.py --max-lines 8
 """
 from __future__ import annotations
 
@@ -24,7 +24,7 @@ import json
 import sys
 from pathlib import Path
 
-_ROOT = Path(__file__).resolve().parent.parent
+_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(_ROOT / "src"))
 
 from eval_metrics import compute_span_metrics

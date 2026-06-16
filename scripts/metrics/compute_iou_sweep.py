@@ -7,8 +7,8 @@ so no models need to be re-run (no GPT cost).
 
 Usage
 -----
-    python scripts/compute_iou_sweep.py
-    python scripts/compute_iou_sweep.py --thresholds 0.3 0.5 0.7 0.9 1.0
+    python scripts/metrics/compute_iou_sweep.py
+    python scripts/metrics/compute_iou_sweep.py --thresholds 0.3 0.5 0.7 0.9 1.0
 """
 from __future__ import annotations
 
@@ -18,7 +18,7 @@ import json
 import sys
 from pathlib import Path
 
-_ROOT = Path(__file__).resolve().parent.parent
+_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(_ROOT / "src"))
 
 from eval_metrics import compute_span_metrics

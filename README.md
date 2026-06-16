@@ -1,8 +1,11 @@
 # Reading between the ████████: Reconstructing Emails from Redacted Dutch FOIA Disclosures
 
 This repository contains the code and data for a master's thesis in the **MSc Cultural Data and AI**
-programme at the **University of Amsterdam** (Joris Wechsler, 2026). The thesis is accessible at
-[https://github.com/joriswex/woo-email-extraction](https://github.com/joriswex/woo-email-extraction).
+programme at the **University of Amsterdam** (Joris Wechsler, 2026).
+
+The central research question is: *To what extent can machine learning methods help to reconstruct
+emails from Dutch Woo-dossiers into structured, navigable records, and how could structural
+improvements in the release workflow of such documents facilitate FOIA usability and accessibility?*
 
 The project compares three approaches to extracting structured metadata from Dutch government Woo
 (*Wet open overheid*) dossier PDFs: a regex baseline, a fine-tuned RobBERT model, and GPT-5.5. The
@@ -27,7 +30,7 @@ Thesis_Project_Clean/
 │   ├── gpt_baseline.py                   # GPT-5.5 pipeline (text + vision modes, both stages)
 │   ├── bert_s1_data.py                   # Stage 1 annotation schema and BIO label mapping
 │   ├── bert_s1_train.py                  # Stage 1 BERT training (line-level classifier)
-│   ├── bert_s1_predict.py                # Stage 1 BERT inference + proximity filter
+│   ├── bert_s1_predict.py                # Stage 1 BERT inference (line-level)
 │   ├── bert_s2_data.py                   # Stage 2 field label schema and BIO label mapping
 │   ├── bert_s2_train.py                  # Stage 2 BERT training (token classification)
 │   ├── bert_s2_predict.py                # Stage 2 BERT inference
@@ -36,13 +39,12 @@ Thesis_Project_Clean/
 │   └── eval_metrics.py                   # Evaluation metrics: span IoU, exact match, ANLS*
 ├── scripts/
 │   ├── evaluate.py                       # Main evaluation script — runs all approaches, writes CSVs
-│   ├── compute_anls.py                   # ANLS* metric from saved predictions (anls-star package)
-│   ├── compute_iou_sweep.py              # Stage 1 IoU threshold sweep from saved predictions
-│   ├── compute_approach_correlations.py  # Pairwise Pearson correlation of per-dossier scores
-│   ├── plot_dossier_variance_bars.py     # Stage 1 per-dossier bar chart (SVG)
-│   ├── plot_stage2_dossier_variance.py   # Stage 2 per-dossier bar chart (SVG)
-│   ├── compare_proximity_filter.py       # Post-hoc proximity filter analysis for RobBERT Stage 1
-│   ├── analyze_success_failure.py        # Per-email / per-field success/failure breakdown
+│   ├── metrics/                          # Post-hoc metric and analysis scripts
+│   │   ├── compute_anls.py               # ANLS* metric from saved predictions (anls-star package)
+│   │   ├── compute_iou_sweep.py          # Stage 1 IoU threshold sweep from saved predictions
+│   │   ├── compute_approach_correlations.py  # Pairwise Pearson correlation of per-dossier scores
+│   │   ├── compare_proximity_filter.py   # Post-hoc proximity filter analysis for RobBERT Stage 1
+│   │   └── plot_dossier_variance.py      # Per-dossier bar charts for Stage 1 and Stage 2 (SVG)
 │   ├── annotation/                       # Annotation workflow scripts (pre-annotation + Label Studio)
 │   │   ├── prepare_import.py             # Prepare Label Studio import tasks from PDF
 │   │   ├── preannotate.py                # Regex-based pre-annotation for Label Studio
@@ -91,9 +93,10 @@ Fine-tuned `DTAI-KULeuven/robbert-2023-dutch-base`.
 
 **Stage 1** uses a line-level binary classifier (email start vs. not), with ±2 surrounding
 context lines as input. This avoids the 512-token window over-segmentation problem of
-token-level BIO labelling. At inference, a proximity filter collapses predictions within
-8 lines of each other. Training uses Focal Loss (γ=2.0) with sqrt-inverse-frequency class
-weights as α.
+token-level BIO labelling. Training uses Focal Loss (γ=2.0) with sqrt-inverse-frequency class
+weights as α. The headline result (macro F1 = 0.769) is the unfiltered inference output; a
+post-hoc proximity filter (`merge_nearby_starts`, max_lines=8) is analysed separately in
+`scripts/metrics/compare_proximity_filter.py`.
 
 **Stage 2** uses BIO token classification across 13 labels (B-/I- for each of 6 fields +
 O). Two variants are trained: without class weights (showing label collapse on rare fields)
@@ -172,13 +175,17 @@ python scripts/evaluate.py --stages 1 --bert-s1 models/stage1_line_v2 \
     --bert-s1-arch line
 
 # Compute ANLS* scores from saved raw predictions (run after evaluate.py)
-python scripts/compute_anls.py
+python scripts/metrics/compute_anls.py
 
 # IoU threshold sweep for Stage 1
-python scripts/compute_iou_sweep.py
+python scripts/metrics/compute_iou_sweep.py
 
 # Pairwise cross-approach Pearson correlations
-python scripts/compute_approach_correlations.py
+python scripts/metrics/compute_approach_correlations.py
+
+# Per-dossier variance bar charts (Stage 1 and Stage 2)
+python scripts/metrics/plot_dossier_variance.py --stage 1
+python scripts/metrics/plot_dossier_variance.py --stage 2
 ```
 
 Results are written to `data/results/`. Raw predictions are cached in
@@ -195,7 +202,7 @@ running.
 
 | Notebook | Result row(s) | Key settings |
 |---|---|---|
-| `train_bert_stage1_kaggle.py` | RobBERT (line + proximity filter) | 15-epoch ceiling, patience=3, batch=32, Focal Loss γ=2.0 + sqrt-inverse-freq weights |
+| `train_bert_stage1_kaggle.py` | RobBERT (line, unfiltered) | 15-epoch ceiling, patience=3, batch=32, Focal Loss γ=2.0 + sqrt-inverse-freq weights |
 | `train_bert_stage2_kaggle.py` | RobBERT (unweighted) + RobBERT (class-weighted) | 15-epoch ceiling, patience=5, batch=16, Focal Loss γ=2.0; `use_class_weights` flag controls the two variants |
 
 Both notebooks use `random.Random(0)` to carve out a 10% dev set (Stage 1: 2 dossiers out

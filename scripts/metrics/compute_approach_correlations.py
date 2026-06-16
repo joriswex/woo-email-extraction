@@ -10,7 +10,7 @@ fixed gap between A and B.
 
 Usage
 -----
-    python scripts/compute_approach_correlations.py <csv-file> [...]
+    python scripts/metrics/compute_approach_correlations.py <csv-file> [...]
 """
 from __future__ import annotations
 
@@ -18,7 +18,7 @@ import csv
 import sys
 from pathlib import Path
 
-_ROOT = Path(__file__).resolve().parent.parent
+_ROOT = Path(__file__).resolve().parent.parent.parent
 
 NON_APPROACH_COLS = {"Dossier", "Average", "Range (max-min)", "Std dev"}
 

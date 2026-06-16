@@ -17,7 +17,7 @@ Run after evaluate.py has produced stage2_raw_predictions.json with all
 approaches present.
 
 Usage:
-    python scripts/compute_anls.py
+    python scripts/metrics/compute_anls.py
 """
 from __future__ import annotations
 
@@ -29,7 +29,7 @@ from pathlib import Path
 
 from anls_star import anls_score
 
-_ROOT = Path(__file__).resolve().parent.parent
+_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(_ROOT / "src"))
 
 DATA_DIR   = _ROOT / "data"
