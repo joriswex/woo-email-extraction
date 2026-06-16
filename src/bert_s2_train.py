@@ -1,7 +1,7 @@
 """
 HuggingFace Trainer setup for email field extraction (stage 2).
 
-Model: AutoModelForTokenClassification (19 labels: B-/I- for each field type + O)
+Model: AutoModelForTokenClassification (13 labels: B-/I- for each of 6 field types + O)
 Base:  DTAI-KULeuven/robbert-2023-dutch-base (falls back to pdelobelle/robbert-v2-dutch-base)
 
 Input: email-level annotation JSON (stage-2 schema), one email per record.

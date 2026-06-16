@@ -2,6 +2,8 @@ models/
 data/raw/
 data/import/
 data/text/
+data/exports/
+data/labelstudio/
 .venv/
 venv/
 __pycache__/
@@ -11,3 +13,5 @@ __pycache__/
 data/results/archive/
 data/page_maps_cache.json
 *.zip
+*.pdf
+.vscode/
